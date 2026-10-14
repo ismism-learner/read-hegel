@@ -1,0 +1,118 @@
+{
+ "id": "w1-17-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 17,
+ "chunkTitle": "[6. Die Macht der Stände]",
+ "heading": "[6. Die Macht der Stände]",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1m7x0qh1ww",
+   "text": "[6. Die Macht der Stände]"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1264dphgt5",
+   "sents": [
+    "Als im Verlauf der Zeit die Veränderung der Sitten, der Religion, besonders des Verhältnisses der Stände nach dem Reichtum eine Trennung in Ansehung des inneren, durch den Charakter und allgemeine Interessen bestehenden Zusammenhangs bewirkt hatte, waren, um Deutschland, dessen Bewohner aufhörten, ein Volk zu sein, und eine Menge wurden, zu einem Staat zu verbinden, äußere rechtliche Bande notwendig."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "m7iql55nnt",
+   "sents": [
+    "Eine Theorie solcher vereinigenden Verhältnisse ist dasjenige, worin ein Teil des deutschen Staatsrechts besteht.",
+    "Die alte Lehensverfassung konnte in eine solche moderne Art des Staates übergehen, nach welcher alle Staaten Europas, die in neueren Zeiten nicht einen Umsturz erfahren haben, mehr oder weniger organisiert sind, wenn unter den Vasallen nicht einzelne so übermächtig waren oder werden konnten.",
+    "Zwar kann auch die Menge schwächerer Vasallen dadurch eine Macht werden, daß sie sich in einen festen Körper gegen den Staat, wie dies in Polen der Fall war, organisiert; und der Glanz allein, der den Römischen Kaiser umgab, hätte ihn nicht mit der hinreichenden Macht dagegen ausgerüstet.",
+    "Allein wenn auch in Deutschland die Minorität nicht den Beschlüssen der Majorität unterworfen ist, so hat teils dies in der itio in partes gegründete Recht doch immer eine gewisse Einschränkung, teils ist nicht eine einzelne Stimme, sondern nur eine Religionspartei fähig, die Aktivität des Ganzen zu paralysieren, teils wenn [sich] überhaupt auch der einzelne Stand für sich nicht der Majorität unterworfen glaubt - wie Preußen bei der Verweigerung der erhöhten Kammerzieler den Grundsatz aufgestellt hat, daß es noch unausgemacht sei, ob die Beschlüsse der Majorität in Steuersachen überhaupt verbindlich seien - und jeder Stand für sich Friedensschlüsse und Neutralitätsverträge eingeht, so sind alle diese Rechte und Verhältnisse später, und es war denkbar, daß, wenn der Kaiser durch die Länder seines Hauses eine hinreichende Staatsmacht gehabt [hätte] und die einzelnen Vasallen nicht zu der übermächtigen Größe anschwellen konnten, die Lehensverfassung Deutschlands den Staat erhalten konnte.",
+    "Nicht das Prinzip der Lehensverfassung ist es, was die Möglichkeit, daß Deutschland ein Staat sei, abgeschnitten hat, sondern die unverhältnismäßige Vergrößerung einzelner Stände hat das Prinzip der Lehensverfassung selbst und den Bestand Deutschlands als eines Staats vernichtet."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1rkoahckbx",
+   "sents": [
+    "Die Macht dieser einzelnen Staaten hat in Deutschland keine Staatsmacht aufkommen lassen und die Vergrößerung derselben sie immer unmöglicher gemacht.",
+    "Das hartnäckige Wesen der deutschen Natur auf Selbständigkeit hat alles dasjenige, was zur Errichtung einer Staatsmacht und zur Verbindung der Gesellschaft zu einem Staat dienen möchte, zu einem durchgängig formellen Ding gemacht und ebenso hartnäckig an dieser Formalität festgehalten.",
+    "Diese Hartnäckigkeit an der Formalität ist nicht anders zu begreifen, als daß sie der Widerstand gegen die Realität der Verbindung ist, die durch die Behauptung jenes formellen Wesens abgewendet wird, und diese Unveränderlichkeit der Form wird für Unveränderlichkeit der Sache ausgegeben."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "cpfdj10mec",
+   "sents": [
+    "Wie die römischen Imperatoren, die der Anarchie der römischen Republik ein Ende machten und das Reich wieder in einen Staat zusammenfaßten, alle äußeren Formen der Republik unversehrt erhielten, so wurden zum entgegengesetzten Zwecke in Deutschland alle Zeichen des deutschen Staatsverbands seit Jahrhunderten gewissenhaft bewahrt, wenn schon die Sache selbst, der Staat, verschwunden ist und er sich zwar nicht in offene Anarchie, sondern in viele abgesonderte Staaten aufgelöst hat.",
+    "Die Verfassung scheint gar seit den tausend Jahren, die seit Karl dem Großen verflossen sind, keine Veränderung erlitten zu haben, wenn der neuerwählte Kaiser noch jetzt bei der Krönung die Krone, den Zepter, Apfel, sogar die Schuhe, den Rock und die Kleinodien Karls des Großen trägt.",
+    "Ein Kaiser neuerer Zeiten ist ja hiermit so sehr als derselbe Kaiser, der Karl der Große war, dargestellt, daß er ja sogar noch dessen eigene Kleider trägt.",
+    "Wenn schon der Markgraf von Brandenburg jetzt 200 000 Soldaten hält, so scheint sich sein Verhältnis zum Deutschen Reich gegen damals, da er nicht 2000 Mann stehender, regelmäßiger Soldaten hatte, nicht verändert zu haben, weil der brandenburgische Gesandte jetzt bei der Krönung, wie sonst, dem Kaiser Haber präsentiert."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1uvw9pi1ls",
+   "sents": [
+    "Dieser deutsche, anderen Nationen so lächerliche Aberglaube an die ganz äußeren Formen, an das Zeremoniell, ist sich seiner sehr wohl bewußt, er ist die Erscheinung der ursprünglichen deutschen Natur, mit ungebändigter Zähigkeit an der eigenwilligen Selbständigkeit zu halten.",
+    "In der Erhaltung dieser Formen zwingt sich der Deutsche, Erhaltung seiner Verfassung zu erblicken.",
+    "Manifeste, Staatsschriften führen eben dieselbe Sprache."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "tzdvlmn5ho",
+   "sents": [
+    "Es ist oben von dem Verlust die Rede gewesen, den Deutschland gegen auswärtige Mächte erlitten hat; für Deutschland als Staat aber ist es als Verlust noch mehr in Rechnung zu bringen, wenn fremde Fürsten Besitzer deutscher Reichsländer und damit Mitglieder des Deutschen Reichs geworden sind; jede Vergrößerung eines solchen Hauses ist ein größerer Verlust für Deutschlands Staatsverfassung; sie hat sich nur dadurch erhalten, daß das österreichische Haus, das man das kaiserliche Haus nennen kann, nicht durch das Deutsche Reich stark genug gemacht worden ist, jenem Prinzip der völligen Auflösung noch in etwas zu widerstehen, sondern durch die Macht seiner anderen Länder hierzu instand gesetzt worden ist.",
+    "Schon dagegen, daß mehrere deutsche Länder auf die rechtmäßigste Art, durch Erbschaft, [nur] einem Haus sich vereinigen, hat Deutschlands Verfassung keine Garantie; im Gegenteil, da die Staatsgewalt durchaus in Rechtsform von Privateigentum behandelt wird, kann von einem Widersetzen gegen eine solche Vereinigung nicht die Rede sein, welche sonst in der Politik wichtiger ist als Familien- und Privatrechte; Neapel und Sizilien ist von Spanien getrennt worden, das Recht dieser Familie daran anerkannt worden, ebenso ist Toskana getrennt vom kaiserlichen Haus erhalten worden."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1uxsr771lx",
+   "sents": [
+    "So wie das alte römische Reich durch nordische Barbaren zerstört worden ist, so kam auch das Prinzip der Zerstörung des römisch-deutschen Reichs von Norden her.",
+    "Dänemark, Schweden, England und vorzüglich Preußen sind die fremden Mächte, welchen ihre Reichsstandschaft zugleich ein getrenntes Zentrum158) vom Deutschen Reiche gibt und zugleich einen konstitutionsmäßigen Einfluß in desselben Angelegenheiten erteilt."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1p6nrimeak",
+   "sents": [
+    "Dänemark hat in dieser Rücksicht in den ersten Jahren des Dreißigjährigen Krieges eine nur vorübergehende und kurze Rolle gespielt."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "9sy5vt1oev",
+   "sents": [
+    "Der Westfälische Friede hat überhaupt das Prinzip desjenigen, was man damals deutsche Freiheit hieß, nämlich der Auflösung des Reichs in unabhängige Staaten, konsolidiert, die Menge solcher unabhängiger Staaten, die einzige noch vorhandene Möglichkeit einer Übermacht des Ganzen über die Teile, vermindert und durch ihre Verschmelzung in größere Staaten die Trennung verstärkt und fremden Mächten eine rechtmäßige Einmischung in die inneren Angelegenheiten eingeräumt, teils eben dadurch, daß er ihnen teils Reichsländer einräumte, teils sie zu Garanten der Verfassung machte."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "dzwztl1r17",
+   "sents": [
+    "Man hat zu allen Zeiten die Maßregel, daß eine Partei in einem innerlich sich bekämpfenden Staat eine fremde Macht zu Hilfe ruft, für die größte Feindseligkeit und, wenn [da,] wo der Staat sich auflöst, von Bestrafung noch die Rede sein könnte, für das größte Verbrechen gehalten.",
+    "Bei der tiefsten Zerfleischung eines Staats durch innerliche Kriege, in diesem schrecklichsten aller Übel, waltet in [allem] Haß solcher feindseligen Elemente, der größer ist als irgendein Haß, noch das Prinzip, daß sie zusammen doch einen Staat ausmachen sollten; [und wenn] diese Verbindung selbst durch Tyrannei bewirkt werden sollte, so ist doch das Heiligste der Menschen, die Forderung der Verbindung, geblieben.",
+    "Aber diejenige Partei, welche fremde Mächte zu Hilfe ruft, gibt diesen Grundsatz auf; jetzt hat sie durch die Tat die Staatsverbindung aufgehoben, wenn auch ihre wissentliche und wahre Absicht keine andere ist, als gegen Unterdrückung, deren sie durch eigene Macht nicht fähig ist, sich zu erwehren, durch diese fremde Hilfe Schutz zu finden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/17.p0.json"
+}

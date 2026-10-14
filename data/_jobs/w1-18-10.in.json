@@ -1,0 +1,113 @@
+{
+ "id": "w1-18-10",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 18,
+ "chunkTitle": "[8. Die Bildung von Nationalstaaten]",
+ "heading": "[8. Die Bildung von Nationalstaaten]",
+ "blocks": [
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "32g3jle72c",
+   "sents": [
+    "Über Italien behaupteten die römisch-deutschen Kaiser lange eine Hoheit, welche, wie in Deutschland, gewöhnlich nur so viele und nur dann Kraft hatte, wenn sie durch eigene Macht des Kaisers behauptet wurde.",
+    "Die Sucht der Kaiser, beide Länder unter ihrer Herrschaft zu behalten, hat ihre Macht in beiden vernichtet."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "182xpt2m99",
+   "sents": [
+    "In Italien erwarb sich jeder Punkt desselben Souveränität; es hörte auf, ein Staat zu sein, und wurde ein Gewühl unabhängiger Staaten, Monarchien, Aristokratien, Demokratien, wie es der Zufall wollte; auch die Ausartung dieser Verfassungen in Tyrannei, Oligarchie und Ochlokratie kam auf kurze Zeit zum Vorschein.",
+    "Der Zustand Italiens kann nicht Anarchie genannt werden, denn die Menge der entgegengesetzten Parteien waren organisierte Staaten.",
+    "Ungeachtet des Mangels eines eigentlichen Staatsverbands vereinigte sich doch immer ein großer Teil zum gemeinschaftlichen Widerstand gegen das Reichsoberhaupt, sowie der andere Teil, um gemeinschaftliche Sache mit ihm zu machen.",
+    "Die ghibellinische und welfische Partei, die ehemals Deutschland wie Italien umfaßten, stellten - mit Modifikationen, welche aus veränderten Zeitumständen herrühren - sich in Deutschland im 18. Jahrhundert als österreichische und preußische Partei vor."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "11qb6ah16a",
+   "sents": [
+    "Nicht lange hatten die einzelnen Teile Italiens den vorherigen Staat aufgelöst und sich zur Unabhängigkeit emporgeschwungen, als sie die Eroberungssucht größerer Mächte reizten und das Theater der Kriege fremder Mächte wurden.",
+    "Die kleinen Staaten, die als Macht einer tausend- und mehrmal größeren Macht sich gegenüberstellten, erfuhren das notwendige Schicksal ihres Falls, und neben einem Bedauern mit demselben steht das Gefühl der Notwendigkeit und der Schuld, welche Pygmäen auf sich selbst laden, wenn sie, neben Kolosse sich stellend, zertreten werden.",
+    "Auch die Existenz der größeren italienischen Staaten, die sich durch die Verschlingung einer Menge kleinerer gebildet hatten, vegetierte so fort ohne Kraft und wahre Unabhängigkeit, ein Ball in den Plänen fremder Mächte; sie erhielten sich etwas länger durch die Klugheit, sich geschickt und zur rechten Zeit zu demütigen und durch beständige halbe Unterwerfungen die volle abzuhalten, die aber am Ende nicht ausblieb."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "jrjd6f2fau",
+   "sents": [
+    "Was ist [aus] der Menge der unabhängigen Staaten Pisa, Siena, Arezzo, Ferrara, Mailand, aus diesen Hunderten von Staaten, wie jede Stadt einer war, was aus den Familien der vielen souveränen Herzöge, Markgrafen usw., aus den Fürstenhäusern Bentivoglio, Sforza, Gonzaga, Pico, Urbino usw. und dem zahllosen Ritteradel [geworden]?",
+    "Die unabhängigen Staaten wurden von größeren und diese wieder von größeren usf. verschlungen; einem der größten, Venedig, hat in unseren Tagen ein Schreiben eines französischen Generals, von einem Adjutanten überbracht, sein Ende gegeben.",
+    "Die glänzendsten Fürstenhäuser haben weder Souveränität noch auch politische, repräsentative Bedeutung mehr.",
+    "Die edelsten Geschlechter sind Hofadel geworden."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1b6bfmi1j5",
+   "sents": [
+    "In dem Zeitraum des Unglücks, als Italien seinem Elende zueilte und das Schlachtfeld der Kriege war, die fremde Fürsten um seine Länder führten, zugleich die Mittel zu den Kriegen darreichte und der Preis derselben war, als es seine eigene Verteidigung dem Meuchelmorde, Gift und Verrat oder Schwärmen fremden Gesindels anvertraute, die für ihre Soldherren immer kostspielig und verwüstend, noch öfters furchtbar und gefährlich waren, von deren Anführern einige sich zu Fürsten emporschwangen, als Deutsche, Spanier, Franzosen und Schweizer es ausplünderten und fremde Kabinette über das Schicksal dieser Nation beschlossen, - in dem tiefen Gefühle dieses Zustands allgemeinen Elendes, des Hasses, der Zerrüttung, der Blindheit faßte ein italienischer Staatsmann mit kalter Besonnenheit die notwendige Idee der Rettung Italiens durch Verbindung desselben in einen Staat.",
+    "Er zeichnete mit strenger Konsequenz den Weg vor, den sowohl diese Rettung als die Verdorbenheit und blinde Raserei der Zeit notwendig machte, und rief seinen Fürsten, die erhabene Rolle eines Retters von Italien und den Ruhm, seinem Unglück ein Ende zu machen, zu übernehmen, mit folgenden Worten auf:"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1bc2a4s1ox",
+   "sents": [
+    "166) \"Wenn es, wie gesagt, notwendig war, daß, um Moses' Größe zu sehen, das Volk Israel Knecht in Ägypten war, daß, um die Erhabenheit und den Mut des Kyros zu erkennen, die Perser von den Medern unterdrückt wurden und daß, um die Trefflichkeit des Theseus ans Licht zu stellen, die Athener zersplittert waren, so war es jetzt, wenn man die Geistesgröße eines Italieners sehen will, notwendig, daß Italien in seine gegenwärtigen Zustände geriet, daß es mehr geknechtet sei als die Hebräer, mehr unterdrückt als die Perser, mehr zersplittert als die Athener, ohne Haupt, ohne Ordnung, geschlagen, beraubt, zerrissen, geplündert, und daß es Verderben jeder Art zu tragen habe.",
+    "Und ob seither wohl sich einmal in jemandem eine Spur hat wahrnehmen lassen, daß man hätte meinen können, er sei von Gott zu Italiens Erlösung verordnet gewesen, so hat es sich dennoch gezeigt, daß er hinterher auf dem Gipfel seines Aufstieges von dem Glück ist verworfen worden, so daß Italien, gleichsam leblos zurückgelassen, noch immer wartet, wer wohl der sein könnte, der seine Schläge heilt, den Verwüstungen und Plünderungen der Lombardei und den Unterschleifen und Erpressungen im Königreiche Neapel und in Toscana ein Ende macht und Italien von den Wunden genesen läßt, die sich in der langen Zeit schon in es eingefressen haben ..."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "d3wzby1kov",
+   "sents": [
+    "Hier ist vollkommene Gerechtigkeit, denn jener Krieg ist gerecht, weil er notwendig ist, und jene Waffen sind heilig, wo keine Hoffnung besteht als durch sie ..."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "18otkx81p5",
+   "sents": [
+    "Alles hat zu Eurer Größe mitgewirkt, das übrige bleibt Euch zu tun.",
+    "Gott will nicht alles tun, um uns nicht den freien Willen zu rauben und den Teil der Ehre, der auf uns fallen soll ..."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1wy29td1tv",
+   "sents": [
+    "Und ich kann nicht sagen, mit welcher Liebe er [der Befreier Italiens] in allen jenen Provinzen würde aufgenommen werden, die unter diesen Überschwemmungen vom Auslande gelitten haben, mit welchem Rachedurst, mit welch unerschütterlicher Treue, mit welcher Ehrfurcht, mit welchen Tränen.",
+    "Welche Türen würden ihm verschlossen bleiben, welche Gemeinden würden ihm den Gehorsam verweigern?",
+    "Wo würde sich ihm Neid entgegenstellen, welcher Italiener würde ihm die Gefolgschaft versagen?\" -"
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1i66akfsoi",
+   "sents": [
+    "Man kann wahrnehmen, daß ein Mann, der mit dieser Wahrheit des Ernstes spricht, weder Niederträchtigkeit im Herzen noch Spaß im Kopfe hatte.",
+    "Was jene betrifft, so führt schon in der allgemeinen Meinung der Name Machiavell das Siegel der Verwerfung mit sich, und sie hat machiavellistische und abscheuliche Grundsätze gleichbedeutend gemacht.",
+    "Die Idee eines Staats, den ein Volk ausmachen soll, ist durch ein blindes Geschrei einer sogenannten Freiheit so lange übertäubt worden, daß vielleicht das ganze Elend, das Deutschland im Siebenjährigen und in diesem letzten französischen Krieg [erduldete], und alle Fortbildung der Vernunft und die Erfahrung an der französischen Freiheitsraserei nicht hinreichend sind, die Wahrheit, daß Freiheit nur in der gesetzlichen Verbindung eines Volkes zu einem Staat möglich sei, zum Glauben der Völker oder zu einem Grundsatz einer Staatswissenschaft zu erheben."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/18.p10.json"
+}

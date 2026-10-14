@@ -1,0 +1,80 @@
+{
+ "id": "w3-0-41",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "1luhjwrj9z",
+   "sents": [
+    "Der Dogmatismus der Denkungsart im Wissen und im Studium der Philosophie ist nichts anderes als die Meinung, daß das Wahre in einem Satze, der ein festes Resultat ist oder auch der unmittelbar gewußt wird, bestehe.",
+    "Auf solche Fragen: wann Cäsar geboren worden, wie viele Toisen ein Stadium betrug usf., soll eine nette Antwort gegeben werden, ebenso wie es bestimmt wahr ist, daß das Quadrat der Hypotenuse gleich der Summe der Quadrate der beiden übrigen Seiten des rechtwinkligen Dreiecks ist.",
+    "Aber die Natur einer solchen sogenannten Wahrheit ist verschieden von der Natur philosophischer Wahrheiten."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "1tshrri5dn",
+   "sents": [
+    "In Ansehung der historischen Wahrheiten, um ihrer kurz zu erwähnen, insofern nämlich das rein Historische derselben betrachtet wird, wird leicht zugegeben, daß sie das einzelne Dasein, einen Inhalt nach der Seite seiner Zufälligkeit und Willkür, Bestimmungen desselben, die nicht notwendig sind, betreffen.",
+    "– Selbst aber solche nackte Wahrheiten, wie die als Beispiel angeführten, sind nicht ohne die Bewegung des Selbstbewußtseins.",
+    "Um eine derselben zu kennen, muß viel verglichen, auch in Büchern nachgeschlagen oder, auf welche Weise es sei, untersucht werden; auch bei einer unmittelbaren Anschauung wird erst die Kenntnis derselben mit ihren Gründen für etwas gehalten, das wahren Wert habe, obgleich eigentlich nur das nackte Resultat das sein soll, um das es zu tun sei."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "184hsmz1oe",
+   "sents": [
+    "Was die mathematischen Wahrheiten betrifft, so würde noch weniger der für einen Geometer gehalten werden, der die Theoreme Euklids auswendig wüßte, ohne ihre Beweise, ohne sie, wie man im Gegensatze sich ausdrücken könn[t]e, inwendig zu wissen.",
+    "Ebenso würde die Kenntnis, die einer durch Messung vieler rechtwinkliger Dreiecke sich erwürbe, daß ihre Seiten das bekannte Verhältnis zueinander haben, für unbefriedigend gehalten werden.",
+    "Die Wesentlichkeit des Beweises hat jedoch auch beim mathematischen Erkennen noch nicht die Bedeutung und Natur, Moment des Resultates selbst zu sein, sondern in diesem ist er vielmehr vorbei und verschwunden.",
+    "Als Resultat ist zwar das Theorem ein als wahr eingesehenes.",
+    "Aber dieser hinzugekommene Umstand betrifft nicht seinen Inhalt, sondern nur das Verhältnis zum Subjekt; die Bewegung des mathematischen Beweises gehört nicht dem an, was Gegenstand ist, sondern ist ein der Sache äußerliches Tun.",
+    "So zerlegt sich die Natur des rechtwinkligen Dreiecks nicht selbst so, wie es in der Konstruktion dargestellt wird, die für den Beweis des Satzes, der sein Verhältnis ausdrückt, nötig ist; das ganze Hervorbringen des Resultats ist ein Gang und Mittel des Erkennens.",
+    "– Auch im philosophischen Erkennen ist das Werden des Daseins als Daseins verschieden von dem Werden des Wesens oder der inneren Natur der Sache.",
+    "Aber das philosophische Erkennen enthält erstens beides, da hingegen das mathematische nur das Werden des Daseins, d.h. des Seins der Natur der Sache im Erkennen als solchem darstellt.",
+    "Fürs andere vereinigt jenes auch diese beiden besonderen Bewegungen.",
+    "Das innere Entstehen oder das Werden der Substanz ist ungetrennt Übergehen in das Äußere oder in das Dasein, Sein für Anderes, und umgekehrt ist das Werden des Daseins das sich Zurücknehmen ins Wesen.",
+    "Die Bewegung ist so der gedoppelte Prozeß und Werden des Ganzen, daß zugleich ein jedes das andere setzt und jedes darum auch beide als zwei Ansichten an ihm hat; sie zusammen machen dadurch das Ganze, daß sie sich selbst auflösen und zu seinen Momenten machen."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "1mw56q5gov",
+   "sents": [
+    "Im mathematischen Erkennen ist die Einsicht ein für die Sache äußerliches Tun; es folgt daraus, daß die wahre Sache dadurch verändert wird.",
+    "Das Mittel, Konstruktion und Beweis, enthält daher wohl wahre Sätze; aber ebensosehr muß gesagt werden, daß der Inhalt falsch ist.",
+    "Das Dreieck wird in dem obigen Beispiele zerrissen und seine Teile zu anderen Figuren, die die Konstruktion an ihm entstehen läßt, geschlagen.",
+    "Erst am Ende wird das Dreieck wiederhergestellt, um das es eigentlich zu tun ist, das im Fortgange aus den Augen verloren wurde und nur in Stücken, die anderen Ganzen angehörten, vorkam.",
+    "– Hier sehen wir also auch die Negativität des Inhalts eintreten, welche eine Falschheit desselben ebensogut genannt werden müßte als in der Bewegung des Begriffs das Verschwinden der festgemeinten Gedanken."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "16lseih1oo",
+   "sents": [
+    "Die eigentliche Mangelhaftigkeit dieses Erkennens aber betrifft sowohl das Erkennen selbst als seinen Stoff überhaupt.",
+    "– Was das Erkennen betrifft, so wird fürs erste die Notwendigkeit der Konstruktion nicht eingesehen.",
+    "Sie geht nicht aus dem Begriffe des Theorems hervor, sondern wird geboten, und man hat dieser Vorschrift, gerade diese Linien, deren unendlich andere gezogen werden könnten, zu ziehen, blindlings zu gehorchen, ohne etwas weiter zu wissen, als den guten Glauben zu haben, daß dies zur Führung des Beweises zweckmäßig sein werde.",
+    "Hintennach zeigt sich denn auch diese Zweckmäßigkeit, die deswegen nur eine äußerliche ist, weil sie sich erst hintennach beim Beweise zeigt.",
+    "– Ebenso geht dieser einen Weg, der irgendwo anfängt, man weiß noch nicht in welcher Beziehung auf das Resultat, das herauskommen soll.",
+    "Sein Fortgang nimmt diese Bestimmungen und Beziehungen auf und läßt andere liegen, ohne daß man unmittelbar einsähe, nach welcher Notwendigkeit; ein äußerer Zweck regiert diese Bewegung."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p41.json"
+}

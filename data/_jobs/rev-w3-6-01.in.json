@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-01",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 1,
+   "si": 0,
+   "de": "Das Selbstbewußtsein fand das Ding als sich und sich als Ding; d.h. es ist für es, daß es an sich die gegenständliche Wirklichkeit ist.",
+   "en": "Self-consciousness found the thing as itself and itself as thing; i.e., it is for it that it is in itself the objective actuality.",
+   "zh": "自我意识发现物就是它自己，而它自己就是物；也就是说，对它来说是这样的：它在自在地就是对象性的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 1,
+   "si": 1,
+   "de": "Es ist nicht mehr die unmittelbare Gewißheit, alle Realität zu sein, sondern eine solche, für welche das Unmittelbare überhaupt die Form eines Aufgehobenen hat, so daß seine Gegenständlichkeit nur noch als Oberfläche gilt, deren Inneres und Wesen es selbst ist.",
+   "en": "It is no longer the immediate certainty of being all reality, but one for which the immediate in general has the form of something sublated, so that its objectivity counts only as a surface whose inner being and essence it itself is.",
+   "zh": "它不再是直接地就是一切实在性那种确定性，而是一种这样的确定性：对它来说，直接的东西一般具有被扬弃之物的形式，以致它的对象性只还被看作一个表面，而这个表面的内在东西和本质就是它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 1,
+   "si": 2,
+   "de": "– Der Gegenstand, auf welchen es sich positiv bezieht. ist daher ein Selbstbewußtsein; er ist in der Form der Dingheit, d.h. er ist selbständig; aber es hat die Gewißheit, daß dieser selbständige Gegenstand kein Fremdes für es ist; es weiß hiermit, daß es an sich von ihm anerkannt ist; es ist der Geist, der die Gewißheit hat, in der Verdopplung seines Selbstbewußtseins und in der Selbständigkeit beider seine Einheit mit sich selbst zu haben.",
+   "en": "– The object to which it relates itself positively is therefore a self-consciousness; it is in the form of thinghood, i.e. it is independent; but it has the certainty that this independent object is nothing foreign to it; it thereby knows that it is in itself recognized by it; it is spirit, which has the certainty of having its unity with itself in the doubling of its self-consciousness and in the independence of both.",
+   "zh": "——所以，它肯定地与之相关的那个对象是一个自我意识；这个对象处于物性的形式中，也就是说，它是独立的；但自我意识拥有这样的确定性：这个独立的对象对它来说不是什么陌生的东西；它由此知道，它自在地已被这个对象承认；它就是精神，这精神拥有这样的确定性：在它的自我意识的二重化中、在双方的独立性中，拥有自己与自身的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 1,
+   "si": 3,
+   "de": "Diese Gewißheit hat sich ihm nun zur Wahrheit zu erheben; was ihm gilt, daß es an sich und in seiner inneren Gewißheit sei, soll in sein Bewußtsein treten und für es werden.",
+   "en": "This certainty must now raise itself for it to truth; what holds for it, that it is in itself and in its inner certainty, is to enter its consciousness and become for it.",
+   "zh": "这种确定性现在必须对它自己提升为真理；凡对它有效的，即它在自在地和在它的内在确定性中之所是，都应当进入它的意识，并成为为它的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 2,
+   "si": 0,
+   "de": "Was die allgemeinen Stationen dieser Verwirklichung sein werden, bezeichnet sich im allgemeinen schon durch die Vergleichung mit dem bisherigen Wege.",
+   "en": "What the general stations of this actualization will be is already indicated in general by the comparison with the path so far.",
+   "zh": "这种现实化的一般站点将会是什么，一般说来已经通过与此前道路的比较而自行标示出来了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 2,
+   "si": 1,
+   "de": "Wie nämlich die beobachtende Vernunft in dem Elemente der Kategorie die Bewegung des Bewußtseins, nämlich die sinnliche Gewißheit, das Wahrnehmen und den Verstand wiederholte, so wird diese auch die doppelte Bewegung des Selbstbewußtseins wieder durchlaufen und aus der Selbständigkeit in seine Freiheit übergehen.",
+   "en": "For just as observing reason in the element of the category repeated the movement of consciousness, namely sense-certainty, perceiving and the understanding, so this reason will also run through the doubled movement of self-consciousness once again and pass over from independence into its freedom.",
+   "zh": "因为，正如观察的理性在范畴这个元素中重复了意识的运动，即感性确定性、知觉和知性，同样，这种理性也会再次经历自我意识的二重运动，并从独立性过渡到它的自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 2,
+   "si": 2,
+   "de": "Zuerst ist diese tätige Vernunft ihrer selbst nur als eines Individuums bewußt und muß als ein solches seine Wirklichkeit im anderen fordern und hervorbringen, – alsdann aber, indem sich sein Bewußtsein zur Allgemeinheit erhebt, wird es allgemeine Vernunft und ist sich seiner als Vernunft, als an und für sich schon anerkanntes bewußt, welches in seinem reinen Bewußtsein alles Selbstbewußtsein vereinigt; es ist das einfache geistige Wesen, das, indem es zugleich zum Bewußtsein kommt, die reale Substanz ist, worein die früheren Formen als in ihren Grund zurückgehen, so daß sie gegen diesen nur einzelne Momente seines Werdens sind, die sich zwar losreißen und als eigene Gestalten erscheinen, in der Tat aber nur von ihm getragen Dasein und Wirklichkeit, aber ihre Wahrheit nur haben, insofern sie in ihm selbst sind und bleiben.",
+   "en": "At first this active reason is conscious of itself only as an individual and, as such, must demand and bring forth its actuality in another individual, – but then, as its consciousness raises itself to universality, it becomes universal reason and is conscious of itself as reason, as something already recognized in and for itself, which in its pure consciousness unites all self-consciousness; it is the simple spiritual essence which, in coming at the same time to consciousness, is the real substance into which the earlier forms return as into their ground, so that in relation to this ground they are only individual moments of its becoming, which indeed tear themselves loose and appear as their own shapes, but in fact have determinate being and actuality only as sustained by it, and have their truth only insofar as they are and remain in it itself.",
+   "zh": "首先，这种活动着的理性只意识到自己是一个个体，并且作为这样一个个体，必须在另一个个体那里要求并产生出自己的现实性——但随后，当它的意识提升到普遍性时，它就成为普遍的理性，并意识到自己是理性，是自在自为地已经被承认的理性，这种理性在它的纯粹意识中把所有自我意识都统一起来；它就是那单纯的精神本质，这本质在同时达到意识时就是那实在的实体，早先的那些形式就像回到自己的根据一样回到这个实体之中，以致它们相对于这个根据只是它生成过程中的一些个别环节，这些环节虽然会挣脱出来并作为自己的形态而出现，但事实上只是由它承载着才有定在和现实性，而它们的真理却只有在它们存在于并保持在它自身之中时才有。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 3,
+   "si": 0,
+   "de": "Nehmen wir dieses Ziel, das der Begriff ist, der uns schon entstanden – nämlich das anerkannte Selbstbewußtsein, das in dem anderen freien Selbstbewußtsein die Gewißheit seiner selbst und eben darin seine Wahrheit hat –, in seiner Realität auf oder heben wir diesen noch inneren Geist als die schon zu ihrem Dasein gediehene Substanz heraus, so schließt sich in diesem Begriffe das Reich der Sittlichkeit auf.",
+   "en": "If we take up this goal, which is the concept that has already arisen for us – namely recognized self-consciousness, which in the other free self-consciousness has the certainty of itself and precisely therein its truth – in its reality, or if we bring out this still inner spirit as the substance that has already come to its determinate being, then in this concept the realm of ethical life opens up.",
+   "zh": "如果我们把这个目标——也就是那个对我们已经产生出来的概念，即被承认的自我意识，它在另一个自由的自我意识中拥有对自己的确定性，并且恰好在此拥有自己的真理——在其实在性中接纳下来，或者我们把这种还处于内在中的精神作为已经达到其定在的实体提取出来，那么，在这个概念中就开启出伦理的王国。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 3,
+   "si": 1,
+   "de": "Denn diese ist nichts anderes als in der selbständigen Wirklichkeit der Individuen die absolute geistige Einheit ihres Wesens; ein an sich allgemeines Selbstbewußtsein, das sich in einem anderen Bewußtsein so wirklich ist, daß dieses vollkommene Selbständigkeit hat oder ein Ding für es, und daß es eben darin der Einheit mit ihm sich bewußt ist und in dieser Einheit mit diesem gegenständlichen Wesen erst Selbstbewußtsein ist.",
+   "en": "For this is nothing other than the absolute spiritual unity of their essence in the independent actuality of the individuals; an in itself universal self-consciousness that is so actual in another consciousness that this one has complete independence or is a thing for it, and that precisely therein it is conscious of the unity with it and only in this unity with this objective essence is self-consciousness.",
+   "zh": "因为这种伦理无非就是在个体的独立现实性中，他们的本质的绝对精神统一；是一种自在地普遍的自我意识，它在另一个意识中如此现实，以致这另一个意识拥有完全的独立性，或者对它来说是一个物，并且以致它恰好在此意识到与这另一个意识的统一，而只有在这种与这个对象性本质的统一中，它才是自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 3,
+   "si": 2,
+   "de": "Diese sittliche Substanz in der Abstraktion der Allgemeinheit ist nur das gedachte Gesetz; aber sie ist ebensosehr unmittelbar wirkliches Selbstbewußtsein, oder sie ist Sitte.",
+   "en": "This ethical substance in the abstraction of universality is only the thought law; but it is just as much immediately actual self-consciousness, or it is custom.",
+   "zh": "这种伦理的实体在普遍性的抽象中只是被思考的法则；但它同样直接就是现实的自我意识，或者说，它就是风俗。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 3,
+   "si": 3,
+   "de": "Das einzelne Bewußtsein ist umgekehrt nur dieses seiende Eins, indem es des allgemeinen Bewußtseins in seiner Einzelheit als seines Seins sich bewußt, indem sein Tun und Dasein die allgemeine Sitte ist.",
+   "en": "The single consciousness, conversely, is only this existing one insofar as it is conscious of the universal consciousness in its singularity as its being, insofar as its doing and determinate being is the universal custom.",
+   "zh": "反过来，个别的意识只是这个存在着的单一者，因为它在自己的个别性中把普遍的意识意识为自己的存在，因为它的行动和定在就是普遍的风俗。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 4,
+   "si": 0,
+   "de": "In dem Leben eines Volks hat in der Tat der Begriff der Verwirklichung der selbstbewußten Vernunft, in der Selbständigkeit des Anderen die vollständige Einheit mit ihm anzuschauen oder diese von mir vorgefundene freie Dingheit eines Anderen, welche das Negative meiner selbst ist, als mein Fürmichsein zum Gegenstande zu haben, seine vollendete Realität.",
+   "en": "In the life of a people, the concept of the actualization of self-conscious reason – to intuit in the independence of the other the complete unity with it, or to have as my being-for-myself as object this free thinghood of an other that I find before me, which is the negative of myself – has in fact its consummate reality.",
+   "zh": "在一个民族的生命中，自我意识的理性的现实化这一概念——即在他者的独立性中直观到与他的完全统一，或者把这种被我现成发现的、他者的自由物性，也就是我自己的否定物，作为我的自为存在而拥有为对象——事实上拥有它完成了的实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 4,
+   "si": 1,
+   "de": "Die Vernunft ist als die flüssige allgemeine Substanz, als die unwandelbare einfache Dingheit vorhanden, welche ebenso in viele vollkommen selbständige Wesen wie das Licht in Sterne als unzählige für sich leuchtende Punkte zerspringt, die in ihrem absoluten Fürsichsein nicht nur an sich in der einfachen selbständigen Substanz aufgelöst sind, sondern für sich selbst; sie sind sich bewußt, diese einzelnen selbständigen Wesen dadurch zu sein, daß sie ihre Einzelheit aufopfern und diese allgemeine Substanz ihre Seele und Wesen ist; so wie dies Allgemeine wieder das Tun ihrer als Einzelner oder das von ihnen hervorgebrachte Werk ist.",
+   "en": "Reason is present as the fluid universal substance, as the unchanging simple thinghood, which likewise shatters into many perfectly independent essences just as light into stars as countless points shining for themselves, which in their absolute being-for-itself are dissolved not only in themselves in the simple independent substance but for themselves; they are conscious of being these single independent essences in that they sacrifice their singularity and this universal substance is their soul and essence; just as this universal is in turn the doing of them as single ones, or the work brought forth by them.",
+   "zh": "理性是作为流动的普遍实体、作为不变而单纯的物性而存在着的，这种实体同样碎裂为许多完全独立的本质，就像光碎裂为星辰、成为无数自为地发光的点一样，这些点在它们的绝对自为存在中不仅自在地消融在单纯而独立的实体中，而且自为地消融在其中；它们意识到，自己之所以是这些个别的独立本质，是由于它们牺牲自己的个别性，并且这种普遍的实体就是它们的灵魂和本质；同样，这种普遍物又是它们作为个别者的行动，或者是由它们产生出来的作品。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 0,
+   "de": "Das rein einzelne Tun und Treiben des Individuums bezieht sich auf die Bedürfnisse, welche es als Naturwesen, d.h. als seiende Einzelheit hat.",
+   "en": "The purely single doing and activity of the individual relates to the needs that it has as a natural being, i.e. as existing singularity.",
+   "zh": "个体的纯粹个别的行动和作为关涉到它作为自然存在物、也就是作为存在着的个别性所具有的那些需要。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 1,
+   "de": "Daß selbst diese seine gemeinsten Funktionen nicht zunichte werden, sondern Wirklichkeit haben, geschieht durch das allgemeine erhaltende Medium, durch die Macht des ganzen Volks.",
+   "en": "That even these most common functions of it do not come to nothing but have actuality happens through the universal sustaining medium, through the power of the whole people.",
+   "zh": "就连它这些最平常的功能也不至于化为乌有、而是拥有现实性，这件事是通过那普遍的、维持着的媒介、通过整个民族的权力而发生的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 2,
+   "de": "– Nicht nur aber diese Form des Bestehens seines Tuns überhaupt hat es in der allgemeinen Substanz, sondern ebensosehr seinen Inhalt; was es tut, ist die allgemeine Geschicklichkeit und Sitte aller.",
+   "en": "– But it has in the universal substance not only this form of the subsistence of its doing in general, but just as much its content; what it does is the universal skill and custom of all.",
+   "zh": "——但它在普遍实体中不仅拥有它的行动一般而言得以持存的那种形式，而且同样拥有它的内容；它所做的事，就是所有人共同的技巧和风俗。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 3,
+   "de": "Dieser Inhalt, insofern er sich vollkommen vereinzelt, ist in seiner Wirklichkeit in das Tun aller verschränkt.",
+   "en": "This content, insofar as it completely singularizes itself, is in its actuality interwoven with the doing of all.",
+   "zh": "这种内容，就它完全个别化而言，在它的现实性中是与所有人的行动交织在一起的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 4,
+   "de": "Die Arbeit des Individuums für seine Bedürfnisse ist ebensosehr eine Befriedigung der Bedürfnisse der anderen als seiner eigenen, und die Befriedigung der seinigen erreicht es nur durch die Arbeit der anderen.",
+   "en": "The labor of the individual for its needs is just as much a satisfaction of the needs of others as of its own, and it attains the satisfaction of its own only through the labor of others.",
+   "zh": "个体为自己的需要所做的劳动，既是对他人需要的满足，同样也是对自己需要的满足，而它只有通过他人的劳动才达到对自己需要的满足。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 5,
+   "de": "– Wie der Einzelne in seiner einzelnen Arbeit schon eine allgemeine Arbeit bewußtlos vollbringt, so vollbringt er auch wieder die allgemeine als seinen bewußten Gegenstand; das Ganze wird als Ganzes sein Werk, für das er sich aufopfert und eben dadurch sich selbst von ihm zurückerhält.",
+   "en": "– Just as the single individual in his single labor already unconsciously accomplishes a universal labor, so he in turn accomplishes the universal as his conscious object; the whole becomes as whole his work, for which he sacrifices himself and precisely thereby receives himself back from it.",
+   "zh": "——正如个别者在他个别的劳动中已经无意识地完成了一种普遍的劳动，他也同样把普遍物作为自己有意识的对象来完成；整体作为整体成为他的作品，他为这个作品牺牲自己，并且恰好由此从它那里重新获得自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 6,
+   "de": "– Es ist hier nichts, das nicht gegenseitig wäre, nichts, woran nicht die Selbständigkeit des Individuums sich in der Auflösung ihres Fürsichseins, in der Negation ihrer selbst, ihre positive Bedeutung, für sich zu sein, gäbe.",
+   "en": "– Here there is nothing that would not be reciprocal, nothing in which the independence of the individual would not, in the dissolution of its being-for-itself, in the negation of itself, give itself its positive significance, that of being for itself.",
+   "zh": "——在这里没有什么不是相互的，没有什么东西不是让个体的独立性在它的自为存在的消解中、在对它自身的否定中，给出它肯定的意义，即自为地存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 7,
+   "de": "Diese Einheit des Seins für Anderes oder des sich zum Dinge Machens und des Fürsichseins, diese allgemeine Substanz redet ihre allgemeine Sprache in den Sitten und Gesetzen eines Volks; aber dies seiende unwandelbare Wesen ist nichts anderes als der Ausdruck der ihr entgegengesetzt scheinenden einzelnen Individualität selbst; die Gesetze sprechen das aus, was jeder Einzelne ist und tut; das Individuum erkennt sie nicht nur als seine allgemeine gegenständliche Dingheit, sondern ebensosehr sich in ihr oder [sie] als vereinzelt in seiner eigenen Individualität und in jedem seiner Mitbürger.",
+   "en": "This unity of being-for-another, or of making oneself into a thing, and of being-for-itself, this universal substance speaks its universal language in the customs and laws of a people; but this existing unchanging essence is nothing other than the expression of the single individuality itself that seems opposed to it; the laws express what every single individual is and does; the individual recognizes them not only as its universal objective thinghood, but just as much itself in them, or [them] as singularized in its own individuality and in each of its fellow citizens.",
+   "zh": "这种为他存在、或者说把自己变成物与自为存在的统一，这种普遍实体在一个民族的风俗和法则中说着它的普遍语言；但这个存在着的、不变的本质不是别的，正是那个看起来与它相对立的个别个体性自己的表达；那些法则说出的是每个个别者是什么、做什么；个体不仅把它们认作自己普遍的、对象性的物性，而且同样在它们之中认识自己，或者把它们认作在自己的个体性中、在自己的每一个同胞身上个别化了的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 8,
+   "de": "In dem allgemeinen Geiste hat daher jeder nur die Gewißheit seiner selbst, nichts anderes in der seienden Wirklichkeit zu finden als sich selbst; er ist der anderen so gewiß als seiner.",
+   "en": "In the universal spirit, therefore, each has only the certainty of himself, of finding nothing other than himself in existing actuality; he is as certain of the others as of himself.",
+   "zh": "所以，在普遍的精神中，每个人都只有对自己的确定性，即在存在着的现实性中除了自己什么也找不到；他对他人就像对自己一样确定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 5,
+   "si": 9,
+   "de": "– Ich schaue es in allen an, daß sie für sich selbst nur diese selbständigen Wesen sind, als ich es bin; ich schaue die freie Einheit mit den anderen in ihnen so an, daß sie wie durch mich, so durch die anderen selbst ist, – sie als mich, mich als sie.",
+   "en": "– I intuit it in all of them, that they are for themselves only these independent essences, as I am; I intuit the free unity with the others in them in such a way that it is as much through me as through the others themselves, – them as me, me as them.",
+   "zh": "——我在所有人身上直观到：他们自为地就只是这些独立的本质，正如我也是这样；我在他们身上这样直观到与他人的自由统一：它既通过我、也通过他人自己而存在——他们作为我，我作为他们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 6,
+   "si": 0,
+   "de": "In einem freien Volke ist darum in Wahrheit die Vernunft verwirklicht; sie ist gegenwärtiger lebendiger Geist, worin das Individuum seine Bestimmung, d.h. sein allgemeines und einzelnes Wesen, nicht nur ausgesprochen und als Dingheit vorhanden findet, sondern selbst dieses Wesen ist und seine Bestimmung auch erreicht hat.",
+   "en": "In a free people, therefore, reason is truly actualized; it is present living spirit, in which the individual finds its determination, i.e. its universal and single essence, not only expressed and present as thinghood, but is itself this essence and has also attained its determination.",
+   "zh": "因此，在一个自由的民族中，理性才真正得到现实化；它是当前活生生的精神，个体在这种精神中不仅发现自己的规定，也就是自己的普遍的和个别的本质，被说出并作为物性而存在，而且自己就是这种本质，并且也已经达到了自己的规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 6,
+   "si": 1,
+   "de": "Die weisesten Männer des Altertums haben darum den Ausspruch getan: daß die Weisheit und die Tugend darin bestehen, den Sitten seines Volks gemäß zu leben.",
+   "en": "The wisest men of antiquity therefore made the pronouncement: that wisdom and virtue consist in living in accordance with the customs of one's people.",
+   "zh": "所以，古代最有智慧的人作出过这样的说法：智慧和德行就在于按照自己民族的风俗生活。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 7,
+   "si": 0,
+   "de": "Aus diesem Glücke aber, seine Bestimmung erreicht zu haben und in ihr zu leben, ist das Selbstbewußtsein, welches zunächst nur unmittelbar und dem Begriffe nach Geist ist, herausgetreten, oder auch es hat es noch nicht erreicht; denn beides kann auf gleiche Weise gesagt werden.",
+   "en": "But out of this happiness of having attained its determination and living in it, self-consciousness, which at first is spirit only immediately and according to the concept, has stepped forth, or else it has not yet attained it; for both can be said in the same way.",
+   "zh": "但是，自我意识——它起初只是直接地、并且按照概念才是精神——已经走出了这种幸福，即达到了自己的规定并在其中生活，或者说它也还没有达到这种幸福；因为两者都可以同样地说。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 8,
+   "si": 0,
+   "de": "Die Vernunft muß aus diesem Glücke heraustreten; denn nur an sich oder unmittelbar ist das Leben eines freien Volks die reale Sittlichkeit, oder sie ist eine seiende, und damit ist auch dieser allgemeine Geist selbst ein einzelner, das Ganze der Sitten und Gesetze, eine bestimmte sittliche Substanz, welche erst in dem höheren Momente, nämlich im Bewußtsein über ihr Wesen, die Beschränkung auszieht und nur in diesem Erkennen ihre absolute Wahrheit hat, nicht aber unmittelbar in ihrem Sein; in diesem ist sie teils eine beschränkte, teils ist die absolute Beschränkung eben dies, daß der Geist in der Form des Seins ist.",
+   "en": "Reason must step out of this happiness; for the life of a free people is real ethical life only in itself, or immediately, or it is one that exists, and thereby this universal spirit itself is also a single one, the whole of customs and laws, a determinate ethical substance, which only in the higher moment, namely in the consciousness of its essence, draws off the limitation and has its absolute truth only in this cognition, but not immediately in its being; in the latter it is on the one hand a limited one, on the other hand the absolute limitation is precisely this, that spirit is in the form of being.",
+   "zh": "理性必须走出这种幸福；因为一个自由民族的生命只是在自在中、或直接地才是实在的伦理，或者说它是存在着的伦理，而这样一来，这个普遍的精神本身也就成了一个单个的东西，即风俗和法则的整体，一个特定的伦理实体，它只有在那更高的环节中，也就是在对其本质的意识中，才脱下那限制，并且只有在这种认识中才拥有自己的绝对真理，而不是直接地在自己的存在中；在存在中，它一方面是受限制的，另一方面，那绝对的限制恰恰就是：精神处在存在的形式中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 9,
+   "si": 0,
+   "de": "Ferner ist daher das einzelne Bewußtsein, wie es unmittelbar seine Existenz in der realen Sittlichkeit oder in dem Volke hat, ein gediegenes Vertrauen, dem sich der Geist nicht in seine abstrakten Momente aufgelöst hat und das sich also auch nicht als reine Einzelheit für sich zu sein weiß.",
+   "en": "Further, therefore, the single consciousness, as it immediately has its existence in real ethical life or in the people, is a solid trust, for which spirit has not dissolved itself into its abstract moments, and which therefore also does not know itself as being for itself as pure singleness.",
+   "zh": "此外，因此，单个的意识，就它直接地在实在的伦理中、在民族中拥有自己的存在而言，是一种坚实的信任，精神还没有为它分解成自己的抽象环节，所以它也不知道自己就是作为纯粹的个别性而自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 9,
+   "si": 1,
+   "de": "Ist es aber zu diesem Gedanken gekommen, wie es muß, so ist diese unmittelbare Einheit mit dem Geiste oder sein Sein in ihm, sein Vertrauen verloren; es für sich isoliert ist sich nun das Wesen, nicht mehr der allgemeine Geist.",
+   "en": "But if it has come to this thought, as it must, then this immediate unity with spirit, or its being in spirit, its trust, is lost; it, isolated for itself, is now the essence to itself, no longer the universal spirit.",
+   "zh": "但是，如果它已经达到了这一思想，正如它必然会达到的那样，那么它同精神的这种直接统一、或者说它在精神中的存在、它的信任就丧失了；它自为地孤立起来，现在对它来说就是本质，而不再是那普遍的精神。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 9,
+   "si": 2,
+   "de": "Das Moment dieser Einzelheit des Selbstbewußtseins ist zwar in dem allgemeinen Geiste selbst, aber nur als eine verschwindende Größe, die, wie sie für sich auftritt, in ihm ebenso unmittelbar sich auflöst und nur als Vertrauen zum Bewußtsein kommt.",
+   "en": "The moment of this singleness of self-consciousness is indeed in the universal spirit itself, but only as a vanishing magnitude, which, as it appears for itself, just as immediately dissolves itself in spirit and comes to consciousness only as trust.",
+   "zh": "自我意识的这种个别性的环节虽然在普遍的精神本身之中，但只是一个消失着的量，它一旦自为地出现，就同样直接地在精神中自行消解，并且只是作为信任才进入意识。"
+  }
+ ]
+}

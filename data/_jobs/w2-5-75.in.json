@@ -1,0 +1,37 @@
+{
+ "id": "w2-5-75",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "Notizenblatt. 108) Besonderer Zweck des Blatts",
+ "heading": "Notizenblatt.108) Besonderer Zweck des Blatts",
+ "blocks": [
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "1wfbpn4dbo",
+   "sents": [
+    "Schließlich können wir uns nicht enthalten, ein Stück aus der empirischen Psychologie dieses Skeptizismus, nämlich die Art, wie er das Verhältnis des Genies und der Phantasie zur Philosophie sich vorstellt, auszuheben.",
+    "In der Vorrede S. XXIV, erklärt sich Herr Schulze wegen seines Vortrags dahin, daß Blumen der Beredsamkeit in Behandlungen der Fragen der spekulativen Philosophie sehr übel angebracht seien, denn sie leiten die Vernunft irre und mischen die Phantasie in das Geschäft der Vernunft ein; wenn es daher auch in seinem Vermögen gestanden hätte, den Vortrag dieser Kritik durch einen beredten und bilderreichen Ausdruck noch mehr zu beleben und anziehender zu machen, so würde er keinen Gebrauch davon gemacht haben. - Von Leibniz sagt der Herr Verfasser S. 91 f., daß, wenn das Geschäft der Vernunft beim Philosophieren darin bestünde, durch kühne und angenehm unterhaltende Dichtungen über eine vorgeblich hinter der Sinnenwelt verborgen liegende transzendentale Welt es fast noch der Phantasie in ihrem höchsten Fluge, den sie nur nehmen mag, zuvorzutun und diesen Dichtungen durch Hilfe gewisser Begriffe Einheit und Zusammenhang zu geben, so hätte Leibniz kein einziger Philosoph erreicht, viel weniger übertroffen; es scheine, daß die Natur an ihm habe zeigen wollen, daß es bei der Erreichung des obersten Zwecks der Erkenntniskräfte nicht bloß auf den Besitz großer Naturgaben ankomme und daß ein von der Natur wenig begünstigter Kopf, wenn er seine Kräfte nur gehörig gebraucht, es hierin dem Genie nicht nur gleich, sondern auch wohl noch oft zuvortun könne; Herr Schulze meint, es würde wohl auch nicht viel herausgekommen sein, etwa nur neuplatonische Schwärmereien, wenn Leibniz seine Philosopheme selbst zu einem System ausgebildet hätte. - Von Kant spricht Herr Schulze darum mit der größten Ehrerbietung, daß die Kritik der reinen Vernunft das Produkt einer kein Hindernis scheuenden und allein durch den freien Entschluß ihres Verfassers entstandenen Anstrengung der Denkkraft sei und daß Genie und glücklicher Zufall (als ob es noch für etwas anderes als für das Genie einen glücklichen Zufall geben könnte!) wohl die geringsten Ansprüche auf die Ausführung des zum Grunde liegenden Plans machen können."
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "ippjlexumg",
+   "sents": [
+    "Die Verachtung des Genies und großer Naturgaben, diese Meinung, als ob die Phantasie nur etwa dem Vortrage der Philosophie Blumen der Beredsamkeit liefere, als ob die Vernunft dichte - in dem Sinne, in welchem etwa Zeitungslügen erdichtet werden - oder, wenn sie über die gemeine Wirklichkeit hinaus erdichte, Hirngespinste, Schwärmereien, theosophische Grillen produziere, daß sie es der Phantasie, selbst wenn diese im höchsten Fluge dichte, im Dichten noch zuvortun könne, - man weiß nicht, ob die Barbarei und die Naivität, mit welcher sie der Genielosigkeit applaudiert, oder die Gemeinheit der Begriffe größer ist.",
+    "Wenn wir die Verachtung großer Naturgaben Barbarei nennen, so meinen wir nicht jene natürliche Barbarei, die jenseits der Kultur liegt, denn sie ehrt das Genie als etwas Göttliches und achtet es als ein Licht, das in die Dumpfheit ihres Bewußtseins eindringt, - sondern die Barbarei der Kultur, die gemachte Roheit, welche sich eine absolute Grenze schafft und innerhalb dieser Borniertheit das Unbegrenzte der Natur verachtet und, wo sie erkennend [sich] ausspricht, Verstand ist.",
+    "Was die Begriffe betrifft, so stammen sie aus jener empirischen Psychologie her, welche den Geist in Qualitäten auseinanderwirft und also kein Ganzes und kein Genie und Talent unter diesen Qualitäten findet, sondern ihn wie einen Sack voll Vermögen darstellt, deren jedes etwas Besonderes, eines Vernunft ohne Anschauung, getrennt von Phantasie, ein anderes eine Phantasie ohne Vernunft ist und deren Leerheit sich nur mit Sachen durch schwere Arbeit erfüllen kann und in seinem sachlichen und dinglichen Erfülltsein allein seinen Wert hat.",
+    "Der Verstand bleibt denn unter den anderen Vermögen, die den Seelensack des Subjekts bewohnen, das vortrefflichste, weil er alles in Sachen, teils Begriffe teils Dinge zu verwandeln versteht; so geht denn auch dieser Verstand (wie er in den zwei ersten erzählenden Alphabeten fremde Sachen vorlegt) durch die zwei kritisierenden Alphabete in seinem eintönigen, alles in Begriffe und draußen existierende Dinge zerreißenden Geschäfte ohne alle Erquickung durch eine Vernunftidee, ohne Phantasie, ohne Glück in einem fortschallenden, sinnbenebelnden, narkotischen, drückenden Tone fort, von einer Wirkung, als ob man durch ein Feld von blühendem Hyoszyamus wandelte, dessen betäubenden Düften keine Anstrengung widerstehen kann und wo man von keinem belebenden Strahle, auch nur in der Gestalt einer Ahnung, angeregt wird."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/5.p75.json"
+}

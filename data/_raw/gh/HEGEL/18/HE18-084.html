@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>a. Antisthenes - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/18/HE18-084.html","collection":"hegel","title":"a. Antisthenes","lang":"de","prev":{"file":"HE18-083.html","title":"3. Die kynische Schule"},"next":{"file":"HE18-085.html","title":"b. Diogenes"},"volPath":"/docs/HEGEL/18/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/18/">Werke 18</a><span class="crumb-sep">/</span><span class="crumb current">HE18-084.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h6 class="h7" id="h84-1"> a. Antisthenes </h6> <p><i>Antisthenes</i> ist der erste, der als Kyniker auftritt, ein Athener und Freund des Sokrates. Er lebte und lehrte zu Athen "in einem Gymnasium, das Kynosarges hieß; er ist ἁπλοϰύων, der einfache Hund, genannt worden. Seine Mutter war aus Thrakien; dies wurde ihm oft vorgeworfen", - ein Vorwurf, der bei uns unschicklich ist. "Er antwortete: Die Mutter der Götter war eine Phrygierin, und die Athenienser, die sich soviel darauf einbilden, Eingeborene zu sein, sind um nichts edler als die eingeborenen Muscheln und Heuschrecken. Er hat sich bei Gorgias und Sokrates gebildet, ging aus dem Piraios täglich in die Stadt, den Sokrates zu hören."<sup><a href="#N_444_" id="X_444_">444)</a></sup> Er hat mehreres geschrieben und gilt nach allen <a id="S18-553"></a> Zeugen als ein höchst gebildeter, edler und strenger Mann, der es auch anfing, auf die äußerliche Ärmlichkeit der Lebensweise einen Wert zu legen. Es werden die Titel mehrerer seiner Schriften erwähnt.<sup><a href="#N_445_" id="X_445_">445)</a></sup> Die Grundsätze des Antisthenes sind einfach; der Inhalt seiner Lehre bleibt beim Allgemeinen stehen. Es ist aber überflüssig, etwas Näheres von seinen Lehren anzuführen. Sie bestehen in dergleichen schönen Reden (allgemeinen Regeln), wie daß die Tugend sich selbst genüge und nichts bedürfe als der Charakterstärke des Sokrates. "Keine Bedürfnisse haben, ist göttlich; sowenig als möglich, kommt dem Göttlichen am nächsten." "Das Gute ist schön, das Böse ist schimpflich." Die Tugend bestehe in Werken und bedürfe nicht vieler Reden und Gründe, noch Lehren. Die Bestimmung des Menschen sei ein tugendhaftes Leben. Der Weise begnüge sich mit sich selbst; denn er besitze alles, was die anderen zu besitzen scheinen. Ihm genüge seine eigene Tugend; er sei überall auf der Welt zu Hause. Wenn er des Ruhmes entbehre, so sei dies nicht für ein Übel, sondern für eine Wohltat anzusehen usf.<sup><a href="#N_446_" id="X_446_">446)</a></sup> (Die Kyrenaiker lehrten im Gegenteil, daß man allein durch das Denken Vergnügen in sich finde.) Da sehen wir denn hier schon wieder die langweilige allgemeine Rednerei von dem Weisen anheben, die von den Stoikern sowie den Epikureern dann noch mehr ausgesponnen und weitläufiger gemacht worden ist, - dem Ideale, wo es sich um das Subjekt handelt, um seine Bestimmung, um seine Befriedigung, und wo dann seine Befriedigung darein gesetzt wird, seine Bedürfnisse zu vereinfachen. </p>
+<p>Wenn Antisthenes sagt, daß die Tugend nicht der Gründe und Lehren bedürfe, so vergißt er, daß er selbst eben durch die Bildung seines Geistes sich diese Unabhängigkeit desselben erworben. Er hat es nur als Resultat der Bildung angesehen, allem zu entsagen, was die Menschen begehren. Wir sehen zugleich, daß Tugend eine andere Bedeutung erhalten <a id="S18-554"></a> hat. Sie ist nicht bewußtlose Tugend, wie die unmittelbare eines Bürgers eines freien Volkes, der seine Pflichten gegen Vaterland, Stand und Familie so erfüllt, wie Vaterland, Stand es unmittelbar fordern. Das Bewußtsein, aus sich herausgegangen, bedarf jetzt, Geist zu werden, alle Realität zu ergreifen und derselben als der seinigen bewußt zu werden oder zu begreifen. Solcherlei Zustände aber, die Unschuld oder Schönheit der Seele und dergleichen genannt werden, sind Kinderzustände, die an ihrer Stelle jetzt gepriesen werden, aus denen der Mensch, weil er vernünftig ist, heraustreten muß und aus der aufgehobenen Unmittelbarkeit sich wieder erschaffen muß. </p>
+<p>Antisthenes hat noch in dieser kynischen Philosophie eine edle gebildete Gestalt gehabt. Aber dieser Gestalt liegt dann die Roheit, die Gemeinheit des Betragens, die Schamlosigkeit sehr nahe; und in diese ist der Kynismus auch später übergegangen. Daher der viele Spott und die Späße auf die Kyniker. (Die individuelle Manier und die Stärke des Charakters der Einzelnen macht sie interessant.) Von Antisthenes schon wird erzählt, Sokrates habe zu ihm gesagt, als er ein Loch im Mantel herausgekehrt: Ich sehe durch das Loch deines Mantels deine Eitelkeit (ϕιλοδοξίαν).<sup><a href="#N_447_" id="X_447_">447)</a></sup> Sokrates sagte dem Antisthenes, er solle den Grazien opfern. </p>
+<aside class="fn">
+<p class="fni"><a href="#X_444_" id="N_444_">444)</a> M: <i class="qua">Diogenes Laertios VI, § 13; 1-2</i></p>
+<p class="fni"><a href="#X_445_" id="N_445_">445)</a> M: <i class="qua">Diogenes Laertios VI, § 15-18</i></p>
+<p class="fni"><a href="#X_446_" id="N_446_">446)</a> M: <i class="qua">Diogenes Laertios VI, § 11-12, 105</i></p>
+<p class="fni"><a href="#X_447_" id="N_447_">447)</a> M: <i class="qua">Diogenes Laertios VI, § 8; II, § 36</i></p>
+</aside>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE18-083.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">3. Die kynische Schule</span></a>
+              <a href="./HE18-085.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">b. Diogenes</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

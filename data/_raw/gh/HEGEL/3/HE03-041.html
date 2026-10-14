@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>a. Das Lichtwesen - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/3/HE03-041.html","collection":"hegel","title":"a. Das Lichtwesen","lang":"de","prev":{"file":"HE03-040.html","title":"A. Die natürliche Religion"},"next":{"file":"HE03-042.html","title":"b. Die Pflanze und das Tier"},"volPath":"/docs/HEGEL/3/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/3/">Werke 3</a><span class="crumb-sep">/</span><span class="crumb current">HE03-041.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 id="h41-1">a. Das Lichtwesen</h4>
+<p>Der Geist, als das <i>Wesen</i>, welches <i>Selbstbewußtsein</i> ist – oder das selbstbewußte Wesen, welches alle Wahrheit ist und alle Wirklichkeit als sich selbst weiß –, ist gegen die Realität, die er in der Bewegung seines Bewußtseins sich gibt, nur erst <i>sein Begriff</i>; und dieser Begriff ist gegen den Tag dieser Entfaltung die Nacht seines Wesens, gegen das Dasein seiner Momente als selbständiger Gestalten das schöpferische Geheimnis seiner Geburt. Dies Geheimnis hat in sich selbst seine Offenbarung; denn das Dasein hat in diesem Begriffe seine Notwendigkeit, weil er der sich wissende Geist ist, also in seinem Wesen das Moment hat, Bewußtsein zu sein und sich gegenständlich vorzustellen. – Es ist das reine Ich, das in seiner Entäußerung, in sich als <i>allgemeinem Gegenstande</i> die Gewißheit seiner selbst hat, oder dieser Gegenstand ist für es die Durchdringung alles Denkens und aller Wirklichkeit.</p>
+<p>In der unmittelbaren ersten Entzweiung des sich wissenden absoluten Geistes hat seine Gestalt diejenige Bestimmung, welche dem <i>unmittelbaren Bewußtsein</i> oder der <i>sinnlichen</i> Gewißheit zukommt. Er schaut sich in der Form des <i>Seins</i> an, jedoch nicht des geistlosen, mit zufälligen Bestimmungen<a id="S505"></a> der Empfindung erfüllten <i>Seins</i>, das der sinnlichen Gewißheit angehört, sondern es ist das mit dem Geiste erfüllte Sein. Es schließt ebenso die Form in sich, welche an dem unmittelbaren <i>Selbstbewußtsein</i> vorkam, die Form des <i>Herrn</i> gegen das von seinem Gegenstande zurücktretende Selbstbewußtsein des Geistes. – Dies mit dem Begriffe des Geistes erfüllte <i>Sein</i> ist also die<i> Gestalt</i> der <i>einfachen</i> Beziehung des Geistes auf sich selbst oder die Gestalt der Gestaltlosigkeit. Sie ist vermöge dieser Bestimmung das reine, alles enthaltende und erfüllende <i>Lichtwesen</i> des Aufgangs, das – sich in seiner formlosen Substantialität erhält. Sein Anderssein ist das ebenso einfache Negative, die <i>Finsternis</i>; die Bewegungen seiner eigenen Entäußerung, seine Schöpfungen in dem widerstandslosen Elemente seines Andersseins sind Lichtgüsse; sie sind in ihrer Einfachheit zugleich sein Fürsichwerden und Rückkehr aus seinem Dasein, die Gestaltung verzehrende Feuerströme. Der Unterschied, den es sich gibt, wuchert zwar in der Substanz des Daseins fort und gestaltet sich zu den Formen der Natur; aber die wesentliche Einfachheit seines Denkens schweift bestandlos und unverständig in ihnen umher, erweitert ihre Grenzen zum Maßlosen und löst ihre zur Pracht gesteigerte Schönheit in ihrer Erhabenheit auf.</p>
+<p>Der Inhalt, den dies reine <i>Sein</i> entwickelt, oder sein Wahrnehmen ist daher ein wesenloses Beiherspielen an dieser Substanz, die nur <i>aufgeht</i>, ohne in sich <i>niederzugehen</i>, Subjekt zu werden und durch das Selbst ihre Unterschiede zu befestigen. Ihre Bestimmungen sind nur Attribute, die nicht zur Selbständigkeit gedeihen, sondern nur Namen des vielnamigen Einen bleiben. Dieses ist mit den mannigfachen Kräften des Daseins und den Gestalten der Wirklichkeit als mit einem selbstlosen Schmucke angekleidet; sie sind nur eigenen Willens entbehrende Boten seiner Macht, Anschauungen seiner Herrlichkeit und Stimmen seines Preises. Dies taumelnde Leben aber muß sich zum<i> Fürsichsein</i> bestimmen und seinen verschwindenden Gestalten Bestehen<a id="S506"></a> geben. Das <i>unmittelbare Sein</i>, in welchem es sich seinem Bewußtsein gegenüberstellt, ist selbst die <i>negative</i> Macht, die seine Unterschiede auflöst. Es ist also in Wahrheit das <i>Selbst</i>; und der Geist geht darum dazu über, sich in der Form des Selbsts zu wissen. Das reine Licht wirft seine Einfachheit als eine Unendlichkeit von Formen auseinander und gibt sich dem Fürsichsein zum Opfer dar, daß das Einzelne sich das Bestehen an seiner Substanz nehme.<a id="S507"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE03-040.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">A. Die natürliche Religion</span></a>
+              <a href="./HE03-042.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">b. Die Pflanze und das Tier</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

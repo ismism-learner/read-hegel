@@ -1,0 +1,101 @@
+{
+ "id": "w1-13-19",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "[Systemfragment von 1800] 126)",
+ "heading": "4.",
+ "blocks": [
+  {
+   "bi": 19,
+   "k": "h",
+   "hash": "10led6f1i3",
+   "text": "4."
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "yrcou11utw",
+   "sents": [
+    "Thukydides B, λ ς: τὰ δὲ πλείω αὐτη ͂ς (ὅσην ἔχομεν ἀρχὴν) αὐτοὶ ἡμει ͂ς οἵδε οἱ νυ ͂ν ἔτι ὄντες μάλιστα κ. τ. λ.132) So kann nur die Volksversammlung eines kleinen Freistaats sprechen.",
+    "Vor ihr und von ihrem Munde haben solche \"Wir\" völlige Wahrheit.",
+    "In größeren Republiken sind sie immer sehr eingeschränkt.",
+    "Das Wir ist denen, die es aussprechen, immer um so fremder, je größer die Menge ihrer Mitbürger ist.",
+    "Der Anteil jedes Einzelnen an einer Tat ist so gering, daß er von ihr als seiner Tat fast gar nicht sprechen kann.",
+    "Der Anteil am Ruhm seiner Nation ist größer, aber es heißt nur: ich gehöre zur Nation, nicht: ich bin.",
+    "Dies Ganze übt eine Herrschaft über ihn aus, unter der er steht.",
+    "Ein freies großes Volk ist daher insofern ein Widerspruch in sich selbst.",
+    "Das Volk ist die Gesamtheit aller Einzelnen, und alle Jede[r] sind immer vom Ganzen Beherrschte.",
+    "Ihre Tat, das, was die Tat eines Jeden ist, ist ein unendlich kleines Fragment einer Nationalhandlung."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "h",
+   "hash": "18wzahmpgz",
+   "text": "5."
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1r3gaiv1eq",
+   "sents": [
+    "Achilles starb, durch einen Pfeil in der Ferse verwundet.",
+    "Er hätte ebensogut an jedem übrigen Punkt des Körpers verwundet werden können.",
+    "Die Wunde an jenem Teil war also höchster Zufall.",
+    "Durch die Richtung des Pfeiles war sie durchaus bestimmt.",
+    "Aber der getroffene war in Rücksicht der übrigen Teile (auf die er, da er mit ihnen ein Ganzes ausmacht, notwendig bezogen werden muß) als verwundeter getroffener Teil unterschieden.",
+    "Diese Möglichkeit der übrigen, verwundet werden zu können, und die entgegengesetzte Wirklichkeit, nicht verwundet zu sein, sowie die Wirklichkeit des Verwundetseins der Ferse und ihre entgegengesetzte Möglichkeit, auch nicht verwundet zu werden, vereinigen die Griechen in der Einbildungskraft durch den Mythos, das Eintauchen Achills in den Lethe, nach welchem die nicht verwundeten Teile zugleich nicht verwundet werden konnten und der verwundete Teil allein nur verwundet werden konnte."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "h",
+   "hash": "131qzp1dex",
+   "text": "6."
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1l1xb733gm",
+   "sents": [
+    "Ehe Lykurg, nach einer Abwesenheit von zehn Jahren, nach Sparta zurückkehrte, um den vollendeten Plan seiner Gesetzgebung jetzt auszuführen, fragte er wegen derselben das Orakel zu Delphi.",
+    "Die Pythia nannte ihn im Namen Apolls einen Freund und Liebling der Götter.",
+    "Sie sagte ihm, er sei mehr ein Gott als ein Mensch.",
+    "Sie erklärte ihm, Apollo billige den Plan, den er gemacht habe; könne er die Annahme seiner Gesetze zustande bringen, so würde es auf der Welt keine besser eingerichtete Republik geben als die lakedämonische. - Nachdem er nun seine Gesetze allmählich eingeführt hatte, begab er sich wieder zum Orakel, das den Ausspruch tat, daß er hinlänglich dafür gesorgt habe, die Lakedämonier ebenso glücklich als tugendhaft zu machen, und daß, wenn sie beständig seine Gesetze halten würden, sie eines ewigen Ruhms und Glücks genießen würden. - Wären die Lakedämonier und die übrigen Griechen fähig gewesen, positiven göttlichen Gesetzen sich zu unterwerfen, ja, nur einen Begriff derselben zu haben, hätten die Lakedämonier [dann] nicht die anderen Griechen verpflichten, nicht ihnen predigen sollen, ihre Verfassung, die ein Ausspruch des allgemeinen Orakels für die vollkommenste erklärt hatte, gleichfalls anzunehmen?",
+    "Hätten die übrigen, um konsequent zu sein, nicht dieselbe annehmen müssen? - Aber die Griechen waren eine freie Nation, die selbst von keinem Gotte sich Gesetze geben ließen.",
+    "Dieser Beweggrund, die Bestätigung durch die Gottheit, war ihnen fremd."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "h",
+   "hash": "18x5lhkksa",
+   "text": "7."
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "1grtziv1g1",
+   "sents": [
+    "Nach dem Untergange römischer und griechischer Freiheit, als den Menschen die Herrschaft ihrer Ideen über die Objekte genommen war, trennte sich der Genius der Menschheit.",
+    "Der Geist der verdorbenen Menge sagte zu den Objekten: ich bin euer, nehmt mich hin!, warf sich in den Strom derselben, ließ von ihnen sich fortreißen und ging in ihrem Wechsel unter. - Der Geist der Stoiker tat das Gegenteil.",
+    "Er sprach: ihr seid meinem Wesen fremd, das nichts von euch weiß; ich beherrsche euch in meiner Idee; ihr mögt sein, wie ihr wollt, das ist mir gleichgültig, ihr seid mir zu verächtlich, als daß ich Hand an euch legen wollte. - Andere Geister fühlten, daß die Objekte anders sein sollten, aber sie hatten nicht den Mut, sie zu ergreifen und zu bilden.",
+    "Die Übermacht derselben lastete auf ihnen und ließ ihnen nur das Gefühl ihrer Ohnmacht.",
+    "Ein Teil dieser Geister bildete sich den Sinnen unsichtbare Objekte, die er im Wahne des Volks vorfand, aber seine Ideen auf sie übertrug und zu ihnen flehte: nehmt mich auf in euer Wesen, erscheinet uns, offenbart euch uns, zieht uns zu euch, beherrscht ihr uns!",
+    "Sie hießen Theurgen. - Ein anderer Teil der letzteren Geister hörte von einem ähnlichen neuen Objekt sprechen, entfloh den äußeren Objekten, die ihm versagt waren, warf sich dem Glauben in die Arme, daß jenes Unsichtbare sie selbst und die äußeren Objekte beherrschen würde, - und hießen Christen.",
+    "Die ausgebildete Kirche hat beides, den Wunsch der Stoiker und jener in sich gebrochenen Geister, vereinigt.",
+    "Sie erlaubt dem Menschen, im Wirbel der Objekte zu leben, und verheißt durch leichte Übungen, Handgriffe, Lippenbebungen usf., zugleich über sie sich zu erheben.",
+    "Der Wunsch der Theurgen ist eigentlich nur hier und da in den Kopf sogenannter christlicher Schwärmer gekommen.",
+    "Diese Vereinigung ist nie eigentlich zum Handwerk, wie das übrige, geworden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/13.p19.json"
+}

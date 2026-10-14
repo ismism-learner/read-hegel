@@ -1,0 +1,23 @@
+{
+ "id": "w2-0-29",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Differenz des Fichteschen und Schellingschen Systems der Philosophie (1801)",
+ "heading": "Reflexion als Instrument des Philosophierens",
+ "blocks": [
+  {
+   "bi": 29,
+   "k": "h",
+   "hash": "qy7ry12d6h",
+   "text": "Reflexion als Instrument des Philosophierens"
+  }
+ ],
+ "outFile": "web/data/trans/w2/0.p29.json"
+}

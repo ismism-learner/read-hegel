@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-02",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 1,
+   "de": "Dieses Ansich oder diese Realität ist aber noch ein durchaus Allgemeines, die reine Abstraktion der Realität.",
+   "en": "But this in-itself, or this reality, is still something wholly universal, the pure abstraction of reality.",
+   "zh": "但这个自在，或者说这个实在性，还完全是普遍的东西，是实在性的纯粹抽象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 2,
+   "de": "Es ist die erste Positivität, welche das Selbstbewußtsein an sich selbst, für sich ist, und Ich daher nur die reine Wesenheit des Seienden oder die einfache Kategorie.",
+   "en": "It is the first positivity, which self-consciousness is in itself, for itself, and the I is therefore only the pure essentiality of what is existent, or the simple category.",
+   "zh": "这是第一种肯定性，自我意识自在地、自为地就是它，而“我”因此只是存在者的纯粹本质性，或者说是那个简单的范畴。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 3,
+   "de": "Die Kategorie, welche sonst die Bedeutung hatte, Wesenheit des Seienden zu sein, unbestimmt des Seienden überhaupt oder des Seienden gegen das Bewußtsein, ist jetzt Wesenheit oder einfache Einheit des Seienden nur als denkende[r] Wirklichkeit; oder sie ist dies, daß Selbstbewußtsein und Sein dasselbe Wesen ist; dasselbe nicht in der Vergleichung, sondern an und für sich.",
+   "en": "The category, which otherwise had the meaning of being the essentiality of what is existent, indeterminate whether of what is existent in general or of what is existent over against consciousness, is now the essentiality or simple unity of what is existent only as thinking actuality; or it is this, that self-consciousness and being are the same essence; the same not in comparison, but in and for itself.",
+   "zh": "范畴过去的意义是充当存在者的本质性，并没有确定这存在者是存在者一般、还是与意识相对的存在者，现在它只是作为思维着的现实性的存在者的本质性或简单统一；或者说，它就是这一点：自我意识和存在是同一个本质；这同一个东西不是在比较中，而是自在自为地是同一个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 4,
+   "de": "Nur der einseitige schlechte Idealismus läßt diese Einheit wieder als Bewußtsein auf die eine Seite und ihr gegenüber ein Ansich treten.",
+   "en": "Only one-sided, bad idealism again lets this unity step onto one side as consciousness and, over against it, an in-itself.",
+   "zh": "只有片面的、坏的观念论才又让这种统一作为意识落到一边，并在它对面放上一个自在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 5,
+   "de": "– Diese Kategorie nun oder einfache Einheit des Selbstbewußtseins und des Seins hat aber an sich den Unterschied; denn ihr Wesen ist eben dieses, im Anderssein oder im absoluten Unterschiede unmittelbar sich selbst gleich zu sein.",
+   "en": "— But this category, or simple unity of self-consciousness and being, has difference in itself; for its essence is precisely this, to be immediately equal to itself in otherness, or in absolute difference.",
+   "zh": "——但这个范畴，或者说自我意识和存在的简单统一，自在地就具有差别；因为它的本质恰恰就是这一点：在他在中，或者在绝对的差别中，直接地与自己相同一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 6,
+   "de": "Der Unterschied ist daher, aber vollkommen durchsichtig und als ein Unterschied, der zugleich keiner ist.",
+   "en": "The difference therefore is, but it is completely transparent, and as a difference that is at the same time none.",
+   "zh": "所以差别是存在的，但它完全透明，而且是这样一种差别：它同时又不是差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 7,
+   "de": "Er erscheint als eine Vielheit von Kategorien.",
+   "en": "It appears as a multiplicity of categories.",
+   "zh": "它显现为范畴的杂多。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 8,
+   "de": "Indem der Idealismus die einfache Einheit des Selbstbewußtseins als alle Realität ausspricht und sie unmittelbar, ohne sie als absolut negatives Wesen – nur dieses hat die Negation, die Bestimmtheit oder den Unterschied an ihm selbst – begriffen zu haben, zum Wesen macht, so ist noch unbegreiflicher als das erste dies zweite, daß in der Kategorie Unterschiede oder Arten seien.",
+   "en": "In that idealism expresses the simple unity of self-consciousness as all reality and makes it immediately into the essence, without having comprehended it as absolutely negative essence — only this has negation, determinacy, or difference on itself — this second is even more incomprehensible than the first, namely that in the category there are differences or kinds.",
+   "zh": "观念论把自我意识的简单统一说成一切实在性，并且在还没有把它作为绝对否定的本质——只有这种本质才在自身那里具有否定、规定性或差别——来以概念把握的情况下，就把它直接当成本质，那么这第二点，即范畴中竟有差别或种类，就比第一点更加不可理解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 9,
+   "de": "Diese Versicherung überhaupt sowie die Versicherung von irgendeiner bestimmten Anzahl der Arten derselben ist eine neue Versicherung, welche es aber an ihr selbst enthält, daß man sie sich nicht mehr als Versicherung gefallen lassen müsse.",
+   "en": "This assurance in general, as well as the assurance of any determinate number of the kinds of the same, is a new assurance, but it contains in itself that one must no longer put up with it as an assurance.",
+   "zh": "这种一般性的保证，以及关于这些种类的某个确定数目的保证，是一种新的保证，但它自身就包含着这一点：人们不必再把它当作保证来接受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 10,
+   "de": "Denn indem im reinen Ich, im reinen Verstande selbst der Unterschied anfängt, so ist damit gesetzt, daß hier die Unmittelbarkeit, das Versichern und Finden aufgegeben werde und das Begreifen anfange.",
+   "en": "For in that difference begins in the pure I, in pure understanding itself, it is thereby posited that here immediacy, assuring and finding, is given up and comprehending begins.",
+   "zh": "因为差别在纯粹的我中、在纯粹知性本身中开始出现，这也就设定了：在这里，直接性、保证和发现都被放弃，而以概念把握开始了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 11,
+   "de": "Die Vielheit der Kategorien aber auf irgendeine Weise wieder als einen Fund, z. B. aus den Urteilen, aufnehmen und sich dieselben so gefallen lassen, ist in der Tat als eine Schmach der Wissenschaft anzusehen; wo sollte noch der Verstand eine Notwendigkeit aufzuzeigen vermögen, wenn er dies an ihm selbst, der reinen Notwendigkeit, nicht vermag?",
+   "en": "But to take up the multiplicity of the categories again in some way as a find, for example out of the judgments, and to put up with them in that way, is in fact to be regarded as a disgrace of science; where should understanding still be able to show a necessity, if it is not capable of this in itself, in pure necessity?",
+   "zh": "但是，把范畴的杂多又以某种方式当作现成的发现，例如从判断中拿来，并且就这样接受下来，这实际上必须看作科学的一种耻辱；如果知性在它自身、在纯粹必然性那里都做不到这一点，它还能在哪里指出一种必然性呢？"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 0,
+   "de": "Weil nun so der Vernunft die reine Wesenheit der Dinge, wie ihr Unterschied, angehört, so könnte eigentlich überhaupt nicht mehr von Dingen die Rede sein, d.h. einem solchen, welches für das Bewußtsein nur das Negative seiner selbst wäre.",
+   "en": "Since in this way the pure essentiality of things, as well as their difference, belongs to reason, there properly could no longer be any talk of things at all, that is, of something that would be for consciousness only the negative of itself.",
+   "zh": "既然这样一来，物的纯粹本质性以及它们的差别都属于理性，那么本来根本就再也不能说到物了，也就是说，再也不能说到这样一种东西：它对意识来说只是它自身的否定物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 1,
+   "de": "Denn die vielen Kategorien sind Arten der reinen Kategorie, heißt: sie ist noch ihre Gattung oder Wesen, nicht ihnen entgegengesetzt.",
+   "en": "For the many categories are kinds of the pure category, means: it is still their genus or essence, not opposed to them.",
+   "zh": "因为众多范畴是纯粹范畴的种类，意思是说：纯粹范畴还是它们的属或本质，并没有与它们相对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 2,
+   "de": "Aber sie sind schon das Zweideutige, welches zugleich das Anderssein gegen die reine Kategorie in seiner Vielheit an sich hat.",
+   "en": "But they are already the ambiguous, which at the same time has in itself otherness over against the pure category in its multiplicity.",
+   "zh": "但它们已经是那种双义的东西，它同时自在地具有针对纯粹范畴的他在，而且是在它的杂多中的他在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 3,
+   "de": "Sie widersprechen ihr durch diese Vielheit in der Tat, und die reine Einheit muß sie an sich aufheben, wodurch sie sich als negative Einheit der Unterschiede konstituiert.",
+   "en": "They do in fact contradict it through this multiplicity, and the pure unity must sublate them in itself, whereby it constitutes itself as negative unity of the differences.",
+   "zh": "通过这种杂多，它们实际上与纯粹范畴相矛盾，而纯粹统一必须在自身中扬弃它们，由此它就把自己建构为诸差别的否定的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 4,
+   "de": "Als negative Einheit aber schließt sie ebensowohl die Unterschiede als solche sowie jene erste unmittelbare reine Einheit als solche von sich aus und ist Einzelheit, eine neue Kategorie, welche ausschließendes Bewußtsein, d.h. dies ist, daß ein Anderes für es ist.",
+   "en": "But as negative unity it excludes from itself both the differences as such and that first immediate pure unity as such, and is individuality, a new category, which is excluding consciousness, that is, this: that an other is for it.",
+   "zh": "但作为否定的统一，它既把那些差别本身、也把那个最初的直接的、纯粹的统一本身，都从自己那里排除出去，并且它就是个别性，是一个新的范畴，而这个范畴是排斥性的意识，也就是说，这就是：有一个他者是为它而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 5,
+   "de": "Die Einzelheit ist ihr Obergang aus ihrem Begriffe zu einer äußeren Realität, das reine Schema, welches ebensowohl Bewußtsein wie damit, daß es Einzelheit und ausschließendes Eins ist, das Hindeuten auf ein Anderes ist.",
+   "en": "Individuality is its transition from its concept to an external reality, the pure schema, which is just as much consciousness as, in that it is individuality and excluding one, a pointing to an other.",
+   "zh": "个别性是它从自己的概念向一种外在实在性的过渡，是纯粹的图式，这个图式既是意识，又由于它是个别性、是排斥性的一，所以也是对一个他者的指向。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 6,
+   "de": "Aber dies Andere dieser Kategorie sind nur die anderen ersten Kategorien, nämlich reine Wesenheit und der reine Unterschied, und in ihr, d.h. eben in dem Gesetztsein des Anderen, oder in diesem Anderen selbst [ist] das Bewußtsein ebenso es selbst, Jedes dieser verschiedenen Momente verweist auf ein anderes; es kommt aber In ihnen zugleich zu keinem Anderssein.",
+   "en": "But this other of this category is only the other first categories, namely pure essentiality and pure difference, and in it, that is, precisely in the being-posited of the other, or in this other itself, consciousness is likewise itself; each of these different moments refers to an other; but in them it at the same time comes to no otherness.",
+   "zh": "但这个范畴的这个他者只是那些最初的其他范畴，即纯粹本质性和纯粹差别，而在它之中，也就是说，恰恰在他者被设定这一点上，或者在这个他者本身之中，意识同样就是它自己；这些不同环节中的每一个都指向另一个；但在它们之中，同时并不产生任何他在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 7,
+   "si": 7,
+   "de": "Die reine Kategorie verweist auf die Arten, welche in die negative Kategorie oder die Einzelheit übergehen; die letztere weist aber auf jene zurück: sie ist selbst reines Bewußtsein, welches in jeder sich diese klare Einheit mit sich bleibt, eine Einheit aber, die ebenso auf ein Anderes hingewiesen wird, das, indem es ist, verschwunden und, indem es verschwunden, auch wieder erzeugt ist.",
+   "en": "The pure category refers to the kinds, which pass over into the negative category or individuality; the latter, however, refers back to those: it is itself pure consciousness, which in each remains this clear unity with itself, but a unity that is likewise pointed to an other, which, in being, has vanished and, in having vanished, is again produced.",
+   "zh": "纯粹范畴指向那些种类，这些种类过渡为否定的范畴或个别性；但后者又反过来指向它们：它本身就是纯粹意识，它在每一个中始终保持这种与自己的清晰统一，但这又是一种同样被指向一个他者的统一，而这个他者存在着就已经消失，消失了就又重新被产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 8,
+   "si": 0,
+   "de": "Wir sehen hier das reine Bewußtsein auf eine gedoppelte Weise gesetzt, einmal als das unruhige Hin- und Hergehen, welches alle seine Momente durchläuft, in ihnen das Anderssein vorschweben hat, das im Erfassen sich aufhebt; das andere Mal vielmehr als die ruhige, ihrer Wahrheit gewisse Einheit.",
+   "en": "We see pure consciousness here posited in a doubled way, on the one hand as the restless going back and forth, which runs through all its moments, has otherness hovering before it in them, which sublates itself in the grasping; on the other hand rather as the calm unity certain of its truth.",
+   "zh": "我们在这里看到纯粹意识被以双重方式设定：一方面是不安地来回走动，它遍历自己所有的环节，在这些环节中让他在浮现于眼前，而这个他在在把握中扬弃自己；另一方面则毋宁是那种平静的、确信自己真理的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 8,
+   "si": 1,
+   "de": "Für diese Einheit ist jene Bewegung das Andere, für diese Bewegung aber jene ruhige Einheit; und Bewußtsein und Gegenstand wechseln in diesen gegenseitigen Bestimmungen ab.",
+   "en": "For this unity that movement is the other, for this movement, however, that calm unity; and consciousness and object alternate in these mutual determinations.",
+   "zh": "对这种统一来说，那个运动是他者，而对那个运动来说，这种平静的统一是他者；而意识和对象在这些相互的规定中交替。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 8,
+   "si": 2,
+   "de": "Das Bewußtsein ist sich also einmal das hin- und hergehende Suchen und sein Gegenstand das reine Ansich und Wesen; das andere Mal ist sich jenes die einfache Kategorie und der Gegenstand die Bewegung der Unterschiede.",
+   "en": "Consciousness is thus on the one hand the going back and forth searching and its object the pure in-itself and essence; on the other hand that searching is for it the simple category and the object the movement of the differences.",
+   "zh": "所以，意识一方面是那种来回走动的寻找，而它的对象是纯粹的自在和本质；另一方面，这种寻找对它来说就是简单的范畴，而对象则是诸差别的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 8,
+   "si": 3,
+   "de": "Das Bewußtsein aber als Wesen ist dieser ganze Verlauf selbst, aus sich als einfacher Kategorie in die Einzelheit und den Gegenstand überzugehen und an diesem diesen Verlauf anzuschauen, ihn als einen unterschiedenen aufzuheben, sich zuzueignen, und sich als diese Gewißheit, alle Realität, sowohl es selbst als sein Gegenstand zu sein, auszusprechen.",
+   "en": "But consciousness as essence is this whole course itself, to pass over from itself as simple category into individuality and the object, and to intuit this course on that object, to sublate it as a differentiated one, to appropriate it to itself, and to express itself as this certainty, all reality, to be both itself and its object.",
+   "zh": "但作为本质的意识本身就是这整个进程：从作为简单范畴的自己过渡到个别性和对象，并在对象上直观这整个进程，把它作为一个有差别的东西加以扬弃，把它据为己有，并且把自己表达为这种确定性：自己是全部实在性，既是它自己、又是它的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 0,
+   "de": "Sein erstes Aussprechen ist nur dieses abstrakte leere Wort, daß alles sein ist.",
+   "en": "Its first utterance is only this abstract empty word, that everything is its own.",
+   "zh": "它的第一次说出的话，只是这个抽象空洞的词：一切东西都是它自己的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 1,
+   "de": "Denn die Gewißheit, alle Realität zu sein, ist erst die reine Kategorie.",
+   "en": "For the certainty of being all reality is at first the pure category.",
+   "zh": "因为确信自己是一切实在性这种确定性，最初还只是纯粹范畴。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 2,
+   "de": "Diese erste im Gegenstande sich erkennende Vernunft drückt der leere Idealismus aus, welcher die Vernunft nur so auffaßt, wie sie sich zunächst ist, und darin, daß er in allem Sein dieses reine Mein des Bewußtseins aufzeigt und die Dinge als Empfindungen oder Vorstellungen ausspricht, es als vollendete Realität aufgezeigt zu haben wähnt.",
+   "en": "Empty idealism expresses this first reason that cognizes itself in the object, which grasps reason only as it is for itself at first, and in that it shows this pure “mine” of consciousness in all being and expresses things as sensations or representations, imagines it has shown it as consummate reality.",
+   "zh": "这种最初在对象中认识自己的理性，是由空洞的观念论表达出来的，这种观念论只把理性理解成它最初对自己所是的样子，并且以为，由于它在一切存在中都指出意识这种纯粹的意谓，把物说成感觉或表象，它就已经把理性指出为完成了的实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 3,
+   "de": "Er muß darum zugleich absoluter Empirismus sein, denn für die Erfüllung des leeren Mems, d.h. für den Unterschied und alle Entwicklung und Gestaltung desselben, bedarf seine Vernunft eines fremden Anstoßes, in welchem erst die Mannigfaltigkeit des Empfindens oder Vorstellens liege.",
+   "en": "It must therefore at the same time be absolute empiricism, for for the fulfilment of the empty “mine”, that is, for the difference and all development and shaping of it, its reason needs a foreign impulse, in which alone the manifoldness of sensation or representation is supposed to lie.",
+   "zh": "因此它同时必然是绝对的经验论，因为要充实那空洞的意谓，也就是说，要充实意谓的差别以及它的全部发展和形态化，它的理性就需要一种外来的刺激，而只有在这种刺激中，感觉或表象的杂多才存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 4,
+   "de": "Dieser Idealismus wird daher eine ebensolche sich widersprechende Doppelsinnigkeit als der Skeptizismus, nur daß, wie dieser sich negativ, jener sich positiv ausdrückt, aber ebensowenig seine widersprechenden Gedanken des reinen Bewußtseins als aller Realität und ebenso des fremden Anstoßes oder des sinnlichen Empfindens und Vorstellens als einer gleichen Realität zusammenbringt, sondern von dem einen zu dem ändern sich herüber- und hinüberwirft und in die schlechte, nämlich in die sinnliche Unendlichkeit geraten ist.",
+   "en": "This idealism therefore becomes just such a self-contradictory ambiguity as scepticism, only that, as the latter expresses itself negatively, the former expresses itself positively, but it just as little brings together its contradictory thoughts of pure consciousness as all reality and likewise of the foreign impulse or of sensuous sensation and representation as an equal reality, but throws itself over and back from the one to the other and has fallen into the bad, namely the sensuous, infinity.",
+   "zh": "因此这种观念论就变成和怀疑论一样的一种自相矛盾的双义性，只不过怀疑论是否定地表达自己，而这种观念论是肯定地表达自己，但它同样不能把自己那些矛盾的思想，即纯粹意识是一切实在性、以及外来的刺激或感性的感觉和表象是同一种实在性，结合起来，而是在两者之间来回抛掷自己，陷入了坏的、也就是感性的无限性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 5,
+   "de": "Indem die Vernunft alle Realität in der Bedeutung des abstrakten Mein; und das Andere ihm ein gleichgültiges fremdes ist, so ist darin gerade dasjenige Wissen der Vernunft von einem Anderen gesetzt, welches als Meinen, Wahrnehmen und [als] der das Gemeinte und Wahrgenommene auffassende Verstand vorkam.",
+   "en": "In that reason has all reality in the meaning of the abstract “mine”, and the other is for it an indifferent foreign thing, there is thereby posited precisely that knowing of reason of an other which came up as meaning, perceiving, and the understanding that comprehends what is meant and perceived.",
+   "zh": "由于理性把一切实在性都当作抽象的意谓，而他者对理性来说是无所谓的外来之物，那么这里恰好就设定了理性对一个他者的那种知识，这种知识曾经作为意谓、知觉和把握被意谓者与被知觉者的知性出现过。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 6,
+   "de": "Ein solches Wissen wird zugleich, nicht wahres Wissen zu sein, durch den Begriff dieses Idealismus selbst behauptet; denn nur die Einheit der Apperzeption ist die Wahrheit des Wissens.",
+   "en": "That such a knowing is not true knowing is at the same time asserted through the concept of this idealism itself; for only the unity of apperception is the truth of knowing.",
+   "zh": "这样的知识不是真的知识，这一点同时是由这种观念论自己的概念所断言的；因为只有统觉的统一才是知识的真理。"
+  }
+ ]
+}

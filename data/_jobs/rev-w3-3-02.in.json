@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-02",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 6,
+   "si": 0,
+   "de": "Die selbständigen Glieder sind für sich; dieses Fürsichsein ist aber vielmehr ebenso unmittelbar ihre Reflexion in die Einheit, als diese Einheit die Entzweiung in die selbständigen Gestalten ist.",
+   "en": "The independent members are for themselves; but this being-for-themselves is, just as immediately, their reflection into the unity, as this unity is the diremption into the independent shapes.",
+   "zh": "这些独立的成员是自为的；但这种自为存在却同样直接地就是它们向统一中的反思，正如这种统一就是分裂为各个独立形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 6,
+   "si": 1,
+   "de": "Die Einheit ist entzweit, weil sie absolut negative oder unendliche Einheit ist; und weil sie das Bestehen ist, so hat auch der Unterschied Selbständigkeit nur an ihr.",
+   "en": "The unity is split, because it is absolutely negative or infinite unity; and because it is subsistence, difference too has independence only in it.",
+   "zh": "统一是分裂开的，因为它是绝对否定的或无限的统一；而因为它是持存，所以差别也只有在它那里才有独立性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 6,
+   "si": 2,
+   "de": "Diese Selbständigkeit der Gestalt erscheint als ein Bestimmtes, für Anderes, denn sie ist ein Entzweites; und das Aufheben der Entzweiung geschieht insofern durch ein Anderes.",
+   "en": "This independence of the shape appears as something determinate, for an other, for it is something split; and the sublating of the split thus takes place through an other.",
+   "zh": "形态的这种独立性显现为某种被规定的、为他者的东西，因为它是分裂开来的；而分裂的扬弃就此是通过一个他者发生的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 6,
+   "si": 3,
+   "de": "Aber es ist ebensosehr an ihr selbst; denn eben jene Flüssigkeit ist die Substanz der selbständigen Gestalten; diese Substanz aber ist unendlich; die Gestalt ist darum in ihrem Bestehen selbst die Entzweiung oder das Aufheben ihres Fürsichseins.",
+   "en": "But it is just as much on the shape itself; for that very fluidity is the substance of the independent shapes; but this substance is infinite; the shape is therefore, in its subsistence itself, the diremption or the sublating of its being-for-itself.",
+   "zh": "但它同样也在这形态自己身上；因为那种流动性正是各个独立形态的实体；但这种实体是无限的；因此形态在它的持存中本身也就是分裂，或者说就是它自为存在的扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 0,
+   "de": "Unterscheiden wir die hierin enthaltenen Momente näher, so sehen wir, daß wir zum ersten Momente das Bestehen der selbständigen Gestalten oder die Unterdrückung dessen haben, was das Unterscheiden an sich ist, nämlich nicht an sich zu sein und kein Bestehen zu haben.",
+   "en": "If we distinguish more closely the moments contained herein, we see that as the first moment we have the subsistence of the independent shapes, or the suppression of what distinguishing is in itself, namely not to be in itself and to have no subsistence.",
+   "zh": "如果我们更切近地区分这里包含的各个环节，就会看到，我们作为第一个环节所拥有的是各个独立形态的持存，或者说是对区分自在地所是的东西的压制，也就是自在地不存在、并且没有任何持存。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 1,
+   "de": "Das zweite Moment aber ist die Unterwerfung jenes Bestehens unter die Unendlichkeit des Unterschiedes.",
+   "en": "The second moment, however, is the subjection of that subsistence under the infinity of difference.",
+   "zh": "而第二个环节则是把那种持存置于差别的无限性之下。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 2,
+   "de": "Im ersten Momente ist die bestehende Gestalt; als fürsichseiend oder in ihrer Bestimmtheit unendliche Substanz tritt sie gegen die allgemeine Substanz auf, verleugnet diese Flüssigkeit und Kontinuität mit ihr und behauptet sich als nicht in diesem Allgemeinen aufgelöst, sondern vielmehr als durch die Absonderung von dieser ihrer unorganischen Natur und durch das Aufzehren derselben sich erhaltend.",
+   "en": "In the first moment there is the subsisting shape; as being-for-itself, or as infinite substance in its determinacy, it comes forward against the universal substance, disowns this fluidity and continuity with it, and asserts itself as not dissolved in this universal, but rather as preserving itself through the separation from this its inorganic nature and through the consuming of it.",
+   "zh": "在第一个环节里，存在的是持存着的形态；它作为自为存在着的实体、或者说作为在它的规定性中无限的实体，站出来与普遍实体相对，否认这种流动性以及自己与它的连续性，并且坚持自己并没有消解在这个普遍者之中，而是毋宁通过从自己这种无机自然中分离出来、并通过吞噬这种自然来维持自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 3,
+   "de": "Das Leben in dem allgemeinen flüssigen Medium, ein ruhiges Auseinanderlegen der Gestalten, wird eben dadurch zur Bewegung derselben oder zum Leben als Prozeß.",
+   "en": "Life in the universal fluid medium, a calm laying-apart of the shapes, thereby becomes their movement, or life as process.",
+   "zh": "在普遍的流动介质中的生命，也就是把各个形态宁静地分开放置，正因此就变成了它们的运动，或者说变成了作为过程的生命。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 4,
+   "de": "Die einfache allgemeine Flüssigkeit ist das Ansich und der Unterschied der Gestalten das Andere.",
+   "en": "Simple universal fluidity is the in-itself, and the difference of the shapes the other.",
+   "zh": "单纯的普遍流动性是自在，而各形态的差别则是他者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 5,
+   "de": "Aber diese Flüssigkeit wird selbst durch diesen Unterschied das Andere; denn sie ist jetzt für den Unterschied, welcher an und für sich selbst und daher die unendliche Bewegung ist, von welcher jenes ruhige Medium aufgezehrt wird, das Leben als Lebendiges.",
+   "en": "But this fluidity itself becomes the other through this difference; for it is now for the difference, which is in and for itself and therefore the infinite movement, by which that calm medium is consumed — life as living.",
+   "zh": "但这种流动性本身通过这种差别而变成了他者；因为它现在是为着差别的，而这个差别是自在自为的，因此就是那种无限的运动，那种宁静的介质就是被它吞噬掉的，也就是作为活生生者的生命。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 6,
+   "de": "– Diese Verkehrung aber ist darum wieder die Verkehrtheit an sich selbst, was aufgezehrt wird, ist das Wesen; die auf Kosten des Allgemeinen sich erhaltende und das Gefühl ihrer Einheit mit sich selbst sich gebende Individualität hebt gerade damit ihren Gegensatz des Anderen, durch welchen sie für sich ist, auf; die Einheit mit sich selbst, welche sie sich gibt, Ist gerade die Flüssigkeit der Unterschiede oder die allgemeine Auflösung.",
+   "en": "– But this inversion is therefore again the perversity in itself: what is consumed is the essence; the individuality that preserves itself at the expense of the universal and gives itself the feeling of its unity with itself thereby precisely sublates its opposition to the other, through which it is for itself; the unity with itself that it gives itself is precisely the fluidity of the differences, or the universal dissolution.",
+   "zh": "——但这种颠倒因此又是自在的颠倒：被吞噬掉的是本质；那种靠牺牲普遍者来维持自己、并给自己以它与自身统一的感觉的个体性，恰恰由此扬弃了它那种与他者的对立，而它正是通过这种对立才自为的；它给自己提供的与自身的统一，恰恰就是各种差别的流动性，或者说就是普遍的消解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 7,
+   "de": "Aber umgekehrt ist das Aufheben des individuellen Bestehens ebenso das Erzeugen desselben.",
+   "en": "But conversely, the sublating of individual subsistence is just as much the producing of it.",
+   "zh": "但反过来说，个体持存的扬弃同样就是这种持存的产生。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 8,
+   "de": "Denn da das Wesen der individuellen Gestalt, das allgemeine Leben, und das Fürsichseiende an sich einfache Substanz ist, so hebt es, indem es das Andere in sich setzt, diese seine Einfachheit oder sein Wesen auf, d.h. es entzweit sie, und dies Entzweien der unterschiedslosen Flüssigkeit ist eben das Setzen der Individualität.",
+   "en": "For since the essence of the individual shape, universal life, and the being-for-itself is in itself simple substance, it, in positing the other in itself, sublates this its simplicity or its essence, that is, it dirempts it, and this dirempting of the undifferentiated fluidity is precisely the positing of individuality.",
+   "zh": "因为个体形态的本质，也就是普遍生命，以及自为存在者，自在地就是单纯的实体，所以当它把那个他者设定到自身之中时，它便扬弃了它这种单纯性、或者说它的本质，也就是说，它把这种单纯性分裂开来，而这种对无差别的流动性的分裂，恰恰就是个体性的设定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 9,
+   "de": "Die einfache Substanz des Lebens also ist die Entzweiung ihrer selbst in Gestalten und zugleich die Auflösung dieser bestehenden Unterschiede; und die Auflösung der Entzweiung ist ebensosehr Entzweien oder ein Gliedern.",
+   "en": "The simple substance of life is therefore the diremption of itself into shapes and at the same time the dissolution of these subsisting differences; and the dissolution of the diremption is just as much a dirempting or an articulating.",
+   "zh": "所以，生命的单纯实体就是它自身分裂为各个形态，同时也是这些持存着的差别的消解；而分裂的消解同样就是一种分裂，或者说就是一种成员划分。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 10,
+   "de": "Es fallen damit die beiden Seiten der ganzen Bewegung, welche unterschieden wurden, nämlich die in dem allgemeinen Medium der Selbständigkeit ruhig auseinandergelegte Gestaltung und der Prozeß des Lebens ineinander; der letztere ist ebensosehr Gestaltung, als er das Aufheben der Gestalt ist; und das erste, die Gestaltung, ist ebensosehr ein Aufheben, als sie die Gliederung ist.",
+   "en": "Thereby the two sides of the whole movement that were distinguished fall into one another, namely the shaping calmly laid apart in the universal medium of independence and the process of life; the latter is just as much shaping as it is the sublating of the shape; and the first, shaping, is just as much a sublating as it is the articulation.",
+   "zh": "这样一来，整个运动的那两个被区分开来的方面，也就是在独立性的普遍介质中宁静地分开摆放的形态塑造和生命的过程，就相互落入对方之中；后者同样就是形态塑造，正如它是形态的扬弃；而前者，也就是形态塑造，同样就是一种扬弃，正如它是成员划分。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 11,
+   "de": "Das flüssige Element ist selbst nur die Abstraktion des Wesens, oder es ist nur als Gestalt wirklich; und daß es sich gliedert, ist wieder ein Entzweiendes Gegliederten oder ein Auflösen desselben.",
+   "en": "The fluid element is itself only the abstraction of the essence, or it is actual only as shape; and that it articulates itself is again a dirempting of the articulated, or a dissolving of it.",
+   "zh": "流动的要素本身只是本质的抽象，或者说它只有在作为形态时才是现实的；而它把自己划分为成员，这又是一种对已被划分成成员者的分裂，或者说是一种对它的消解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 7,
+   "si": 12,
+   "de": "Dieser ganze Kreislauf macht das Leben aus, – weder das, was zuerst ausgesprochen wird, die unmittelbare Kontinuität und Gediegenheit seines Wesens, noch die bestehende Gestalt und das für sich seiende Diskrete, noch der reine Prozeß derselben, noch auch das einfache Zusammenfassen dieser Momente, sondern das sich entwickelnde und seine Entwicklung auflösende und in dieser Bewegung sich einfach erhaltende Ganze.",
+   "en": "This whole circuit constitutes life – neither what is first expressed, the immediate continuity and solidity of its essence, nor the subsisting shape and the being-for-itself of the discrete, nor the pure process of these, nor again the simple gathering-together of these moments, but the whole that develops itself and dissolves its development and in this movement simply preserves itself.",
+   "zh": "这整个循环构成了生命，——既不是最初被说出来的东西，也就是它自己本质的直接连续性和坚实性，也不是持存着的形态和自为存在着的分立的东西，也不是这些东西的纯粹过程，更不是对各个环节的单纯概括，而是那个自身发展着、又消解着自己的发展、并在这运动中单纯地维持着自己的整体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 8,
+   "si": 0,
+   "de": "Indem von der ersten unmittelbaren Einheit ausgegangen und durch die Momente der Gestaltung und des Prozesses hindurch zur Einheit dieser beiden Momente und damit wieder zur ersten einfachen Substanz zurückgekehrt wird, so ist diese reflektierte Einheit eine andere als die erste.",
+   "en": "In that we start from the first immediate unity and, passing through the moments of shaping and of process, return to the unity of these two moments and thereby again to the first simple substance, this reflected unity is another than the first.",
+   "zh": "既然我们从最初直接的统一出发，穿过形态塑造和过程这两个环节，回到这两个环节的统一，并由此重新回到最初单纯的实体，那么这种经过反思的统一就是与最初那个统一不同的另一个统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 8,
+   "si": 1,
+   "de": "Gegen Jene unmittelbare oder als ein Sein ausgesprochene ist diese zweite die allgemeine, welche alle diese Momente als aufgehobene in ihr hat.",
+   "en": "As against that immediate unity, or one expressed as a being, this second is the universal, which has all these moments in it as sublated.",
+   "zh": "相对于那个直接的、或者说被表述为存在的统一，这第二个统一则是普遍的，它把所有这些环节都作为被扬弃了的东西包含在自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 8,
+   "si": 2,
+   "de": "Sie ist die einfache Gattung, welche in der Bewegung des Lebens selbst nicht für sich als dies Einfache existiert; sondern in diesem Resultate verweist das Leben auf ein Anderes, als es ist, nämlich auf das Bewußtsein, für welches es als diese Einheit oder als Gattung ist.",
+   "en": "It is the simple genus, which in the movement of life itself does not exist for itself as this simple thing; on the contrary, in this result life points to an other than it is, namely to consciousness, for which it is as this unity or as genus.",
+   "zh": "它是单纯的类，而它在生命自身的运动中并不自为地作为这种单纯的东西存在；相反，在这个结果中，生命指向一个不同于它自身的他者，也就是指向意识，对意识来说，生命是作为这种统一、或者说作为类而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 9,
+   "si": 0,
+   "de": "Dies andere Leben aber, für welches die Gattung als solche und welches für sich selbst Gattung ist, das Selbstbewußtsein, ist sich zunächst nur als dieses einfache Wesen und hat sich als reines Ich zum Gegenstande; in seiner Erfahrung, die nun zu betrachten ist, wird sich ihm dieser abstrakte Gegenstand bereichern und die Entfaltung erhalten, welche wir an dem Leben gesehen haben.",
+   "en": "But this other life, for which the genus as such is and which is for itself itself genus, namely self-consciousness, is to itself at first only as this simple essence, and has itself as pure I for its object; in its experience, which is now to be considered, this abstract object will be enriched for it and receive the unfolding that we have seen in the case of life.",
+   "zh": "但这种另外的生命，即那种类本身为之存在、并且它自己自为地就是类的生命，也就是自我意识，它起初对自己来说只是这种单纯的本质，并且以自己、也就是纯粹的自我为对象；在它那现在有待考察的经验中，这个抽象的对象将对它变得丰富起来，并获得我们在生命那里已经看到的那种展开。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 10,
+   "si": 0,
+   "de": "Das einfache Ich ist diese Gattung oder das einfache Allgemeine, für welches die Unterschiede keine sind, nur, indem es negatives Wesen der gestalteten selbständigen Momente ist; und das Selbstbewußtsein [ist] hiermit seiner selbst nur gewiß durch das Aufheben dieses Anderen, das sich ihm als selbständiges Leben darstellt; es ist Begierde.",
+   "en": "The simple I is this genus, or the simple universal for which the differences are none, only in that it is the negative essence of the formed independent moments; and self-consciousness is thereby certain of itself only through the sublating of this other, which presents itself to it as independent life; it is desire.",
+   "zh": "单纯的我是这个类，或者说就是那个单纯的普遍者，对它来说各种差别都不存在，而这仅仅在于它是各个有形态的、独立的环节的否定本质；而自我意识由此只有通过扬弃这个在它面前显现为独立生命的他者，才确信自身；它就是欲望。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 10,
+   "si": 1,
+   "de": "Der Nichtigkeit dieses Anderen gewiß, setzt es für sich dieselbe als seine Wahrheit, vernichtet den selbständigen Gegenstand und gibt sich dadurch die Gewißheit seiner selbst als wahre Gewißheit, als solche, welche ihm selbst auf gegenständliche Weise geworden ist.",
+   "en": "Certain of the nullity of this other, it posits that nullity for itself as its truth, annihilates the independent object, and thereby gives itself the certainty of itself as true certainty, as one that has come to be for it in an objective way.",
+   "zh": "它确信这个他者的虚无性，就为自己把这种虚无性设定为自己的真理，消灭这个独立的对象，并由此给自己以对自身的确定性，作为真的确定性，作为这样一种对它自己以对象性的方式产生出来的确定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 0,
+   "de": "In dieser Befriedigung aber macht es die Erfahrung von der Selbständigkeit seines Gegenstandes.",
+   "en": "But in this satisfaction it has the experience of the independence of its object.",
+   "zh": "但在这种满足中，它经验到了它对象的独立性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 1,
+   "de": "Die Begierde und die in ihrer Befriedigung erreichte Gewißheit seiner selbst ist bedingt durch ihn, denn sie ist durch Aufheben dieses Anderen; daß dies Aufheben sei, muß dies Andere sein.",
+   "en": "Desire, and the certainty of itself attained in its satisfaction, is conditioned by the object, for it is through the sublating of this other; for this sublating to be, this other must be.",
+   "zh": "欲望以及它在满足中达到的对自身的确定性，都是由对象制约的，因为它们要靠扬弃这个他者才成立；而这种扬弃要存在，这个他者就必须存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 2,
+   "de": "Das Selbstbewußtsein vermag also durch seine negative Beziehung ihn nicht aufzuheben; es erzeugt ihn darum vielmehr wieder, so wie die Begierde.",
+   "en": "Self-consciousness therefore cannot, through its negative relation, sublate the object; it therefore rather produces it again, just as desire does.",
+   "zh": "所以，自我意识通过它那种否定的关系并不能扬弃对象；因此它反倒又把它产生出来，正如欲望一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 3,
+   "de": "Es ist in der Tat ein.",
+   "en": "It is in fact a",
+   "zh": "它事实上是一个"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 4,
+   "de": "Anderes als das Selbstbewußtsein, das Wesen der Begierde; und durch diese Erfahrung ist ihm selbst diese Wahrheit geworden.",
+   "en": "other than self-consciousness, the essence of desire; and through this experience this truth itself has come to be for it.",
+   "zh": "不同于自我意识的他者，也就是欲望的本质；而通过这种经验，这个真理本身对它自己也已经生成。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 5,
+   "de": "Zugleich aber ist es ebenso absolut für sich und ist dies nur durch Aufheben des Gegenstandes, und es muß ihm seine Befriedigung werden, denn es ist die Wahrheit.",
+   "en": "At the same time, however, it is just as absolutely for itself, and is this only through the sublating of the object, and its satisfaction must come to be for it, for it is the truth.",
+   "zh": "但与此同时，它同样绝对地是自为的，并且只有通过扬弃对象才如此，而且它必须获得自己的满足，因为它就是真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 6,
+   "de": "Um der Selbständigkeit des Gegenstandes willen kann es daher zur Befriedigung nur gelangen, indem dieser selbst die Negation an ihm vollzieht; und er muß diese Negation seiner selbst an sich vollziehen, denn er ist an sich das Negative, und muß für das Andere sein, was er ist.",
+   "en": "On account of the independence of the object, it can therefore attain satisfaction only in that this object itself carries out the negation on it; and the object must carry out this negation of itself on itself, for it is in itself the negative, and must be for the other what it is.",
+   "zh": "由于对象的独立性，所以它只有在这个对象自身对它实行否定时才能达到满足；而这个对象必须在自身身上实行这种对它自身的否定，因为它自在地就是否定的东西，并且必须为那个他者而成为它所是的东西。"
+  }
+ ]
+}

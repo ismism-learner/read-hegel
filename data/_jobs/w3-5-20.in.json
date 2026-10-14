@@ -1,0 +1,70 @@
+{
+ "id": "w3-5-20",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 5,
+ "chunkTitle": "b. Die Beobachtung des Selbstbewußtseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze",
+ "heading": "b. Die Beobachtung des Selbstbewußtseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "javji1tbp2",
+   "sents": [
+    "Aus dieser Bestimmung, daß das Organ der Tätigkeit ebensowohl ein Sein als das Tun in ihm ist oder daß das innere Ansichsein selbst an ihm gegenwärtig [ist] und ein Sein für andere hat, ergibt sich eine andere Ansicht desselben als die vorherige.",
+    "Wenn nämlich die Organe überhaupt darum nicht als Ausdrücke des Inneren genommen werden zu können sich zeigten, weil in ihnen das Tun als Tun gegenwärtig, das Tun als Tat aber nur Äußeres ist und Inneres und Äußeres auf diese Weise auseinanderfällt und [sie] fremde gegeneinander sind oder sein können, so muß nach der betrachteten Bestimmung das Organ auch wieder als Mitte beider genommen werden, indem eben dies, daß das Tun an ihm gegenwärtig ist, zugleich eine Äußerlichkeit desselben ausmacht, und zwar eine andere, als die Tat ist; jene nämlich bleibt dem Individuum und an ihm.",
+    "– Diese Mitte und Einheit des Inneren und Äußeren ist nun fürs erste selbst auch äußerlich; alsdann aber ist diese Äußerlichkeit zugleich in das Innere aufgenommen; sie steht als einfache Äußerlichkeit der zerstreuten entgegen, welche entweder nur ein einzelnes, für die ganze Individualität zufälliges Werk oder Zustand oder aber als ganze Äußerlichkeit das in eine Vielheit von Werken und Zuständen zersplitterte Schicksal ist.",
+    "Die einfachen Züge der Hand also, ebenso Klang und Umfang der Stimme als die individuelle Bestimmtheit der Sprache, – auch dieselbe wieder, wie sie durch die Hand eine festere Existenz als durch die Stimme bekommt, die Schrift, und zwar in ihrer Besonderheit als Handschrift – alles dieses ist Ausdruck des Innern, so daß er als die einfache Äußerlichkeit sich wieder gegen die vielfache Äußerlichkeit des Handelns und des Schicksals, sich als Inneres gegen diese verhält.",
+    "– Wenn also zuerst die bestimmte Natur und angeborene Eigentümlichkeit des Individuums zusammen mit dem, was sie durch die Bildung geworden, als das Innere, als das Wesen des Handelns und des Schicksals genommen wird, so hat es seine Erscheinung und Äußerlichkeit zuerst an seinem Munde, Hand, Stimme, Handschrift sowie an den übrigen Organen und deren bleibenden Bestimmtheiten; und alsdann erst drückt es sich weiter hinaus nach außen an seiner Wirklichkeit in der Welt aus."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1mpj694lkt",
+   "sents": [
+    "Weil nun diese Mitte sich als die Äußerung bestimmt, welche zugleich ins Innere zurückgenommen ist, ist ihr Dasein nicht auf das unmittelbare Organ des Tuns eingeschränkt; sie ist vielmehr die nichts vollbringende Bewegung und Form des Gesichts und der Gestaltung überhaupt.",
+    "Diese Züge und ihre Bewegung sind nach diesem Begriffe das zurückgehaltene, an dem Individuum bleibende Tun und nach seiner Beziehung auf das wirkliche Tun das eigene Beaufsichtigen und Beobachten desselben, Äußerung als Reflexion über die wirkliche Äußerung.",
+    "– Das Individuum Ist zu und bei seinem äußeren Tun darum nicht stumm, weil es dabei zugleich in sich reflektiert ist, und es äußert dies Insichreflektiertsein; dies theoretische Tun oder die Sprache des Individuums mit sich selbst darüber ist auch vernehmlich für andere, denn sie ist selbst eine Äußerung."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "6e0dqx1p3y",
+   "sents": [
+    "An diesem Innern, welches in seiner Äußerung Inneres bleibt, wird also das Reflektiertsein des Individuums aus seiner Wirklichkeit beobachtet, und es ist zu sehen, welche Bewandtnis es mit dieser Notwendigkeit hat, die in dieser Einheit gesetzt ist.",
+    "– Dies Reflektiertsein ist zuerst verschieden von der Tat selbst und kann also etwas anderes sein und für etwas anderes genommen werden, als sie ist; man sieht es einem am Gesicht an, ob es ihm Ernst mit dem ist, was er sagt oder tut.",
+    "– Umgekehrt aber ist dieses, was Ausdruck des Innern sein soll, zugleich seiender Ausdruck und fällt hiermit selbst in die Bestimmung des Seins herunter, das absolut zufällig für das selbstbewußte Wesen ist.",
+    "Es ist daher wohl Ausdruck, aber zugleich auch nur wie ein Zeichen, so daß dem ausgedrückten Inhalte die Beschaffenheit dessen, wodurch es ausgedrückt wird, vollkommen gleichgültig ist.",
+    "Das Innere ist in dieser Erscheinung wohl sichtbares Unsichtbares, aber ohne an sie geknüpft zu sein; es kann ebensowohl in einer anderen Erscheinung sein, als ein anderes Inneres in derselben Erscheinung sein kann.",
+    "–Lichtenberg sagt daher mit Recht: »Gesetzt, der Physiognome haschte den Menschen einmal, so käme es nur auf einen braven Entschluß an, sich wieder auf Jahrtausende unbegreiflich zu machen.«",
+    "– Wie in dem vorhergehenden Verhältnisse die vorliegenden Umstände ein Seiendes waren, woraus die Individualität sich das nahm, was sie vermochte und wollte, entweder sich ihm ergebend oder es verkehrend, aus welchem Grunde es die Notwendigkeit und das Wesen der Individualität nicht enthielt, – ebenso ist hier das erscheinende unmittelbare Sein der Individualität ein solches, das entweder ihr Reflektiertsein aus der Wirklichkeit und ihr Insichsein ausdrückt oder das für sie nur ein Zeichen ist, das gleichgültig gegen das Bezeichnete [ist] und darum in Wahrheit nichts bezeichnet; es ist ihr ebensowohl ihr Gesicht als ihre Maske, die sie ablegen kann.",
+    "– Sie durchdringt ihre Gestalt, bewegt sich, spricht in ihr; aber dies ganze Dasein tritt ebenso als ein gleichgültiges Sein gegen den Willen und die Handlung über; sie tilgt an ihm die Bedeutung, die es vorhin hatte, ihr Reflektiertsein in sich oder ihr wahres Wesen an ihm zu haben, und legt es umgekehrt vielmehr in den Willen und in die Tat."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "e25tlmkbpl",
+   "sents": [
+    "Die Individualität gibt dasjenige Insichreflektiertsein auf, welches in den Zügen ausgedrückt ist, und legt ihr Wesen in das Werk.",
+    "Hierin widerspricht sie dem Verhältnisse, welches von dem Vernunftinstinkte, der sich auf das Beobachten der selbstbewußten Individualität legt, in Ansehung dessen, was ihr Inneres und Äußeres sein soll, festgesetzt wird.",
+    "Dieser Gesichtspunkt führt uns auf den eigentlichen Gedanken, der der physiognomischen – wenn man so will – Wissenschaft zum Grunde liegt.",
+    "Der Gegensatz, auf welchen dies Beobachten geraten, ist der Form nach der Gegensatz von Praktischem und Theoretischem, beides nämlich innerhalb des Praktischen selbst gesetzt, – von der sich im Handeln (dies im allgemeinsten Sinne genommen) verwirklichenden Individualität und derselben, wie sie in diesem Handeln zugleich daraus heraus, in sich reflektiert und es ihr Gegenstand ist.",
+    "Das Beobachten nimmt diesen Gegensatz nach demselben verkehrten Verhältnisse auf, worin er sich in der Erscheinung bestimmt.",
+    "Für das unwesentliche Äußere gilt ihm die Tat selbst und das Werk, es sei der Sprache oder einer befestigteren Wirklichkeit, – für das wesentliche Innere aber das Insichsein der Individualität.",
+    "Unter den beiden Seiten, welche das praktische Bewußtsein an ihm hat, dem Beabsichtigen und der Tat – dem Meinen über seine Handlung und der Handlung selbst – wählt die Beobachtung jene Seite zum wahren Innern; dieses soll seine mehr oder weniger unwesentliche Äußerung an der Tat, seine wahre aber an seiner Gestalt haben.",
+    "Die letztere Äußerung ist unmittelbare sinnliche Gegenwart des individuellen Geistes; die Innerlichkeit, die die wahre sein soll, ist die Eigenheit der Absicht und die Einzelheit des Fürsichseins; beides der gemeinte Geist.",
+    "Was das Beobachten zu seinen Gegenständen hat, ist also gemeintes Dasein, und zwischen solchem sucht es Gesetze auf."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/5.p20.json"
+}

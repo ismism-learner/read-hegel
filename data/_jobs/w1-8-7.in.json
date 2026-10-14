@@ -1,0 +1,98 @@
+{
+ "id": "w1-8-7",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "Eleusis 66)",
+ "heading": "[Das älteste Systemprogramm des deutschen Idealismus]68)",
+ "blocks": [
+  {
+   "bi": 7,
+   "k": "h",
+   "hash": "rj6n3c140o",
+   "text": "[Das älteste Systemprogramm des deutschen Idealismus]68)"
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1x1srt3h8f",
+   "sents": [
+    "(1796 oder 1797)"
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "3zwi66kqat",
+   "sents": [
+    "- eine Ethik.",
+    "Da die ganze Metaphysik künftig in die Moral fällt - wovon Kant mit seinen beiden praktischen Postulaten nur ein Beispiel gegeben, nichts erschöpft hat -, so wird diese Ethik nichts anderes als ein vollständiges System aller Ideen oder, was dasselbe ist, aller praktischen Postulate sein.",
+    "Die erste Idee ist natürlich die Vorstellung von mir selbst als einem absolut freien Wesen.",
+    "Mit dem freien, selbstbewußten Wesen tritt zugleich eine ganze Welt - aus dem Nichts hervor - die einzig wahre und gedenkbare Schöpfung aus Nichts. - Hier werde ich auf die Felder der Physik herabsteigen; die Frage ist diese: Wie muß eine Welt für ein moralisches Wesen beschaffen sein?",
+    "Ich möchte unserer langsamen, an Experimenten mühsam schreitenden Physik einmal wieder Flügel geben."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "x6gwi81sun",
+   "sents": [
+    "So, wenn die Philosophie die Ideen, die Erfahrung die Data angibt, können wir endlich die Physik im Großen bekommen, die ich von späteren Zeitaltern erwarte.",
+    "Es scheint nicht, daß die jetzige Physik einen schöpferischen Geist, wie der unsrige ist oder sein soll, befriedigen könne."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "4lkyl7xmot",
+   "sents": [
+    "Von der Natur komme ich aufs Menschenwerk.",
+    "Die Idee der Menschheit voran, will ich zeigen, daß es keine Idee vom Staat gibt, weil der Staat etwas Mechanisches ist, so wenig als es eine Idee von einer Maschine gibt.",
+    "Nur was Gegenstand der Freiheit ist, heißt Idee.",
+    "Wir müssen also über den Staat hinaus! - Denn jeder Staat muß freie Menschen als mechanisches Räderwerk behandeln; und das soll er nicht; also soll er aufhören.",
+    "Ihr seht von selbst, daß hier alle die Ideen vom ewigen Frieden usw. nur untergeordnete Ideen einer höheren Idee sind.",
+    "Zugleich will ich hier die Prinzipien für eine Geschichte der Menschheit niederlegen und das ganze elende Menschenwerk von Staat, Verfassung, Regierung, Gesetzgebung bis auf die Haut entblößen.",
+    "Endlich kommen die Ideen von einer moralischen Welt, Gottheit, Unsterblichkeit, - Umsturz alles Afterglaubens, Verfolgung des Priestertums, das neuerdings Vernunft heuchelt, durch die Vernunft selbst. - Absolute Freiheit aller Geister, die die intellektuelle Welt in sich tragen und weder Gott noch Unsterblichkeit außer sich suchen dürfen."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "1uu9ifb1mk",
+   "sents": [
+    "Zuletzt die Idee, die alle vereinigt, die Idee der Schönheit, das Wort in höherem platonischen Sinne genommen.",
+    "Ich bin nun überzeugt, daß der höchste Akt der Vernunft, der, in dem sie alle Ideen umfaßt, ein ästhetischer Akt ist und daß Wahrheit und Güte nur in der Schönheit verschwistert sind.",
+    "Der Philosoph muß ebensoviel ästhetische Kraft besitzen als der Dichter.",
+    "Die Menschen ohne ästhetischen Sinn sind unsere Buchstabenphilosophen.",
+    "Die Philosophie des Geistes ist eine ästhetische Philosophie.",
+    "Man kann in nichts geistreich sein, selbst über Geschichte kann man nicht geistreich raisonieren - ohne ästhetischen Sinn.",
+    "Hier soll offenbar werden, woran es eigentlich den Menschen fehlt, die keine Ideen verstehen - und treuherzig genug gestehen, daß ihnen alles dunkel ist, sobald es über Tabellen und Register hinausgeht."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1t7zcj61b4",
+   "sents": [
+    "Die Poesie bekommt dadurch eine höhere Würde, sie wird am Ende wieder, was sie am Anfang war - Lehrerin der Menschheit; denn es gibt keine Philosophie, keine Geschichte mehr, die Dichtkunst allein wird alle übrigen Wissenschaften und Künste überleben."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "lsz4fs6m60",
+   "sents": [
+    "Zu gleicher Zeit hören wir so oft, der große Haufen müsse eine sinnliche Religion haben.",
+    "Nicht nur der große Haufen, auch der Philosoph bedarf ihrer.",
+    "Monotheismus der Vernunft und des Herzens, Polytheismus der Einbildungskraft und der Kunst, dies ist's, was wir bedürfen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/8.p7.json"
+}

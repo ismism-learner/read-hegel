@@ -1,0 +1,1456 @@
+{
+ "volume": "w3",
+ "styleGuide": [
+  "权威顺序（不可颠倒）：① 用户的词族／术语政策最高，任何其他依据都不得用来推翻它；② 本卷术语包在政策框架内细化，与政策冲突时以政策为准；③ 共享词表；④ 通行译名、学术惯例、其他中译本与读者评论——仅供参考，只能用来改进，绝不能作为改动政策译名的理由。特别提醒：通行译名（如“唯心主义”“理念”）与政策冲突时，一律以政策为准。",
+  "词根一致：同一德文词根的不同形式必须共用一个中文词根——Idee/ideal/Idealität/Idealismus/das Ideelle 一律用“观念”（观念、观念性、观念论、观念物），严禁“唯心主义”、严禁“理念”；Realität/real/Realismus/das Reelle 一律用“实在”（实在性、实在论、实在物）；Begriff/begreifen 用“概念”（概念、以概念把握）；Vorstellung 用“表象”，不得占用“观念”。书名与学派名同样服从（《先验观念论体系》System des transzendentalen Idealismus）。",
+  "对偶成对：观念性／实在性、观念论／实在论、观念物／实在物必须成对出现，不许一边用“观念”、另一边用“唯物”或“现实”。",
+  "长句保留为一整句：德文一句＝中文一句（机器校验），保持逗号、分号、冒号的层级，按原文的嵌套层次展开，不拆成一串短句，也不重排语序。",
+  "用白话，不用论文腔：能说“X 就是 Y”就不写“所谓 X 者，乃 Y 也”；不用“盖、故、岂、焉、换言之、不可谓不”这类旧腔，也不用“进行／作出／关于……的问题”这类翻译体套话。",
+  "不增不删：不漏否定词、不漏被动、不漏半句；不把一句拆成两句；不作解释性增补，不夹带译者自己的见解（译者注只写版本、术语与必要说明）。",
+  "一句只译一次：定语从句、插入语都只出现一次，不得重复翻译同一从句。",
+  "不造生词：术语先照词族政策（本包 family 条目），政策未覆盖之处才用通行译名；确需新造必须加译注说明理由。不得为了“通俗”而改用与政策冲突的通行译名。",
+  "一个术语只对应一个译名：一个德文术语只用一个中文译名，一个中文译名也只用于一个德文术语；不把两个不同术语合译成一个词。",
+  "反身代词与格：德语第三格 sich 多数是“对自己／为自己”，不是“自己”；es ist / es gibt 常等于“有”，不要一律译成“它是”。",
+  "同源可见：同一句里出现同族词（如 Idee 与 Idealität、Sittlichkeit 与 sittlich），中文也要让读者看出其同源关系。",
+  "日常义例外：同一词在非体系语境中可保留通用说法（ideal＝理想的、Ideal＝理想、realisieren＝实现），但体系义必须回到词族词根，且例外须记入词表。",
+  "自在／自为／自在自为三档不混：an sich＝自在，für sich＝自为，an und für sich＝自在自为；名词形式 Ansichsein＝自在存在、Fürsichsein＝自为存在、Für-ein-Anderes-Sein＝为他存在，全卷统一。",
+  "序言核心词固定：Substanz＝实体、Subjekt＝主体（“实体即主体”Substanz als Subjekt）；das Wahre＝真的东西（“Das Wahre ist das Ganze”＝真的东西就是整体）；das Ganze＝整体，与 Totalität（总体性）分开。",
+  "外化与异化严格分开：Entäußerung／entäußern＝外化，Entfremdung／entfremdet＝异化（der sich entfremdete Geist＝自身异化了的精神）；Bildung＝教养，不作“教育”（Erziehung）。",
+  "假象与现象分开：Erscheinung＝现象，Schein＝假象；erscheinendes Wissen＝显现着的知识；Erscheinung 与 Wesen（本质）对举。",
+  "扬弃全卷统一：Aufhebung／aufheben 一律“扬弃”，严禁拆成“取消＋保存”两个词并列解释。",
+  "中介与直接性成对：Vermittlung＝中介，Unmittelbarkeit＝直接性；不得用“媒介化”“间接性”另立译名。",
+  "第一章（感性确定性）词面固定：sinnliche Gewißheit＝感性确定性，das Diese＝这一个，Meinen＝意谓，Jetzt＝这时，Hier＝这里；das Sinnliche＝感性之物，与 das Übersinnliche（超感性之物）对举。",
+  "第二、三章词面固定：Wahrnehmung＝知觉（不作“感知”），Ding＝物，Täuschung＝错觉（标题“物与错觉”），Kraft＝力（标题“力与知性”），Gesetz＝规律（道德语境作“法则”，仅成文法才作“法律”），übersinnliche Welt＝超感性世界，Verstand＝知性。",
+  "第四章（自我意识）词面固定：Begierde＝欲望，Anerkennen＝承认，Herr／Knecht＝主人／奴隶（Herrschaft und Knechtschaft＝主人与奴隶），unglückliches Bewußtsein＝苦恼意识，Stoizismus＝斯多葛主义，Skeptizismus＝怀疑论。",
+  "第五章（理性）词面固定：beobachtende Vernunft＝观察的理性，Physiognomik＝面相学，Schädellehre＝颅相学，Gesetz des Herzens＝心的规律，Eigendünkel＝自负，Tugend＝德行，Weltlauf＝世界进程，geistiges Tierreich＝精神动物王国，Sache selbst＝事情本身。",
+  "第六章（精神）词面固定：Sittlichkeit＝伦理，Moralität＝道德，两者严格分开；Schuld＝罪过，Schicksal＝命运，Rechtszustand＝法权状态，Gewissen＝良心，schöne Seele＝美的灵魂，Verzeihung＝宽恕，Verstellung＝伪装，Aufklärung＝启蒙，reine Einsicht＝纯粹识见。",
+  "第七、八章（宗教与绝对知识）词面固定：offenbare Religion＝天启宗教（不作“启示宗教”），Kunstreligion＝艺术宗教，Gemeinde＝教团，Andacht＝虔诚，Innerlichkeit＝内在性；absolutes Wissen＝绝对知识，Erinnerung＝回忆（与 Gedächtnis 记忆分开）。",
+  "人名、地名、书名用通行中译，首次出现可附原文；希腊语、拉丁语（Horos、a priori）和缩写（S.、Bd.、vgl.、Hrsg.、u. ö.）照抄原文，必要时在括注里给中文。",
+  "分级符号与公式形式（α)、β)、γ)、a)、b)、c)、A = A、Ich = Ich、Ich, das Wir, und Wir, das Ich）原样保留，不译不动，便于三栏逐句联动。",
+  "主宾与格关系逐句核对：德语长句里分句的主语常发生切换，必须显式处理，不得让前后分句的主语颠倒或含糊。"
+ ],
+ "entries": [
+  {
+   "source": "Idee",
+   "en": "idea",
+   "zh": "观念",
+   "type": "term",
+   "note": "政策：词族 Idee 的词根是“观念”，严禁“理念”"
+  },
+  {
+   "source": "ideell",
+   "en": "ideal (of ideality)",
+   "zh": "观念的",
+   "type": "term",
+   "note": "与 reell（实在的）对举；政策：严禁“理想的”"
+  },
+  {
+   "source": "das Ideelle",
+   "en": "the ideal element",
+   "zh": "观念物",
+   "type": "term",
+   "note": "与 das Reelle（实在物）对举；亦作“观念的东西”"
+  },
+  {
+   "source": "Idealität",
+   "en": "ideality",
+   "zh": "观念性",
+   "type": "term",
+   "note": "与 Realität（实在性）对举"
+  },
+  {
+   "source": "idealisieren",
+   "en": "to idealize",
+   "zh": "观念化",
+   "type": "term",
+   "note": "日常义“使理想化”仅限非体系语境"
+  },
+  {
+   "source": "Idealismus",
+   "en": "idealism",
+   "zh": "观念论",
+   "type": "term",
+   "note": "政策：严禁“唯心主义”；书名同此（《先验观念论体系》）"
+  },
+  {
+   "source": "idealistisch",
+   "en": "idealistic",
+   "zh": "观念论的",
+   "type": "term",
+   "note": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Idealrealismus",
+   "en": "ideal-realism",
+   "zh": "观念实在论",
+   "type": "term",
+   "note": "黑格尔自造词；句中出现极少"
+  },
+  {
+   "source": "Realität",
+   "en": "reality",
+   "zh": "实在性",
+   "type": "term",
+   "note": "与 Idealität（观念性）对举；严禁“现实性”"
+  },
+  {
+   "source": "real",
+   "en": "real",
+   "zh": "实在的",
+   "type": "term",
+   "note": "与 ideell（观念的）对举"
+  },
+  {
+   "source": "das Reelle",
+   "en": "the real element",
+   "zh": "实在物",
+   "type": "term",
+   "note": "与 das Ideelle（观念物）对举"
+  },
+  {
+   "source": "Realismus",
+   "en": "realism",
+   "zh": "实在论",
+   "type": "term",
+   "note": "与 Idealismus（观念论）对举；严禁“现实主义”"
+  },
+  {
+   "source": "Begriff",
+   "en": "concept",
+   "zh": "概念",
+   "type": "term",
+   "note": "与 Vorstellung（表象）、Anschauung（直观）区分；严禁用“观念”"
+  },
+  {
+   "source": "begreifen",
+   "en": "to comprehend",
+   "zh": "以概念把握",
+   "type": "term",
+   "note": "体系义须含“概念”；非体系语境的日常义才可作“领会”"
+  },
+  {
+   "source": "begrifflich",
+   "en": "conceptual",
+   "zh": "概念性的",
+   "type": "term",
+   "note": "亦可作“概念的”"
+  },
+  {
+   "source": "begrifflos",
+   "en": "concept-less",
+   "zh": "无概念的",
+   "type": "term",
+   "note": "严禁“无观念的”"
+  },
+  {
+   "source": "Vorstellung",
+   "en": "representation",
+   "zh": "表象",
+   "type": "term",
+   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族）"
+  },
+  {
+   "source": "vorgestellt",
+   "en": "represented",
+   "zh": "被表象的",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "Geist",
+   "en": "spirit",
+   "zh": "精神",
+   "type": "term",
+   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”"
+  },
+  {
+   "source": "geistig",
+   "en": "spiritual",
+   "zh": "精神的",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "geistlos",
+   "en": "spirit-less",
+   "zh": "无精神的",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Wissen",
+   "en": "knowing / knowledge",
+   "zh": "知识",
+   "type": "term",
+   "note": "名词义作“知识”，活动义可作“知”；与 Erkenntnis（认识）分开"
+  },
+  {
+   "source": "absolutes Wissen",
+   "en": "absolute knowing",
+   "zh": "绝对知识",
+   "type": "term",
+   "note": "第八章标题；begreifendes Wissen 作“以概念把握的知识”"
+  },
+  {
+   "source": "Wahrheit",
+   "en": "truth",
+   "zh": "真理",
+   "type": "term",
+   "note": "与 Gewißheit（确定性）对举"
+  },
+  {
+   "source": "wahr",
+   "en": "true",
+   "zh": "真的",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "wahrhaft",
+   "en": "true, genuine",
+   "zh": "真正的",
+   "type": "term",
+   "note": "与 wirklich（现实的）区分"
+  },
+  {
+   "source": "Wirklichkeit",
+   "en": "actuality",
+   "zh": "现实性",
+   "type": "term",
+   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列"
+  },
+  {
+   "source": "wirklich",
+   "en": "actual",
+   "zh": "现实的",
+   "type": "term",
+   "note": "与 real／reell（实在的）严格分开"
+  },
+  {
+   "source": "Vorrede",
+   "en": "preface",
+   "zh": "序言",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Einleitung",
+   "en": "introduction",
+   "zh": "导论",
+   "type": "term",
+   "note": "通行作“导论”"
+  },
+  {
+   "source": "das Wahre",
+   "en": "the true",
+   "zh": "真的东西",
+   "type": "term",
+   "note": "“Das Wahre ist das Ganze”＝真的东西就是整体"
+  },
+  {
+   "source": "das Ganze",
+   "en": "the whole",
+   "zh": "整体",
+   "type": "term",
+   "note": "与 Totalität（总体性）分开"
+  },
+  {
+   "source": "Substanz",
+   "en": "substance",
+   "zh": "实体",
+   "type": "term",
+   "note": "“实体即主体”（Substanz als Subjekt）"
+  },
+  {
+   "source": "Subjekt",
+   "en": "subject",
+   "zh": "主体",
+   "type": "term",
+   "note": "与 subjektiv（主观的）严格分开"
+  },
+  {
+   "source": "das Ansich",
+   "en": "the in-itself",
+   "zh": "自在",
+   "type": "term",
+   "note": "名词形式；副词 an sich 同根"
+  },
+  {
+   "source": "Ansichsein",
+   "en": "being-in-itself",
+   "zh": "自在存在",
+   "type": "term",
+   "note": "与 Fürsichsein（自为存在）对举"
+  },
+  {
+   "source": "Fürsichsein",
+   "en": "being-for-itself",
+   "zh": "自为存在",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "an und für sich",
+   "en": "in and for itself",
+   "zh": "自在自为",
+   "type": "term",
+   "note": "三档：自在／自为／自在自为"
+  },
+  {
+   "source": "Für-ein-Anderes-Sein",
+   "en": "being-for-another",
+   "zh": "为他存在",
+   "type": "term",
+   "note": "与自在存在、自为存在并列"
+  },
+  {
+   "source": "Anderssein",
+   "en": "otherness",
+   "zh": "他在",
+   "type": "term",
+   "note": "亦作“异在”；全卷统一“他在”"
+  },
+  {
+   "source": "Aufhebung",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "全卷统一；严禁拆成“取消＋保存”"
+  },
+  {
+   "source": "aufheben",
+   "en": "to sublate",
+   "zh": "扬弃",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Vermittlung",
+   "en": "mediation",
+   "zh": "中介",
+   "type": "term",
+   "note": "与 Unmittelbarkeit（直接性）成对；不作“媒介化”"
+  },
+  {
+   "source": "Unmittelbarkeit",
+   "en": "immediacy",
+   "zh": "直接性",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "unmittelbar",
+   "en": "immediate",
+   "zh": "直接的",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Entäußerung",
+   "en": "externalization",
+   "zh": "外化",
+   "type": "term",
+   "note": "与 Entfremdung（异化）严格分开"
+  },
+  {
+   "source": "entäußern",
+   "en": "to externalize",
+   "zh": "外化",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Entfremdung",
+   "en": "estrangement",
+   "zh": "异化",
+   "type": "term",
+   "note": "与 Entäußerung（外化）严格分开"
+  },
+  {
+   "source": "entfremdet",
+   "en": "estranged",
+   "zh": "异化了的",
+   "type": "term",
+   "note": "der sich entfremdete Geist＝自身异化了的精神"
+  },
+  {
+   "source": "Bildung",
+   "en": "formation, culture",
+   "zh": "教养",
+   "type": "term",
+   "note": "不作“教育”（Erziehung）"
+  },
+  {
+   "source": "Gestalt",
+   "en": "shape",
+   "zh": "形态",
+   "type": "term",
+   "note": "Gestalt des Bewußtseins＝意识的形态"
+  },
+  {
+   "source": "Erscheinung",
+   "en": "appearance",
+   "zh": "现象",
+   "type": "term",
+   "note": "与 Schein（假象）分开"
+  },
+  {
+   "source": "erscheinend",
+   "en": "appearing",
+   "zh": "显现着的",
+   "type": "term",
+   "note": "erscheinendes Wissen＝显现着的知识"
+  },
+  {
+   "source": "Schein",
+   "en": "semblance",
+   "zh": "假象",
+   "type": "term",
+   "note": "与 Erscheinung（现象）分开"
+  },
+  {
+   "source": "Wesen",
+   "en": "essence",
+   "zh": "本质",
+   "type": "term",
+   "note": "与 Erscheinung（现象）对举"
+  },
+  {
+   "source": "Dasein",
+   "en": "determinate being",
+   "zh": "定在",
+   "type": "term",
+   "note": "与 Existenz（存在）严格分开；全卷统一“定在”"
+  },
+  {
+   "source": "Existenz",
+   "en": "existence",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 Dasein（定在）分开；不作“实存”"
+  },
+  {
+   "source": "das Sein",
+   "en": "being",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 das Seiende（存在者）分开"
+  },
+  {
+   "source": "das Sinnliche",
+   "en": "the sensuous",
+   "zh": "感性之物",
+   "type": "term",
+   "note": "与 das Übersinnliche（超感性之物）对举"
+  },
+  {
+   "source": "sinnlich",
+   "en": "sensuous",
+   "zh": "感性的",
+   "type": "term",
+   "note": "不作“感官的”"
+  },
+  {
+   "source": "übersinnliche Welt",
+   "en": "supersensuous world",
+   "zh": "超感性世界",
+   "type": "term",
+   "note": "第三章标题"
+  },
+  {
+   "source": "Erfahrung",
+   "en": "experience",
+   "zh": "经验",
+   "type": "term",
+   "note": "导论：辩证运动即“经验”"
+  },
+  {
+   "source": "Maßstab",
+   "en": "standard",
+   "zh": "尺度",
+   "type": "term",
+   "note": "全卷统一“尺度”；不作“标准”"
+  },
+  {
+   "source": "Verzweiflung",
+   "en": "despair",
+   "zh": "绝望",
+   "type": "term",
+   "note": "Weg der Verzweiflung＝绝望之路"
+  },
+  {
+   "source": "bestimmte Negation",
+   "en": "determinate negation",
+   "zh": "特定的否定",
+   "type": "term",
+   "note": "通行译名"
+  },
+  {
+   "source": "Negativität",
+   "en": "negativity",
+   "zh": "否定性",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Widerspruch",
+   "en": "contradiction",
+   "zh": "矛盾",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Gegensatz",
+   "en": "opposition",
+   "zh": "对立",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Unterschied",
+   "en": "difference",
+   "zh": "差别",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Moment",
+   "en": "moment",
+   "zh": "环节",
+   "type": "term",
+   "note": "严禁“时刻”；黑格尔的 Moment 是整体的环节"
+  },
+  {
+   "source": "Dialektik",
+   "en": "dialectic",
+   "zh": "辩证法",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Reflexion",
+   "en": "reflection",
+   "zh": "反思",
+   "type": "term",
+   "note": "哲学义作“反思”；不作“反映”"
+  },
+  {
+   "source": "Bestimmtheit",
+   "en": "determinacy",
+   "zh": "规定性",
+   "type": "term",
+   "note": "与 Gewißheit（确定性）分开"
+  },
+  {
+   "source": "Gewißheit",
+   "en": "certainty",
+   "zh": "确定性",
+   "type": "term",
+   "note": "与 Bestimmtheit（规定性）分开"
+  },
+  {
+   "source": "Erkenntnis",
+   "en": "cognition",
+   "zh": "认识",
+   "type": "term",
+   "note": "与 Wissen（知识）分开"
+  },
+  {
+   "source": "Erinnerung",
+   "en": "recollection",
+   "zh": "回忆",
+   "type": "term",
+   "note": "末句与 Schädelstätte（骷髅地）并出；与 Gedächtnis（记忆）分开"
+  },
+  {
+   "source": "Schädelstätte",
+   "en": "place of skulls",
+   "zh": "骷髅地",
+   "type": "place",
+   "note": "全书末句“……构成绝对精神的回忆和骷髅地”；典出各各他 Golgatha"
+  },
+  {
+   "source": "sinnliche Gewißheit",
+   "en": "sense-certainty",
+   "zh": "感性确定性",
+   "type": "term",
+   "note": "第一章标题"
+  },
+  {
+   "source": "das Diese",
+   "en": "the “this”",
+   "zh": "这一个",
+   "type": "term",
+   "note": "通行作“这一个”"
+  },
+  {
+   "source": "Meinen",
+   "en": "meaning, opinion",
+   "zh": "意谓",
+   "type": "term",
+   "note": "通行作“意谓”；不作“意指”"
+  },
+  {
+   "source": "Jetzt",
+   "en": "now",
+   "zh": "这时",
+   "type": "term",
+   "note": "通行作“这时”"
+  },
+  {
+   "source": "Hier",
+   "en": "here",
+   "zh": "这里",
+   "type": "term",
+   "note": "通行作“这里”"
+  },
+  {
+   "source": "Wahrnehmung",
+   "en": "perception",
+   "zh": "知觉",
+   "type": "term",
+   "note": "第二章标题；全卷统一，不作“感知”"
+  },
+  {
+   "source": "Ding",
+   "en": "thing",
+   "zh": "物",
+   "type": "term",
+   "note": "das Ding der Wahrnehmung＝知觉的物"
+  },
+  {
+   "source": "Täuschung",
+   "en": "deception",
+   "zh": "错觉",
+   "type": "term",
+   "note": "标题“物与错觉”"
+  },
+  {
+   "source": "Kraft",
+   "en": "force",
+   "zh": "力",
+   "type": "term",
+   "note": "第三章标题“力与知性”；不作“力量”"
+  },
+  {
+   "source": "Äußerung",
+   "en": "expression",
+   "zh": "表现",
+   "type": "term",
+   "note": "与 Entäußerung（外化）严格分开"
+  },
+  {
+   "source": "Gesetz",
+   "en": "law",
+   "zh": "规律",
+   "type": "term",
+   "note": "本卷多指“规律”；道德语境作“法则”，仅成文法作“法律”"
+  },
+  {
+   "source": "Verstand",
+   "en": "understanding",
+   "zh": "知性",
+   "type": "term",
+   "note": "严禁“理智”；与 Vernunft（理性）分开"
+  },
+  {
+   "source": "Bewußtsein",
+   "en": "consciousness",
+   "zh": "意识",
+   "type": "term",
+   "note": "与 Selbstbewußtsein（自我意识）、Geist（精神）区分"
+  },
+  {
+   "source": "Selbstbewußtsein",
+   "en": "self-consciousness",
+   "zh": "自我意识",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Gegenstand",
+   "en": "object",
+   "zh": "对象",
+   "type": "term",
+   "note": "与 Objekt（客体）分开；不作“客体”"
+  },
+  {
+   "source": "Objekt",
+   "en": "object (set over against)",
+   "zh": "客体",
+   "type": "term",
+   "note": "与 Gegenstand（对象）分开；objektiv 作“客观的”"
+  },
+  {
+   "source": "Begierde",
+   "en": "desire",
+   "zh": "欲望",
+   "type": "term",
+   "note": "不作“贪欲”"
+  },
+  {
+   "source": "Leben",
+   "en": "life",
+   "zh": "生命",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Anerkennen",
+   "en": "to recognize",
+   "zh": "承认",
+   "type": "term",
+   "note": "Bewegung des Anerkennens＝承认的运动"
+  },
+  {
+   "source": "Selbständigkeit",
+   "en": "independence",
+   "zh": "独立性",
+   "type": "term",
+   "note": "标题“自我意识的独立性”"
+  },
+  {
+   "source": "Herr",
+   "en": "master",
+   "zh": "主人",
+   "type": "term",
+   "note": "Herrschaft und Knechtschaft＝主人与奴隶"
+  },
+  {
+   "source": "Knecht",
+   "en": "slave",
+   "zh": "奴隶",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Herrschaft und Knechtschaft",
+   "en": "lordship and bondage",
+   "zh": "主人与奴隶",
+   "type": "term",
+   "note": "全卷统一；不作“统治与奴役”"
+  },
+  {
+   "source": "Stoizismus",
+   "en": "stoicism",
+   "zh": "斯多葛主义",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Skeptizismus",
+   "en": "scepticism",
+   "zh": "怀疑论",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "unglückliches Bewußtsein",
+   "en": "unhappy consciousness",
+   "zh": "苦恼意识",
+   "type": "term",
+   "note": "全卷统一；不作“不幸的意识”"
+  },
+  {
+   "source": "Vernunft",
+   "en": "reason",
+   "zh": "理性",
+   "type": "term",
+   "note": "与 Verstand（知性）严格分开"
+  },
+  {
+   "source": "beobachtende Vernunft",
+   "en": "observing reason",
+   "zh": "观察的理性",
+   "type": "term",
+   "note": "第五章 A"
+  },
+  {
+   "source": "Physiognomik",
+   "en": "physiognomy",
+   "zh": "面相学",
+   "type": "term",
+   "note": "第五章 c"
+  },
+  {
+   "source": "Schädellehre",
+   "en": "phrenology",
+   "zh": "颅相学",
+   "type": "term",
+   "note": "第五章 c"
+  },
+  {
+   "source": "Individualität",
+   "en": "individuality",
+   "zh": "个体性",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Lust",
+   "en": "pleasure",
+   "zh": "快乐",
+   "type": "term",
+   "note": "标题“快乐与必然性”"
+  },
+  {
+   "source": "Gesetz des Herzens",
+   "en": "law of the heart",
+   "zh": "心的规律",
+   "type": "term",
+   "note": "标题“心的规律与自负的疯狂”"
+  },
+  {
+   "source": "Eigendünkel",
+   "en": "self-conceit",
+   "zh": "自负",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Tugend",
+   "en": "virtue",
+   "zh": "德行",
+   "type": "term",
+   "note": "本卷通行“德行”；不作“美德”"
+  },
+  {
+   "source": "Weltlauf",
+   "en": "course of the world",
+   "zh": "世界进程",
+   "type": "term",
+   "note": "标题“德行与世界进程”"
+  },
+  {
+   "source": "geistiges Tierreich",
+   "en": "spiritual animal kingdom",
+   "zh": "精神动物王国",
+   "type": "term",
+   "note": "第五章 a"
+  },
+  {
+   "source": "Sache selbst",
+   "en": "the matter itself",
+   "zh": "事情本身",
+   "type": "term",
+   "note": "不作“物自身”（Ding an sich）"
+  },
+  {
+   "source": "gesetzgebende Vernunft",
+   "en": "law-giving reason",
+   "zh": "立法的理性",
+   "type": "term",
+   "note": "第五章 b"
+  },
+  {
+   "source": "gesetzprüfende Vernunft",
+   "en": "law-testing reason",
+   "zh": "审查法则的理性",
+   "type": "term",
+   "note": "第五章 c"
+  },
+  {
+   "source": "Sittlichkeit",
+   "en": "ethical life",
+   "zh": "伦理",
+   "type": "term",
+   "note": "与 Moralität（道德）严格分开"
+  },
+  {
+   "source": "Schuld",
+   "en": "guilt",
+   "zh": "罪过",
+   "type": "term",
+   "note": "标题“罪过与命运”；法律语境可作“债务”"
+  },
+  {
+   "source": "Schicksal",
+   "en": "fate",
+   "zh": "命运",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Rechtszustand",
+   "en": "legal condition",
+   "zh": "法权状态",
+   "type": "term",
+   "note": "通行“法权状态”"
+  },
+  {
+   "source": "Gemeinwesen",
+   "en": "commonwealth",
+   "zh": "共同体",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Person",
+   "en": "person",
+   "zh": "人格",
+   "type": "term",
+   "note": "法权义作“人格”；“个人”留给 Individuum"
+  },
+  {
+   "source": "Individuum",
+   "en": "individual",
+   "zh": "个体",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Pflicht",
+   "en": "duty",
+   "zh": "义务",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Gewissen",
+   "en": "conscience",
+   "zh": "良心",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "schöne Seele",
+   "en": "beautiful soul",
+   "zh": "美的灵魂",
+   "type": "term",
+   "note": "第六章 C"
+  },
+  {
+   "source": "Verzeihung",
+   "en": "forgiveness",
+   "zh": "宽恕",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Böse",
+   "en": "evil",
+   "zh": "恶",
+   "type": "term",
+   "note": "与 das Gute（善）对举"
+  },
+  {
+   "source": "Verstellung",
+   "en": "dissemblance",
+   "zh": "伪装",
+   "type": "term",
+   "note": "标题“伪装”；不作“颠倒”"
+  },
+  {
+   "source": "Moralität",
+   "en": "morality",
+   "zh": "道德",
+   "type": "term",
+   "note": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "moralische Weltanschauung",
+   "en": "moral world-view",
+   "zh": "道德世界观",
+   "type": "term",
+   "note": "第六章 C"
+  },
+  {
+   "source": "Aufklärung",
+   "en": "enlightenment",
+   "zh": "启蒙",
+   "type": "term",
+   "note": "第六章 B II"
+  },
+  {
+   "source": "Aberglaube",
+   "en": "superstition",
+   "zh": "迷信",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Glaube",
+   "en": "faith",
+   "zh": "信仰",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "reine Einsicht",
+   "en": "pure insight",
+   "zh": "纯粹识见",
+   "type": "term",
+   "note": "通行“纯粹识见”"
+  },
+  {
+   "source": "absolute Freiheit",
+   "en": "absolute freedom",
+   "zh": "绝对自由",
+   "type": "term",
+   "note": "第六章 B III"
+  },
+  {
+   "source": "Schrecken",
+   "en": "terror",
+   "zh": "恐怖",
+   "type": "term",
+   "note": "标题“绝对自由与恐怖”"
+  },
+  {
+   "source": "Religion",
+   "en": "religion",
+   "zh": "宗教",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "natürliche Religion",
+   "en": "natural religion",
+   "zh": "自然宗教",
+   "type": "term",
+   "note": "第七章 A"
+  },
+  {
+   "source": "Lichtwesen",
+   "en": "being of light",
+   "zh": "光明本质",
+   "type": "term",
+   "note": "通行亦作“光明之神”"
+  },
+  {
+   "source": "Werkmeister",
+   "en": "artificer",
+   "zh": "工匠",
+   "type": "term",
+   "note": "第七章 A c"
+  },
+  {
+   "source": "Kunstreligion",
+   "en": "art-religion",
+   "zh": "艺术宗教",
+   "type": "term",
+   "note": "第七章 B"
+  },
+  {
+   "source": "offenbare Religion",
+   "en": "revealed religion",
+   "zh": "天启宗教",
+   "type": "term",
+   "note": "通行“天启宗教”；不作“启示宗教”"
+  },
+  {
+   "source": "Gemeinde",
+   "en": "community",
+   "zh": "教团",
+   "type": "term",
+   "note": "宗教语境作“教团”"
+  },
+  {
+   "source": "Andacht",
+   "en": "devotion",
+   "zh": "虔诚",
+   "type": "term",
+   "note": ""
+  },
+  {
+   "source": "Innerlichkeit",
+   "en": "inwardness",
+   "zh": "内在性",
+   "type": "term",
+   "note": "第七章"
+  },
+  {
+   "source": "Kant",
+   "en": "Kant",
+   "zh": "康德",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Fichte",
+   "en": "Fichte",
+   "zh": "费希特",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Schelling",
+   "en": "Schelling",
+   "zh": "谢林",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Platon",
+   "en": "Plato",
+   "zh": "柏拉图",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Aristoteles",
+   "en": "Aristotle",
+   "zh": "亚里士多德",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Sophokles",
+   "en": "Sophocles",
+   "zh": "索福克勒斯",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Goethe",
+   "en": "Goethe",
+   "zh": "歌德",
+   "type": "person",
+   "note": ""
+  },
+  {
+   "source": "Antigone",
+   "en": "Antigone",
+   "zh": "安提戈涅",
+   "type": "person",
+   "note": "索福克勒斯悲剧人物；剧名作《安提戈涅》"
+  },
+  {
+   "source": "Phänomenologie des Geistes",
+   "en": "Phenomenology of Spirit",
+   "zh": "《精神现象学》",
+   "type": "work",
+   "note": "本卷即此书的 Suhrkamp 版"
+  },
+  {
+   "source": "Wissenschaft der Logik",
+   "en": "Science of Logic",
+   "zh": "《逻辑学》",
+   "type": "work",
+   "note": "全称《逻辑学》，不作“逻辑科学”"
+  },
+  {
+   "source": "System des transzendentalen Idealismus",
+   "en": "System of Transcendental Idealism",
+   "zh": "《先验观念论体系》",
+   "type": "work",
+   "note": "政策：Idealismus 作“观念论”"
+  },
+  {
+   "source": "Tun",
+   "en": "doing",
+   "zh": "行动",
+   "type": "term",
+   "note": "名词义：行动/所作所为；严禁与 als（作为）混淆；动词 tun 作"
+  }
+ ],
+ "forbidden": [
+  {
+   "source": "Idee",
+   "forbidden": "理念",
+   "prefer": "观念",
+   "why": "政策：词族一致的词根是“观念”，严禁“理念”"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "唯心主义",
+   "prefer": "观念论",
+   "why": "政策：严禁“唯心主义”；书名《先验观念论体系》同此"
+  },
+  {
+   "source": "idealistisch",
+   "forbidden": "唯心的",
+   "prefer": "观念论的",
+   "why": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Idealität",
+   "forbidden": "理想性",
+   "prefer": "观念性",
+   "why": "“理想”留给 Ideal；词族词根为“观念”"
+  },
+  {
+   "source": "Ideal",
+   "forbidden": "观念",
+   "prefer": "理想",
+   "why": "日常／美学义作“理想”；体系义才回 Idee 族，例外须记入词表"
+  },
+  {
+   "source": "Realität",
+   "forbidden": "现实性",
+   "prefer": "实在性",
+   "why": "与 Wirklichkeit（现实性）严格分开"
+  },
+  {
+   "source": "Realismus",
+   "forbidden": "现实主义",
+   "prefer": "实在论",
+   "why": "与 Idealismus（观念论）对举；严禁“现实主义”"
+  },
+  {
+   "source": "das Reelle",
+   "forbidden": "现实的",
+   "prefer": "实在物",
+   "why": "与 das Ideelle（观念物）对举"
+  },
+  {
+   "source": "ideell",
+   "forbidden": "理想的",
+   "prefer": "观念的",
+   "why": "与 Ideal（理想）分开；ideell 是观念性的"
+  },
+  {
+   "source": "reell",
+   "forbidden": "现实的",
+   "prefer": "实在的",
+   "why": "与 wirklich（现实的）严格分开"
+  },
+  {
+   "source": "Begriff",
+   "forbidden": "观念",
+   "prefer": "概念",
+   "why": "“观念”留给 Idee 家族"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "观念",
+   "prefer": "表象",
+   "why": "政策：严禁用“观念”译 Vorstellung"
+  },
+  {
+   "source": "vorgestellt",
+   "forbidden": "观念的",
+   "prefer": "被表象的",
+   "why": "同上"
+  },
+  {
+   "source": "Wirklichkeit",
+   "forbidden": "实在性",
+   "prefer": "现实性",
+   "why": "与 Realität（实在性）分开"
+  },
+  {
+   "source": "wirklich",
+   "forbidden": "实在的",
+   "prefer": "现实的",
+   "why": "与 real／reell（实在的）分开"
+  },
+  {
+   "source": "wahrhaft",
+   "forbidden": "真实的",
+   "prefer": "真正的",
+   "why": "词族 Wahrheit（词根：真）；wahrhaft 作“真正的”"
+  },
+  {
+   "source": "Dasein",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "与 Existenz（存在）严格分开；凡 Dasein 一律“定在”"
+  },
+  {
+   "source": "Existenz",
+   "forbidden": "实存",
+   "prefer": "存在",
+   "why": "与 Dasein（定在）分开"
+  },
+  {
+   "source": "Schein",
+   "forbidden": "现象",
+   "prefer": "假象",
+   "why": "与 Erscheinung（现象）分开"
+  },
+  {
+   "source": "Erscheinung",
+   "forbidden": "假象",
+   "prefer": "现象",
+   "why": "与 Schein（假象）分开"
+  },
+  {
+   "source": "Bestimmtheit",
+   "forbidden": "确定性",
+   "prefer": "规定性",
+   "why": "“确定性”留给 Gewißheit"
+  },
+  {
+   "source": "Gewißheit",
+   "forbidden": "规定性",
+   "prefer": "确定性",
+   "why": "与 Bestimmtheit（规定性）分开"
+  },
+  {
+   "source": "Erkenntnis",
+   "forbidden": "知识",
+   "prefer": "认识",
+   "why": "“知识”留给 Wissen"
+  },
+  {
+   "source": "Sittlichkeit",
+   "forbidden": "道德",
+   "prefer": "伦理",
+   "why": "与 Moralität（道德）严格分开"
+  },
+  {
+   "source": "Moralität",
+   "forbidden": "伦理",
+   "prefer": "道德",
+   "why": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "Verstand",
+   "forbidden": "理智",
+   "prefer": "知性",
+   "why": "全卷统一“知性”"
+  },
+  {
+   "source": "Aufhebung",
+   "forbidden": "取消",
+   "prefer": "扬弃",
+   "why": "全卷统一“扬弃”；严禁拆成“取消＋保存”"
+  },
+  {
+   "source": "Entfremdung",
+   "forbidden": "外化",
+   "prefer": "异化",
+   "why": "“外化”留给 Entäußerung"
+  },
+  {
+   "source": "Entäußerung",
+   "forbidden": "异化",
+   "prefer": "外化",
+   "why": "“异化”留给 Entfremdung"
+  },
+  {
+   "source": "Bildung",
+   "forbidden": "教育",
+   "prefer": "教养",
+   "why": "“教育”留给 Erziehung"
+  },
+  {
+   "source": "Täuschung",
+   "forbidden": "欺骗",
+   "prefer": "错觉",
+   "why": "第二章标题作“物与错觉”"
+  },
+  {
+   "source": "Wahrnehmung",
+   "forbidden": "感知",
+   "prefer": "知觉",
+   "why": "全卷统一“知觉”"
+  },
+  {
+   "source": "Moment",
+   "forbidden": "时刻",
+   "prefer": "环节",
+   "why": "黑格尔的 Moment 指整体的环节，不是时间上的时刻"
+  },
+  {
+   "source": "Kraft",
+   "forbidden": "力量",
+   "prefer": "力",
+   "why": "第三章标题作“力与知性”"
+  },
+  {
+   "source": "Gesetz",
+   "forbidden": "法律",
+   "prefer": "规律",
+   "why": "本卷 Gesetz 多指“规律”；道德语境作“法则”，仅成文法作“法律”"
+  },
+  {
+   "source": "unglückliches Bewußtsein",
+   "forbidden": "不幸的意识",
+   "prefer": "苦恼意识",
+   "why": "全卷统一“苦恼意识”"
+  },
+  {
+   "source": "Herrschaft und Knechtschaft",
+   "forbidden": "统治与奴役",
+   "prefer": "主人与奴隶",
+   "why": "全卷统一“主人与奴隶”"
+  },
+  {
+   "source": "Sache selbst",
+   "forbidden": "物自身",
+   "prefer": "事情本身",
+   "why": "“物自身”留给 Ding an sich"
+  },
+  {
+   "source": "offenbare Religion",
+   "forbidden": "启示宗教",
+   "prefer": "天启宗教",
+   "why": "通行作“天启宗教”"
+  },
+  {
+   "source": "Reflexion",
+   "forbidden": "反映",
+   "prefer": "反思",
+   "why": "哲学义作“反思”"
+  },
+  {
+   "source": "Verstellung",
+   "forbidden": "颠倒",
+   "prefer": "伪装",
+   "why": "标题作“伪装”"
+  },
+  {
+   "source": "Tugend",
+   "forbidden": "美德",
+   "prefer": "德行",
+   "why": "本卷通行“德行”"
+  },
+  {
+   "source": "Subjekt",
+   "forbidden": "主观",
+   "prefer": "主体",
+   "why": "与 subjektiv（主观的）严格分开"
+  },
+  {
+   "source": "Anschauung",
+   "forbidden": "直觉",
+   "prefer": "直观",
+   "why": "全卷统一“直观”"
+  },
+  {
+   "source": "Geist",
+   "forbidden": "心灵",
+   "prefer": "精神",
+   "why": "全卷统一“精神”；“心灵”留给 Seele 一系说法"
+  },
+  {
+   "source": "das Diese",
+   "forbidden": "这个",
+   "prefer": "这一个",
+   "why": "第一章通行作“这一个”"
+  },
+  {
+   "source": "Meinen",
+   "forbidden": "意指",
+   "prefer": "意谓",
+   "why": "第一章通行作“意谓”"
+  },
+  {
+   "source": "sinnlich",
+   "forbidden": "感官的",
+   "prefer": "感性的",
+   "why": "全卷统一“感性的”"
+  }
+ ],
+ "doNotTranslate": [
+  "a priori",
+  "Horos",
+  "A = A",
+  "Ich = Ich",
+  "Ich, das Wir, und Wir, das Ich",
+  "α)",
+  "β)",
+  "γ)",
+  "a)",
+  "b)",
+  "c)",
+  "S.",
+  "Bd.",
+  "vgl.",
+  "Hrsg.",
+  "hg. von",
+  "u. ö."
+ ]
+}

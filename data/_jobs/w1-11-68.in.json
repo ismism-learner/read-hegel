@@ -1,0 +1,31 @@
+{
+ "id": "w1-11-68",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 11,
+ "chunkTitle": "[Der Geist des Christentums]",
+ "heading": "[Der Geist des Christentums]",
+ "blocks": [
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "kridip1v3z",
+   "sents": [
+    "Die Gewohnheit des Johannes (von Jesu ist keine solche Handlung bekannt), die zu seinem Geist Erzogenen in Wasser unterzutauchen, ist eine bedeutende symbolische.",
+    "Es gibt kein Gefühl, das dem Verlangen nach dem Unendlichen, dem Sehnen, in das Unendliche überzufließen, so homogen wäre als das Verlangen, sich in einer Wasserfülle zu begraben; der Hineinstürzende hat ein Fremdes vor sich, das ihn sogleich ganz umfließt, an jedem Punkte seines Körpers sich zu fühlen gibt; er ist der Welt genommen, sie ihm; er ist nur gefühltes Wasser, das ihn berührt, wo er ist, und er ist nur, wo er es fühlt; es ist in der Wasserfülle keine Lücke, keine Beschränkung, keine Mannigfaltigkeit oder Bestimmung; das Gefühl derselben ist das unzerstreuteste, einfachste; der Untergetauchte steigt wieder in die Luft empor, trennt sich vom Wasserkörper, ist von ihm schon geschieden, aber er trieft noch allenthalben von ihm; sowie es ihn verläßt, nimmt die Welt um ihn wieder Bestimmtheit an, und er tritt gestärkt in die Mannigfaltigkeit des Bewußtseins zurück.",
+    "Im Hinaussehen in die unschattierte Bläue und die einfache gestaltenlose Fläche eines morgenländischen Horizontes wird die umgebende Luft nicht gefühlt, und das Spiel der Gedanken ist etwas anderes als das Hinaussehen.",
+    "Im Untergetauchten ist nur ein Gefühl und die Vergessenheit der Welt, eine Einsamkeit, die alles von sich geworfen, allem sich entwunden hat.",
+    "Als ein solches Entnehmen alles Bisherigen, als eine begeisternde Weihe in eine neue Welt, in welcher vor dem neuen Geist das, was wirklich ist, unentschieden zwischen Wirklichkeit und Traum schwebt, erscheint die Taufe des Jesus bei Mark.",
+    "1, 9 ff.; er wurde von Johannes in den Jordan getaucht, und indem er sogleich aus dem Wasser heraufstieg, sah er die Himmel zerrissen und den Geist wie eine Taube auf sich herabsteigen; und eine Stimme geschah aus den Himmeln: Du bist mein geliebter Sohn, in welchem ich mich gefreut habe.",
+    "Und sogleich warf ihn der Geist in die Wüste; und er war dort vierzig Tage, versucht vom Satan, und er war mit den Tieren, und die Engel dienten ihm. - Im Emporsteigen aus dem Wasser ist er der höchsten Begeisterung voll, die ihn in der Welt nicht bleiben läßt, sondern in die Wüste treibt, wo das Arbeiten seines Geistes das Bewußtsein der Wirklichkeit noch nicht von sich geschieden hat, zu welcher Scheidung er erst nach 40 Tagen völlig erwacht und sicher in die Welt, aber fest gegen sie eintritt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/11.p68.json"
+}

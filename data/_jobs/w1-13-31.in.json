@@ -1,0 +1,95 @@
+{
+ "id": "w1-13-31",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "[Systemfragment von 1800] 126)",
+ "heading": "10.",
+ "blocks": [
+  {
+   "bi": 31,
+   "k": "h",
+   "hash": "puyyfyu4d3",
+   "text": "10."
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "1wxsx8dzl2",
+   "sents": [
+    "Die ungezügelte Einbildungskraft der Weiber des Mittelalters hat in Gräßlichkeiten der Hexerei, in der Sucht, an anderen kleinen Neid und Rache auszuüben, herumgetobt und hat sie auf den Scheiterhaufen gebracht.",
+    "Den griechischen Weibern war in den bakchischen Festen ein erlaubter Spielraum, sich auszuwüten, gegeben.",
+    "Auf die Erschöpfung des Körpers und der Einbildungskraft folgte ein ruhiges Zurücktreten in den Kreis gewöhnlicher Empfindung und hergebrachten Lebens.",
+    "Die wilde Mänas war die übrige Zeit ein vernünftiges Weib.",
+    "Dort Hexen, hier Mänaden, dort der Gegenstand der Phantasie teuflische Fratzen, hier ein schöner, weinbelaubter Gott; dort damit vergesellschaftet Befriedigung von Neid, Rachgier, Haß, hier nichts als zweckloses, oft bis zur tobenden Raserei gehendes Vergnügen; dort Fortschritt von einzelnen Wahnsinnsanfällen bis zu gänzlicher und bleibender Zerrüttung des Geistes, hier Rücktritt ins gewöhnliche Leben; dort betrachtete das Zeitalter diese verstellte Raserei nicht als eine Krankheit, sondern als den gotteslästerlichsten Frevel, der nur mit Scheiterhaufen gebüßt werden konnte, hier war dies Bedürfnis mancher weiblichen Phantasien und Temperamente etwas Heiliges, dessen Ausbrüchen Feste gegeben, [die] vom Staat sanktioniert und dadurch in die Möglichkeit gebracht wurden, unschädlich zu werden."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "h",
+   "hash": "zaoliz1xv8",
+   "text": "11."
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "826gv91yd6",
+   "sents": [
+    "Die Stimme der katholischen Geistlichen ist fast der Heiserkeit nahe.",
+    "Der eigene Stand, die absondernde Ordenskleidung, das von allen Menschen und Verhältnissen Abgetrennte, jeden Augenblick ihre Muskeln zur inneren Reaktion und Ansichhalten Spannende läßt die Stimme nicht aus der, bei den meisten auch eingesunkenen Brust heraus, sondern sie kreischt fein aus der Kehle, aber nicht rein.",
+    "Protestantische Prediger haben die feierlichere Stimme des gemeinen Lebens.",
+    "Wenn die katholische Stimme sich zum Lautreden des Predigens anstrengt, ist sie so durchkreischend, wimmernd schreiend."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "h",
+   "hash": "pv59fw1egr",
+   "text": "12."
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1s74y8xqsz",
+   "sents": [
+    "Verachtung der Menschen.",
+    "Jeder ist gewohnt, andere nach der Regel, die er sich für die Menschheit gemacht hat, zu beurteilen und zu verlangen, daß er so sei.",
+    "Nur lange Welterfahrung oder ein Übermaß von Güte des Herzens bringt uns hiervon zurück.",
+    "Diese Forderung ist vorzüglich den Europäern eigen.",
+    "Es ist eine Art von Eigensinn.",
+    "So ist es auch ein Zeichen unserer Zeit und weiter nichts - nicht hohe Kultur, nicht Annäherung zum Zweck der Menschheit, zur Vollkommenheit -, die öffentliche Beurteilung von Charakteren, z. B. eines Rousseau, nach den Regeln der Vernunft.",
+    "Außerdem, daß jeder zuerst in seinen Busen greifen sollte, ist es nur die Tugend allein, die sich selbst Regeln gibt, die beurteilen und fordern kann, aber kein Mensch hat gegen den andern das Recht, sich an die Stelle der Tugend zu setzen und, als ihre Person vorstellend, Forderungen an andere zu machen.",
+    "Jeder kann einem solchen antworten: die Tugend hat das Recht, dies an mich zu fordern, aber nicht Du."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "h",
+   "hash": "zauwixj6ig",
+   "text": "13."
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "17biumvopo",
+   "sents": [
+    "In den Staaten der neueren Zeit ist Sicherheit des Eigentums die Angel, um die sich die ganze Gesetzgebung dreht, worauf sich die meisten Rechte der Staatsbürger beziehen.",
+    "In mancher freien Republik des Altertums ist schon durch die Verfassung des Staats das strenge Eigentumsrecht, die Sorge aller unserer Obrigkeiten, der Stolz unserer Staaten, beeinträchtigt worden.",
+    "In der Lakedämonischen Verfassung war Sicherheit des Eigentums und der Industrie ein Punkt, der fast gar nicht in Betracht kam, der, man kann fast sagen, vergessen war.",
+    "In Athen wurden die reichen Bürger gewöhnlich eines Teils ihres Vermögens beraubt.",
+    "Doch gebrauchte man einen für die Person, die man berauben wollte, ehrenvollen Vorwand: man übertrug ihr nämlich ein Amt, das einen ungeheuren Aufwand forderte.",
+    "Wer in den Tribus, worein die Bürger eingeteilt waren, zu einem kostspieligen Amt erwählt war, konnte unter den Bürgern seines Tribus sich umsehen, ob er nicht einen reicheren fände.",
+    "Glaubte er einen solchen gefunden zu haben und dieser behauptete, weniger reich zu sein, so konnte ihm jener einen Austausch ihres Vermögens vorschlagen, dessen sich dieser nicht weigern durfte.",
+    "Wie sehr der unverhältnismäßige Reichtum einiger Bürger auch der freiesten Form der Verfassung gefährlich und die Freiheit selbst zu zerstören imstande sei, zeigt die Geschichte in dem Beispiel eines Perikles zu Athen, der Patrizier in Rom, deren Untergang der drohende Einfluß der Gracchen und anderer durch Vorschläge der agrarischen Gesetze vergeblich zu hemmen suchte, der Medicis zu Florenz - und es wäre eine wichtige Untersuchung, wieviel von dem strengen Eigentumsrecht der dauerhaften Form einer Republik aufgeopfert werden müßte.",
+    "Man hat dem System des Sansculottismus in Frankreich vielleicht Unrecht getan, wenn man die Quelle der durch dasselbe beabsichtigten größeren Gleichheit des Eigentums allein in der Raubgier suchte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/13.p31.json"
+}

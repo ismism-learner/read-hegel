@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-10",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 3,
+   "de": "Es ist hierdurch die innerliche Bewegung des reinen Gemüts vorhanden, welches sich selbst, aber als die Entzweiung schmerzhaft fühlt, die Bewegung einer unendlichen Sehnsucht, welche die Gewißheit hat, daß ihr Wesen ein solches reines Gemüt ist, reines Denken, welches sich als Einzelheit denkt; daß sie von diesem Gegenstande eben darum, weil er sich als Einzelheit denkt, erkannt und anerkannt wird.",
+   "en": "Thereby the inward movement of the pure heart is present, which feels itself painfully, but as the division; the movement of an infinite longing, which has the certainty that its essence is such a pure heart, pure thinking that thinks itself as singularity; that it is cognized and recognized by this object precisely because the latter thinks itself as singularity.",
+   "zh": "由此就有了纯粹心情的内在运动，这种心情痛苦地感到自己，但却是作为分裂而感到自己，这就是一种无限渴望的运动，这种渴望具有确定性：它的本质就是这样一种纯粹的心情，即纯粹思维，这纯粹思维把自己思考为个别性；它也确信：自己被这个对象所认识、所承认，正因为这个对象把自己思考为个别性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 4,
+   "de": "Zugleich aber ist dies Wesen das unerreichbare Jenseits, welches im Ergreifen entflieht oder vielmehr schon entflohen ist.",
+   "en": "But at the same time this essence is the unattainable beyond, which flees in the grasping, or rather has already fled.",
+   "zh": "但与此同时，这个本质又是那不可达到的彼岸，它在抓取中逃走，或者更确切地说，已经逃走了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 5,
+   "de": "Es ist schon entflohen; denn es ist einesteils das sich als Einzelheit denkende Unwandelbare, und das Bewußtsein erreicht sich selbst daher unmittelbar in ihm, sich selbst, aber als das dem Unwandelbaren Entgegengesetzte, statt das Wesen zu ergreifen, fühlt es nur und ist in sich zurückgefallen; indem es im Erreichen sich als dies Entgegengesetzte nicht abhalten kann, hat es, statt das Wesen ergriffen zu haben, nur die Unwesentlichkeit ergriffen.",
+   "en": "It has already fled; for on the one hand it is the unchangeable that thinks itself as singularity, and consciousness therefore reaches itself immediately in it — itself, but as the opposite of the unchangeable; instead of grasping the essence, it only feels and has fallen back into itself; since in reaching it cannot hold itself back from being this opposite, it has, instead of having grasped the essence, grasped only the unessentiality.",
+   "zh": "它已经逃走了；因为一方面，它是那把自己思考为个别性的不变者，意识因此直接在它之中达到自己，达到自己，但却是作为与不变者对立的东西达到自己；它没有抓住本质，而只是感受，并且已经退回到自身之中；由于它在达到时不能阻止自己成为这种对立的东西，所以它没有抓住本质，而只是抓住了非本质性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 6,
+   "de": "Wie es so auf einer Seite, indem es sich im Wesen zu erreichen strebt, nur die eigene getrennte Wirklichkeit ergreift, so kann es auf der ändern Seite das Andere nicht als Einzelnes oder als Wirkliches ergreifen.",
+   "en": "As it thus on the one side, in striving to reach itself in the essence, grasps only its own separated actuality, so on the other side it cannot grasp the other as singular or as actual.",
+   "zh": "它这样在一方面，当它力求在本质中达到自己时，只抓住了自己那分离了的现实性，同样，它在另一方面也不能把那他者作为个别的东西或作为现实的东西来抓住。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 7,
+   "de": "Wo es gesucht werde, kann es nicht gefunden werden; denn es soll eben ein Jenseits, ein solches sein, welches nicht gefunden werden kann.",
+   "en": "Wherever it be sought, it cannot be found; for it is supposed to be precisely a beyond, one such as cannot be found.",
+   "zh": "无论它在什么地方被寻找，它都无法被找到；因为它恰恰应当是一个彼岸，一个不能被找到的彼岸。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 8,
+   "de": "Es als Einzelnes gesucht, ist nicht eine allgemeine, gedachte Einzelheit, nicht Begriff, sondern Einzelnes als Gegenstand oder ein Wirkliches; Gegenstand der unmittelbaren sinnlichen Gewißheit und eben darum nur ein solches, welches verschwunden ist.",
+   "en": "Sought as singular, it is not a universal, thought singularity, not concept, but a singular as object or an actual thing; object of immediate sense-certainty and precisely for that reason only one such as has vanished.",
+   "zh": "把它作为个别的东西来寻找，那它就不是一种普遍的、被思考的个别性，不是概念，而是作为对象的个别东西或一个现实的东西；它是直接的感性确定性的对象，并且正因为如此，只是一个已经消逝了的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 9,
+   "de": "Dem Bewußtsein kann daher nur das Grab seines Lebens zur Gegenwart kommen.",
+   "en": "To consciousness, therefore, only the grave of its life can come to presence.",
+   "zh": "所以，对意识来说，能够成为在场的只有它生命的坟墓。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 10,
+   "de": "Aber weil dies selbst eine Wirklichkeit und es gegen die Natur dieser ist, einen dauernden Besitz zu gewähren, so ist auch diese Gegenwart des Grabes nur der Kampf eines Bemühens, der verloren werden muß.",
+   "en": "But because this itself is an actuality and it is against the nature of this actuality to grant a lasting possession, this presence of the grave too is only the struggle of an effort that must be lost.",
+   "zh": "但是，因为这本身是一种现实性，而给予一种持久的占有是违背这种现实性的本性的，所以这坟墓的在场也只是一场努力的斗争，这场斗争是必然要输掉的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 11,
+   "de": "Allein indem es diese Erfahrung gemacht, daß das Grab seines wirklichen unwandelbaren Wesens keine Wirklichkeit hat, daß die verschwundene Einzelheit als verschwundene nicht die wahre Einzelheit ist, wird es die unwandelbare Einzelheit als wirkliche aufzusuchen oder als verschwundene festzuhalten aufgeben, und erst hierdurch ist es fähig, die Einzelheit als wahrhafte oder als allgemeine zu finden.",
+   "en": "But in having made this experience, that the grave of its actual unchangeable essence has no actuality, that the vanished singularity as vanished is not the true singularity, it will give up seeking the unchangeable singularity as actual or holding it fast as vanished, and only thereby is it capable of finding singularity as true or as universal.",
+   "zh": "但是，当它有了这种经验，即它那现实的、不变的本质的坟墓并没有现实性，那消逝了的个别性作为消逝了的个别性并不是真的个别性，它就会放弃去把不变者的个别性当作现实的来寻找，或者把它当作消逝了的来牢牢抓住，并且只有通过这一点，它才能够把个别性作为真正的或普遍的个别性来发现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 56,
+   "si": 0,
+   "de": "Zunächst aber ist die Rückkehr des Gemüts in sich selbst so zu nehmen, daß es sich als Einzelnes Wirklichkeit hat.",
+   "en": "But first the return of the heart into itself is to be taken in such a way that it has itself as singular actuality.",
+   "zh": "但首先，心情向自身的返回要这样来理解：它作为个别的东西而把自己拥有为现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 56,
+   "si": 1,
+   "de": "Es ist das reine Gemüt, welches für uns oder an sich sich gefunden [hat] und in sich ersättigt ist, denn ob für es in seinem Gefühle sich wohl das Wesen von ihm trennt, so ist an sich dies Gefühl Selbstgefühl, es hat den Gegenstand seines reinen Fühlens gefühlt, und dieser ist es selbst; es tritt also hieraus als Selbstgefühl oder für sich seiendes Wirkliches auf.",
+   "en": "It is the pure heart, which for us or in itself has found itself and is satisfied in itself, for although for it, in its feeling, the essence indeed separates itself from it, in itself this feeling is self-feeling; it has felt the object of its pure feeling, and this is itself; it therefore emerges from this as self-feeling or as an actual being-for-itself.",
+   "zh": "它就是那纯粹的心情，这种心情为我们或自在地已经找到了自己，并在自身中得到了满足，因为，虽然在它看来，本质在它的感受中确实与它分离，但自在地看，这种感受就是自我感受；它已经感受到了它纯粹感受的对象，而这个对象就是它自己；所以，它由此就作为自我感受、或者作为自为地存在着的现实东西而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 56,
+   "si": 2,
+   "de": "In dieser Rückkehr in sich ist für uns sein zweites Verhältnis geworden, das der Begierde und Arbeit, welche dem Bewußtsein die innerliche Gewißheit seiner selbst, die es für uns erlangt hat, durch Aufheben und Genießen des fremden Wesens, nämlich desselben in der Form der selbständigen Dinge bewährt.",
+   "en": "In this return into itself, its second relation has come about for us, that of desire and work, which proves to consciousness the inner certainty of itself that it has attained for us, through sublating and enjoying the alien essence, namely the same in the form of independent things.",
+   "zh": "在这种向自身的返回中，对我们来说产生了它的第二种关系，即欲望和劳动的关系，这种关系通过扬弃并享受那陌生的本质、即处在独立之物的形式中的那同一个本质，向意识证实了它为我们所获得的、对它自身的内心确定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 56,
+   "si": 3,
+   "de": "Das unglückliche Bewußtsein aber findet sich nur als begehrend und arbeitend; es ist für es nicht vorhanden, daß, sich so zu finden, die innere Gewißheit seiner selbst zum Grunde liegt und sein Gefühl des Wesens dies Selbstgefühl ist.",
+   "en": "But the unhappy consciousness finds itself only as desiring and working; it is not present for it that, in finding itself thus, the inner certainty of itself lies at the ground and its feeling of the essence is this self-feeling.",
+   "zh": "但苦恼意识只把自己发现为欲望着的和劳动着的；对它来说并不存在这一点：这样发现自己，是以对它自身的内心确定性为根据的，而它对本质的感受就是这种自我感受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 56,
+   "si": 4,
+   "de": "Indem es sie für sich selbst nicht hat, bleibt sein Inneres vielmehr noch die gebrochene Gewißheit seiner selbst; die Bewährung, welche es durch Arbeit und Genuß erhalten würde, ist darum eine ebensolche gebrochene; oder es muß sich vielmehr selbst diese Bewährung vernichten, so daß es in ihr wohl die Bewährung, aber nur die Bewährung desjenigen, was es für sich ist, nämlich seiner Entzweiung findet.",
+   "en": "Since it does not have it for itself, its inner being remains rather still the broken certainty of itself; the proof it would obtain through work and enjoyment is therefore an equally broken one; or rather it must itself destroy this proof, so that in it it indeed finds the proof, but only the proof of what it is for itself, namely of its division.",
+   "zh": "由于它并没有为自身而拥有这种确定性，它的内在东西毋宁说仍然是它自身那种破碎了的确定性；它通过劳动和享受本来会获得的证实，因此同样是破碎了的；或者毋宁说，它自己必须摧毁这种证实，这样它就在其中确实找到了证实，但只是找到了对它为自身所是的东西、即对它的分裂的证实。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 57,
+   "si": 0,
+   "de": "Die Wirklichkeit, gegen welche sich die Begierde und die Arbeit wendet, ist diesem Bewußtsein nicht mehr ein an sich Nichtiges, von ihm nur Aufzuhebendes und zu Verzehrendes, sondern ein solches, wie es selbst ist, eine entzweigebrochene Wirklichkeit, welche nur einerseits an sich nichtig, andererseits aber auch eine geheiligte Welt ist; sie ist Gestalt des Unwandelbaren, denn dieses hat die Einzelheit an sich erhalten, und weil es als das Unwandelbare Allgemeines ist, hat seine Einzelheit überhaupt die Bedeutung aller Wirklichkeit.",
+   "en": "The actuality against which desire and work turn is no longer, for this consciousness, something null in itself, to be merely sublated and consumed by it, but something such as it is itself, a reality broken in two, which is null in itself only on one side, but on the other side is also a hallowed world; it is the shape of the unchangeable, for this has retained individuality in itself, and because as the unchangeable it is universal, its individuality has in general the significance of all actuality.",
+   "zh": "欲望和劳动所转向的那种现实性，对这种意识来说不再是自在地虚无的东西、不再是它只须扬弃和消耗的东西，而是像它自己那样的东西，一种分裂为二的现实性，这种现实性只在一个方面自在地是虚无的，在另一个方面却又是一个神圣的世界；它是不可变者的形态，因为不可变者已经把个别性保持在自身，而由于它作为不可变者是普遍的东西，它的个别性就具有一切现实性的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 0,
+   "de": "Wenn das Bewußtsein für sich selbständiges Bewußtsein und ihm die Wirklichkeit an und für sich nichtig wäre, würde es in der Arbeit und in dem Genüsse zum Gefühle seiner Selbständigkeit gelangen, dadurch daß es selbst es wäre, welches die Wirklichkeit aufhöbe.",
+   "en": "If consciousness were for itself an independent consciousness and actuality were null in and for itself for it, then in work and in enjoyment it would attain to the feeling of its independence, in that it would itself be the one that sublated actuality.",
+   "zh": "如果意识是自为地独立的意识，而现实性对它来说自在自为地是虚无的，那么它就会在劳动和享受中达到对自己的独立性的感觉，因为正是它自己会去扬弃现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 1,
+   "de": "Allein indem diese ihm Gestalt des Unwandelbaren ist, vermag es nicht, sie durch sich aufzuheben.",
+   "en": "But since this actuality is for it the shape of the unchangeable, it is not able to sublate it through itself.",
+   "zh": "但由于这种现实性对它是不可变者的形态，它无法通过自己来扬弃它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 2,
+   "de": "Sondern indem es zwar zur Vernichtung der Wirklichkeit und zum Genüsse gelangt, so geschieht für es dies wesentlich dadurch, daß das Unwandelbare selbst seine Gestalt preisgibt und ihm zum Genüsse überläßt.",
+   "en": "Rather, although it does attain to the annihilation of actuality and to enjoyment, this happens for it essentially through the fact that the unchangeable itself gives up its shape and surrenders it to it for enjoyment.",
+   "zh": "相反，它虽然达到了现实性的消灭和享受，但这件事对它来说本质上是通过不可变者自己放弃自己的形态、并把它交给它享受而发生的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 3,
+   "de": "– Das Bewußtsein tritt hierin seinerseits gleichfalls als Wirkliches auf, aber ebenso als Innerlich gebrochen, und diese Entzweiung stellt sich in seinem Arbeiten und Genießen dar, in ein Verhältnis zur Wirklichkeit oder das Fürsichsein und in ein Ansichsein sich zu brechen.",
+   "en": "– Herein consciousness on its side likewise appears as something actual, but equally as inwardly broken, and this division presents itself in its working and enjoying, as a breaking apart into a relation to actuality, or being-for-itself, and into a being-in-itself.",
+   "zh": "——在这里，意识这一方同样作为现实的东西出现，但同样作为内在地破裂了的东西出现，而这种分裂就表现在它的劳动和享受中，即分裂为一种对现实性的关系或自为存在，以及一种自在存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 4,
+   "de": "Jenes Verhältnis zur Wirklichkeit ist das Verändern oder das Tun, das Fürsichsein, das dem einzelnen Bewußtsein als solchem angehört.",
+   "en": "That relation to actuality is altering or doing, being-for-itself, which belongs to the singular consciousness as such.",
+   "zh": "那种对现实性的关系就是改变或行动，就是自为存在，它属于个别意识本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 58,
+   "si": 5,
+   "de": "Aber es ist darin auch an sich: diese Seite gehört dem unwandelbaren Jenseits an; sie sind die Fähigkeiten und Kräfte, eine fremde Gabe, welche das Unwandelbare ebenso dem Bewußtsein überläßt, um sie zu gebrauchen.",
+   "en": "But therein it is also in itself: this side belongs to the unchangeable beyond; they are the faculties and forces, a foreign gift, which the unchangeable likewise surrenders to consciousness in order to use them.",
+   "zh": "但它在这里也是自在地：这一方面属于不可变的彼岸；它们是各种能力和诸力，是一份外来的礼物，不可变者同样把它交给意识，好让意识来使用它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 59,
+   "si": 0,
+   "de": "In seinem Tun ist demnach das Bewußtsein zunächst in dem Verhältnisse zweier Extreme; es steht als das tätige Diesseits auf einer Seite und ihm gegenüber die passive Wirklichkeit; beide in Beziehung aufeinander, aber auch beide in das Unwandelbare zurückgegangen und an sich festhaltend.",
+   "en": "In its doing, accordingly, consciousness is at first in the relation of two extremes; it stands as the active this-side on one side, and opposite it the passive actuality; both in relation to each other, but both also withdrawn into the unchangeable and holding fast in themselves.",
+   "zh": "因此，在它的行动中，意识首先处于两个极端的关系里；它作为活动的此岸站在一边，对面是被动的现实性；两者相互关联，但两者也都退回到不可变者中，并自在地持守着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 59,
+   "si": 1,
+   "de": "Von beiden Seiten löst sich daher nur eine Oberfläche gegeneinander ab, welche in das Spiel der Bewegung gegen die andere tritt.",
+   "en": "From both sides, therefore, only a surface detaches itself over against the other, a surface which enters into the play of movement against the other.",
+   "zh": "因此，从双方各自都只有一层表面向着对方分离出来，它进入与另一方相对的运动游戏。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 59,
+   "si": 2,
+   "de": "– Das Extrem der Wirklichkeit wird durch das tätige Extrem aufgehoben; sie von ihrer Seite kann aber nur darum aufgehoben werden, weil ihr unwandelbares Wesen sie selbst aufhebt, sich von sich abstößt und das Abgestoßene der Tätigkeit preisgibt.",
+   "en": "– The extreme of actuality is sublated by the active extreme; but for its part it can be sublated only because its unchangeable essence itself sublates it, repels itself from itself, and surrenders what is repelled to activity.",
+   "zh": "——现实性的极端被活动的极端扬弃；但它这一方之所以能被扬弃，只是因为它的不可变本质自己扬弃它、从自身中排斥自身，并把被排斥者交给活动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 59,
+   "si": 3,
+   "de": "Die tätige Kraft erscheint als die Macht, worin die Wirklichkeit sich auflöst; darum aber ist für dieses Bewußtsein, welchem das Ansich oder das Wesen ein ihm Anderes ist, diese Macht, als welche es in der Tätigkeit auftritt, das Jenseits seiner selbst.",
+   "en": "The active force appears as the power in which actuality dissolves; but for this very reason, for this consciousness, to which the in-itself or the essence is something other than it, this power, as which it appears in activity, is the beyond of itself.",
+   "zh": "活动的力显现为现实性在其中消解的那种威力；但正因如此，对这种意识来说，自在或本质是某种与它不同的东西，而这种威力——它在活动中正是作为这种威力出现的——就是它自身的彼岸。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 59,
+   "si": 4,
+   "de": "Statt also aus seinem Tun in sich zurückzukehren und sich für sich selbst bewährt zu haben, reflektiert es vielmehr diese Bewegung des Tuns in das andere Extrem zurück, welches hierdurch als rein Allgemeines, als die absolute Macht dargestellt ist, von der die Bewegung nach allen Seiten ausgegangen und die das Wesen sowohl der sich zersetzenden Extreme, wie sie zuerst auftraten, als des Wechsels selbst sei.",
+   "en": "Instead, therefore, of returning out of its doing into itself and having proved itself for itself, it rather reflects this movement of doing back into the other extreme, which is thereby presented as the purely universal, as the absolute power, from which the movement has issued on all sides and which is the essence both of the extremes dissolving themselves as they first appeared and of the alternation itself.",
+   "zh": "因此，它并不从自己的行动中返回自身、并不为自为地证明了自己，反而把行动的这一运动反射回另一个极端，后者由此被表现为纯粹普遍的东西、绝对的威力，运动从它出发走向一切方面，而它既是那些最初出现时自我消解的极端的本质，也是交替本身的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 0,
+   "de": "Daß das unwandelbare Bewußtsein auf seine Gestalt Verzicht tut und sie preisgibt, dagegen das einzelne Bewußtsein dankt, d.h. die Befriedigung des Bewußtseins seiner Selbständigkeit sich versagt und das Wesen des Tuns von sich ab dem Jenseits zuweist, durch diese beiden Momente des gegenseitigen Sich-Aufgebens beider Teile entsteht hiermit allerdings dem Bewußtsein seine Einheit mit dem Unwandelbaren.",
+   "en": "That the unchangeable consciousness renounces its shape and gives it up, while the singular consciousness gives thanks, i.e. refuses itself the satisfaction of the consciousness of its independence and assigns the essence of the doing away from itself to the beyond, through these two moments of the mutual self-surrender of both parts, there does indeed arise for consciousness its unity with the unchangeable.",
+   "zh": "不可变的意识放弃自己的形态并把它交出去，而个别意识则表示感谢，也就是拒绝给自己那种对自身独立性的意识所得到的满足，并把行动的本质从自己这里划归彼岸，通过双方相互自我放弃的这两个环节，意识与不可变者的统一确实由此对它产生了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 1,
+   "de": "Allein zugleich ist diese Einheit mit der Trennung affiziert, in sich wieder gebrochen, und es tritt aus ihr der Gegensatz des Allgemeinen und Einzelnen wieder hervor.",
+   "en": "But at the same time this unity is affected with separation, again broken within itself, and out of it the opposition of the universal and the singular emerges again.",
+   "zh": "但这种统一同时被分离所感染，又在自身中破裂了，普遍的东西与个别的东西的对立又从中出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 2,
+   "de": "Denn das Bewußtsein entsagt zwar zum Scheine der Befriedigung seines Selbstgefühls, erlangt aber die wirkliche Befriedigung desselben; denn es ist Begierde, Arbeit und Genuß gewesen; es hat als Bewußtsein gewollt, getan und genossen.",
+   "en": "For consciousness does indeed renounce, in semblance, the satisfaction of its self-feeling, but it attains the actual satisfaction of it; for it has been desire, work and enjoyment; as consciousness it has willed, done and enjoyed.",
+   "zh": "因为意识虽然在假象上放弃了对自身感受的满足，却获得了这种感受的现实的满足；因为它曾经是欲望、劳动和享受；它作为意识曾经意愿、行动和享受过。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 3,
+   "de": "Sein Danken ebenso, worin es das andere Extrem als das Wesen anerkennt und sich aufhebt, ist selbst sein eigenes Tun, welches das Tun des ändern Extrems aufwiegt und der sich preisgebenden Wohltat ein gleiches Tun entgegenstellt; wenn Jenes ihm seine Oberfläche überläßt, so dankt es aber auch und tut darin, indem es sein Tun, d.h. sein Wesen selbst aufgibt, eigentlich mehr als das andere, das nur eine Oberfläche von sich abstößt.",
+   "en": "Its thanking likewise, in which it recognizes the other extreme as the essence and sublates itself, is itself its own doing, which balances the doing of the other extreme and sets against the self-surrendering benefit an equal doing; if that one surrenders its surface to it, it also gives thanks and therein, since it gives up its doing, i.e. its essence itself, actually does more than the other, which only repels a surface from itself.",
+   "zh": "它的感谢同样，在其中它把另一个极端承认为本质并扬弃自己，本身就是它自己的行动，这种行动与另一个极端的行动相抵，并以一种同等的行动来对抗那种自我放弃的恩惠；如果那一个把自己的表面让给它，那么它也表示感谢，并且在此之中，由于它放弃了自己的行动，也就是放弃了自己的本质本身，它实际上做得比另一个更多，而另一个只是从自身排斥掉一层表面。"
+  }
+ ]
+}

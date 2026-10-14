@@ -1,0 +1,85 @@
+{
+ "id": "w1-9-24",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "heading": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "blocks": [
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "fhcsgy1m0v",
+   "sents": [
+    "Der Ausschuß selbst war nie anmaßend.",
+    "Seine Konsulenten und Advokaten waren es.",
+    "Er war nur indolent und gab gedankenlos zu allen Eigenmächtigkeiten jener den Namen her.",
+    "Diese waren es, die den Ausschuß zu einer Freigebigkeit gegen den Hof verleiteten, der nichts gleichkommt als die Frivolität der Gründe, durch die man dergleichen Devotionsbezeugungen zu rechtfertigen suchte.",
+    "Sie waren es, die der Hof zu gewinnen suchte, weil er sicher war, seinen Zweck zu erreichen, wenn er den Advokaten und den Konsulenten in sein Interesse zu ziehen gewußt hatte.",
+    "Sie waren es, auf die es ankam, ob auf die Beschwerden und Wünsche einzelner Stände Rücksicht genommen werden sollte.",
+    "Sie waren es, die sich der eingekommenen Aktenstücke bemächtigten und das Dasein derselben dem Ausschuß so lange verborgen hielten, bis es ihnen beliebte, die Sache zum Vortrag zu bringen.",
+    "Und in der Tat hat kein Geistlicher je eine größere Macht über das Gewissen seiner Beichtkinder gehabt als diese politischen Beichtväter über das Amtsgewissen der Ausschußverwandten."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1ksp2sj10u",
+   "sents": [
+    "Die Konsulenten im engeren Sinne hatten übrigens nichts mit der Kasse zu tun.",
+    "Die Operationen der geheimen Truhe blieben ihnen Geheimnis.",
+    "Von ihnen hatte also der Eigennutz der Ausschußglieder keine Gefälligkeiten zu erwarten.",
+    "Deputationen wurden ohne ihren Rat vergeben; an keiner Wahl hatten sie einen direkten Anteil.",
+    "Dies sicherte dem Advokaten auch beim Mangel von Talenten und Kenntnissen ein merkliches Übergewicht.",
+    "Doch war auch bei den Wahlen der indirekte Einfluß der Konsulenten unverkennbar.",
+    "Der Amtskandidat hatte viele Hoffnung, den Günstling des Advokaten zu verdrängen, wenn der Lieblingskonsulent sein Freund und Fürsprecher war."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "134cbw41os",
+   "sents": [
+    "Zum Glück hat der Ausschuß auch zuzeiten Männer zu Konsulenten gehabt, die Kopf und Herz am rechten Fleck hatten, die den Ausschuß zwar gängelten, weil er nicht allein zu gehen gelernt hatte, aber ihn doch nie, wenigstens nie wissentlich und wohlbedächtlich, in den Kot hineinführten."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "nhga6keggc",
+   "sents": [
+    "Mit dem Landtag hat der gefährliche Einfluß dieses monströsen Amtes eher zu- als abgenommen.",
+    "Man hat sich gewöhnt, die Konsulenten als wesentliche Bestandteile der landschaftlichen Verfassung anzusehen.",
+    "Man hat den offiziellen Wirkungskreis derselben erweitert.",
+    "Sie haben von der Rivalität der Deputierten Vorteile gezogen.",
+    "Sie haben sich von ihrem Vorgesetzten, ihrem Richter in Amtssachen, dem Ausschuß, unabhängig zu machen gewußt.",
+    "Bis zum Landtag konnte der Ausschuß den pflichtvergessenen Konsulenten ohne Widerspruch entlassen.",
+    "Er tat es auch mehr als einmal.",
+    "Jetzt würde vielleicht der Konsulent fordern, daß der Fürst, an den er das Interesse der Landschaft verrät, sein Richter sein müsse ..."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "ztntfp9zlo",
+   "sents": []
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "1o2emf41br",
+   "sents": [
+    "... solange alles übrige in dem alten Zustande bleibt, solange das Volk seine Rechte nicht kennt, solange kein Gemeingeist vorhanden ist, solange die Gewalt der Beamten nicht beschränkt ist, würden Volkswahlen nur dazu dienen, den völligen Umsturz unserer Verfassung herbeizuführen.",
+    "Die Hauptsache wäre, das Wahlrecht in die Hände eines vom Hofe unabhängigen Corps von aufgeklärten und rechtschaffenen Männern niederzulegen.",
+    "Aber ich sehe nicht ein, von welcher Wahlart man sich eine solche Versammlung versprechen könnte, sei es auch, daß man die aktive und passive Wahlfähigkeit noch so sorgfältig bestimmte ..."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/9.p24.json"
+}

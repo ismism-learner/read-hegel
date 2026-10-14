@@ -1,0 +1,63 @@
+
+## multi-agent translation LLM   (total 68)
+     128★ ChinmayShringi/MicroFish-En  [Python]  English translation of MiroFish (github.com/666ghj/MiroFish) - A concise and universal swarm intelligence engine for pre  updated=2026-10-10
+      31★ OthmanAdi/promptfusion  [JavaScript]  🎯 Three-layer prompt composition system for AI agents. Translates numerical weights into semantic priorities that LLMs   updated=2026-10-06
+      26★ rufeng0411/Nova-TradingAgent  [Python]  Self-hosted A-share multi-agent research desk: 15-agent debate, optional Tushare Level-2 order queue, K-line workstation  updated=2026-09-30
+      21★ Erfan-ram/Lean4-LLM-Ai-Agent-Mooc  [Python]  An AI-powered agent system generating and verifying Lean 4 code, translating natural language problems into formally pro  updated=2026-09-28
+      15★ jnMetaCode/agency-agents-ko  [Shell]  187 plug-and-play AI agent personas in Korean (한국어) — Korean translation of agency-agents + 3 Korean-market originals (C  updated=2026-10-12
+      14★ jnMetaCode/agency-agents-ru  [Shell]  187 plug-and-play AI agent personas на русском языке — Russian translation of agency-agents + 3 Russian-market originals  updated=2026-10-11
+       7★ houqiii/IoT-Brain  [Python]  A multi-agent framework that translates natural language into verifiable sensor scheduling plans for large-scale IoT env  updated=2026-09-28
+       7★ aliozdenisik/Clarus  [Python]  Clarus is a RAG system for maximum retrieval accuracy on religious texts. It combines dense semantic search with multi-a  updated=2026-10-02
+       6★ jnMetaCode/agency-agents-ar  [Shell]  187 plug-and-play AI agent personas in Arabic (العربية) — Arabic translation of agency-agents + 3 MENA-market originals   updated=2026-10-03
+       4★ seaweedbeehive/TermSub  [Python]  input: video --> output: subtitles -- AI-powered video translation and terminology management pipeline. Features multi-a  updated=2026-09-21
+       4★ 10div10/translation-agent-rag  [Python]  Multi-DB RAG translation agent — FAISS translation memory, glossary, and ChromaDB style retrieval, orchestrated with a L  updated=2026-08-18
+       4★ themreza/Metacontext  [-]  Metacontext is an AI-native, multi-agent system that centralizes knowledge from code, docs, and expert insights. It brea  updated=2026-05-24
+
+## translation agent architecture   (total 62)
+     162★ jettbrains/-L-  [-]  W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting  updated=2026-10-11
+      74★ Aryia-Behroziuan/References  [-]   Poole, Mackworth & Goebel 1998, p. 1.  Russell & Norvig 2003, p. 55.  Definition of AI as the study of intelligent agen  updated=2026-10-13
+       6★ Varun-Patkar/ChromePilot  [JavaScript]  AI-powered browser automation agent using a dual-LLM architecture. The orchestrator (qwen3-vl-32k) creates execution pla  updated=2026-03-16
+       4★ pablosierrafernandez/DataWhisper-Agent-Based-Architecture-for-Text-to-SQL  [Python]  🤖 DataWhisper is a system that translates natural language queries into SQL using an intelligent agent-based architectu  updated=2026-02-01
+       4★ cosmosambassador/cosmosambassador  [-]  Config files for my GitHub profile.Absolutely. I think JETservices should have its own blog inside the repository so it   updated=2026-10-05
+       3★ mdzaheerjk/Building-an-Autonomous-Blog-Generation-Agent-with-Langgraph-FastAPI  [-]  Build a robust content generation engine that automates blog creation from topics or video transcripts. This project foc  updated=2026-09-26
+       3★ nicolasayotte/dictate-your-terms  [Rust]  Zero-latency voice pipeline that translates spoken architectural intent into terminal-native text — keeping developer ha  updated=2026-06-03
+       3★ amirsohail100/ScriptFlow-LangGraph  [CSS]  LangGraph-powered sequential AI agent that converts raw text into polished video scripts and translates the final output  updated=2026-10-04
+       2★ huseyin-dgn/Neural-Conversational-Agent-Based-on-Sequence-to-Sequence-Architecture  [Jupyter Notebook]  This repository contains implementations and theoretical explanations of sequence-to-sequence models applied to chatbot   updated=2025-10-13
+       2★ Nava-s/Logical-Skeptic-Engine  [Python]  Logical Skeptic Engine (LSE) is an open-source, neuro-symbolic gatekeeper framework designed to break context-driven syc  updated=2026-08-28
+       1★ vinodhan07/AI_Agents_Intensive_Course_with_Google  [Jupyter Notebook]  # AI Course – Day 1  This repository contains Jupyter notebooks for Day 1:  1. **From Prompt to Action** – Understanding  updated=2025-11-17
+       1★ Stoplossking1/AI-FDE-AGENT  [JavaScript]  Lamp is an AI-native orchestration system designed to autonomously translate unstructured product conversations into pro  updated=2025-11-19
+
+## LLM translation reflection back-translation   (total 0)
+
+## document translation LLM pipeline glossary   (total 3)
+      47★ purecodework/bookllm  [TypeScript]  Translate books and documents with LLMs, featuring glossary extraction, review, and polishing pipelines.  updated=2026-10-10
+       0★ Czopeng/latex-translate-pipeline  [TeX]  A Python-based pipeline for translating German LaTeX documents into English using LLMs. Preserves LaTeX structure, integ  updated=2026-09-29
+       0★ honcyeung/LLM-Two-Pass-PDF-Translator  [HTML]  A fully automated, two-pass translation pipeline for PDF documents. This project extracts text blocks from a PDF, uses t  updated=2025-09-16
+
+## machine translation quality estimation MQM   (total 1)
+       0★ inovdwouw/Language-as-Data  [Jupyter Notebook]  A hybrid evaluation framework for Dutch→English machine translation that combines BLEU and chrF with LLM-based quality e  updated=2026-07-23
+
+## agentic translation workflow   (total 173)
+    1912★ michael-denyer/pstack-claude  [JavaScript]  Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows  updated=2026-10-13
+     539★ codejunkie99/graph-engineering  [-]  Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-gra  updated=2026-10-09
+     312★ WangQrkkk/PaperQuay  [TypeScript]  A desktop-first literature manager for PDF reading, translation, paper overviews, and AI agent workflows.  updated=2026-10-12
+     177★ hint-lab/deeptrans-studio  [TypeScript]  DeepTrans Studio is a multi-agent intelligent translation platform for professional localization teams. It unifies a tra  updated=2026-09-14
+      39★ aircrushin/awesome-dify-workflow  [-]  Curated Dify workflow DSL files and templates for RAG, agents, search, translation, deep research, SEO and automation.  updated=2026-10-02
+      20★ aws-samples/bedrock-translation-agent  [Python]  Multi-Model agentic & reflective translation workflow in Amazon Bedrock  updated=2025-09-22
+      13★ Intelligent-CAT-Lab/ReCodeAgent  [C]  Artifact repository for the paper "ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation   updated=2026-10-13
+      11★ LeslieLeung/universal-translator  [Python]  Agentic translation using reflection workflow, refactored and sugared.  updated=2026-07-09
+       8★ better-i18n/skills  [-]  Official AI agent skills for Better i18n — best practices for i18n implementation, translation workflows, and localizati  updated=2026-07-21
+       8★ xyy277/doc77  [TypeScript]  Doc77 — Local document preview, management & AI agent. Markdown/PDF/Office preview,   lightweight editing, MCP server wi  updated=2026-10-11
+       5★ Algorineko/AgenticArXiv  [Python]  An agent-driven workflow for ArXiv search, PDF download, and Chinese translation (with caching and progress streaming).  updated=2026-09-24
+       4★ Youmiel/TechMCTranslationWorkflow  [Python]  Agent-driven workflow for translating Minecraft technical (redstone) video subtitles into high-quality Simplified Chines  updated=2026-10-10
+
+## translator agent crew   (total 0)
+
+## long document translation LLM   (total 7)
+       1★ AarenWang/llm-translate  [Python]  structured long-document translation workflow for Markdown, Jupyter Notebook, EPUB, DOCX, and HTML files  updated=2026-09-10
+       1★ scottgal/mostlylucid.nugetpackages  [C#]  A collection of packages ranging from auto-alt text system using local AI through state of the art bot detection, geoblo  updated=2026-01-04
+       0★ Dasistaiden/Ollama-Cloud-Long-Text-Documents-Translation  [Python]  LLM model for long-Text documents (Contract, Novel etc.) using Ollama Cloud   updated=2026-01-22
+       0★ JeffreyWong05/PolicyLens  [JavaScript]  Uses LLM to translate long documents.  updated=2026-05-04
+       0★ liubivi/LongDocProcessingWithLLMs  [Python]  Takes an uploaded long text document in Google drive and processes (e.g. translates) it in chunks using Gemini and ChatG  updated=2025-02-15
+       0★ UlyanaPerova/llm-translator  [Python]  EN→RU translator for large texts (books, novels, long documents): LLM-built glossary, GPT / Gemini / Qwen-MT engines wit  updated=2026-09-24
+       0★ lucas-lepajollec/tradoc  [JavaScript]  A self-hosted workflow for translating long EPUB, PDF, DOCX, Markdown, and text documents with resumable jobs, glossarie  updated=2026-10-12

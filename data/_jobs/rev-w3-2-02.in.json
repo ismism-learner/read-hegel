@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-02",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 5,
+   "si": 3,
+   "de": "Die sinnliche Allgemeinheit oder die unmittelbare Einheit des Seins und des Negativen ist erst so Eigenschaft, insofern das Eins und die reine Allgemeinheit aus ihr entwickelt und voneinander unterschieden sind und sie diese miteinander zusammenschließt; diese Beziehung derselben auf die reinen wesentlichen Momente vollendet erst das Ding.",
+   "en": "The sensuous universality or the immediate unity of being and of the negative is only thus property, insofar as the one and the pure universality are developed out of it and distinguished from one another and it joins these together with one another; this relation of the same to the pure essential moments first completes the thing.",
+   "zh": "感性的普遍性或者说存在与否定物的直接统一，只有这样才是属性，即一和纯粹普遍性已从它那里展开、并彼此区别开来，而它把这两者联结在一起；正是这种它们与那些纯粹本质环节的关系，才使物完成。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 0,
+   "de": "So ist nun das Ding der Wahrnehmung beschaffen; und das Bewußtsein ist als Wahrnehmendes bestimmt, insofern dies Ding sein Gegenstand ist; es hat ihn nur zu nehmen und sich als reines Auffassen zu verhalten; was sich ihm dadurch ergibt, ist das Wahre.",
+   "en": "Such now is the constitution of the thing of perception; and consciousness is determined as perceiving insofar as this thing is its object; it has only to take it and to conduct itself as pure apprehension; what thereby results for it is the true.",
+   "zh": "知觉的物现在就是这样构成的；而意识就它是知觉着的而言是被规定了的，只要这个物是它的对象；它只需接受这个物，并把自己当作纯粹的领会来行事；由此对它产生出来的东西，就是真的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 1,
+   "de": "Wenn es selbst bei diesem Nehmen etwas täte, würde es durch solches Hinzusetzen oder Weg lassen die Wahrheit verändern.",
+   "en": "If it itself did anything in this taking, it would alter the truth by such adding or omitting.",
+   "zh": "如果它自己在这种接受中做了什么，它就会通过这样的增添或省略改变真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 2,
+   "de": "Indem der Gegenstand das Wahre und Allgemeine, sich selbst Gleiche, das Bewußtsein sich aber das Veränderliche und Unwesentliche ist, kann es ihm geschehen, daß es den Gegenstand unrichtig auffaßt und sich täuscht.",
+   "en": "Since the object is the true and universal, self-same, but consciousness is the changeable and unessential, it can happen to it that it apprehends the object incorrectly and deceives itself.",
+   "zh": "既然对象是真的东西和普遍的东西、自身等同的东西，而意识则是可变化的东西和非本质的东西，那么意识就可能发生这样的事：它不正确地领会对象并骗了自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 3,
+   "de": "Das Wahrnehmende hat das Bewußtsein der Möglichkeit der Täuschung; denn in der Allgemeinheit, welche das Prinzip ist, ist das Anderssein selbst unmittelbar für es, aber als das Nichtige, Aufgehobene.",
+   "en": "The perceiving consciousness is conscious of the possibility of deception; for in the universality which is the principle, otherness itself is immediately for it, but as the null, the sublated.",
+   "zh": "知觉着的意识有对错觉之可能性的意识；因为在那作为原则的普遍性中，他在本身直接就为它而存在，但却是作为无的东西、被扬弃了的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 4,
+   "de": "Sein Kriterium der Wahrheit ist daher die Sichselbstgleichheit, und sein Verhalten als sich selbst gleiches aufzufassen.",
+   "en": "Its criterion of truth is therefore self-sameness, and its conduct, to apprehend as self-same.",
+   "zh": "因此它的真理尺度就是自身等同，而它的行为方式就是作为自身等同的东西去领会。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 6,
+   "si": 5,
+   "de": "Indem zugleich das Verschiedene für es ist, ist es ein Beziehen der verschiedenen Momente seines Auffassens aufeinander; wenn sich aber in dieser Vergleichung eine Ungleichheit hervortut, so ist dies nicht eine Unwahrheit des Gegenstandes, denn er ist das sich selbst Gleiche, sondern des Wahrnehmens.",
+   "en": "Since at the same time the different is for it, it is a relating of the different moments of its apprehension to one another; but if in this comparison an inequality comes to light, this is not an untruth of the object, for it is the self-same, but of perceiving.",
+   "zh": "既然同时那有差别的东西也为它而存在，它就是把它领会中的不同环节互相联系起来；但如果在这样的比较中显出一种不等同，那么这就不是对象的不真，因为对象是自身等同的东西，而是知觉的不真。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 0,
+   "de": "Sehen wir nun zu, welche Erfahrung das Bewußtsein in seinem wirklichen Wahrnehmen macht.",
+   "en": "Let us now see what experience consciousness makes in its actual perceiving.",
+   "zh": "现在我们来看一看，意识在它现实的知觉中取得什么经验。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 1,
+   "de": "Sie ist für uns in der soeben gegebenen Entwicklung des Gegenstandes und des Verhaltens des Bewußtseins zu ihm schon enthalten und wird nur die Entwicklung der darin vorhandenen Widersprüche sein.",
+   "en": "For us it is already contained in the development of the object and of the conduct of consciousness toward it just given, and will only be the development of the contradictions present therein.",
+   "zh": "它对我们来说已经包含在刚才给出的对象和意识对对象的行为方式的展开中，而且将只是其中现存的那些矛盾的展开。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 2,
+   "de": "– Der Gegenstand, den ich aufnehme, bietet sich als rein Einer dar; auch werde ich die Eigenschaft an ihm gewahr, die allgemein ist, dadurch aber über die Einzelheit hinausgeht.",
+   "en": "– The object that I take up presents itself as purely one; also I become aware of the property in it that is universal, but thereby goes beyond singularity.",
+   "zh": "– 我接受到的对象把自己呈现为纯粹的一；我也在它身上觉察到那个普遍的、但因此就超出个别性的属性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 3,
+   "de": "Das erste Sein des gegenständlichen Wesens als eines Einen war also nicht sein wahres Sein; da er das Wahre ist, fällt die Unwahrheit in mich, und das Auffassen war nicht richtig.",
+   "en": "The first being of the objective essence as a one was therefore not its true being; since it is the true, the untruth falls into me, and the apprehension was not correct.",
+   "zh": "所以，对象性本质作为一的那种最初的存在并不是它的真正存在；既然它是真的东西，不真就落到我身上，而领会也就不正确。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 4,
+   "de": "Ich muß um der Allgemeinheit der Eigenschaft willen das gegenständliche Wesen vielmehr als eine Gemeinschaft überhaupt nehmen.",
+   "en": "I must, on account of the universality of the property, rather take the objective essence as a community in general.",
+   "zh": "由于属性的普遍性，我反倒必须把对象性本质当作一般的共同体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 5,
+   "de": "Ich nehme nun ferner die Eigenschaft wahr als bestimmte.",
+   "en": "I now further perceive the property as determinate.",
+   "zh": "我现在进一步把属性知觉为被规定了的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 6,
+   "de": "Anderem entgegengesetzte und es ausschließende.",
+   "en": "As one opposed to another and excluding it.",
+   "zh": "即与另一个对立并排斥它的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 7,
+   "si": 7,
+   "de": "Ich faßte das gegenständliche Wesen also in der Tat nicht richtig auf, als ich es als eine Gemeinschaft mit anderen oder als die Kontinuität bestimmte, und muß vielmehr um der Bestimmtheit der Eigenschaft willen die Kontinuität trennen und es als ausschließendes Eins setzen.",
+   "en": "I therefore in fact did not apprehend the objective essence correctly when I determined it as a community with others or as continuity, and must rather, on account of the determinacy of the property, separate the continuity and posit it as an excluding one.",
+   "zh": "所以，当我把对象性本质规定为与别的他者的共同体或规定为连续性时，我实际上并没有正确地领会它，并且由于属性的规定性，我反倒必须把连续性分离开，把它设定为排斥性的一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 8,
+   "si": 0,
+   "de": "An dem getrennten Eins finde ich viele solche Eigenschaften, die einander nicht affizieren, sondern gleichgültig gegeneinander sind; ich nahm den Gegenstand also nicht richtig wahr, als ich ihn als ein Ausschließendes auffaßte, sondern er ist, wie vorhin nur Kontinuität überhaupt, so jetzt ein allgemeines gemeinschaftliches Medium, worin viele Eigenschaften als sinnliche Allgemeinheiten, jede für sich ist und als bestimmte die anderen ausschließt.",
+   "en": "On the separated one I find many such properties, which do not affect one another but are indifferent to one another; I therefore did not perceive the object correctly when I apprehended it as an excluding one, but it is, as before merely continuity in general, so now a universal common medium, in which many properties as sensuous universals, each for itself, are and as determinate exclude the others.",
+   "zh": "在被分离开的一身上，我找到许多这样的属性，它们并不互相触动，而是彼此无所谓的；所以我把它当作一个排斥性的东西来领会时，并没有正确地知觉对象，相反，它正如刚才只是一般的连续性，现在则是一个普遍共同的介质，其中许多属性作为感性的普遍性，每一个都自为地存在，并作为被规定了的属性排斥其余的属性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 8,
+   "si": 1,
+   "de": "Das Einfache und Wahre, das ich wahrnehme, ist aber hiermit auch nicht ein allgemeines Medium, sondern die einzelne Eigenschaft für sich, die aber so weder Eigenschaft noch ein bestimmtes Sein ist; denn sie ist nun weder an einem Eins noch in Beziehung auf andere.",
+   "en": "But the simple and true that I perceive is hereby also not a universal medium, but the individual property for itself, which, however, is thus neither property nor a determinate being; for it is now neither on a one nor in relation to others.",
+   "zh": "但我所知觉到的那个单纯的东西和真的东西，由此也不是一个普遍的介质，而是自为的个别属性，不过这样一来它既不是属性，也不是被规定了的存在；因为它现在既不在一个一身上，也不处在与别的他者的关系中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 8,
+   "si": 2,
+   "de": "Eigenschaft ist sie aber nur am Eins und bestimmt nur in Beziehung auf andere.",
+   "en": "But it is property only on the one and determinate only in relation to others.",
+   "zh": "但它只有在一身上才是属性，只有在与别的他者的关系中才是被规定了的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 8,
+   "si": 3,
+   "de": "Sie bleibt als dies reine Sichaufsichselbstbeziehen nur sinnliches Sein überhaupt, da sie den Charakter der Negativität nicht mehr an ihr hat; und das Bewußtsein, für welches jetzt ein sinnliches Sein ist, ist nur ein Meinen, d.h. es ist aus dem Wahrnehmen ganz heraus und in sich zurückgegangen.",
+   "en": "As this pure self-relating it remains only sensuous being in general, since it no longer has the character of negativity on it; and the consciousness for which a sensuous being now is, is only a meaning, i.e. it has quite gone out of perceiving and returned into itself.",
+   "zh": "作为这种纯粹的自返自身，它始终只是一般感性的存在，因为它已不再具有否定性的品格；而那现在有一个感性存在为对象的意识，只是一种意谓，也就是说，它已完全从知觉中走出来并返回自身之内。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 8,
+   "si": 4,
+   "de": "Allein das sinnliche Sein und Meinen geht selbst in das Wahrnehmen über; ich bin zu dem Anfang zurückgeworfen und wieder in denselben, sich in jedem Momente und als Ganzes aufhebenden Kreislauf hineingerissen.",
+   "en": "But the sensuous being and meaning itself passes over into perceiving; I am thrown back to the beginning and again drawn into the same cycle, which sublates itself in every moment and as a whole.",
+   "zh": "不过感性的存在和意谓本身又过渡为知觉；我被抛回到开端，并且重新被卷进同一个在每一环节中以及作为整体都扬弃自己的循环。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 0,
+   "de": "Das Bewußtsein durchläuft ihn also notwendig wieder, aber zugleich nicht auf dieselbe Weise wie das erstemal.",
+   "en": "Consciousness therefore necessarily runs through it again, but at the same time not in the same way as the first time.",
+   "zh": "所以意识必然又一次经历这个循环，但同时并不以第一次那样的方式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 1,
+   "de": "Es hat nämlich die Erfahrung über das Wahrnehmen gemacht, daß das Resultat und das Wahre desselben seine Auflösung oder die Reflexion in sich selbst aus dem Wahren ist.",
+   "en": "For it has made the experience about perceiving that the result and the true of perceiving is its dissolution or the reflection into itself out of the true.",
+   "zh": "因为它已就知觉取得了经验：知觉的结果和真的东西就是它的解体，或者说从真的东西返回自身之内的反思。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 2,
+   "de": "Es hat sich hiermit für das Bewußtsein bestimmt, wie sein Wahrnehmen wesentlich beschaffen ist, nämlich nicht ein einfaches reines Auffassen, sondern in seinem Auffassen zugleich aus dem Wahren heraus in sich reflektiert zu sein.",
+   "en": "Thereby it has become determined for consciousness how its perceiving is essentially constituted, namely not a simple pure apprehension, but in its apprehension to be at the same time reflected out of the true into itself.",
+   "zh": "由此，对意识来说已确定下来：它的知觉本质上是怎么一回事，即不是一种单纯的纯粹领会，而是在它的领会中同时从真的东西出来、反思进自身之内。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 3,
+   "de": "Diese Rückkehr des Bewußtseins in sich selbst, die sich in das reine Auffassen unmittelbar – denn sie hat sich als dem Wahrnehmen wesentlich gezeigt – einmischt, verändert das Wahre.",
+   "en": "This return of consciousness into itself, which immediately mixes itself into the pure apprehension – for it has shown itself to be essential to perceiving – alters the true.",
+   "zh": "意识这种返回自身之内，直接混入纯粹的领会——因为它已表明自己是知觉本质上固有的——，它改变了真的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 4,
+   "de": "Das Bewußtsein erkennt diese Seite zugleich als die seinige und nimmt sie auf sich, wodurch es also den wahren Gegenstand rein erhalten wird.",
+   "en": "Consciousness at the same time recognizes this side as its own and takes it upon itself, whereby it will then keep the true object pure.",
+   "zh": "意识同时把这一方面认作它自己的方面，并把它承担起来，由此它就会纯粹地保有那真的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 5,
+   "de": "– Es ist hiermit jetzt, wie es bei der sinnlichen Gewißheit geschah, an dem Wahrnehmen die Seite vorhanden, daß das Bewußtsein in sich zurückgedrängt wird, aber zunächst nicht in dem Sinne, in welchem dies bei jener der Fall war, als ob in es die Wahrheit des Wahrnehmens fiele; sondern vielmehr erkennt es, daß die Unwahrheit, die darin vorkommt, in es fällt.",
+   "en": "– Hereby there is now present in perceiving, as happened with sense-certainty, the side that consciousness is pressed back into itself, but at first not in the sense in which this was the case with that, as if the truth of perceiving fell into it; but rather it recognizes that the untruth that occurs therein falls into it.",
+   "zh": "– 于是现在在知觉这里，正如在感性确定性那里发生过的那样，出现了这样一面：意识被逼回自身之内，但起初并不是在感性确定性那里的那种意义上，仿佛知觉的真理落进了它里面；相反，它认识到，其中出现的不真落进了它里面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 6,
+   "de": "Durch diese Erkenntnis aber ist es zugleich fähig, sie aufzuheben; es unterscheidet sein Auffassen des Wahren von der Unwahrheit seines Wahrnehmens, korrigiert diese, und insofern es diese Berichtigung selbst vornimmt, fällt allerdings die Wahrheit, als Wahrheit des Wahrnehmens, in dasselbe.",
+   "en": "Through this recognition, however, it is at the same time capable of sublating it; it distinguishes its apprehension of the true from the untruth of its perceiving, corrects this, and insofar as it itself undertakes this correction, the truth, as truth of perceiving, does indeed fall into it.",
+   "zh": "但通过这种认识，它同时能够扬弃这种不真；它把对真的东西的领会同它知觉中的不真区别开来，纠正后者，而就它自己进行这种纠正而言，真理作为知觉的真理确实落进了它里面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 9,
+   "si": 7,
+   "de": "Das Verhalten des Bewußtseins, das nunmehr zu betrachten ist, ist also so beschaffen, daß es nicht mehr bloß wahrnimmt, sondern auch seiner Reflexion-in-sich bewußt ist und diese von der einfachen Auffassung selbst abtrennt.",
+   "en": "The conduct of consciousness that is now to be considered is therefore so constituted that it no longer merely perceives, but is also conscious of its reflection-into-itself and separates this from the simple apprehension itself.",
+   "zh": "因此，现在要考察的意识的行为方式是这样构成的：它不再只是知觉，而且也意识到它的自身反思，并把这种反思同单纯的领会本身分离开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 0,
+   "de": "Ich werde also zuerst des Dings als Eines gewahr und habe es in dieser wahren Bestimmung festzuhalten; wenn in der Bewegung des Wahrnehmens etwas dem Widersprechendes vorkommt, so ist dies als meine Reflexion zu erkennen.",
+   "en": "I thus first become aware of the thing as One, and I have to hold it fast in this true determination; if in the movement of perceiving something contradictory to it occurs, this is to be recognized as my reflection.",
+   "zh": "所以，我先觉察到物是“一”，并且必须把它在这个真的规定里牢牢抓住；如果在知觉的运动中出现某种与它相矛盾的东西，那就得把这东西认作我的反思。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 1,
+   "de": "Es kommen nun in der Wahrnehmung auch verschiedene Eigenschaften vor, welche Eigenschaften des Dings zu sein scheinen; allein das Ding ist Eins, und von dieser Verschiedenheit, wodurch es aufhörte, Eins zu sein, sind wir uns bewußt, daß sie in uns fällt.",
+   "en": "Now there also occur in perception various properties, which seem to be properties of the thing; but the thing is One, and of this variety, through which it would cease to be One, we are conscious that it falls in us.",
+   "zh": "现在在知觉中也出现各种特性，它们显得是物的特性；然而物是一，而对于这种差异，即物借以不再是一的那种差异，我们意识到它是落在我们里面的。"
+  }
+ ]
+}

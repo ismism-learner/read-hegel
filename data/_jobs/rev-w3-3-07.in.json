@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-07",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 36,
+   "si": 1,
+   "de": "Sein Prinzip ist, daß das Bewußtsein denkendes Wesen ist und etwas nur Wesenheit für dasselbe hat oder wahr und gut für es ist, als das Bewußtsein sich darin als denkendes Wesen verhält.",
+   "en": "Its principle is that consciousness is a thinking essence, and that something has essentiality for it, or is true and good for it, only in so far as consciousness therein comports itself as a thinking essence.",
+   "zh": "它的原则是，意识是思维着的本质，而某物只有在意识于其中作为思维着的本质而行事时，才对意识具有本质性，或者才是真的和善的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 37,
+   "si": 0,
+   "de": "Die vielfache sich in sich unterscheidende Ausbreitung, Vereinzelung und Verwicklung des Lebens ist der Gegenstand, gegen welchen die Begierde und die Arbeit tätig ist.",
+   "en": "The manifold, self-differentiating expansion, singularization and entanglement of life is the object against which desire and work are active.",
+   "zh": "生命那杂多的、在自身中区分着自身的展开、个别化和纠缠，就是欲望和劳动所作用的那个对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 37,
+   "si": 1,
+   "de": "Dies vielfache Tun hat sich nun in die einfache Unterscheidung zusammengezogen, welche in der reinen Bewegung des Denkens ist.",
+   "en": "This manifold doing has now contracted itself into the simple distinction that is in the pure movement of thinking.",
+   "zh": "这种杂多的行为现在收缩成了单纯的区分，而这种区分就在思维的纯粹运动之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 37,
+   "si": 2,
+   "de": "Nicht der Unterschied, welcher sich als bestimmtes Ding oder als Bewußtsein eines bestimmten natürlichen Daseins, als ein Gefühl oder als Begierde und Zweck für dieselbe [ist], ob er durch das eigene oder durch ein fremdes Bewußtsein gesetzt sei, hat mehr Wesenheit, sondern allein der Unterschied, der ein gedachter oder unmittelbar nicht von mir unterschieden ist.",
+   "en": "Not the difference that is present as a determinate thing, or as consciousness of a determinate natural determinate being, as a feeling, or as desire and purpose for the same, whether it be posited by one's own or by a foreign consciousness, has essentiality any longer, but solely the difference that is a thought one, or that is immediately not distinguished from me.",
+   "zh": "不再具有本质性的，不是那种差别——它作为特定的物，或作为对某种特定自然定在的意识，作为情感，或作为对同一个东西的欲望和目的而存在，无论它是由自己的意识还是由一个陌生的意识设定的——而只有那种被思维的、或者直接说来与我并无区别的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 37,
+   "si": 3,
+   "de": "Dies Bewußtsein ist somit negativ gegen das Verhältnis der Herrschaft und Knechtschaft; sein Tun ist, in der Herrschaft nicht seine Wahrheit an dem Knechte zu haben, noch als Knecht seine Wahrheit an dem Willen des Herrn und an seinem Dienen, sondern wie auf dem Throne so in den Fesseln, in aller Abhängigkeit seines einzelnen Daseins frei zu sein und die Leblosigkeit sich zu erhalten, welche sich beständig aus der Bewegung des Daseins, aus dem Wirken wie aus dem Leiden, in die einfache Wesenheit des Gedankens zurückzieht.",
+   "en": "This consciousness is therefore negative toward the relation of lordship and bondage; its doing is not to have its truth on the slave in lordship, nor as slave to have its truth in the will of the master and in its serving, but to be free as on the throne so in chains, in every dependence of its singular determinate being, and to preserve for itself the lifelessness that constantly withdraws from the movement of determinate being, from acting as from suffering, into the simple essentiality of thought.",
+   "zh": "所以，这种意识对主人与奴隶的关系采取否定的态度；它的行为不是要在主人身份中于奴隶身上拥有自己的真理，也不是要作为奴隶在主人的意志和它自己的服务中拥有自己的真理，而是要像在宝座上一样在枷锁中、在它个别定在的一切依赖中都是自由的，并且要为自己保持那种无生命性，这种无生命性不断地从定在的运动中、从作用中如同从受苦中，退回思想的单纯本质性之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 37,
+   "si": 4,
+   "de": "Der Eigensinn ist die Freiheit, die an eine Einzelheit sich befestigt und innerhalb der Knechtschaft steht, der Stoizismus aber die Freiheit, welche unmittelbar immer aus ihr her und in die reine Allgemeinheit des Gedankens zurückkommt [und] als allgemeine Form des Weltgeistes nur in der Zeit einer allgemeinen Furcht und Knechtschaft, aber auch einer allgemeinen Bildung auftreten konnte, welche das Bilden bis zum Denken gesteigert hatte.",
+   "en": "Self-will is the freedom that fixes itself on a singularity and stands within bondage, whereas Stoicism is the freedom that immediately always comes forth from it and returns into the pure universality of thought, and as universal form of the world-spirit could appear only in the time of a universal fear and bondage, but also of a universal formation that had heightened forming to thinking.",
+   "zh": "固执是那种把自己固定在某种个别性上、并停留在奴隶状态之内的自由，而斯多葛主义则是那种直接地总是从奴隶状态中出来、又回到思想的纯粹普遍性中去的自由，它作为世界精神的普遍形式，只能出现在一个普遍恐惧和普遍奴隶状态的时代，但也是一个普遍教养的时代，这种教养已经把塑造提高到思维。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 0,
+   "de": "Ob nun zwar diesem Selbstbewußtsein weder ein anderes als es noch die reine Abstraktion des Ich das Wesen ist, sondern Ich, welches das Anderssein, aber als gedachten Unterschied an ihm hat, so daß es in seinem Anderssein unmittelbar in sich zurückgekehrt ist, so ist dies sein Wesen zugleich nur ein abstraktes Wesen.",
+   "en": "Now although for this self-consciousness neither an other than it nor the pure abstraction of the 'I' is the essence, but the 'I' that has otherness on it, though only as thought difference, so that in its otherness it has immediately returned into itself, yet this its essence is at the same time only an abstract essence.",
+   "zh": "不过，虽然对这种自我意识来说，本质既不是一个与它不同的他者，也不是自我的纯粹抽象，而是自我，它在自己身上具有他在，不过只是作为被思维的差别，以致它在自己的他在中直接回到了自身，然而它的这个本质同时只是一个抽象的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 1,
+   "de": "Die Freiheit des Selbstbewußtseins ist gleichgültig gegen das natürliche Dasein, hat darum dieses ebenso frei entlassen, und die Reflexion ist eine gedoppelte.",
+   "en": "The freedom of self-consciousness is indifferent toward natural determinate being, has therefore let the latter go just as freely, and the reflection is a doubled one.",
+   "zh": "自我意识的自由对自然的定在漠不关心，因此也自由地放开了这种定在，而反思则是双重的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 2,
+   "de": "Die Freiheit im Gedanken hat nur den reinen Gedanken zu ihrer Wahrheit, die ohne die Erfüllung des Lebens ist, und ist also auch nur der Begriff der Freiheit, nicht die lebendige Freiheit selbst; denn ihr ist nur erst das Denken überhaupt das Wesen, die Form als solche, welche von der Selbständigkeit der Dinge weg in sich zurückgegangen ist.",
+   "en": "Freedom in thought has only pure thought as its truth, which is without the fulfilment of life, and is therefore also only the concept of freedom, not living freedom itself; for for it only thinking in general is as yet the essence, the form as such, which has withdrawn from the independence of things back into itself.",
+   "zh": "思想中的自由只以纯粹的思想为它的真理，而这种真理没有生命的充实，因此它也只是自由的概念，不是活生生的自由本身；因为对它来说，还只有一般的思维是本质，即那种形式本身，这种形式已经从物的独立性那里退回自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 3,
+   "de": "Indem aber die Individualität als handelnd sich lebendig darstellen oder als denkend die lebendige Welt als ein System des Gedankens fassen sollte, so müßte in dem Gedanken selbst für Jene Ausbreitung ein Inhalt dessen, was gut, für diese, was wahr ist, liegen; damit durchaus in demjenigen, was für das Bewußtsein ist, kein anderes Ingrediens wäre als der Begriff, der das Wesen ist.",
+   "en": "But in that individuality, as acting, was to present itself livingly, or, as thinking, was to grasp the living world as a system of thought, there would have to lie in thought itself, for the former expansion, a content of what is good, and for the latter, of what is true; so that in what is for consciousness there would be no other ingredient than the concept, which is the essence.",
+   "zh": "但是，既然个体性作为行动着的应当生动地呈现自身，或者作为思维着的应当把活生生的世界把握为一个思想体系，那么在思想本身之中就必须为前一种展开有一个关于什么是善的内容，为后一种有一个关于什么是真的内容；从而使凡是对意识而言存在的东西里面，除了那作为本质的概念，完全不会有别的成分。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 4,
+   "de": "Allein so wie er hier als Abstraktion von der Mannigfaltigkeit der Dinge sich abtrennt, hat er keinen Inhalt an ihm selbst, sondern einen gegebenen.",
+   "en": "But just as it here separates itself off as abstraction from the manifoldness of things, it has no content on itself, but a given one.",
+   "zh": "可是，它在这里作为对物的杂多的抽象而分离出来，它自身就没有内容，而只有一个被给予的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 5,
+   "de": "Das Bewußtsein vertilgt den Inhalt wohl als ein fremdes Sein, indem es ihn denkt; aber der Begriff ist bestimmter Begriff, und diese Bestimmtheit desselben ist das Fremde, das er an ihm hat.",
+   "en": "Consciousness no doubt annihilates the content as a foreign being, in that it thinks it; but the concept is a determinate concept, and this determinacy of the same is the foreign element that it has on it.",
+   "zh": "意识固然把内容当作一种陌生的存在加以消灭，因为它思考这内容；但概念是特定的概念，而概念的这种规定性就是它在自己身上具有的陌生东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 6,
+   "de": "Der Stoizismus ist darum in Verlegenheit gekommen, als er, wie der Ausdruck war, nach dem Kriterium der Wahrheit überhaupt gefragt wurde, d.h. eigentlich nach einem Inhalte des Gedankens selbst.",
+   "en": "Stoicism therefore came into embarrassment when it was asked, as the phrase went, for the criterion of truth in general, that is, properly, for a content of thought itself.",
+   "zh": "所以，斯多葛主义在像当时的说法那样被问及一般的真理标准时，就陷入了窘境，也就是说，实际上是被问及思想本身的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 7,
+   "de": "Auf die Frage an ihn, was gut und wahr ist, hat er wieder das inhaltlose Denken selbst zur Antwort gegeben: in der Vernünftigkeit soll das Wahre und Gute bestehen.",
+   "en": "To the question put to it, what is good and true, it again gave contentless thinking itself as answer: the true and the good are to consist in rationality.",
+   "zh": "对于向它提出的什么是善和真的这一问题，它又拿无内容的思想本身作为回答：真的东西和善的东西应当存在于合理性之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 38,
+   "si": 8,
+   "de": "Aber diese Sichselbstgleichheit des Denkens ist nur wieder die reine Form, in welcher sich nichts bestimmt; die allgemeinen Worte von dem Wahren und Guten, der Weisheit und der Tugend, bei welchen er stehenbleiben muß, sind daher wohl im allgemeinen erhebend, aber weil sie in der Tat zu keiner Ausbreitung des Inhalts kommen können, fangen sie bald an, Langeweile zu machen.",
+   "en": "But this self-sameness of thinking is again only the pure form, in which nothing determines itself; the universal words about the true and the good, about wisdom and virtue, at which it must stop, are therefore indeed in general edifying, but because in fact they can come to no expansion of content, they soon begin to produce boredom.",
+   "zh": "但思想的这种自身等同又只是纯粹的形式，在其中没有什么得到规定；那些关于真的东西和善的东西、关于智慧和德行的普遍字眼，它必须停留在这些字眼上，因此虽然在一般意义上令人振奋，但由于它们实际上无法达到内容的任何展开，很快就让人感到无聊。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 39,
+   "si": 0,
+   "de": "Dieses denkende Bewußtsein so, wie es sich bestimmt hat, als die abstrakte Freiheit, ist also nur die unvollendete Negation des Andersseins; aus dem Dasein nur in sich zurückgezogen, hat es sich nicht als absolute Negation desselben an ihm vollbracht.",
+   "en": "This thinking consciousness, just as it has determined itself, as abstract freedom, is therefore only the incomplete negation of otherness; withdrawn from determinate being only into itself, it has not accomplished itself on itself as the absolute negation of the same.",
+   "zh": "这种思维着的意识，正如它已经把自己规定为抽象的自由那样，因此只是对他在的未完成的否定；它只是从定在退回自身之中，并没有在自己身上把自己完成为对定在的绝对否定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 39,
+   "si": 1,
+   "de": "Der Inhalt gilt ihm zwar nur als Gedanke, aber dabei auch als bestimmter, und die Bestimmtheit als solche zugleich.",
+   "en": "The content indeed counts for it only as thought, but therein also as determinate, and determinacy as such at the same time.",
+   "zh": "内容对它来说固然只是作为思想才有效，但同时又是作为特定的东西才有效，而规定性本身也同样如此。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 40,
+   "si": 0,
+   "de": "Der Skeptizismus ist die Realisierung desjenigen, wovon der Stoizismus nur der Begriff, – und die wirkliche Erfahrung, was die Freiheit des Gedankens ist; sie ist an sich das Negative und muß sich so darstellen.",
+   "en": "Scepticism is the realization of that of which Stoicism is only the concept – and the actual experience of what the freedom of thought is; it is in itself the negative and must present itself as such.",
+   "zh": "怀疑论是那种东西的实在化，而斯多葛主义只是那种东西的概念，——它也是关于思想的自由是什么的现实经验；这种自由自在地就是否定性的东西，因而必然这样表现出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 40,
+   "si": 1,
+   "de": "Mit der Reflexion des Selbstbewußtseins in den einfachen Gedanken seiner selbst ist ihr gegenüber in der Tat aus der Unendlichkeit das selbständige Dasein oder die bleibende Bestimmtheit herausgefallen; im Skeptizismus wird nun für das Bewußtsein die gänzliche Unwesentlichkeit und Unselbständigkeit dieses Anderen; der Gedanke wird zu dem vollständigen, das Sein der vielfach bestimmten Welt vernichtenden Denken, und die Negativität des freien Selbstbewußtseins wird sich an dieser mannigfaltigen Gestaltung des Lebens zur realen Negativität.",
+   "en": "With the reflection of self-consciousness into the simple thoughts of itself, independent determinate being, or abiding determinacy, has in fact fallen out of infinity over against it; in scepticism, the complete unessentiality and non-independence of this other now becomes a fact for consciousness; thought becomes the complete thinking that annihilates the being of the manifoldly determinate world, and the negativity of free self-consciousness will become real negativity on this manifold shaping of life.",
+   "zh": "随着自我意识反思到它自身的单纯思想之中，独立的定在、或者说持续的规定性，实际上已经相对于它而从无限性中掉落出来；在怀疑论中，对意识来说，这个他者的彻底非本质性和非独立性现在就成了事实；思想变成了完整的、消灭那多重规定的世界的存在的思维，而自由自我意识的否定性将在这生命的杂多形态上成为实在的否定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 40,
+   "si": 2,
+   "de": "– Es erhellt, daß, wie der Stoizismus dem Begriffe des selbständigen Bewußtseins, das als Verhältnis der Herrschaft und Knechtschaft erschien, entspricht, so entspricht der Skeptizismus der Realisierung desselben als der negativen Richtung auf das Anderssein, der Begierde und der Arbeit.",
+   "en": "– It is evident that, just as Stoicism corresponds to the concept of independent consciousness, which appeared as the relation of lordship and bondage, so scepticism corresponds to the realization of the same as the negative direction toward otherness, of desire and of work.",
+   "zh": "——由此可见，正如斯多葛主义对应于独立意识的概念——这概念曾作为主人与奴隶的关系而出现——，怀疑论也同样对应于这种独立意识的实在化，即对应于那种朝向他在的否定方向，也就是欲望和劳动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 40,
+   "si": 3,
+   "de": "Aber wenn die Begierde und die Arbeit die Negation nicht für das Selbstbewußtsein ausführen konnten, so wird dagegen diese polemische Richtung gegen die vielfache Selbständigkeit der Dinge von Erfolg sein, weil sie als in sich vorher vollendetes freies Selbstbewußtsein sich gegen sie kehrt; bestimmter, weil sie das Denken oder die Unendlichkeit an ihr selbst hat und hierin die Selbständigkeiten nach ihrem Unterschiede ihr nur als verschwindende Größen sind.",
+   "en": "But if desire and work could not carry out the negation for self-consciousness, then on the contrary this polemical direction against the manifold independence of things will be successful, because it turns against them as free self-consciousness completed beforehand in itself; more precisely, because it has thinking or infinity on itself and herein the independences according to their difference are for it only vanishing magnitudes.",
+   "zh": "但是，如果欲望和劳动不能为自我意识实行这种否定，那么相反，这种针对物的多重独立性的论战方向就会取得成功，因为它作为在自身中事先完成了的自由自我意识而转向这些独立性；更确切地说，是因为它在自己身上具有思维或无限性，而在这里，那些独立性按照它们的差别对它来说只是正在消逝的量。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 40,
+   "si": 4,
+   "de": "Die Unterschiede, welche im reinen Denken seiner selbst nur die Abstraktion der Unterschiede sind, werden hier zu allen Unterschieden und alles unterschiedene Sein zu einem Unterschiede des Selbstbewußtseins.",
+   "en": "The differences, which in the pure thinking of itself are only the abstraction of differences, here become all differences, and all differentiated being a difference of self-consciousness.",
+   "zh": "那些在它自身的纯粹思维中只是差别的抽象的差别，在这里变成了一切的差别，而一切被区分开的存在则变成了自我意识的一个差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 41,
+   "si": 0,
+   "de": "Hierdurch hat sich das Tun des Skeptizismus überhaupt und die Weise desselben bestimmt.",
+   "en": "Thereby the doing of scepticism in general and its manner have determined themselves.",
+   "zh": "由此，怀疑论一般的行为和它的方式就得到了规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 41,
+   "si": 1,
+   "de": "Er zeigt die dialektische Bewegung auf, welche die sinnliche Gewißheit, die Wahrnehmung und der Verstand ist, sowie auch die Unwissenheit desjenigen, was in dem Verhältnisse des Herrschens und des Dienens und was für das abstrakte Denken selbst als Bestimmtes gilt.",
+   "en": "It points out the dialectical movement that sense-certainty, perception and understanding are, as also the ignorance of that which in the relation of ruling and serving, and which for abstract thinking itself, counts as determinate.",
+   "zh": "它指出了那种辩证运动，即感性确定性、知觉和知性所是的那种辩证运动，同样也指出了那种无知：在统治和服务的关系中，以及在抽象思维本身那里，什么东西算作特定的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 41,
+   "si": 2,
+   "de": "Jenes Verhältnis faßt eine bestimmte Weise zugleich in sich, in welcher auch sittliche Gesetze als Gebote der Herrschaft vorhanden sind; die Bestimmungen im abstrakten Denken aber sind Begriffe der Wissenschaft, in welche sich das inhaltslose Denken ausbreitet und den Begriff auf eine in der Tat nur äußerliche Weise an das ihm selbständige Sein, das seinen Inhalt ausmacht, hängt und nur bestimmte Begriffe als geltende hat, es sei, daß sie auch reine Abstraktionen sind.",
+   "en": "That relation at the same time contains in itself a determinate manner in which ethical laws too are present as commands of lordship; the determinations in abstract thinking, however, are concepts of science, into which contentless thinking expands and attaches the concept in a manner that is in fact only external to the being that is independent of it, which constitutes its content, and has only determinate concepts as valid, be it that they are also pure abstractions.",
+   "zh": "那种关系同时也在自身中包含着一种特定的方式，在这种方式中，伦理的法则也作为主人的命令而存在；但抽象思维中的那些规定却是科学的概念，无内容的思想扩展到这些概念之中，并且以一种实际上只是外在的方式把概念挂到那种对它独立、并构成它的内容的存在上，而且只把特定的概念当作有效的概念，即使这些概念也是纯粹的抽象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 42,
+   "si": 0,
+   "de": "Das Dialektische als negative Bewegung, wie sie unmittelbar ist, erscheint dem Bewußtsein zunächst als etwas, dem es preisgegeben und das nicht durch es selbst ist.",
+   "en": "The dialectical element as negative movement, as it is immediately, appears to consciousness at first as something to which it is surrendered and which is not through consciousness itself.",
+   "zh": "辩证的东西作为否定的运动，就它是直接的那样，最初显现给意识时，是某种意识被交付给它、而它却不是由意识本身而来的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 42,
+   "si": 1,
+   "de": "Als Skeptizismus hingegen ist sie Moment des Selbstbewußtseins, welchem es nicht geschieht, daß ihm, ohne zu wissen wie, sein Wahres und Reelles verschwindet, sondern welches in der Gewißheit seiner Freiheit dies andere für reell sich Gebende selbst verschwinden läßt; nicht nur das Gegenständliche als solches, sondern sein eigenes Verhalten zu ihm, worin es als gegenständlich gilt und geltend gemacht wird, also auch sein Wahrnehmen sowie sein Befestigen dessen, was es in Gefahr ist zu verlieren, die Sophisterei und sein aus sich bestimmtes und festgesetztes Wahres; durch welche selbstbewußte Negation es die Gewißheit seiner Freiheit sich für sich selbst verschafft, die Erfahrung derselben hervorbringt und sie dadurch zur Wahrheit erhebt.",
+   "en": "As scepticism, by contrast, this movement is a moment of self-consciousness, to which it does not happen that its true and real element vanishes without its knowing how, but which in the certainty of its freedom lets this other, which gives itself out as real, itself vanish; not only the objective as such, but its own comportment to it, in which the objective counts and is made to count, hence also its perceiving as well as its fixing firm of what it is in danger of losing, the sophistry and its own true element determined and fixed out of itself; through which self-conscious negation it procures for itself the certainty of its freedom, brings forth the experience of the same, and thereby raises it to truth.",
+   "zh": "与此相反，作为怀疑论，这个运动则是自我意识的一个环节：自我意识并不会遇到这样的事，即它的真的东西和实在的东西在它不知道怎么回事的情况下消失掉，相反，它在自己自由的确定性中让这个冒充为实在的另一个东西自己消失掉；不只是让对象性的东西本身消失，也让它对对象性东西自己的态度消失——在这种态度中，对象性的东西被视为有效并被弄得有效——因而也让它的知觉以及它对它有危险失去的东西的固守消失，让诡辩以及它由自己规定并固定下来的真的东西消失；通过这种自我意识的否定，它为它自己取得了它自由的确定性，产生出对这种自由的经验，并由此把它提高到真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 42,
+   "si": 2,
+   "de": "Was verschwindet, ist das Bestimmte oder der Unterschied, der, auf welche Weise und woher es sei, als fester und unwandelbarer sich aufstellt.",
+   "en": "What vanishes is the determinate element, or the difference, which, in whatever way and from wherever it may be, sets itself up as something firm and unchangeable.",
+   "zh": "消失掉的是被规定的东西或差别，不论它以何种方式、从何处而来，只要它把自己建立为固定不变的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 42,
+   "si": 3,
+   "de": "Er hat nichts Bleibendes an ihm und muß dem Denken verschwinden, weil das Unterschiedene eben dies ist, nicht an ihm selbst zu sein, sondern seine Wesenheit nur in einem Anderen zu haben; das Denken aber ist die Einsicht in diese Natur des Unterschiedenen, es ist das negative Wesen als einfaches.",
+   "en": "It has nothing abiding in it and must vanish for thinking, because the differentiated is precisely this, not to be in itself, but to have its essence only in an other; thinking, however, is insight into this nature of the differentiated, it is the negative essence as simple.",
+   "zh": "它身上没有持久的东西，它必须对思维消失，因为被区分者恰恰就是这样：不在它自身那里，而只在另一个东西里拥有自己的本质；但思维就是对被区分者的这种本性的洞见，思维就是作为单纯者的否定性本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 0,
+   "de": "Das skeptische Selbstbewußtsein erfährt also In dem Wandel alles dessen, was sich für es befestigen will, seine eigene Freiheit als durch es selbst sich gegeben und erhalten; es ist sich diese Ataraxie des sich selbst Denkens, die unwandelbare und wahrhafte Gewißheit seiner selbst.",
+   "en": "The sceptical self-consciousness therefore experiences, in the change of everything that wants to become firm for it, its own freedom as something given and preserved through itself; it is for itself this ataraxia of thinking itself, the unchangeable and true certainty of itself.",
+   "zh": "所以，怀疑论的自我意识在一切想对它固定下来的东西的变换中，经验到它自己的自由是由它自己给出并保持的；对它来说，这种自己思自己的不动心就是它自己那种不变而真正的确定性。"
+  }
+ ]
+}

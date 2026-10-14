@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-04",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 25,
+   "si": 4,
+   "de": "Die abstrakte Notwendigkeit gilt also für die nur negative unbegriffene Macht der Allgemeinheit, an welcher die Individualität zerschmettert wird.",
+   "en": "Abstract necessity therefore counts as the merely negative, uncomprehended power of universality, on which individuality is shattered.",
+   "zh": "所以，抽象的必然性就被视为普遍性那种仅仅否定性的、未被以概念把握的强力，个体性就在这种强力上被砸碎。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 26,
+   "si": 0,
+   "de": "Bis hierher geht die Erscheinung dieser Gestalt des Selbstbewußtseins; das letzte Moment ihrer Existenz ist der Gedanke ihres Verlustes in der Notwendigkeit oder der Gedanke ihrer selbst als eines sich absolut fremden Wesens.",
+   "en": "Up to here goes the appearance of this shape of self-consciousness; the last moment of its existence is the thought of its loss in necessity, or the thought of itself as an essence absolutely alien to itself.",
+   "zh": "自我意识的这一形态的现象一直走到这里；它的存在的最后一个环节，就是关于它在必然性中丧失的思想，或者关于它自己作为一个对自己绝对异己的本质的思想。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 26,
+   "si": 1,
+   "de": "Das Selbstbewußtsein an sich hat aber diesen Verlust überlebt; denn diese Notwendigkeit oder reine Allgemeinheit ist sein eigenes Wesen.",
+   "en": "But self-consciousness in itself has survived this loss; for this necessity, or pure universality, is its own essence.",
+   "zh": "但是，自在的自我意识却在这种丧失中活了下来；因为这种必然性、或者说纯粹的普遍性，就是它自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 26,
+   "si": 2,
+   "de": "Diese Reflexion des Bewußtseins in sich, die Notwendigkeit als sich zu wissen, ist eine neue Gestalt desselben.",
+   "en": "This reflection of consciousness into itself, to know necessity as itself, is a new shape of it.",
+   "zh": "意识向自身的这种反思，即把必然性作为自己来知，是它的一个新形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 28,
+   "si": 0,
+   "de": "Was die Notwendigkeit in Wahrheit am Selbstbewußtsein ist, dies ist sie für seine neue Gestalt, worin es sich selbst als das Notwendige ist; es weiß, unmittelbar das Allgemeine oder das Gesetz in sich zu haben, welches um dieser Bestimmung willen, daß es unmittelbar in dem Fürsichsein des Bewußtseins ist, das Gesetz des Herzens heißt.",
+   "en": "What necessity truly is in self-consciousness, that it is for its new shape, in which it is itself to itself as the necessary; it knows that it immediately has the universal, or the law, in itself, which, on account of this determination – that it is immediately in the being-for-itself of consciousness – is called the law of the heart.",
+   "zh": "必然性在自我意识身上真正说来是什么，它对其新的形态来说就是什么，在这种形态里，它自己对自己来说就是必然的东西；它知道自己直接地就在自身中拥有普遍的东西或规律，而这规律由于这样一个规定性——即它直接地就在意识的自为存在中——就叫做心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 28,
+   "si": 1,
+   "de": "Diese Gestalt ist für sich als Einzelheit Wesen wie die vorige; aber sie ist um die Bestimmung reicher, daß ihr dies Fürsichsein als notwendiges oder allgemeines gilt.",
+   "en": "This shape is, for itself as singleness, essence just like the preceding one; but it is richer by the determination that this being-for-itself counts to it as necessary or universal.",
+   "zh": "这一形态作为个别性，自为地就是本质，和前一形态一样；但它多出一个规定性，即这种自为存在在它看来是必然的或普遍的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 29,
+   "si": 0,
+   "de": "Das Gesetz also, das unmittelbar das eigene des Selbstbewußtseins ist, oder ein Herz, das aber ein Gesetz an ihm hat, ist der Zweck, den es zu verwirklichen geht.",
+   "en": "The law, then, that is immediately the own of self-consciousness, or a heart that, however, has a law on it, is the purpose that it goes to actualize.",
+   "zh": "所以，那直接地就是自我意识自己所固有的规律，或者说一颗本身带有规律的心，就是它要去使之现实化的目的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 29,
+   "si": 1,
+   "de": "Es ist zu sehen, ob seine Verwirklichung diesem Begriffe entsprechen und ob es in ihr dies sein Gesetz als das Wesen erfahren wird.",
+   "en": "It is to be seen whether its actualization corresponds to this concept and whether in it consciousness will experience this its law as the essence.",
+   "zh": "要看它的现实化是否与这个概念相符，以及它是否会在这种现实化中把它的这一规律经验为本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 30,
+   "si": 0,
+   "de": "Diesem Herzen steht eine Wirklichkeit gegenüber; denn im Herzen ist das Gesetz nur erst für sich, noch nicht verwirklicht und also zugleich etwas anderes, als der Begriff ist.",
+   "en": "Over against this heart stands an actuality; for in the heart the law is only first for itself, not yet actualized, and thus at the same time something other than the concept is.",
+   "zh": "与这颗心相对立的是一种现实性；因为在心里，规律还只是自为的，还没有现实化，因此同时也就是某种不同于概念的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 30,
+   "si": 1,
+   "de": "Dieses Andere bestimmt sich dadurch als eine Wirklichkeit, die das Entgegengesetzte des zu Verwirklichenden, hiermit der Widerspruch des Gesetzes und der Einzelheit ist.",
+   "en": "This other thereby determines itself as an actuality that is the opposite of what is to be actualized, and hence the contradiction of the law and singleness.",
+   "zh": "这个他者由此就规定自己为一种现实性，这种现实性是那有待现实化的东西的对立面，因而也就是规律和个别性的矛盾。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 30,
+   "si": 2,
+   "de": "Sie ist also einerseits ein Gesetz, von dem die einzelne Individualität gedrückt wird, eine gewalttätige Ordnung der Welt, welche dem Gesetze des Herzens widerspricht, – und andererseits eine unter ihr leidende Menschheit, welche nicht dem Gesetze des Herzens folgt, sondern einer fremden Notwendigkeit Untertan ist.",
+   "en": "It is therefore on the one hand a law by which single individuality is pressed down, a violent order of the world that contradicts the law of the heart, – and on the other hand a humanity suffering under it, which does not follow the law of the heart but is subject to an alien necessity.",
+   "zh": "所以，它一方面是一种压迫着单个个体性的规律，一种与心的规律相矛盾的暴虐的世界秩序，——另一方面则是它下面受苦的人类，这种人类不遵循心的规律，而是臣服于一种异己的必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 30,
+   "si": 3,
+   "de": "– Diese Wirklichkeit, die der jetzigen Gestalt des Bewußtseins gegenüber erscheint, ist, wie erhellt, nichts anderes als das vorhergehende entzweite Verhältnis der Individualität und ihrer Wahrheit, das Verhältnis einer grausamen Notwendigkeit, von welcher jene erdrückt wird.",
+   "en": "– This actuality, which appears over against the present shape of consciousness, is, as is evident, nothing other than the preceding divided relation of individuality and its truth, the relation of a cruel necessity by which that individuality is crushed.",
+   "zh": "——这种现实性，它出现在当前意识的形态的对面，正如已经显明的那样，不是别的，正是先前个体性和它的真理之间那种分裂了的关系，即一种残酷的必然性的关系，个体性就是被这种必然性压碎的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 30,
+   "si": 4,
+   "de": "Für uns tritt die vorhergehende Bewegung darum der neuen Gestalt gegenüber, weil diese an sich aus ihr entsprungen, das Moment, woraus sie herkommt, also notwendig für sie ist; ihr aber erscheint es als ein Vorgefundenes, indem sie kein Bewußtsein über ihren Ursprung hat und ihr das Wesen ist, vielmehr für sich selbst oder das Negative gegen dies positive Ansich zu sein.",
+   "en": "For us the preceding movement therefore stands over against the new shape because this shape has in itself sprung from it, so the moment from which it comes is necessary for it; but to it this appears as something found at hand, since it has no consciousness of its origin and it is its essence rather to be for itself, or the negative, against this positive in-itself.",
+   "zh": "对我们来说，先前的运动之所以作为这一新形态的对立面而出现，是因为这一新形态自在就是从它那里产生出来的，它由之而来的那个环节因此对它来说是必然的；但对它自己来说，这却显现为一种现成发现的东西，因为它对自己的来源没有意识，而它的本质反倒就是：自为存在，或者说，作为否定性的东西而与这种肯定的自在相对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 0,
+   "de": "Diese dem Gesetze des Herzens widersprechende Notwendigkeit sowie das durch sie vorhandene Leiden aufzuheben, darauf ist also diese Individualität gerichtet.",
+   "en": "To sublate this necessity that contradicts the law of the heart, as well as the suffering that exists through it, is what this individuality is directed at.",
+   "zh": "所以，扬弃这种与心的规律相矛盾的必然性，以及由它而现成存在的苦难，这就是这个个体性所指向的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 1,
+   "de": "Sie ist hiermit nicht mehr der Leichtsinn der vorigen Gestalt, die nur die einzelne Lust wollte, sondern die Ernsthaftigkeit eines hohen Zwecks, die ihre Lust in der Darstellung ihres vortrefflichen eigenen Wesens und in der Hervorbringung des Wohls der Menschheit sucht.",
+   "en": "It is hereby no longer the frivolity of the preceding shape, which willed only the single pleasure, but the seriousness of a high purpose, which seeks its pleasure in the presentation of its excellent own essence and in the production of the welfare of humanity.",
+   "zh": "它于是不再是先前那种只想要单个快乐的形态的轻浮，而是一种崇高目的的严肃，这种严肃在自己的卓越本质的展示中、在人类福祉的产生中寻求自己的快乐。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 2,
+   "de": "Was sie verwirklicht, ist selbst das Gesetz und ihre Lust daher zugleich die allgemeine aller Herzen.",
+   "en": "What it actualizes is itself the law, and its pleasure is therefore at the same time the universal pleasure of all hearts.",
+   "zh": "它使之现实化的东西本身就是规律，所以它的快乐同时就是所有心的普遍快乐。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 3,
+   "de": "Beides ist ihr ungetrennt, ihre Lust das Gesetzmäßige, und die Verwirklichung des Gesetzes der allgemeinen Menschheit Bereitung ihrer einzelnen Lust.",
+   "en": "Both are undivided for it, its pleasure the lawful, and the actualization of the law of universal humanity the preparation of its single pleasure.",
+   "zh": "两者对它来说是不可分离的，它的快乐就是合乎规律的东西，而普遍人类的规律的现实化就是为它单个的快乐所做的准备。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 4,
+   "de": "Denn innerhalb ihrer selbst ist unmittelbar die Individualität und das Notwendige eins; das Gesetz Gesetz des Herzens.",
+   "en": "For within it individuality and the necessary are immediately one; the law the law of the heart.",
+   "zh": "因为在它自身之内，个体性和必然的东西直接地就是同一个东西；规律就是心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 5,
+   "de": "Die Individualität ist noch nicht aus ihrer Stelle gerückt und die Einheit beider nicht durch die vermittelnde Bewegung derselben, noch nicht durch die Zucht zustande gekommen.",
+   "en": "Individuality has not yet been moved out of its place, and the unity of the two has not come about through the mediating movement of the same, not yet through discipline.",
+   "zh": "个体性还没有被挪出它自己的位置，两者的统一也还不是通过两者起中介作用的运动、还不是通过管教而达成的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 31,
+   "si": 6,
+   "de": "Die Verwirklichung des unmittelbaren ungezogenen Wesens gilt für Darstellung einer Vortrefflichkeit und für Hervorbringung des Wohls der Menschheit.",
+   "en": "The actualization of the immediate, undisciplined essence counts as the presentation of an excellence and as the production of the welfare of humanity.",
+   "zh": "这种直接的、未受管教的本质的现实化，被视为一种卓越的展示，被视为人类福祉的产生。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 32,
+   "si": 0,
+   "de": "Das Gesetz dagegen, welches dem Gesetze des Herzens gegenübersteht, ist vom Herzen getrennt und frei für sich.",
+   "en": "The law, on the other hand, which stands opposed to the law of the heart, is separated from the heart and free for itself.",
+   "zh": "与此相反，那条与心的规律相对立的规律，是与心分离的，并且自为地自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 32,
+   "si": 1,
+   "de": "Die Menschheit, die ihm angehört, lebt nicht in der beglückenden Einheit des Gesetzes mit dem Herzen, sondern entweder in grausamer Trennung und Leiden oder wenigstens in der Entbehrung des Genusses seiner selbst bei der Befolgung des Gesetzes und in dem Mangel des Bewußtseins der eigenen Vortrefflichkeit bei der Überschreitung desselben.",
+   "en": "The humanity that belongs to it does not live in the blissful unity of the law with the heart, but either in cruel separation and suffering, or at least in the deprivation of the enjoyment of itself in obeying the law and in the lack of the consciousness of its own excellence in transgressing it.",
+   "zh": "属于它的那种人类，并不生活在规律与心的极乐统一中，而是要么生活在残酷的分离和痛苦中，要么至少生活在遵守规律时对自身享受的缺乏中，并且生活在逾越规律时对自己卓越的意识之缺乏中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 32,
+   "si": 2,
+   "de": "Weil jene gewalthabende göttliche und menschliche Ordnung von dem Herzen getrennt ist, ist sie diesem ein Schein, welcher das verlieren soll, was ihm noch zugesellt ist, nämlich die Gewalt und die Wirklichkeit.",
+   "en": "Because that power-holding divine and human order is separated from the heart, it is for this heart a semblance, which is to lose what is still attached to it, namely power and actuality.",
+   "zh": "因为那种握有权力的、神的和人的秩序是与心分离的，所以它对心来说是一个假象，而这个假象应当失去那还附在它身上的东西，也就是权力和现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 32,
+   "si": 3,
+   "de": "Sie mag in ihrem Inhalte wohl zufälligerweise mit dem Gesetze des Herzens übereinstimmen, und dann kann sich dieses sie gefallen lassen; aber nicht das Gesetzmäßige rein als solches ist ihm das Wesen, sondern daß es darin das Bewußtsein seiner selbst, daß es sich darin befriedigt habe.",
+   "en": "It may well coincidentally agree in its content with the law of the heart, and then the heart can let it be pleasing to itself; but it is not the lawful purely as such that is the essence for it, but that it has therein the consciousness of itself, that it has satisfied itself therein.",
+   "zh": "它也许在内容上偶然地与心的规律一致，那么心也可以容忍它；但对心来说，本质并不是那纯粹作为这样的东西的合乎规律之物，而是它在其中拥有对自身的意识，是它在其中得到了满足。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 32,
+   "si": 4,
+   "de": "Wo der Inhalt der allgemeinen Notwendigkeit aber nicht mit dem Herzen übereinstimmt, ist sie auch ihrem Inhalte nach nichts an sich und muß dem Gesetze des Herzens weichen.",
+   "en": "But where the content of universal necessity does not agree with the heart, it is also, as regards its content, nothing in itself, and must yield to the law of the heart.",
+   "zh": "而普遍必然性的内容凡是与心不一致的地方，它按其内容来说也自在的什么也不是，并且必须让位于心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 0,
+   "de": "Das Individuum vollbringt also das Gesetz seines Herzens; es wird allgemeine Ordnung, und die Lust zu einer an und für sich gesetzmäßigen Wirklichkeit.",
+   "en": "The individual thus accomplishes the law of its heart; it becomes universal order, and pleasure becomes an actuality lawful in and for itself.",
+   "zh": "于是，个体完成了自己心的规律；它成为普遍的秩序，而快乐则成为一种自在自为地合乎规律的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 1,
+   "de": "Aber in dieser Verwirklichung ist es ihm in der Tat entflohen; es wird unmittelbar nur das Verhältnis, welches aufgehoben werden sollte.",
+   "en": "But in this actualization it has in fact fled from it; it immediately becomes only the relation that was supposed to be sublated.",
+   "zh": "但在这场现实化中，它其实已经从个体那里逃走了；它直接地只成为那种本应被扬弃的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 2,
+   "de": "Das Gesetz des Herzens hört eben durch seine Verwirklichung auf, Gesetz des Herzens zu sein.",
+   "en": "The law of the heart ceases, precisely through its actualization, to be the law of the heart.",
+   "zh": "心的规律恰恰通过自己的现实化而不再是心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 3,
+   "de": "Denn es erhält darin die Form des Seins und ist nun allgemeine Macht, für welche dieses Herz gleichgültig ist, so daß das Individuum seine eigene Ordnung dadurch, daß es sie aufstellt, nicht mehr als die seinige findet.",
+   "en": "For it thereby receives the form of being and is now a universal power, for which this heart is indifferent, so that the individual, by the very fact that it sets up its own order, no longer finds it as its own.",
+   "zh": "因为它由此获得了存在的形式，现在是一种普遍势力，对于这种势力来说，这颗心是无所谓的，以至于个体由于把这种秩序建立起来，便不再觉得它是自己的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 4,
+   "de": "Durch die Verwirklichung seines Gesetzes bringt es daher nicht sein Gesetz, sondern, indem sie an sich die seinige, für es aber eine fremde ist, nur dies hervor, in die wirkliche Ordnung sich zu verwickeln, und zwar in sie als eine ihm nicht nur fremde, sondern feindliche Übermacht.",
+   "en": "Through the actualization of its law it therefore brings forth not its law, but, since this actualization is in itself its own yet for it a foreign one, only this: that it becomes entangled in the actual order, and indeed in it as an over-power that is not only foreign but hostile to it.",
+   "zh": "所以，它通过自己规律的现实化产生出来的并不是自己的规律，而是——由于这种现实化自在的是它自己的、对它来说却是一种陌生的现实化——只产生出这一点：它自己卷入现实的秩序之中，而且是卷入这样一种秩序，它对自己来说不仅陌生，而且是敌对的压倒性势力。"
+  }
+ ]
+}

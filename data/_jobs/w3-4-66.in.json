@@ -1,0 +1,48 @@
+{
+ "id": "w3-4-66",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 4,
+ "chunkTitle": "C. (AA) Vernunft",
+ "heading": "C. (AA) Vernunft",
+ "blocks": [
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1ttw8kl1bk",
+   "sents": [
+    "Es folgt hieraus, daß der Beobachtung an dem gestalteten Dasein nur die Vernunft als Leben überhaupt werden kann, welches aber in seinem Unterscheiden keine vernünftige Reibung und Gliederung an sich selbst wirklich hat und nicht ein in sich gegründetes System der Gestalten ist.",
+    "– Wenn im Schlüsse der organischen Gestaltung die Mitte, worin die Art und ihre Wirklichkeit als einzelne Individualität fällt, an ihr selbst die Extreme der inneren Allgemeinheit und der allgemeinen Individualität hätte, so würde diese Mitte an der Bewegung ihrer Wirklichkeit den Ausdruck und die Natur der Allgemeinheit haben und die sich selbst systematisierende Entwicklung sein.",
+    "So hat das Bewußtsein, zwischen dem allgemeinen Geiste und seiner Einzelheit oder dem sinnlichen Bewußtsein, zur Mitte das System der Gestaltungen des Bewußtseins, als ein zum Ganzen sich ordnendes Leben des Geistes, – das System, das hier betrachtet wird und welches als Weltgeschichte sein gegenständliches Dasein hat.",
+    "Aber die organische Natur hat keine Geschichte; sie fällt von ihrem Allgemeinen, dem Leben, unmittelbar in die Einzelheit des Daseins herunter, und die in dieser Wirklichkeit vereinigten Momente der einfachen Bestimmtheit und der einzelnen Lebendigkeit bringen das Werden nur als die zufällige Bewegung hervor, worin jedes an seinem Teile tätig ist und das Ganze erhalten wird; aber diese Regsamkeit ist für sich selbst nur auf ihren Punkt beschränkt, weil das Ganze nicht in ihm vorhanden ist, und dies ist nicht darin vorhanden, weil es nicht als Ganzes hier für sich ist."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "sc3jbx38cq",
+   "sents": [
+    "Außerdem also, daß die beobachtende Vernunft in der organischen Natur nur zur Anschauung ihrer selbst als allgemeines Leben überhaupt kommt, wird ihr die Anschauung seiner Entwicklung und Realisierung nur nach ganz allgemein unterschiedenen Systemen, deren Bestimmtheit, ihr Wesen, nicht in dem Organischen als solchem, sondern in dem allgemeinen Individuum liegt; und, unter diesen Unterschieden der Erde, nach Reibungen, welche die Gattung versucht."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "1opo3l7r9n",
+   "sents": [
+    "Indem also in seiner Wirklichkeit die Allgemeinheit des organischen Lebens sich, ohne die wahrhafte fürsichseiende Vermittlung, unmittelbar in das Extrem der Einzelheit herunterfallen läßt, so hat das beobachtende Bewußtsein nur das Meinen als Ding vor sich; und wenn die Vernunft das müßige Interesse haben kann, dieses Meinen zu beobachten, ist sie auf das Beschreiben und Hererzählen von Meinungen und Einfällen der Natur beschränkt.",
+    "Diese geistlose Freiheit des Meinens wird zwar allenthalben Anfänge von Gesetzen, Spuren von Notwendigkeit, Anspielungen auf Ordnung und Reibung, witzige und scheinbare Beziehungen darbieten.",
+    "Aber die Beobachtung kommt in der Beziehung des Organischen auf die seienden Unterschiede des Unorganischen, die Elemente, Zonen und Klimate, in Ansehung des Gesetzes und der Notwendigkeit nicht über den großen Einfluß hinaus.",
+    "So auf der ändern Seite, wo die Individualität nicht die Bedeutung der Erde, sondern des dem organischen Leben immanenten Eins hat, dies mit dem Allgemeinen in unmittelbarer Einheit zwar die Gattung ausmacht, aber deren einfache Einheit eben darum nur als Zahl sich bestimmt und daher die qualitative Erscheinung freiläßt, – kann es die Beobachtung nicht über artige Bemerkungen, interessante Beziehungen, freundliches Entgegenkommen dem Begriffe hinausbringen.",
+    "Aber die artigen Bemerkungen sind kein Wissen der Notwendigkeit, die interessanten Beziehungen bleiben bei dem Interesse stehen, das Interesse ist aber nur noch die Meinung von der Vernunft; und die Freundlichkeit des Individuellen, mit der es an einen Begriff anspielt, ist eine kindliche Freundlichkeit, welche kindisch ist, wenn sie an und für sich etwas gelten will oder soll."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/4.p66.json"
+}

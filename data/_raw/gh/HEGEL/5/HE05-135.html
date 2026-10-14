@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>a. Die formelle Kausalität - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-135.html","collection":"hegel","title":"a. Die formelle Kausalität","lang":"de","prev":{"file":"HE05-134.html","title":"B. Das Kausalitätsverhältnis"},"next":{"file":"HE05-136.html","title":"b. Das bestimmte Kausalitätsverhältnis"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-135.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 id="h135-1">a. Die formelle Kausalität</h4>
+<p>1. Die Ursache ist das <i>Ursprüngliche</i> gegen die Wirkung. – Die Substanz <i>ist</i> als Macht <i>das Scheinen</i> oder <i>hat</i> Akzidentalität. Aber sie ist als Macht ebensosehr Reflexion-in-sich in ihrem Scheine; so <i>legt</i> sie ihr Übergehen <i>aus, und dies Scheinen ist bestimmt als Schein</i>, oder die Akzidenz ist <i>gesetzt</i> als das, daß sie nur ein <i>Gesetztes</i> sei. – Die Substanz geht aber in ihrem Bestimmen nicht von der Akzidentalität aus, als ob diese <i>voraus</i> ein Anderes wäre und nun erst als Bestimmtheit gesetzt würde, sondern beides ist <i>eine</i> Aktuosität. Die Substanz als Macht <i>bestimmt sich</i>; aber dies Bestimmen ist unmittelbar selbst das Aufheben des Bestimmens und die Rückkehr. <i>Sie bestimmt sich, – sie</i>, das Bestimmende, ist so das <i>Unmittelbare</i> und das selbst schon Bestimmte; – indem sie <i>sich</i> bestimmt, setzt sie also dies schon <i>Bestimmte</i> als <i>bestimmt</i>, hat so das Gesetztsein aufgehoben und ist in sich zurückgekehrt. – Umgekehrt ist diese Rückkehr, weil sie die <i>negative</i> Beziehung der Substanz auf sich ist, selbst ein <i>Bestimmen</i> oder Abstoßen ihrer von sich; durch diese Rückkehr <i>wird</i> das Bestimmte, von dem sie anzufangen und es als vorgefundenes Bestimmtes nun als solches zu setzen scheint. – So ist die absolute Aktuosität <i>Ursache</i>, die Macht der Substanz in <i>ihrer Wahrheit</i> als Manifestation, die das, was <i>an sich</i> ist, die Akzidenz, die das Gesetztsein ist, unmittelbar im Werden derselben auch <i>auslegt</i>, sie<i> setzt</i> als <i>Gesetztsein, – die Wirkung</i>. – Diese ist also<i> erstlich</i> dasselbe, was die Akzidentalität des Substantialitätsverhältnisses ist, nämlich die Substanz als <i>Gesetztsein</i>, aber <i>zweitens</i> ist die Akzidenz als solche substantiell nur durch ihr Verschwinden, als Übergehendes; als Wirkung aber ist sie das Gesetztsein als mit sich identisch; die Ursache ist in der Wirkung als ganze Substanz manifestiert, nämlich als an dem Ge setztsein selbst als solchem in sich reflektiert.</p>
+<p>2. Diesem in sich reflektierten <i>Gesetztsein</i>, dem Bestimmten als Bestimmten, steht die Substanz als<i> nicht gesetztes</i> Ursprüngliches<a id="S223"></a> gegenüber. Weil sie als absolute Macht Rückkehr in sich, aber diese Rückkehr selbst <i>Bestimmen</i> ist, so ist sie nicht mehr bloß das <i>Ansich</i> ihrer Akzidenz, sondern ist auch <i>gesetzt</i> als dies Ansichsein. Die Substanz hat daher erst als Ursache <i>Wirklichkeit</i>. Aber diese Wirklichkeit, daß ihr <i>Ansichsein</i>, ihre Bestimmtheit im Substantialitätsverhältnisse, nunmehr <i>als Bestimmtheit</i> gesetzt ist, ist die <i>Wirkung</i>; die Substanz hat daher die Wirklichkeit, die sie als Ursache hat, <i>nur in ihrer Wirkung</i>. – Dies ist die <i>Notwendigkeit</i>, welche die Ursache ist. – Sie ist die <i>wirkliche</i> Substanz, weil die Substanz als Macht sich selbst bestimmt, aber ist zugleich Ursache, weil sie diese Bestimmtheit auslegt oder als Gesetztsein setzt; so setzt sie ihre Wirklichkeit als das Gesetztsein oder als die Wirkung. Diese ist das Andere der Ursache, das Gesetztsein gegen das Ursprüngliche und durch dieses <i>vermittelt</i>. Aber die Ursache hebt als Notwendigkeit ebenso dies ihr Vermitteln auf und ist in dem <i>Bestimmen</i> ihrer selbst als das ursprünglich sich auf sich Beziehende <i>gegen</i> das Vermittelte die Rückkehr in sich; denn das Gesetztsein ist <i>als</i> Gesetztsein bestimmt, somit identisch mit sich; die Ursache ist daher erst in ihrer Wirkung das wahrhaft Wirkliche und mit sich Identische. – Die Wirkung ist daher <i>notwendig</i>, weil sie eben Manifestation der Ursache oder diese Notwendigkeit ist, welche die Ursache ist. – Nur als diese Notwendigkeit ist die Ursache selbst bewegend, aus sich anfangend, ohne von einem Anderen sollizitiert zu werden, und<i> selbständige Quelle des Hervorbringens aus sich</i>, – sie muß <i>wirken</i>; ihre Ursprünglichkeit ist dies, daß ihre Reflexion-in-sich bestimmendes Setzen und umgekehrt beides eine Einheit ist.</p>
+<p><i>Die Wirkung enthält daher überhaupt nichts, was nicht die Ursache enthält</i>. Umgekehrt <i>enthält die Ursache nichts, was nicht in ihrer Wirkung ist</i>. Die Ursache ist nur Ursache, insofern sie eine Wirkung hervorbringt; und die <i>Ursache ist nichts als diese Bestimmung, eine Wirkung zu haben</i>, und die <i>Wirkung nichts als dies, eine Ursache zu haben</i>. In der<a id="S224"></a> Ursache als solcher selbst liegt ihre Wirkung und in der Wirkung die Ursache; insofern die Ursache noch nicht wirkte oder insofern sie aufgehört hätte zu wirken, so wäre sie nicht Ursache, – und die Wirkung, insofern ihre Ursache verschwunden ist, ist nicht mehr Wirkung, sondern eine gleichgültige Wirklichkeit.</p>
+<p>3. In dieser <i>Identität</i> der Ursache und Wirkung ist nun die Form, wodurch sie als das an sich Seiende und als das Gesetztsein sich unterscheiden, aufgehoben. Die Ursache <i>erlischt</i> in ihrer Wirkung; damit ist ebenso die Wirkung erloschen, denn sie ist nur die Bestimmtheit der Ursache. Diese in der Wirkung erloschene Kausalität ist somit eine <i>Unmittelbarkeit</i>, welche gegen das Verhältnis von Ursache und Wirkung gleichgültig ist und es äußerlich an ihr hat.<a id="S225"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-134.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">B. Das Kausalitätsverhältnis</span></a>
+              <a href="./HE05-136.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">b. Das bestimmte Kausalitätsverhältnis</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

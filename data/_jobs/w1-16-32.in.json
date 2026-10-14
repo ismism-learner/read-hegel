@@ -1,0 +1,106 @@
+{
+ "id": "w1-16-32",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 16,
+ "chunkTitle": "[3. Das Reichsgebiet]",
+ "heading": "[3. Das Reichsgebiet]",
+ "blocks": [
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "1ang1161u0",
+   "sents": [
+    "Wenn von der Staatsgewalt der Akt ausfließt, daß der hundertste Mann von bestimmtem Alter als Soldat sich stellen oder daß ein gewisses Prozent vom Vermögen oder eine bestimmte Abgabe von jeder Hufe Lands bezahlt werden soll, so ist dasjenige, worüber dekretiert wird, ganz im allgemeinen Menschen von bestimmtem Alter, Vermögen oder Land, und es ist kein Unterschied unter Menschen und Menschen, Vermögen [und Vermögen], Land und Land; die Bestimmtheit, die in die sich gleiche Fläche kommt, kann rein durch die Staatsgewalt gesetzt [werden].",
+    "Der hundertste Mensch, das fünfte Prozent usw. sind diese ganz allgemeinen Bestimmtheiten, die in den sich gleichen Stoff einzutragen keiner besonderen Anwendung bedürfen; denn es sind keine Linien beschrieben, die erst auszulöschen oder denen die bestimmten anzupassen wären - wie auf einen Baumstamm die gerade Linie, nach welcher er behauen werden soll."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1g0fauv1bd",
+   "sents": [
+    "Wenn aber dasjenige, worauf sich das Gesetz anwenden soll, für dieses Gesetz selbst mannigfaltig bestimmt ist, so kann das Gesetz nicht die Regel der Anwendung in sich vollständig enthalten, sondern im Gegenteil, es gibt für jeden besonderen Teil des Stoffs eine eigene Anwendung, und zwischen das Gesetz und seine Ausführung tritt der eigene Akt der Anwendung, welcher der richterlichen Gewalt zukommt."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "jtum423pf0",
+   "sents": [
+    "Ein Reichsgesetz kann deswegen nicht, wie für eine unbeschriebene Tafel, die allgemeine Regel der Linien und Abteilungen, die darin zu machen sind, geben, noch nach einer solchen einen und selben Regel die wirkliche Einrichtung ausführen, sondern einem Reichsgesetz steht die Materie, für welche es gemacht wird, in ihren eigentümlichen, schon vorher gegebenen Bestimmtheiten entgegen, und vor seiner Ausführung ist erst die Möglichkeit auszumitteln, wie die besondere Linie und Gestalt, welche ein jeder Teil trägt, mit der vom Gesetz vorgeschriebenen sich fügen könne oder wieviel Verbindlichkeit das allgemeine Gesetz für jeden habe.",
+    "Dies hat, im Fall Widersprüche sich ergeben, eine richterliche Gewalt auszumitteln, und in Absicht auf diese Ausmittlung ergibt sich eigentlich, daß die Ausmittlung allerdings statthaben soll, aber daß sie fürs erste so organisiert ist, daß ihr wenig auszumitteln möglich ist, zweitens, daß, was sie theoretisch ausgemittelt hat, wieder nicht realisiert wird, eine Ausmittlung in Gedanken bleibt, und endlich [daß] das ganze Geschäft der Ausmittlung dadurch nur etwas weniger als unmöglich gemacht wird, daß die besondere Bestimmtheit, welche die Materie hat, gegen ein allgemeines Gesetz im Verhältnis einer geraden Linie gegen einen Kreisbogen ist, so daß schon zum voraus eine Unvereinbarkeit dieser Bestimmtheit des allgemeinen Stoffs der Staatsgewalt mit einem Gesetze derselben [besteht].",
+    "Auf diese Weise ist der Gedankenstaat und das System des Staatsrechts und der Staatsgesetze die gerade Linie; das aber, worin sich der Gedankenstaat realisieren soll, hat die Gestalt einer Kreislinie, und man weiß, daß beide Linien inkommensurabel sind; und diese Kreisgestalt macht sich auch nicht de facto zu dieser Unvereinbarkeit mit der geraden Linie; sie trägt nicht die Form von Gewalt, Widerrechtlichkeit und Willkür, sondern daß sie diese inkommensurable Linie ist, ist gleichfalls in die Rechtsform erhoben: sie handelt rechtlich, indem sie sich mit dem Staatsrecht, [und] gesetzlich, indem sie sich mit Staatsgesetzen nicht verträgt."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "tntayw1s85",
+   "sents": [
+    "Daß also das Problem, wie Deutschland ein Staat und zugleich kein Staat sei, gelöst werde, muß es, insofern es ein Staat wäre, bloß als Gedankenstaat existieren, das Nichtsein des Staats aber die Realität haben.",
+    "Damit nun der Gedankenstaat für sich sei, muß die richterliche Gewalt, welche den Widerspruch aufheben und das, was nur Gedanke ist, auf die Wirklichkeit anwenden, ihn also realisieren und die Wirklichkeit ihm gemäß machen wollte, so beschaffen sein, daß auch ihre Anwendung nur ein Gedanke bleibt und also die allgemeinen Ordnungen, durch welche das Land ein Staat wäre, in ihrem Übergang in die Realität gelähmt und dieser Übergang selber zwar selbst gesetzt und angeordnet - denn die Ordnungen haben gar keinen Sinn, wenn sie nicht den Zweck haben, ausgeführt zu werden -, aber auch der Akt des Übergangs wieder zu einem Gedankending gemacht würde."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "ryeevv1miy",
+   "sents": [
+    "Die Lähmung dieses Übergangs kann auf jeder seiner Stufen geschehen.",
+    "Eine allgemeine Anordnung wird gemacht, sie soll ausgeführt werden und im Weigerungsfall gerichtlich verfahren werden.",
+    "Wird die Weigerung, daß geleistet wird, nicht gerichtlich gemacht, so bleibt die Ausführung an sich liegen; wird sie gerichtlich gemacht, so kann der Spruch verhindert werden; kommt er zustande, so wird ihm nicht Folge geleistet.",
+    "Dies Gedankending von Beschluß soll aber ausgeführt und eine Strafe verhängt werden, so wird der Befehl zu der zu erzwingenden Vollstreckung gegeben.",
+    "Dieser Befehl wird wieder nicht vollstreckt, so muß ein Beschluß gegen die Nichtvollstreckenden erfolgen, sie zum Vollstrecken zu zwingen.",
+    "Diesem wird wieder nicht Folge geleistet, so muß dekretiert werden, daß die Strafe vollzogen werden soll an denen, welche sie an dem nicht vollziehen, der sie nicht vollzieht usf.",
+    "Dies ist die trockene Geschichte, wie eine Stufe nach der andern, die ein Gesetz ins Werk setzen soll, zu einem Gedankendinge gemacht wird."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "dmuc8c1jvi",
+   "sents": [
+    "Wenn also durch die richterliche Gewalt auszumitteln ist, wie die allgemeinen Reichsverbindlichkeiten mit den besonderen Rechten der Einzelnen in Vergleich zu setzen sind, und ein Widerspruch derselben wirklich gerichtlich wird, so kommt es auf die Organisation [an], die das Gericht noch ohne Beziehung auf die Ausführung in seinem urteilsprechenden Geschäfte hat, ob ihm nicht schon das Urteilsprechen erschwert [ist] und - da das Urteil, wenn es nicht ausgeführt wird, an sich ein bloßer Gedanke ist - ob die Einrichtung nicht so ist, daß es auch zu diesem Gedanken nicht kommt, sondern daß auch schon dieser Gedanke ein bloßes Gedankending bleibt."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "1bm9uu41nn",
+   "sents": [
+    "In Beziehung auf das bloße Urteilsprechen ist schon die Organisation der richterlichen Gewalt so beschaffen, daß ihre wesentliche Seite, von der hier die Rede ist, die allgemeinen Anordnungen des Staats als Staats gegen die Einzelnen geltend zu machen, die größten Hindernisse leidet.",
+    "Es ist in der reichsrichterlichen Gewalt bürgerliche Rechtspflege und jene Staatsrechtspflege vermengt.",
+    "Staatsrecht und Privatrecht ist denselben Gerichten unterworfen.",
+    "Die Reichsgerichte sind die obersten Appellationsgerichte für bürgerliche Rechtshändel und für Staatsrechte.",
+    "Der Umfang ihrer richterlichen Gewalt über die letzteren, so beschränkt er sonst ist, indem die wichtigsten Dinge dieser Art vor den Reichstag gehören, auch durch Austrägalinstanzen vieles hierher Gehörige entschieden wird, leidet auch nur zum Urteilsprechen unendliche Schwierigkeiten und ist von einer Menge Zufälligkeiten abhängig gemacht, welche für seine Unwirksamkeit Notwendigkeiten werden."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "162kkmj1o6",
+   "sents": [
+    "Die Verbindung einer bürgerlichen und Staatsrechtspflege hat im allgemeinen schon die Wirkung, die Menge der Geschäfte der bestehenden Reichsgerichte so zu vergrößern, daß sie unvermögend sind, sie auszufertigen.",
+    "Es ist von Kaiser und Reich und dem Reichskammergericht anerkannt, daß das Reichskammergericht noch weniger als der Reichshofrat der Menge seiner Geschäfte gewachsen ist."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "bsm8z91ny3",
+   "sents": [
+    "Kein Übel scheint einer leichteren Abhilfe fähiger und [nichts] einfacher zu sein, [als] daß, wenn auch nicht mehrere getrennte Gerichte errichtet werden sollten, die Anzahl der Richter der bestehenden Gerichte vermehrt und hierdurch sowohl die Besorgung der Geschäfte unmittelbar beschleunigt, als auch eine Trennung desselben Gerichts in mehrere Abteilungen [bewirkt] und auf diese Art der Sache nach mehrere Gerichte errichtet würde[n].",
+    "Ein so einfaches Mittel ist aber in Deutschland nicht möglich ausgeführt zu werden; beschlossen ist es wohl und die Anzahl der Beisitzer des Kammergerichts auf 50 erhöht worden, aber das Deutsche Reich vermochte nicht die Besoldungen dieser Richter auf[zu]bringen.",
+    "Die Anzahl sank im Lauf der Zeiten auf zwölf und weniger herab, bis sie endlich auf fünfundzwanzig gekommen ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/16.p32.json"
+}

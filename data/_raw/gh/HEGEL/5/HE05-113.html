@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A. Das Gesetz der Erscheinung - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-113.html","collection":"hegel","title":"A. Das Gesetz der Erscheinung","lang":"de","prev":{"file":"HE05-112.html","title":"Zweites Kapitel  Die Erscheinung"},"next":{"file":"HE05-114.html","title":"B. Die erscheinende und die an sich seiende Welt"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-113.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h3 id="h113-1">A. Das Gesetz der Erscheinung</h3>
+<p>1. Die Erscheinung ist das Existierende, vermittelt durch seine <i>Negation</i>, welche sein <i>Bestehen</i> ausmacht. Diese seine Negation ist zwar ein <i>anderes</i> Selbständiges; aber dies ist ebenso wesentlich ein aufgehobenes. Das Existierende ist daher die <i>Rückkehr</i> seiner in sich selbst durch seine Negation und durch die Negation dieser seiner Negation; es hat also <i>wesentliche Selbständigkeit</i>; so wie es gleich unmittelbar schlechthin <i>Gesetztsein</i> ist, das einen <i>Grund</i> und ein Anderes zu seinem Bestehen hat. – Fürs erste ist also die Erscheinung die Existenz zugleich mit ihrer Wesentlichkeit, das Gesetztsein mit seinem Grunde; aber dieser Grund ist die <i>Negation</i>, und das andere Selbständige, der Grund des ersten, ist gleichfalls nur ein Gesetztsein. Oder das Existierende ist als Erscheinendes in ein Anderes reflektiert und hat es zu seinem Grunde, welches selbst nur dies ist, in ein Anderes reflektiert zu sein. Die <i>wesentliche</i> Selbständigkeit, die ihm zukommt, weil es Rückkehr in sich selbst ist, ist um der Negativität der Momente willen die Rückkehr des Nichts durch Nichts zu sich selbst zurück; die Selbständigkeit des Existierenden ist daher nur der<i> wesentliche Schein</i>. Der Zusammenhang des sich gegenseitig begründenden Existierenden besteht darum in dieser gegenseitigen Negation, daß das Bestehen des einen nicht das Bestehen des anderen, sondern dessen Gesetztsein ist, welche Beziehung des Gesetztseins allein ihr Bestehen ausmacht. Der Grund ist vorhanden; wie er in seiner Wahrheit ist, nämlich ein Erstes zu sein, das nur ein <i>Vorausgesetztes</i> ist.</p>
+<p>Dies macht nun die <i>negative</i> Seite der Erscheinung aus. Aber in dieser negativen Vermittlung ist unmittelbar die <i>positive Identität</i> des Existierenden mit sich enthalten. Denn es ist nicht <i>Gesetztsein gegen</i> einen<i> wesentlichen Grund</i> oder ist <i>nicht der Schein an einem Selbständigen</i>; sondern ist <i><a id="S150"></a> Gesetztsein</i>, das sich auf ein <i>Gesetztsein</i> bezieht, oder ist ein <i>Schein</i> nur <i>in einem Scheine</i>. Es <i>bezieht</i> sich in dieser seiner Negation oder in seinem Anderen, das selbst ein Aufgehobenes ist, <i>auf sich selbst</i>; ist also mit sich identische oder positive Wesentlichkeit. – Dieses Identische ist nicht die <i>Unmittelbarkeit</i>, die der Existenz als solcher zukommt und nur das Unwesentliche ist, sein Bestehen in einem Anderen zu haben. Sondern es ist der <i>wesentliche Inhalt</i> der Erscheinung, welcher zwei Seiten hat, <i>erstens</i> in der Form des <i>Gesetztseins</i> oder der äußerlichen Unmittelbarkeit, zweitens das Gesetztsein als mit sich Identisches zu sein. Nach der ersten Seite ist er als ein Dasein, aber als ein zufälliges, unwesentliches, das nach seiner Unmittelbarkeit dem Übergehen, Entstehen und Vergehen unterworfen ist. Nach der andern Seite ist er die einfache, jenem Wechsel entnommene Inhaltsbestimmung, das <i>Bleibende</i> desselben.</p>
+<p>Außerdem, daß dieser Inhalt überhaupt das <i>Einfache</i> des Vergänglichen ist, ist er auch <i>bestimmter, in sich verschiedener</i> Inhalt. Er ist die Reflexion der Erscheinung, des negativen Daseins, in sich, enthält also die <i>Bestimmtheit</i> wesentlich. Die Erscheinung aber ist die <i>seiende</i> vielfache Verschiedenheit, die sich in unwesentlicher Mannigfaltigkeit herumwirft; ihr reflektierter Inhalt dagegen ist ihre Mannigfaltigkeit, auf den <i>einfachen Unterschied</i> reduziert. Der bestimmte wesentliche Inhalt ist nämlich näher nicht nur bestimmt überhaupt, sondern als das Wesentliche der Erscheinung die vollständige Bestimmtheit: <i>eines</i> und sein <i>Anderes</i>. In der Erscheinung hat jedes dieser beiden sein Bestehen so in dem Anderen, daß es zugleich nur in dessen <i>Nichtbestehen</i> ist. Dieser Widerspruch hebt sich auf, und die Reflexion desselben in sich ist die <i>Identität</i> ihres beiderseitigen Bestehens, daß <i>das Gesetztsein des einen auch das Gesetztsein des anderen</i> ist. Sie machen <i>ein</i> Bestehen aus, zugleich als<i> verschiedener</i>, gegeneinander gleichgültiger Inhalt. In der wesentlichen Seite der Erscheinung ist somit das<i> Negative</i> des unwesentlichen Inhalts, sich aufzuheben, in die<a id="S151"></a> Identität zurückgegangen; er ist ein gleichgültiges <i>Bestehen</i>, welches nicht das Aufgehobensein, sondern vielmehr <i>das Bestehen des Anderen</i> ist.</p>
+<p>Diese Einheit ist das <i>Gesetz</i> der <i>Erscheinung</i>.</p>
+<p>2. Das Gesetz ist also das <i>Positive</i> der Vermittlung des Erscheinenden. Die Erscheinung ist zunächst die Existenz als die <i>negative</i> Vermittlung mit sich, so daß das Existierende durch sein <i>eigenes Nichtbestehen</i>, durch ein Anderes, und wieder durch das <i>Nichtbestehen dieses Anderen</i> mit sich vermittelt ist. Darin ist enthalten <i>erstens</i> das bloße Scheinen und das Verschwinden beider, die unwesentliche Erscheinung,<i> zweitens</i> auch das <i>Bleiben</i> oder das <i>Gesetz</i>; denn<i> jedes</i> der beiden <i>existiert</i> in jenem Aufheben des Anderen, und ihr Gesetztsein als ihre Negativität ist zugleich das <i>identische, positive</i> Gesetztsein beider.</p>
+<p>Dies bleibende Bestehen, welches die Erscheinung im Gesetze hat, ist somit, wie es sich bestimmt hat,<i> erstlich</i> entgegengesetzt der <i>Unmittelbarkeit</i> des Seins, welche die Existenz hat. Diese Unmittelbarkeit ist zwar <i>an sich</i> die reflektierte, nämlich der in sich zurückgegangene Grund; aber in der Erscheinung ist nun diese einfache Unmittelbarkeit von der reflektierten unterschieden, welche im Dinge erst sich zu trennen anfingen. Das existierende Ding ist in seiner Auflösung dieser Gegensatz geworden; das <i>Positive</i> seiner Auflösung ist jene Identität des Erscheinenden als Gesetztseins mit sich in seinem anderen Gesetztsein. – <i>Zweitens</i> ist diese reflektierte Unmittelbarkeit selbst bestimmt als das <i>Gesetztsein</i> gegen die seiende Unmittelbarkeit der Existenz. Dies Gesetztsein ist nunmehr das Wesentliche und wahrhaft Positive. Der deutsche Ausdruck <i>Gesetz</i> enthält diese Bestimmung gleichfalls. In diesem Gesetztsein liegt die wesentliche <i>Beziehung</i> der beiden Seiten des Unterschiedes, die das Gesetz enthält; sie sind verschiedener, gegeneinander unmittelbarer Inhalt und sind dies als die Reflexion des der Erscheinung angehörigen, verschwindenden Inhalts. Als wesentliche Verschiedenheit sind die Verschiedenen einfache<a id="S152"></a> sich auf sich beziehende Inhaltsbestimmungen. Aber ebensosehr ist keine für sich unmittelbar, sondern jede ist wesentlich <i>Gesetztsein</i> oder <i>ist nur, insofern die andere ist</i>.</p>
+<p><i>Drittens</i>, Erscheinung und Gesetz haben einen und denselben Inhalt. Das Gesetz ist die <i>Reflexion</i> der Erscheinung in die Identität mit sich; so steht die Erscheinung als das nichtige <i>Unmittelbare</i> dem <i>Insichreflektierten</i> gegenüber, und sie sind nach dieser Form unterschieden. Aber die Reflexion der Erscheinung, wodurch dieser Unterschied ist, ist auch die wesentliche Identität der Erscheinung selbst und ihrer Reflexion, was überhaupt die Natur der Reflexion ist; sie ist das im Gesetztsein Identische mit sich und gleichgültig gegen jenen Unterschied, welcher die Form oder das Gesetztsein ist, – also ein Inhalt, der sich aus der Erscheinung in das Gesetz <i>kontinuiert</i>, der Inhalt des Gesetzes und der Erscheinung.</p>
+<p>Dieser Inhalt macht hiermit die <i>Grundlage</i> der Erscheinung aus; das Gesetz ist diese Grundlage selbst, die Erscheinung ist derselbe Inhalt, aber enthält noch mehr, nämlich den unwesentlichen Inhalt ihres unmittelbaren Seins. Auch die Formbestimmung, wodurch die Erscheinung als solche von dem Gesetze unterschieden ist, ist nämlich ein <i>Inhalt</i> und gleichfalls ein vom Inhalte des Gesetzes unterschiedener. Denn die Existenz ist als Unmittelbarkeit überhaupt gleichfalls ein mit sich Identisches der Materie und Form, das gegen seine Formbestimmungen gleichgültig und daher Inhalt ist; sie ist die Dingheit mit ihren Eigenschaften und Materien. Aber sie ist der Inhalt, dessen selbständige Unmittelbarkeit zugleich nur als ein Nichtbestehen ist. Die Identität desselben mit sich in diesem seinem Nichtbestehen aber ist der andere, wesentliche Inhalt. Diese Identität, die Grundlage der Erscheinung, welche das Gesetz ausmacht, ist ihr eigenes Moment; es ist die positive Seite der Wesentlichkeit, wodurch die Existenz Erscheinung ist.</p>
+<p>Das Gesetz ist daher nicht jenseits der Erscheinung, sondern<a id="S153"></a> in ihr unmittelbar <i>gegenwärtig</i>; das Reich der Gesetze ist das <i>ruhige</i> Abbild der existierenden oder erscheinenden Welt. Aber vielmehr ist beides <i>eine</i> Totalität, und die existierende Welt ist selbst das Reich der Gesetze, das als das einfache Identische, zugleich als in dem Gesetztsein oder in der sich selbstauflösenden Selbständigkeit der Existenz identisch mit sich ist. Die Existenz geht in das Gesetz als in seinen Grund zurück; die Erscheinung enthält dies beides, den einfachen Grund und die auflösende Bewegung des erscheinenden Universums, deren Wesentlichkeit er ist.</p>
+<p>3. Das Gesetz ist also die <i>wesentliche</i> Erscheinung; es ist die Reflexion derselben in sich in ihrem Gesetztsein, der <i>identische</i> Inhalt seiner und der unwesentlichen Existenz. <i>Erstlich</i> ist nun diese Identität des Gesetzes mit seiner Existenz nur erst die <i>unmittelbare</i>, einfache Identität, und das Gesetz ist gleichgültig gegen seine Existenz; die Erscheinung hat noch einen anderen Inhalt gegen den Inhalt des Gesetzes. Jener ist zwar der unwesentliche und das Zurückgehen in diesen; aber für das Gesetz ist er ein Erstes, das nicht durch dieses gesetzt ist; er ist daher als Inhalt<i> äußerlich</i> mit dem Gesetze <i>verbunden</i>. Die Erscheinung ist eine Menge näherer Bestimmungen, die dem<i> Diesen</i> oder dem Konkreten angehören und nicht im Gesetze enthalten, sondern durch ein Anderes bestimmt sind. – <i>Zweitens</i> das, was die Erscheinung von dem Gesetze Verschiedenes enthält, bestimmte sich als ein Positives oder als ein anderer <i>Inhalt</i>; aber es ist wesentlich ein Negatives; es ist die Form und ihre Bewegung als solche, die der Erscheinung zukommt. Das Reich der Gesetze ist der <i>ruhige</i> Inhalt der Erscheinung; diese ist derselbe, aber sich im unruhigen Wechsel und als die Reflexion-in-Anderes darstellend. Sie ist das Gesetz als die negative, sich schlechthin verändernde Existenz, die <i>Bewegung</i> des Übergehens in Entgegengesetzte, des Sich-Aufhebens und des Zurückgehens in die Einheit. Diese Seite der unruhigen Form oder der Negativität enthält das Gesetz nicht; die Erscheinung ist daher gegen das Gesetz die Totalität, denn sie enthält das<a id="S154"></a> Gesetz, aber auch noch mehr, nämlich das Moment der sich selbst bewegenden Form. – Dieser Mangel ist <i>drittens</i> am Gesetze so vorhanden, daß dessen Inhalt nur erst ein <i>verschiedener</i>, damit ein gegen sich gleichgültiger ist, daher die Identität seiner Seiten miteinander nur erst eine <i>unmittelbare</i> und damit <i>innere</i> oder noch nicht notwendige ist. Im Gesetze sind zwei Inhaltsbestimmungen als wesentlich verbunden (z.B. im Gesetze der Bewegung des Falls die Raumgröße und die Zeitgröße; die durchlaufenen Räume verhalten sich wie die Quadrate der verflossenen Zeiten); sie <i>sind</i> verbunden; diese Beziehung ist nur erst eine unmittelbare. Sie ist daher gleichfalls nur erst eine <i>gesetzte</i>, wie in der Erscheinung das Unmittelbare überhaupt die Bedeutung des Gesetztseins erhalten hat. Die wesentliche Einheit der beiden Seiten des Gesetzes wäre ihre Negativität, daß nämlich die eine an ihr selbst ihre andere enthielte; aber diese wesentliche Einheit ist noch nicht am Gesetze hervorgetreten. (So ist es nicht im Begriffe des im Falle durchlaufenen Raumes enthalten, daß ihm die Zeit als Quadrat entspricht. Weil der Fall eine sinnliche Bewegung ist, ist er die Beziehung von Zeit und Raum; aber erstens liegt es in der Bestimmung der Zeit selbst nicht – d.h. wie die Zeit nach ihrer Vorstellung genommen wird –, daß sie sich auf den Raum bezieht, und umgekehrt; man sagt, man könne sich die Zeit sehr wohl ohne den Raum und den Raum ohne die Zeit vorstellen; das eine tritt also äußerlich zu dem andern hinzu, welche äußerliche Beziehung die Bewegung ist. Zweitens ist die nähere Bestimmung gleichgültig, nach welchen Größen sich in der Bewegung Raum und Zeit zueinander verhalten. Das Gesetz hierüber wird aus der Erfahrung erkannt; insofern <i>ist</i> es nur <i>unmittelbar</i>; es erfordert noch einen<i> Beweis</i>, d.h. eine Vermittlung für das Erkennen, daß das Gesetz nicht nur <i>statthat</i>, sondern <i>notwendig</i> ist; diesen Beweis und seine objektive Notwendigkeit enthält das Gesetz als solches nicht.) Das Gesetz ist daher nur die <i>positive</i> Wesentlichkeit der Erscheinung, nicht<a id="S155"></a> ihre negative, nach welcher die Inhaltsbestimmungen Momente der Form sind, als solche in ihr Anderes übergehen und an ihnen selbst ebensosehr nicht sie, sondern ihr Anderes sind. Im Gesetze ist also zwar das Gesetztsein der einen Seite desselben das Gesetztsein der anderen; aber ihr Inhalt ist gleichgültig gegen diese Beziehung, er enthält nicht an ihm selbst dies Gesetztsein. Das Gesetz ist daher wohl die wesentliche Form, aber noch nicht die in ihre Seiten als Inhalt reflektierte, reale Form.<a id="S156"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-112.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">Zweites Kapitel  Die Erscheinung</span></a>
+              <a href="./HE05-114.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">B. Die erscheinende und die an sich seiende Welt</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

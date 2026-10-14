@@ -1,0 +1,18 @@
+{
+ "id": "rev-w3-6-09",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 55,
+   "si": 0,
+   "de": "Es ist also das Tun und Treiben der Individualität Zweck an sich selbst, der Gebrauch der Kräfte, das Spiel ihrer Äußerungen ist es, was ihnen, die sonst das tote Ansich wären, Leben gibt, das Ansich nicht ein unausgeführtes, existenzloses und abstraktes Allgemeines, sondern es selbst ist unmittelbar diese Gegenwart und Wirklichkeit des Prozesses der Individualität.",
+   "en": "Thus the doing and driving of individuality is purpose in itself, the use of the forces, the play of their expressions is what gives life to them, who otherwise would be the dead in-itself, the in-itself not an unexecuted, existenceless and abstract universal, but is itself immediately this presentness and actuality of the process of individuality.",
+   "zh": "所以，个体性的行动和奔忙本身就是目的，力的使用、力的表现的游戏才是那种给它们——它们本来会是死的自在——赋予生命的东西，而自在并不是一种未得到实行的、没有存在的、抽象的普遍，而是它本身直接就是这个个体性过程的当前和现实性。"
+  }
+ ]
+}

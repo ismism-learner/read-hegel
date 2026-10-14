@@ -1,0 +1,35 @@
+family,root_zh,member_de,member_zh,sense,status,note
+Idee,观念,Idee,观念,systematic,ok,政策：理念→观念；与 Begriff（概念）、Vorstellung（表象）区分
+Idee,观念,ideell,观念的,systematic,ok,
+Idee,观念,das Ideelle,观念物,systematic,variante,与 das Reelle（实在物）对举；亦可作“观念的东西”
+Idee,观念,Idealität,观念性,systematic,ok,与 Realität（实在性）对举
+Idee,观念,idealisieren,观念化,systematic,variante,日常义“使理想化”可作理想化
+Idee,观念,Idealismus,观念论,systematic,ok,政策：严禁“唯心主义”
+Idee,观念,idealistisch,观念论的,systematic,ok,政策：严禁“唯心的”
+Idee,观念,Idealrealismus,观念实在论,systematic,ok,Hegel 自造词
+Idee,观念,Ideal,理想,ordinary,exception,日常/美学义（志向、美的理想）保留“理想”；体系义（理念之实现）作“观念”并在译注中说明
+Idee,观念,ideal,理想的,ordinary,exception,日常义“理想的、极好的”保留；体系义作“观念的”
+Realität,实在,Realität,实在性,systematic,ok,与 Idealität（观念性）对举
+Realität,实在,real,实在的,systematic,ok,
+Realität,实在,das Reelle,实在物,systematic,ok,与 das Ideelle（观念物）对举
+Realität,实在,Realismus,实在论,systematic,ok,与 Idealismus（观念论）对举；严禁“现实主义”
+Realität,实在,realisieren,实现,ordinary,exception,日常义“实现”保留；体系义（使成为实在）作“实在化”
+Begriff,概念,Begriff,概念,systematic,ok,与 Vorstellung（表象）、Anschauung（直观）区分
+Begriff,概念,begreifen,以概念把握,systematic,variante,日常义“理解、领会”可作把握/领会；体系义须含“概念”
+Begriff,概念,begrifflich,概念性的,systematic,ok,亦可作“概念的”
+Begriff,概念,begrifflos,无概念的,systematic,ok,政策：不作“无观念的”
+Vorstellung,表象,Vorstellung,表象,systematic,ok,严禁用“观念”（该词根留给 Idee 家族）
+Vorstellung,表象,vorstellen,表象,variante,反身 sich vorstellen 作“设想/想象”
+Vorstellung,表象,vorgestellt,被表象的,systematic,ok,
+Geist,精神,Geist,精神,systematic,ok,与 Seele（灵魂）、Bewußtsein（意识）区分
+Geist,精神,geistig,精神的,systematic,ok,
+Geist,精神,geistlos,无精神的,systematic,ok,
+Wissen,知,Wissen,知识,systematic,variante,作活动义时“知”，作结果义时“知识”
+Wissen,知,wissen,知道,ordinary,ok,日常义
+Wissen,知,absolutes Wissen,绝对知识,systematic,ok,
+Wahrheit,真,Wahrheit,真理,systematic,ok,
+Wahrheit,真,wahr,真的,systematic,ok,
+Wahrheit,真,wahrhaft,真正的,systematic,ok,
+Wirklichkeit,现实,Wirklichkeit,现实性,systematic,ok,与 Möglichkeit（可能性）、Notwendigkeit（必然性）并列
+Wirklichkeit,现实,wirklich,现实的,systematic,ok,
+Wirklichkeit,现实,verwirklichen,实现,variante,亦作“使成为现实”

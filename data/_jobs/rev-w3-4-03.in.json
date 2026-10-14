@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-03",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 7,
+   "de": "Die reine Vernunft dieses Idealismus wird also durch sich selbst, um zu diesem Anderen, das ihr wesentlich, d.h. also das Ansich ist, das sie aber nicht in ihr selbst hat, zu gelangen, an dasjenige Wissen zurückgeschickt, das nicht ein Wissen des Wahren ist; sie verurteilt sich so mit Wissen und Willen zu einem unwahren Wissen und kann vom Meinen und Wahrnehmen, das für sie selbst keine Wahrheit hat, nicht ablassen.",
+   "en": "The pure reason of this idealism is thus, through itself, in order to arrive at this other, which is essential to it, that is, is the in-itself, which however it does not have within itself, sent back to that knowing which is not a knowing of the true; it thus condemns itself with knowledge and will to an untrue knowing and cannot let go of meaning and perceiving, which for itself has no truth.",
+   "zh": "这种观念论的纯粹理性于是通过它自己，为了达到这个他者——这个他者对它是本质性的，也就是说，就是自在，但它并不在自己内部拥有这个自在——而被退回到那种不是关于真的东西的知识上去；它于是凭知识和意志把自己判决给一种不真的知识，并且不能放弃那种对它自己来说没有真理的意谓和知觉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 9,
+   "si": 8,
+   "de": "Sie befindet sich in unmittelbarem Widerspruche, ein Gedoppeltes, schlechthin Entgegengesetztes als das Wesen zu behaupten, die Einheit der Apperzeption und ebenso das Ding, welches, wenn es auch fremder Anstoß oder empirisches Wesen oder Sinnlichkeit oder das Ding an sich genannt wird, in seinem Begriffe dasselbe Jener Einheit Fremde bleibt.",
+   "en": "It finds itself in immediate contradiction, to assert a doubled, absolutely opposed [thing] as the essence, the unity of apperception and likewise the thing, which, even if it is called foreign impulse or empirical essence or sensuousness or the thing in itself, in its concept remains the same foreign [thing] to that unity.",
+   "zh": "它处于直接的矛盾之中：它把一种双重的、绝对对立的东西断言为本质，即统觉的统一，以及同样那个物——这个物即使被称为外来的刺激、经验性的本质、感性或物自身，在它的概念中对于那个统一来说仍然是同一个外来之物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 10,
+   "si": 0,
+   "de": "Dieser Idealismus ist in diesem Widerspruche, weil er den abstrakten Begriff der Vernunft als das Wahre behauptet; daher ihm unmittelbar ebensosehr die Realität als eine solche entsteht, welche vielmehr nicht die Realität der Vernunft ist, während die Vernunft zugleich alle Realität sein sollte; diese bleibt ein unruhiges Suchen, welches in dem Suchen selbst die Befriedigung des Findens für schlechthin unmöglich erklärt.",
+   "en": "This idealism is caught in this contradiction, because it asserts the abstract concept of reason as the true; hence for it reality immediately arises as something that is rather not the reality of reason, while reason at the same time should be all reality; this remains a restless seeking, which in the seeking itself declares the satisfaction of finding to be absolutely impossible.",
+   "zh": "这种观念论处在这一矛盾之中，因为它把理性的抽象概念说成真的东西；因此对它来说，实在性立刻就同样产生出来，成为一种反倒不是理性的实在性的东西，而理性同时又应当是全部实在性；这始终是一种不安的寻找，它在寻找本身之中就宣称，找到的满足是绝对不可能的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 10,
+   "si": 1,
+   "de": "– So inkonsequent aber ist die wirkliche Vernunft nicht; sondern nur erst die Gewißheit, alle Realität zu sein, ist sie in diesem Begriffe sich bewußt, als Gewißheit, als Ich noch nicht die Realität in Wahrheit zu sein, und ist getrieben, ihre Gewißheit zur Wahrheit zu erheben und das leere Mein zu erfüllen.",
+   "en": "— But actual reason is not so inconsistent; rather, only as the certainty of being all reality is it in this concept conscious of itself, namely as certainty, as I, of not yet being reality in truth, and it is driven to raise its certainty to truth and to fill the empty meaning.",
+   "zh": "——但现实的理性并没有这样前后不一；它在这个概念里只是首先意识到自己是“成为全部实在性”这一确定性，即作为确定性、作为我，它还没有真正地是实在性，并且它被驱使着把自己的确定性提升为真理，去充实那空洞的意谓。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 12,
+   "si": 0,
+   "de": "Dieses Bewußtsein, welchem das Sein die Bedeutung des Seinen hat, sehen wir nun zwar wieder in das Meinen und Wahrnehmen hineingehen, aber nicht als in die Gewißheit eines nur Anderen, sondern mit der Gewißheit, dies Andere selbst zu sein.",
+   "en": "This consciousness, for which being has the meaning of its own, we now indeed see again entering into meaning and perceiving, but not as into the certainty of a merely other, rather with the certainty of being this other itself.",
+   "zh": "这种意识，对它来说存在具有属于它自己的意义，我们现在虽然又看到它走进意谓和知觉，但不是走进一个仅仅是他者的东西的确定性，而是带着自己就是这个他者本身的确定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 12,
+   "si": 1,
+   "de": "Früher ist es ihm nur geschehen, manches an dem Dinge wahrzunehmen und zu erfahren-, hier stellt es die Beobachtungen und die Erfahrung selbst an.",
+   "en": "Earlier it merely happened to it to perceive and to experience various things on the thing —; here it itself undertakes the observations and the experience.",
+   "zh": "早先它只是碰上这样的事，即在物身上知觉到并经验到某些东西——；在这里，它自己着手进行观察和经验。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 12,
+   "si": 2,
+   "de": "Meinen und Wahrnehmen, das für uns früher sich aufgehoben, wird nun von dem Bewußtsein für es selbst aufgehoben; die Vernunft geht darauf, die Wahrheit zu wissen, was für das Meinen und Wahrnehmen ein Ding ist, als Begriff zu finden, d.h. in der Dingheit nur das Bewußtsein ihrer selbst zu haben.",
+   "en": "Meaning and perceiving, which earlier had sublated themselves for us, is now sublated by consciousness for itself; reason sets out to know the truth, to find as concept what a thing is for meaning and perceiving, that is, to have in thinghood only the consciousness of itself.",
+   "zh": "意谓和知觉，早先在我们这里已经扬弃了自己，现在则被意识为它自己而扬弃；理性着眼于知道真理，把在意谓和知觉看来一个物是什么当作概念来找到，也就是说，在物性中只拥有对它自己的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 12,
+   "si": 3,
+   "de": "Die Vernunft hat daher Jetzt ein allgemeines Interesse an der Welt, weil sie die Gewißheit ist, Gegenwart in ihr zu haben, oder daß die Gegenwart vernünftig ist.",
+   "en": "Reason therefore now has a universal interest in the world, because it is the certainty of having presence in it, or that presence is rational.",
+   "zh": "因此理性现在对世界有一种普遍的关切，因为它是这样的确定性：在世界中有在场，或者说在场是合乎理性的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 12,
+   "si": 4,
+   "de": "Sie sucht ihr Anderes, indem sie weiß, daran nichts anderes als sich selbst zu besitzen; sie sucht nur ihre eigene Unendlichkeit.",
+   "en": "It seeks its other in that it knows it possesses therein nothing other than itself; it seeks only its own infinity.",
+   "zh": "它寻找它的他者，同时知道自己在他者那里除了它自己什么也不拥有；它寻找的只是它自己的无限性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 13,
+   "si": 0,
+   "de": "Zuerst sich in der Wirklichkeit nur ahnend oder sie nur als das Ihrige überhaupt wissend, schreitet sie in diesem Sinne zur allgemeinen Besitznehmung des ihr versicherten Eigentums und pflanzt auf alle Höhen und in alle Tiefen das Zeichen ihrer Souveränität.",
+   "en": "At first only divining itself in actuality, or knowing it only as its own in general, it proceeds in this sense to the universal taking possession of the property assured to it, and plants on all heights and in all depths the sign of its sovereignty.",
+   "zh": "起初它在现实性中只是预感到自己，或者只是把现实性一般地认作属于自己的东西，它就在这个意义上走向对已经向它保证的财产的普遍占有，并把它的主权标志插上所有的高处、植入所有的深处。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 13,
+   "si": 1,
+   "de": "Aber dieses oberflächliche Mein ist nicht ihr letztes Interesse; die Freude dieser allgemeinen Besitznehmung findet an ihrem Eigentume noch das fremde Andere, das die abstrakte Vernunft nicht an ihr selbst hat.",
+   "en": "But this superficial meaning is not its ultimate interest; the joy of this universal taking possession still finds on its property the alien other, which abstract reason does not have in itself.",
+   "zh": "但这种肤浅的意谓并不是它最终的兴趣；这种普遍占有的快乐在它的财产那里还碰到陌生的他者，而抽象理性并不在自己身上拥有这个他者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 13,
+   "si": 2,
+   "de": "Die Vernunft ahnt sich als ein tieferes Wesen, denn das reine Ich ist und muß fordern, daß der Unterschied, das mannigfaltige Sein, ihm als das Seinige selbst werde, daß es sich als die Wirklichkeit anschaue und sich als Gestalt und Ding gegenwärtig finde.",
+   "en": "Reason divines itself as a deeper essence, for it is the pure I and must demand that difference, manifold being, become for it its very own, that it intuit itself as actuality and find itself present as shape and thing.",
+   "zh": "理性预感到自己是一种更深的本质，因为它就是纯粹的自我，并且必须要求差别、那多样的存在成为它自己的东西，要求它把自己直观为现实性，发现自己作为形态和物而当下在场。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 13,
+   "si": 3,
+   "de": "Aber wenn die Vernunft alle Eingeweide der Dinge durchwühlt und ihnen alle Adern öffnet, daß sie sich daraus entgegenspringen möge, so wird sie nicht zu diesem Glücke gelangen, sondern muß an ihr selbst vorher sich vollendet haben, um dann ihre Vollendung erfahren zu können.",
+   "en": "But if reason rummages through all the entrails of things and opens all their veins, so that it may spring out of them toward itself, it will not attain this happiness; rather it must first have completed itself in itself, in order then to be able to experience its completion.",
+   "zh": "但如果理性翻遍物的所有内脏，为它们打开所有血管，好让自己从其中迎面跳出来，那它并不会达到这种幸福，而是必须先在自己身上完成自己，然后才能经验到自己的完成。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 0,
+   "de": "Das Bewußtsein beobachtet, d.h. die Vernunft will sich als seienden Gegenstand, als wirkliche, sinnlich-gegenwärtige Weise finden und haben.",
+   "en": "Consciousness observes, that is, reason wants to find and have itself as an existing object, as an actual, sensuously present mode.",
+   "zh": "意识在观察，也就是说，理性想要把自己当作存在着的对象、当作现实的、感性当下在场的样式来找到并拥有。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 1,
+   "de": "Das Bewußtsein dieses Beobachtens meint und sagt wohl, daß es nicht sich selbst, sondern im Gegenteil das Wesen der Dinge als der Dinge erfahren wolle.",
+   "en": "The consciousness of this observing does indeed mean and say that it wants to experience not itself but, on the contrary, the essence of things as of things.",
+   "zh": "这种观察的意识确实意谓并且说，它想要经验的不是它自己，恰恰相反，是物之为物的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 2,
+   "de": "Daß dies Bewußtsein dies meint und sagt, liegt darin, daß es Vernunft ist, aber ihm die Vernunft noch nicht als solche Gegenstand ist.",
+   "en": "That this consciousness means and says this lies in the fact that it is reason, but that reason is not yet an object to it as such.",
+   "zh": "这种意识之所以这样意谓、这样说，原因在于它是理性，但理性对它来说还不是作为理性而成为对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 3,
+   "de": "Wenn es die Vernunft als gleiches Wesen der Dinge und seiner selbst wüßte, und daß sie nur in dem Bewußtsein in ihrer eigentümlichen Gestalt gegenwärtig sein kann, so würde es vielmehr in seine eigene Tiefe steigen und sie darin suchen als in den Dingen.",
+   "en": "If it knew reason as the same essence of things and of itself, and that reason can be present in its own proper shape only in consciousness, it would rather descend into its own depth and seek it there than in things.",
+   "zh": "如果它把理性认作物和它自身共有的同一本质，并且知道理性只有在意识中才能以其特有的形态当下在场，那么它反倒会深入自己的深处，在那里寻找理性，而不是在物中寻找。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 4,
+   "de": "Wenn es sie in dieser gefunden hätte, würde sie von da wieder heraus an die Wirklichkeit gewiesen werden, um in dieser ihren sinnlichen Ausdruck anzuschauen, würde aber ihn sogleich wesentlich als Begriff nehmen.",
+   "en": "If it had found it in this depth, it would from there be directed out again to actuality, in order to intuit in it its sensuous expression, but would immediately take this essentially as concept.",
+   "zh": "如果它在这种深处找到了理性，理性就会从那里重新被指向现实性，以便在现实性中直观自己的感性表达，但它又会立刻把这种表达本质上当作概念来对待。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 5,
+   "de": "Die Vernunft, wie sie unmittelbar als die Gewißheit des Bewußtseins, alle Realität zu sein, auftritt, nimmt ihre Realität in dem Sinne der Unmittelbarkeit des Seins und ebenso die Einheit des Ich mit diesem gegenständlichen Wesen in dem Sinne einer unmittelbaren Einheit, an der sie die Momente des Seins und des Ich noch nicht getrennt und wieder vereinigt oder die sie noch nicht erkannt hat.",
+   "en": "Reason, as it immediately appears as the certainty of consciousness of being all reality, takes its reality in the sense of the immediacy of being, and likewise the unity of the I with this objective essence in the sense of an immediate unity, in which it has not yet separated and again united the moments of being and of the I, or which it has not yet cognized.",
+   "zh": "理性直接作为意识之成为全部实在性的确定性而出现时，是在存在的直接性这一意义上来理解自己的实在性，同样也是在一种直接统一的意义上来理解自我与这种对象性本质的统一，在这种统一中它还没有把存在和自我的环节分开又重新结合起来，或者说还没有认识到这种统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 6,
+   "de": "Sie geht daher als beobachtendes Bewußtsein an die Dinge, In der Meinung, daß sie diese als sinnliche, dem Ich entgegengesetzte Dinge in Wahrheit nehme; allein ihr wirkliches Tun widerspricht dieser Meinung, denn sie erkennt die Dinge, sie verwandelt ihre Sinnlichkeit in Begriffe, d.h. eben in ein Sein, welches zugleich Ich ist, das Denken somit In ein seiendes Denken oder das Sein in ein gedachtes Sein, und behauptet in der Tat, daß die Dinge nur als Begriffe Wahrheit haben.",
+   "en": "It therefore, as observing consciousness, goes to things, in the opinion that it takes them in truth as sensuous things opposed to the I; but its actual doing contradicts this opinion, for it cognizes things, it transforms their sensuousness into concepts, that is, precisely into a being that is at the same time I, thus thinking into an existing thinking or being into a thought being, and it asserts in fact that things have truth only as concepts.",
+   "zh": "因此它作为观察的意识走向物，带着这样的意谓：它真地是把这些物当作感性的、与自我相对立的物来把握的；但它的实际做法却与这种意谓相矛盾，因为它认识物，它把物的感性转化为概念，也就是转化为一种同时是自我的存在，从而把思维转化为存在着的思维，或者把存在转化为被思维的存在，并且实际上断言，物只有作为概念才具有真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 14,
+   "si": 7,
+   "de": "Für dies beobachtende Bewußtsein wird darin nur dies, was die Dinge sind, für uns aber, was es selbst ist; das Resultat seiner Bewegung aber wird dies sein, für sich selbst dies zu werden, was es an sich ist.",
+   "en": "For this observing consciousness, what comes out therein is only what things are, but for us what it itself is; the result of its movement, however, will be that it becomes for itself what it is in itself.",
+   "zh": "对观察的意识来说，其中出现的结果只是物是什么；而对我们来说，则是它自己是什么；但它这一运动的结果将会是：它自为地成为它自在所是的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 15,
+   "si": 0,
+   "de": "Das Tun der beobachtenden Vernunft ist in den Momenten seiner Bewegung zu betrachten, wie sie die Natur, den Geist und endlich die Beziehung beider als sinnliches Sein aufnimmt und sich als seiende Wirklichkeit sucht.",
+   "en": "The doing of observing reason is to be considered in the moments of its movement, how it takes up nature, spirit, and finally the relation of both as sensuous being, and seeks itself as existing actuality.",
+   "zh": "观察的理性的做法要在其运动的各个环节中来考察：它如何把自然、精神以及最后把两者的关系当作感性存在接受下来，并把自己当作存在着的现实性来寻找。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 17,
+   "si": 0,
+   "de": "Wenn das gedankenlose Bewußtsein das Beobachten und Erfahren als die Quelle der Wahrheit ausspricht, so mögen wohl seine Worte so lauten, als ob es allein um ein Schmecken, Riechen, Fühlen, Hören und Sehen zu tun sei; es vergißt in dem Eifer, womit es das Schmecken, Riechen usf. empfiehlt, zu sagen, daß es in der Tat auch ebenso wesentlich den Gegenstand dieses Empfindens sich schon bestimmt hat und diese Bestimmung ihm wenigstens soviel gilt als Jenes Empfinden.",
+   "en": "When thoughtless consciousness declares observing and experiencing to be the source of truth, its words may well sound as if it were concerned solely with tasting, smelling, feeling, hearing and seeing; in the zeal with which it recommends tasting, smelling, etc., it forgets to say that in fact it has likewise just as essentially already determined for itself the object of this sensing, and that this determination counts for it at least as much as that sensing.",
+   "zh": "当无思想的意识把观察和经验说成真理的来源时，它的话听起来也许就像只关乎尝味、嗅味、触感、听和看；在它推荐尝味、嗅味等等的那股热忱中，它忘了说，它实际上同样本质地已经为自己规定了这种感性的对象，而且这种规定对它的分量至少不低于那种感觉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 17,
+   "si": 1,
+   "de": "Es wird auch sogleich eingestehen, daß es ihm nicht so überhaupt nur ums Wahrnehmen zu tun sei, und [wird] z.B. die Wahrnehmung, daß dies Federmesser neben dieser Tabaksdose liegt, nicht für eine Beobachtung gelten lassen.",
+   "en": "It will also at once admit that it is not concerned merely with perceiving in general, and will, for example, not let the perception that this penknife lies beside this snuffbox count as an observation.",
+   "zh": "它也会马上承认，它并不只是一般地要知觉，并且比如不会把“这把小刀放在这个烟盒旁边”这一知觉当作观察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 17,
+   "si": 2,
+   "de": "Das Wahrgenommene soll wenigstens die Bedeutung eines Allgemeinen, nicht eines sinnlichen Diesen haben.",
+   "en": "The perceived should at least have the meaning of a universal, not of a sensuous this.",
+   "zh": "被知觉到的东西至少应当具有普遍之物的意义，而不是一个感性的这一个的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 0,
+   "de": "Dies Allgemeine Ist so nur erst das Sichgleichbleibende; seine Bewegung nur das gleichförmige Wiederkehren desselben Tuns.",
+   "en": "This universal is thus at first only the self-same; its movement only the uniform return of the same doing.",
+   "zh": "这种普遍之物因此首先只是自身保持不变的东西；它的运动也只是同一种做法的均匀重复。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 1,
+   "de": "Das Bewußtsein, welches insofern im Gegenstande nur die Allgemeinheit oder das abstrakte Mein findet, muß die eigentliche Bewegung desselben auf sich selbst nehmen [und], indem es noch nicht der Verstand desselben ist, wenigstens sein Gedächtnis sein, welches das, was in der Wirklichkeit nur auf einzelne Weise vorhanden ist, auf allgemeine Weise ausdrückt.",
+   "en": "Consciousness, which in this respect finds in the object only universality or the abstract meaning, must take upon itself the proper movement of the object, and, since it is not yet the understanding of it, must at least be its memory, which expresses in a universal way what is present in actuality only in a singular way.",
+   "zh": "就此而言在对象中只找到普遍性或者说抽象意谓的意识，必须把对象自身的运动承担起来，并且，由于它还不是对象的知性，它至少必须做对象的记忆，这种记忆以普遍的方式道出在现实性中只以个别方式存在的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 2,
+   "de": "Dies oberflächliche Herausheben aus der Einzelheit und die ebenso oberflächliche Form der Allgemeinheit, worein das Sinnliche nur aufgenommen wird, ohne an sich selbst Allgemeines geworden zu sein, das Beschreiben der Dinge hat noch in dem Gegenstande selbst die Bewegung nicht; sie ist vielmehr nur in dem Beschreiben.",
+   "en": "This superficial lifting out of singularity, and the equally superficial form of universality into which the sensuous is merely taken up without itself having become universal — the describing of things — still does not have the movement in the object itself; the movement is rather only in the describing.",
+   "zh": "这种从个别性中作出的肤浅抽取，以及感性之物只是被纳入其中、而它自身还没有成为普遍之物这一同样肤浅的普遍性形式，也就是对物的描述，在对象本身那里还没有运动；运动反倒只存在于描述之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 3,
+   "de": "Der Gegenstand, wie er beschrieben ist, hat daher das Interesse verloren; ist der eine beschrieben, so muß ein anderer vorgenommen und immer gesucht werden, damit das Beschreiben nicht ausgehe.",
+   "en": "The object, as it is described, has therefore lost interest; if one has been described, another must be taken up and ever sought anew, so that the describing does not run out.",
+   "zh": "因此，对象在被描述出来的样子中已经失去了兴趣；一个被描述完了，就必须另取一个，并且总要找新的，好让描述不至于中断。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 4,
+   "de": "Ist es nicht so leicht mehr, neue ganze Dinge zu finden, so muß zu den schon gefundenen zurückgegangen werden, sie weiter zu teilen, auseinanderzulegen und neue Seiten der Dingheit an ihnen noch aufzuspüren.",
+   "en": "If it is no longer so easy to find new whole things, one must go back to those already found, in order to divide them further, to lay them apart, and to trace out in them still new sides of thinghood.",
+   "zh": "如果不再那么容易找到新的整全的物，那就必须回到已经找到的物那里，把它们进一步划分、拆解开来，并在它们身上再探查出物性的新侧面。"
+  }
+ ]
+}

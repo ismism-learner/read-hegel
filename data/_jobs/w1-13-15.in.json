@@ -1,0 +1,71 @@
+{
+ "id": "w1-13-15",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "[Systemfragment von 1800] 126)",
+ "heading": "2.",
+ "blocks": [
+  {
+   "bi": 15,
+   "k": "h",
+   "hash": "19hmrz534j",
+   "text": "2."
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1he231uie6",
+   "sents": [
+    "Das Gedächtnis ist der Galgen, an dem die griechischen Götter erwürgt hängen.",
+    "Eine Galerie solcher Gehenkten aufweisen, mit dem Winde des Witzes sie im Kreise herumtreiben, sie einander necken machen und in allerlei Gruppen und Verzerrungen blasen, heißt oft Poesie. - Gedächtnis ist das Grab, der Aufbehälter des Toten.",
+    "Das Tote ruht darin als Totes.",
+    "Es wird wie eine Sammlung Steine gewiesen.",
+    "Das Ordnen, Durchgehen, Stäuben, alle diese Beschäftigungen haben zwar eine Beziehung auf das Tote, aber sind von ihm unabhängig. - Aber unverständliche Gebete plappern, Messen lesen, Rosenkränze sprechen, bedeutungsleere gottesdienstliche Zeremonien üben, dies ist das Tun des Toten.",
+    "Der Mensch versucht es, völlig zum Objekt zu werden, sich durchaus von einem Fremden regieren zu lassen.",
+    "Dieser Dienst heißt Andacht.",
+    "Pharisäer!"
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "h",
+   "hash": "101x4w41rz",
+   "text": "3."
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1g48wajn56",
+   "sents": [
+    "Klageweiber bei der öffentlichen Totenfeier der im ersten Jahr des Peloponnesischen Krieges Umgekommenen.",
+    "Thukydides B, λ δ: καὶ γυναι ͂κες πάρεισιν αἱ προσήκουσαι ἐπὶ τὸν τάφον ὀλοφυρόμεναι.131) Die größte Linderung des Schmerzes ist, ihn auszuschreien, ihn rein in seinem ganzen Umfang gesagt zu haben.",
+    "Durch die Äußerung wird der Schmerz objektiv gemacht und das Gleichgewicht zwischen dem Subjektiven, das allein vorhanden ist, und dem Objektiven, das im Schmerz nichts ist, hergestellt.",
+    "Durch die Äußerung allein kommt er zum Bewußtsein, und was zum Bewußtsein gekommen, ist dann vorbei.",
+    "Es ist in die Form der Reflexion gebracht und wird durch folgende Bestimmungen weggedrängt.",
+    "Aber wenn das Gemüt noch voll, der Schmerz noch ganz subjektiv ist, so hat nichts anderes Platz darin.",
+    "Auch die Tränen sind so eine Entladung, so eine Äußerung, eine Objektivierung des Schmerzes.",
+    "Der Schmerz hat sich dann, da er subjektiv ist und auch objektiv geworden ist, zum Bilde gemacht.",
+    "Aber da der Schmerz seiner Natur nach subjektiv ist, so ist es ihm sehr zuwider, aus sich herauszugehen.",
+    "Nur die höchste Not kann ihn dazu treiben.",
+    "Auch wenn die Not vorbei, wenn alles verloren und er Verzweiflung geworden ist, so verschließt er sich in sich, und hier ist es höchst wohltätig, ihn herauszubringen.",
+    "Durch nichts Heterogenes kann dies geschehen.",
+    "Nur indem er sich selbst gegeben wird, hat er sich als sich selbst und als etwas zum Teil außer sich.",
+    "Ein Gemälde tut diese Wirkung nicht.",
+    "Er sieht nur, aber bewegt sich nicht selbst.",
+    "Die Rede ist die reinste Form von Objektivität für das Subjektive.",
+    "Sie ist noch nichts Objektives, aber doch die Bewegung nach Objektivität.",
+    "Klage in Gesang hat zugleich noch mehr die Form von Schönem, weil sie nach einer Regel sich bewegt.",
+    "Klagegesänge bestellter Weiber sind daher das Menschlichste für den Schmerz, für das Bedürfnis, sich seiner zu entladen, indem man ihn am tiefsten sich entwickelt und in seinem ganzen Umfang sich vorhält.",
+    "Nur dies Vorhalten allein ist der Balsam."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/13.p15.json"
+}

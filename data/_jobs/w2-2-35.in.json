@@ -1,0 +1,46 @@
+{
+ "id": "w2-2-35",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "heading": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "blocks": [
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "oxy0t31u3v",
+   "sents": [
+    "Was die eigene Philosophie Reinholds betrifft, so gibt er eine öffentliche Geschichte davon, daß er im Verlauf seiner philosophischen Metempsychose zuerst in die Kantische gewandert, nach Ablegung derselben in die Fichtesche, von dieser in die Jacobische und, seit er auch sie verlassen habe, in Bardilis Logik eingezogen sei.",
+    "Nachdem er nach S. 163 der Beiträge 'seine Beschäftigung mit derselben aufs reine Lernen, lautere Empfangen und Nachdenken im eigentlichsten Verstande eingeschränkt, um die verwöhnte Einbildungskraft unterzukriegen und die alten transzendentalen Typen endlich durch die neuen rationalistischen aus dem Kopfe zu verdrängen', - so beginnt er nunmehr die Bearbeitung derselben in den Beiträgen zur leichteren Übersicht des Zustandes der Philosophie beim Anfange des 19.",
+    "Jahrhunderts.",
+    "Diese Beiträge ergreifen die in dem Fortgang der Bildung des menschlichen Geistes so wichtige Epoche des Anbruchs eines neuen Jahrhunderts, diesem 'Glück zu wünschen, daß die Veranlassung aller philosophischen Revolutionen nicht früher und nicht später als im vorletzten Jahre des 18.",
+    "Jahrhunderts wirklich entdeckt und damit in der Sache selbst aufgehoben worden ist'65) .",
+    "Wie La révolution est finie zu sehr häufigen Malen in Frankreich dekretiert worden ist, so hat auch Reinhold schon mehrere Enden der philosophischen Revolution angekündigt.",
+    "Jetzt erkennt er die letzte Beendigung der Beendigungen, 'obschon die schlimmen Folgen der transzendentalen Revolution noch eine geraume Zeit fortdauern werden', fügt auch die Frage hinzu, 'ob er sich auch jetzt wieder täusche? ob gleichwohl auch dies wahre und eigentliche Ende etwa wieder nur der Anfang einer neuen krummen Wendung sein dürfte?'66) Vielmehr müßte die Frage gemacht werden, ob dies Ende, sowenig es fähig ist, ein Ende zu sein, fähig sei, der Anfang von irgend etwas zu sein?"
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "995oo51jqm",
+   "sents": [
+    "Aber das Begründen gibt sich damit ab, immer die Handhabe zu suchen und einen Anlauf an die lebendige Philosophie hin zu nehmen; es macht dies Anlaufen zum wahren Werk, und durch sein Prinzip macht es sich unmöglich, zum Wissen und zur Philosophie zu gelangen.",
+    "Die logische Erkenntnis, wenn sie wirklich bis zur Vernunft fortgeht, muß auf das Resultat geführt werden, daß sie in der Vernunft sich vernichtet; sie muß als ihr oberstes Gesetz die Antinomie erkennen.",
+    "Im Reinholdischen Thema, der Anwendung des Denkens, wird das Denken als die unendliche Wiederholbarkeit des A als A in A und durch A67) zwar auch antinomisch, indem A in der Anwendung der Tat nach als B gesetzt wird.",
+    "Aber diese Antinomie ist ganz bewußtlos und unanerkannt vorhanden, denn das Denken, seine Anwendung und sein Stoff stehen friedlich nebeneinander.",
+    "Darum ist das Denken als Vermögen der abstrakten Einheit sowie die Erkenntnis bloß formal, und die ganze Begründung soll nur problematisch und hypothetisch sein, bis man mit der Zeit im Fortgang des Problematischen und Hypothetischen auf das Urwahre am Wahren und auf das Wahre durchs Urwahre68) stößt.",
+    "Aber teils ist dies unmöglich, denn aus einer absoluten Formalität ist zu keiner Materialität zu kommen (beide sind absolut entgegengesetzt), noch weniger zu einer absoluten Synthese, die mehr sein muß als ein bloßes Fügen, - teils ist mit einem Hypothetischen und Problematischen überhaupt gar nichts begründet.",
+    "Oder aber die Erkenntnis wird aufs Absolute bezogen, sie wird eine Identität des Subjekts und Objekts, des Denkens und des Stoffs; so ist sie nicht mehr formal, es ist ein leidiges Wissen entstanden und das Begründen vor dem Wissen wieder verfehlt worden.",
+    "Der Angst, ins Wissen hineinzugeraten, bleibt nichts übrig, als an ihrer Liebe und ihrem Glauben und ihrer zielenden fixen Tendenz mit Analysieren, Methodisieren und Erzählen sich zu erwärmen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/2.p35.json"
+}

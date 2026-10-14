@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-06",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 6,
+   "de": "– Ebenso seine eigene Wirklichkeit, es selbst als Einzelheit des Bewußtseins ist sich das Wesen; aber es ist ihm Zweck, sie seiend zu setzen; es ist ihm also unmittelbar vielmehr sein Selbst als Nichteinzelnes das Wesen oder Zweck als Gesetz, eben darin als eine Allgemeinheit, welche es für sein Bewußtsein selbst sei.",
+   "en": "– Likewise its own actuality, it itself as the singleness of consciousness, is the essence for it; but it is its purpose to posit it as existing; so immediately rather its self as non-single is for it the essence, or purpose as law, precisely therein as a universality which it is to be for its consciousness itself.",
+   "zh": "——同样，它自己的现实性、它自己作为意识的个别性，对它来说就是本质；但它的目的是要把这现实性设定为存在着的；所以对它来说直接地毋宁是它的自我作为非个别的东西才是本质，或者说目的作为规律才是本质，而且正是在这里作为它应当为它自己的意识而成为的那种普遍性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 7,
+   "de": "– Dieser sein Begriff wird durch sein Tun zu seinem Gegenstande; sein Selbst erfährt es also vielmehr als das Unwirkliche und die Unwirklichkeit als seine Wirklichkeit.",
+   "en": "– This its concept becomes its object through its doing; it therefore experiences its self rather as the non-actual, and non-actuality as its actuality.",
+   "zh": "——它的这一概念通过它的作为成为它的对象；所以它毋宁是把它的自我经验为非现实的东西，把非现实性经验为它的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 8,
+   "de": "Es ist also nicht eine zufällige und fremde Individualität, sondern eben dieses Herz nach allen Seiten in sich das Verkehrte und Verkehrende.",
+   "en": "It is therefore not a contingent and foreign individuality, but precisely this heart, in every respect within itself, that is the perverted and the perverting.",
+   "zh": "所以它不是一种偶然的、外来的个体性，而正是这颗心，在一切方面于自身内都是颠倒了的东西和造成颠倒的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 39,
+   "si": 0,
+   "de": "Indem aber die unmittelbar allgemeine Individualität das Verkehrte und Verkehrende ist, ist nicht weniger diese allgemeine Ordnung, da sie das Gesetz aller Herzen, d.h. des Verkehrten ist, selbst an sich das Verkehrte, wie die tobende Verrücktheit es aussprach.",
+   "en": "But since the immediately universal individuality is the perverted and the perverting, this universal order, since it is the law of all hearts, i.e. of the perverted, is no less itself in itself the perverted, as the raging madness expressed it.",
+   "zh": "但是，既然那直接普遍的个体性是颠倒了的东西和造成颠倒的东西，那么这种普遍秩序——因为它是所有心的规律，也就是说，是颠倒了的东西的规律——本身自在地就同样是颠倒了的东西，正如咆哮的疯癫所说的那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 39,
+   "si": 1,
+   "de": "Einmal erweist sie sich in dem Widerstande, welchen das Gesetz eines Herzens an den anderen Einzelnen findet, Gesetz aller Herzen zu sein.",
+   "en": "For one thing, it proves itself to be the law of all hearts in the resistance that the law of one heart encounters in the other single individuals.",
+   "zh": "一方面，它在一种心的规律在其他个别者那里遇到的抵抗中表明自己是所有心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 39,
+   "si": 2,
+   "de": "Die bestehenden Gesetze werden gegen das Gesetz eines Individuums verteidigt, weil sie nicht bewußtlose leere und tote Notwendigkeit, sondern geistige Allgemeinheit und Substanz sind, worin diejenigen, an denen sie ihre Wirklichkeit hat, als Individuen leben und ihrer selbst bewußt sind; so daß, wenn sie auch über diese Ordnung, als ob sie dem inneren Gesetze zuwiderlaufe, klagen und die Meinungen des Herzens gegen sie halten, [sie] in der Tat mit ihrem Herzen an ihr als ihrem Wesen hängen und, wenn diese Ordnung ihnen genommen wird oder sie selbst sich daraus setzen, sie alles verlieren.",
+   "en": "The existing laws are defended against the law of an individual because they are not unconscious, empty and dead necessity, but spiritual universality and substance, in which those in whom they have their actuality live as individuals and are conscious of themselves; so that, even if they complain about this order as if it ran counter to the inner law and hold the opinions of the heart against it, they in fact cling with their heart to it as their essence, and if this order is taken from them, or they themselves set themselves out of it, they lose everything.",
+   "zh": "现成的规律受到维护，以对抗一个个体的规律，因为它们并不是无意识的、空洞的和死的必然性，而是精神的普遍性和实体，那些在它们身上拥有自己现实性的人，作为个体生活于其中并意识到自己；所以，即使他们也抱怨这种秩序，说它违背了内在的规律，并坚持心的意见来反对它，他们实际上仍然以自己的心依附着它，把它当作自己的本质，而一旦这种秩序被从他们那里拿走，或者他们自己把自己置于其外，他们就会失去一切。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 39,
+   "si": 3,
+   "de": "Indem hierin eben die Wirklichkeit und Macht der öffentlichen Ordnung besteht, erscheint also diese als das sich selbst gleiche allgemein belebte Wesen und die Individualität als die Form derselben,",
+   "en": "Since the actuality and power of the public order consists precisely in this, this order therefore appears as the self-identical, universally animated essence, and individuality as its form,",
+   "zh": "既然公共秩序的现实性和力量恰恰就在于这一点，那么这种秩序就显现为自身同一的、普遍有生命的本质，而个体性则显现为它的形式，"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 39,
+   "si": 4,
+   "de": "– Aber diese Ordnung ist ebenso das Verkehrte.",
+   "en": "– But this order is equally the perverted.",
+   "zh": "——但这种秩序同样也是颠倒了的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 40,
+   "si": 0,
+   "de": "Denn darin, daß sie das Gesetz aller Herzen ist, daß alle Individuen unmittelbar dieses Allgemeine sind, ist sie eine Wirklichkeit, welche nur die Wirklichkeit der für sich seienden Individualität oder des Herzens ist.",
+   "en": "For in that it is the law of all hearts, that all individuals are immediately this universal, it is an actuality which is only the actuality of the individuality that is for itself, or of the heart.",
+   "zh": "因为，既然它是所有心的规律，既然所有个体直接就是这个普遍的东西，它就是一种现实性，而这种现实性只是自为存在着的个体性、即心的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 40,
+   "si": 1,
+   "de": "Das Bewußtsein, welches das Gesetz seines Herzens aufstellt, erfährt also Widerstand von anderen, weil es den ebenso einzelnen Gesetzen ihres Herzens widerspricht, und diese tun in ihrem Widerstande nichts anderes, als ihr Gesetz aufstellen und geltend machen.",
+   "en": "The consciousness that sets up the law of its heart therefore experiences resistance from others, because it contradicts the equally single laws of their heart, and in their resistance these do nothing other than set up and assert their law.",
+   "zh": "因此，那个树立起自己心的规律的意识，就从别人那里经验到抵抗，因为它与别人心中同样个别的规律相矛盾，而别人在它们的抵抗中所做的，不外是树立并主张自己的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 40,
+   "si": 2,
+   "de": "Das Allgemeine, das vorhanden ist, ist daher nur ein allgemeiner Widerstand und Bekämpfung aller gegeneinander, worin jeder seine eigene Einzelheit geltend macht, aber zugleich nicht dazu kommt, weil sie denselben Widerstand erfährt und durch die anderen gegenseitig aufgelöst wird.",
+   "en": "The universal that is present is therefore only a universal resistance and struggle of all against one another, in which each asserts its own singleness but at the same time does not get to do so, because it experiences the same resistance and is mutually dissolved by the others.",
+   "zh": "因此，现成存在的普遍东西只是一种普遍的抵抗和一切人反对一切人的斗争，在其中每个人都使自己的个别性有效，但同时又达不到这一点，因为它遭遇到同样的抵抗，并被别人交互地消解掉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 40,
+   "si": 3,
+   "de": "Was öffentliche Ordnung scheint, ist also diese allgemeine Befehdung, worin jeder an sich reißt, was er kann, die Gerechtigkeit an der Einzelheit der anderen ausübt und die seinige festsetzt, die ebenso durch andere verschwindet.",
+   "en": "What seems to be public order is therefore this universal feud, in which each snatches for himself what he can, exercises justice on the singleness of others and establishes his own, which likewise vanishes through others.",
+   "zh": "看起来是公共秩序的东西，因此就是这种普遍的争斗：在其中每个人都为自己抓住他能抓住的东西，对别人的个别性行使正义，并确立自己的正义，而它同样通过别人而消失。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 40,
+   "si": 4,
+   "de": "Sie ist der Weltlauf, der Schein eines bleibenden Ganges, der nur eine gemeinte Allgemeinheit und dessen Inhalt vielmehr das wesenlose Spiel der Festsetzung der Einzelheiten und ihrer Auflösung ist.",
+   "en": "It is the course of the world, the semblance of a persistent course, which is only a meant universality and whose content is rather the essenceless play of the positing of singlenesses and their dissolution.",
+   "zh": "它就是世界进程，是一种持续进程的假象；这种进程只是一个被意谓的普遍性，而它的内容毋宁是各个个别性的确立及其消解的无本质的游戏。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 41,
+   "si": 0,
+   "de": "Betrachten wir beide Seiten der allgemeinen Ordnung gegeneinander, so hat die letztere Allgemeinheit zu ihrem Inhalte die unruhige Individualität, für welche die Meinung oder die Einzelheit Gesetz, das Wirkliche unwirklich und das Unwirkliche das Wirkliche ist.",
+   "en": "If we consider the two sides of the universal order against each other, the latter universality has as its content the restless individuality, for which opinion or singleness is law, the actual is non-actual and the non-actual is the actual.",
+   "zh": "如果我们把普遍秩序的两个方面相互对照来看，那么后一个普遍东西的内容就是不安宁的个体性；对这种个体性来说，意谓、或者说个别性就是规律，现实的东西是非现实的，而非现实的东西是现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 41,
+   "si": 1,
+   "de": "Sie ist aber zugleich die Seite der Wirklichkeit der Ordnung, denn ihr gehört das Fürsichsein der Individualität an.",
+   "en": "But it is at the same time the side of the actuality of the order, for the being-for-itself of individuality belongs to it.",
+   "zh": "但它同时是秩序的现实性那一方面，因为个体性的自为存在属于它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 41,
+   "si": 2,
+   "de": "– Die andere Seite ist das Allgemeine als ruhiges Wesen, aber eben darum nur als ein Inneres, das nicht gar nicht, aber doch keine Wirklichkeit ist und nur durch Aufhebung der Individualität, welche sich die Wirklichkeit angemaßt hat, selbst wirklich werden kann.",
+   "en": "– The other side is the universal as calm essence, but precisely therefore only as an inner, which is not altogether nothing, but is yet no actuality and can itself become actual only through the sublation of the individuality that has arrogated actuality to itself.",
+   "zh": "——另一方面是作为安静本质的普遍东西，但正因为如此，它只是一个内在的东西：它并非完全没有，但毕竟不是现实性，并且只有通过扬弃那种为自己僭取了现实性的个体性，它本身才能成为现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 41,
+   "si": 3,
+   "de": "Diese Gestalt des Bewußtseins, sich in dem Gesetze, in dem an sich Wahren und Guten nicht als die Einzelheit, sondern nur als Wesen zu werden, die Individualität aber als das Verkehrte und Verkehrende zu wissen und daher die Einzelheit des Bewußtseins aufopfern zu müssen, ist die Tugend.",
+   "en": "This shape of consciousness – to become in the law, in the true and good in itself, not as singleness but only as essence, yet to know individuality as the perverted and the perverting and therefore to have to sacrifice the singleness of consciousness – is virtue.",
+   "zh": "意识的这一形态——在规律中、在自在的真和善中不是作为个别性、而只是作为本质而生成，却把个体性认作颠倒了的东西和造成颠倒的东西，因而必须牺牲意识的个别性——就是德行。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 0,
+   "de": "In der ersten Gestalt der tätigen Vernunft war das Selbstbewußtsein sich reine Individualität, und ihr gegenüber stand die leere Allgemeinheit.",
+   "en": "In the first shape of active reason, self-consciousness was to itself pure individuality, and over against it stood empty universality.",
+   "zh": "在活动着的理性的第一个形态中，自我意识对自己来说就是纯粹的个体性，而与它相对立的则是空洞的普遍性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 1,
+   "de": "In der zweiten hatten die beiden Teile des Gegensatzes jeder die beiden Momente, Gesetz und Individualität, an ihnen; der eine aber, das Herz, war ihre unmittelbare Einheit, der andere ihre Entgegensetzung.",
+   "en": "In the second, the two parts of the opposition each had on them the two moments, law and individuality; but the one, the heart, was their immediate unity, the other their counter-position.",
+   "zh": "在第二个形态中，对立的两方各自身上都拥有那两个环节，即法则和个体性；但其中一方，即心，是它们的直接统一，另一方则是它们的对置。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 2,
+   "de": "Hier im Verhältnisse der Tugend und des Weltlaufs sind beide Glieder jedes Einheit und Gegensatz dieser Momente oder eine Bewegung des Gesetzes und der Individualität gegeneinander, aber eine entgegengesetzte.",
+   "en": "Here, in the relation of virtue and the course of the world, both members are each a unity and opposition of these moments, or a movement of law and individuality against one another, but an opposite one.",
+   "zh": "在这里，在德行与世界进程的关系中，双方中的每一方都是这些环节的统一和对立，或者说都是法则与个体性相互对立的一种运动，但却是一种相反的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 3,
+   "de": "Dem Bewußtsein der Tugend ist das Gesetz das Wesentliche und die Individualität das Aufzuhebende, und also sowohl an ihrem Bewußtsein selbst als an dem Weltlaufe.",
+   "en": "For the consciousness of virtue, the law is the essential and individuality is what is to be sublated, and indeed both in its own consciousness and in the course of the world.",
+   "zh": "在德行的意识看来，法则是本质性的东西，个体性则是应当被扬弃的东西，并且既在它自己的意识上如此，在世界进程上也是如此。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 4,
+   "de": "An jenem ist die eigene Individualität in die Zucht unter das Allgemeine, das an sich Wahre und Gute, zu nehmen; es bleibt aber darin noch persönliches Bewußtsein; die wahre Zucht ist allein die Aufopferung der ganzen Persönlichkeit als die Bewährung, daß es in der Tat nicht noch an Einzelheiten festgeblieben ist.",
+   "en": "In the former, one's own individuality is to be taken into discipline under the universal, the true and good in itself; but it still remains personal consciousness therein; true discipline is solely the sacrifice of the whole personality, as the proof that it has in fact not still clung to single details.",
+   "zh": "在前者那里，自己的个体性必须受到管教，被置于那普遍的东西、即自在地真的和善的东西之下；但它在这管教中还仍然是人格的意识；真正的管教唯在于牺牲整个人格，作为这样的证明，即它事实上并没有还固守在一些个别的东西上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 5,
+   "de": "In dieser einzelnen Aufopferung wird zugleich die Individualität an dem Weltlaufe vertilgt, denn sie ist auch einfaches, beiden gemeinschaftliches Moment.",
+   "en": "In this single sacrifice, individuality in the course of the world is at the same time extirpated, for it is also a simple moment common to both.",
+   "zh": "在这种个别的牺牲中，世界进程上的个体性同时也被消灭，因为它也是双方共有的单纯环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 6,
+   "de": "– In diesem verhält sich die Individualität auf die verkehrte Weise, als sie am tugendhaften Bewußtsein gesetzt ist, nämlich sich zum Wesen zu machen und dagegen das an sich Gute und Wahre sich zu unterwerfen.",
+   "en": "– In the latter, individuality behaves in the inverted way, as opposed to how it is posited in virtuous consciousness, namely by making itself the essence and, on the other hand, subjecting to itself the good and true in itself.",
+   "zh": "——在世界进程中，个体性以颠倒的方式行事，与它在有德行的意识中所被设定的方式相反，也就是说，它把自己弄成本质，而反过来把自在地善的和真的东西置于自己之下。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 7,
+   "de": "– Der Weltlauf ist ferner ebenso für die Tugend nicht nur dies durch die Individualität verkehrte Allgemeine, sondern die absolute Ordnung ist gleichfalls gemeinschaftliches Moment, an dem Weltlaufe nur nicht als seiende Wirklichkeit für das Bewußtsein vorhanden, sondern das innere Wesen desselben.",
+   "en": "– Further, the course of the world is likewise for virtue not only this universal inverted by individuality, but the absolute order is likewise a common moment, only that in the course of the world it is not present for consciousness as existing actuality, but as its inner essence.",
+   "zh": "——此外，对德行来说，世界进程同样不只是这个被个体性颠倒了的普遍东西，而且那绝对的秩序也同样是双方共有的环节，只是在世界进程上，它并不是作为存在着的现实性而对意识现成存在，而是作为世界进程的内在本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 43,
+   "si": 8,
+   "de": "Sie ist daher nicht erst durch die Tugend eigentlich hervorzubringen, denn das Hervorbringen ist, als Tim, Bewußtsein der Individualität, und diese vielmehr aufzuheben; durch dieses Aufheben aber wird dem Ansich des Weltlaufs gleichsam nur Raum gemacht, an und für sich selbst in die Existenz zu treten.",
+   "en": "It is therefore not really to be brought forth first by virtue, for the bringing-forth is, as doing, consciousness of individuality, and individuality is rather to be sublated; but by this sublation, as it were, only room is made for the in-itself of the course of the world to step into existence in and for itself.",
+   "zh": "所以，它并不是要首先由德行真正产生出来的，因为这种产生作为行动就是个体性的意识，而个体性倒是应当被扬弃的；但通过这种扬弃，不过是仿佛为世界进程的自在腾出了空间，让它自在自为地进入存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 0,
+   "de": "Der allgemeine Inhalt des wirklichen Weltlaufs hat sich schon ergeben; näher betrachtet ist er wieder nichts anderes als die beiden vorhergehenden Bewegungen des Selbstbewußtseins.",
+   "en": "The universal content of the actual course of the world has already emerged; considered more closely, it is again nothing other than the two preceding movements of self-consciousness.",
+   "zh": "现实的世界进程的一般内容已经自行得出了；更切近地考察，它又不是别的，正是自我意识先前的那两个运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 1,
+   "de": "Aus ihnen ist die Gestalt der Tugend hervorgegangen; indem sie ihr Ursprung sind, hat sie sie vor sich; sie geht aber darauf, ihren Ursprung aufzuheben und sich zu realisieren oder für sich zu werden.",
+   "en": "From them the shape of virtue has emerged; since they are its origin, it has them before itself; but it sets out to sublate its origin and to realize itself, or to become for itself.",
+   "zh": "德行的形态就是从它们之中产生出来的；既然它们是它的起源，它就把它们放在自己面前；但它所指向的却是扬弃自己的起源并且实现自己，或者说成为自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 2,
+   "de": "Der Weltlauf ist also einerseits die einzelne Individualität, welche ihre Lust und Genuß sucht, darin zwar ihren Untergang findet und hiermit das Allgemeine befriedigt.",
+   "en": "The course of the world is thus on the one hand the single individuality, which seeks its pleasure and enjoyment, indeed finds its downfall therein and herewith satisfies the universal.",
+   "zh": "所以，世界进程一方面就是那单个的个体性，它寻求自己的快乐和享受，虽然在其中找到了自己的没落，并由此满足了那普遍的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 3,
+   "de": "Aber diese Befriedigung selbst, sowie die übrigen Momente dieses Verhältnisses, ist eine verkehrte Gestalt und Bewegung des Allgemeinen.",
+   "en": "But this satisfaction itself, as well as the remaining moments of this relation, is an inverted shape and movement of the universal.",
+   "zh": "但这种满足本身，以及这一关系其余的那些环节，都是普遍东西的颠倒的形态和运动。"
+  }
+ ]
+}

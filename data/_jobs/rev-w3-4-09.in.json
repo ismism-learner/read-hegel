@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-09",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 44,
+   "si": 0,
+   "de": "Es geht, wie erhellt, bei diesem Gesetzgeben eigentlich so zu, daß zuerst Irritabilität und Sensibilität den bestimmten organischen Gegensatz ausmacht; dieser Inhalt verliert sich aber, und der Gegensatz verläuft sich in den formalen des Zu- und Abnehmens der Größe oder der verschiedenen Intension und Extension – ein Gegensatz, der die Natur der Sensibilität und der Irritabilität weiter nichts mehr angeht und sie nicht mehr ausdrückt.",
+   "en": "As is evident, in this lawgiving things actually proceed in such a way that first irritability and sensibility constitute the determinate organic opposition; but this content loses itself, and the opposition runs out into the formal one of the increase and decrease of magnitude or of the different intension and extension – an opposition which no longer concerns the nature of sensibility and irritability at all and no longer expresses them.",
+   "zh": "正如已经明白的那样，在这种立规律的做法里，实际情况其实是：首先刺激感受性和感受性构成特定的有机对立；但这个内容消失了，而对立则流为大小增长和减少、或不同内延和外延这种形式上的对立，——这样一种对立已经完全不再涉及感受性和刺激感受性的本性，也不再表达它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 44,
+   "si": 1,
+   "de": "Daher solches leeres Spiel des Gesetzgebens nicht an die organischen Momente gebunden ist, sondern es kann allenthalben mit allem getrieben werden und beruht überhaupt auf der Unbekanntschaft mit der logischen Natur dieser Gegensätze.",
+   "en": "Hence such empty play of lawgiving is not bound to the organic moments, but it can be carried on everywhere with everything and rests in general on unfamiliarity with the logical nature of these oppositions.",
+   "zh": "所以，这种空洞的立规律游戏并不束缚于有机的诸环节，而是到处都可以拿一切东西来做，并且它一般就建立在对于这些对立的逻辑本性毫无认识之上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 44,
+   "si": 2,
+   "de": "Wird endlich statt der Sensibilität und Irritabilität die Reproduktion mit der einen oder der anderen in Beziehung gebracht, so fällt auch die Veranlassung zu diesem Gesetzgeben hinweg; denn Reproduktion steht mit jenen Momenten nicht in einem Gegensatze wie sie gegeneinander; und da auf ihm dies Gesetzgeben beruht, so fällt hier auch der Schein seines Stattfindens hinweg.",
+   "en": "If finally, instead of sensibility and irritability, reproduction is brought into relation with the one or the other, then the occasion for this lawgiving also falls away; for reproduction does not stand in an opposition to those moments such as they do to one another; and since this lawgiving rests on that, the semblance of its occurring also falls away here.",
+   "zh": "最后，如果不用感受性和刺激感受性，而是把再生产与这一方或那一方联系起来，那么这种立规律活动的缘由也就消失了；因为再生产与那些环节并不处于一种像它们彼此之间那样的对立之中；而既然这种立规律活动就建立在那种对立之上，那么它得以成立的假象在这里也就消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 45,
+   "si": 0,
+   "de": "Das soeben betrachtete Gesetzgeben enthält die Unterschiede des Organismus in ihrer Bedeutung von Momenten seines Begriffs und sollte eigentlich ein apriorisches Gesetzgeben sein.",
+   "en": "The law-giving just considered contains the differences of the organism in their significance as moments of its concept, and properly speaking should have been an a priori law-giving.",
+   "zh": "刚才所考察的这种立法，把有机体的种种差别包含在它们作为它的概念之诸环节所具有的含义里，并且本来应当是一种 a priori 的立法。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 45,
+   "si": 1,
+   "de": "Es liegt aber in ihm selbst wesentlich dieser Gedanke, daß sie die Bedeutung von Vorhandenen haben, und das bloß beobachtende Bewußtsein hat sich ohnehin nur an ihr Dasein zu halten.",
+   "en": "But this thought lies essentially in it itself, that they have the significance of things present-at-hand; and merely observing consciousness has in any case only to hold to their determinate being.",
+   "zh": "但它本身之中本质上就有这样一个思想，即它们具有现成存在之物的含义，而仅仅观察着的意识反正只需守着它们的定在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 45,
+   "si": 2,
+   "de": "Die organische Wirklichkeit hat notwendig einen solchen Gegensatz an ihr, als ihr Begriff ausdrückt und der als Irritabilität und Sensibilität bestimmt werden kann, so wie sie beide wieder von der Reproduktion verschieden erscheinen.",
+   "en": "Organic actuality necessarily has on it such an opposition as its concept expresses and as can be determined as irritability and sensibility, just as these two again appear different from reproduction.",
+   "zh": "有机的现实性必然在自己身上有这样一种对立，即它的概念所表达、并且可以被规定为应激性和感受性的对立，正如这两者又显得与再生有别一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 45,
+   "si": 3,
+   "de": "– Die Äußerlichkeit, in der die Momente des organischen Begriffs hier betrachtet werden, ist die eigene unmittelbare Äußerlichkeit des Innern, nicht das Äußere, welches Äußeres im ganzen und Gestalt– ist und mit welchem das Innere nachher in Beziehung zu betrachten ist.",
+   "en": "— The externality in which the moments of the organic concept are considered here is the inner's own immediate externality, not the outer which is outer as a whole and as shape, and with which the inner is afterwards to be considered in relation.",
+   "zh": "——有机概念的那些环节在这里被考察时所处的外在性，是内部自己直接的外在性，而不是那种在整体上以及作为形态都是外在东西的外在者，后面才要把内部与它放在关系中来考察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 46,
+   "si": 0,
+   "de": "Aber den Gegensatz der Momente so aufgefaßt, wie er an dem Dasein ist, so sinken Sensibilität, Irritabilität, Reproduktion zu gemeinen Eigenschaften herunter, die gegeneinander ebenso gleichgültige Allgemeinheiten sind als spezifische Schwere, Farbe, Härte usf.",
+   "en": "But if the opposition of the moments is taken as it is on determinate being, then sensibility, irritability and reproduction sink down to ordinary properties, which are universals as indifferent to one another as specific weight, colour, hardness and so forth.",
+   "zh": "但如果把诸环节的对立就它在定在那里所是的样子来理解，那么感受性、应激性和再生就下降为平常的特性，这些特性是一些彼此之间就像比重、颜色、硬度等等那样漠不相关的普遍性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 46,
+   "si": 1,
+   "de": "In diesem Sinne kann wohl beobachtet werden, daß ein Organisches sensibler oder irritabler oder von größerer Reproduktionskraft sei als ein anderes, – sowie daß die Sensibilität usf. des einen der Art nach von der eines anderen verschieden sei, eins sich gegen bestimmte Reize anders verhalte als ein anderes, wie das Pferd anders gegen Hafer als gegen Heu und der Hund wieder anders gegen beide usf., sosehr als beobachtet werden kann, daß ein Körper härter ist als ein anderer usf.",
+   "en": "In this sense it can indeed be observed that one organic being is more sensible or more irritable or of greater reproductive power than another, — as also that the sensibility and so forth of the one is different in kind from that of another, that one comports itself differently towards determinate stimuli than another, as the horse comports itself differently towards oats than towards hay, and the dog again differently towards both, and so forth, as much as it can be observed that one body is harder than another, and so forth.",
+   "zh": "在这个意义上固然可以观察到，一个有机体比另一个更敏感、更容易受刺激，或者具有更大的再生力，——同样也可以观察到，一个有机体的感受性等等在种类上不同于另一个的感受性，一个有机体对特定刺激的举止不同于另一个，就像马对燕麦的举止不同于对干草、狗对这两者的举止又不同于马等等一样，其程度正如可以观察到，一个物体比另一个更硬等等一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 46,
+   "si": 2,
+   "de": "– Allein diese sinnlichen Eigenschaften, Härte, Farbe usf., sowie die Erscheinungen der Reizempfänglichkeit für Hafer, der Irritabilität für Lasten oder der Anzahl und Art, Junge zu gebären, aufeinander bezogen und miteinander verglichen, widerstreiten wesentlich einer Gesetzmäßigkeit.",
+   "en": "— But these sensuous properties, hardness, colour and so forth, as well as the appearances of susceptibility to stimulation by oats, of irritability towards loads, or of the number and kind of young brought forth, when related to one another and compared with one another, essentially conflict with a lawfulness.",
+   "zh": "——但这些感性的特性，硬度、颜色等等，以及感受燕麦刺激的能力、对重负的应激性、或者生育幼崽的数量和种类这些现象，一旦被彼此联系起来并互相比较，就本质上与一种合规律性相冲突。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 46,
+   "si": 3,
+   "de": "Denn die Bestimmtheit ihres sinnlichen Seins besteht eben darin, vollkommen gleichgültig gegeneinander zu existieren und die des Begriffs entbundene Freiheit der Natur viel mehr darzustellen als die Einheit einer Beziehung, viel mehr ihr unvernünftiges Hin- und Herspielen auf der Leiter der zufälligen Größe zwischen den Momenten des Begriffs als diese selbst.",
+   "en": "For the determinacy of their sensuous being consists precisely in existing as completely indifferent to one another and in displaying the freedom of nature released from the concept much more than the unity of a relation, much more its unreasoning play to and fro on the ladder of contingent magnitude between the moments of the concept than these moments themselves.",
+   "zh": "因为它们那感性的存在的规定性恰恰就在于，完全漠不相关地彼此存在，并且更多地展示出自然那种摆脱了概念的自由，而不是一种关系的统一，更多地展示出自然在偶然大小的阶梯上、在概念的诸环节之间所作的无理性的来回游戏，而不是这些环节本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 0,
+   "de": "Die andere Seite, nach welcher die einfachen Momente des organischen Begriffs mit den Momenten der Gestaltung verglichen werden, würde erst das eigentliche Gesetz geben, welches das wahre Äußere als Abdruck des Innern ausspräche.",
+   "en": "The other side, according to which the simple moments of the organic concept are compared with the moments of formation, would first give the actual law, which would utter the true outer as the imprint of the inner.",
+   "zh": "另一个方面，即把有机概念的诸单纯环节与形态化的诸环节加以比较的那个方面，才会给出本来意义上的规律，这条规律会把真的外在东西说成是内部的印记。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 1,
+   "de": "– Weil nun jene einfachen Momente durchdringende flüssige Eigenschaften sind, so haben sie an dem organischen Dinge nicht einen solchen ausgeschiedenen realen Ausdruck, wie das ist, was ein einzelnes System der Gestalt genannt wird.",
+   "en": "— Because those simple moments are penetrating, fluid properties, they do not have on the organic thing such a separated real expression as is what is called a single system of shape.",
+   "zh": "——因为那些单纯的环节是渗透性的、流动的特性，所以它们在有机的物上并没有一种像被称为形态的单个系统那样的、分离出来的实在表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 2,
+   "de": "Oder wenn die abstrakte Idee des Organismus in jenen drei Momenten nur darum wahrhaft ausgedruckt ist, weil sie nichts Stehendes, sondern nur Momente des Begriffs und der Bewegung sind, so ist er dagegen als Gestaltung nicht in solchen drei bestimmten Systemen befaßt, wie die Anatomie sie auseinanderlegt.",
+   "en": "Or if the abstract idea of the organism is truly expressed in those three moments only because they are nothing standing, but only moments of the concept and of movement, then the organism, on the other hand, as formation is not comprised in such three determinate systems as anatomy sets apart.",
+   "zh": "或者，如果有机体的抽象观念之所以在那三个环节中得到真正的表达，只是因为它们不是任何静止的东西，而只是概念和运动的环节，那么反过来，有机体作为形态化就不是被包含在解剖学所区分开来的那三个特定系统之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 3,
+   "de": "Insofern solche Systeme in ihrer Wirklichkeit gefunden und durch dies Finden legitimiert werden sollen, muß auch erinnert werden, daß die Anatomie nicht nur drei dergleichen Systeme, sondern viel mehrere aufweist.",
+   "en": "Insofar as such systems are to be found in their actuality and legitimated by this finding, it must also be recalled that anatomy exhibits not only three systems of this kind, but many more.",
+   "zh": "就这类系统应当在它们的现实性中被找到、并通过这种找到而得到认可而言，也必须提请注意，解剖学所展示的并非只有三个这类系统，而是多得多。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 4,
+   "de": "– Alsdenn muß, abgesehen hiervon, überhaupt das sensible System etwas ganz anderes bedeuten als das, was Nervensystem genannt wird, so das irritable System etwas anderes als das Muskelsystem, das reproduktive System etwas anderes als die Eingeweide der Reproduktion.",
+   "en": "— Then, apart from this, the sensible system in general must mean something quite different from what is called the nervous system, just as the irritable system means something different from the muscular system, and the reproductive system something different from the viscera of reproduction.",
+   "zh": "——再者，撇开这一点不谈，感受性的系统一般必须意味着某种与被称为神经系统的东西完全不同的东西，同样，应激性的系统意味着某种与肌肉系统不同的东西，再生的系统意味着某种与再生的内脏不同的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 5,
+   "de": "In den Systemen der Gestalt als solcher ist der Organismus nach der abstrakten Seite der toten Existenz aufgefaßt; seine Momente, so aufgenommen, gehören der Anatomie und dem Kadaver, nicht der Erkenntnis und dem lebendigen Organismus an.",
+   "en": "In the systems of shape as such, the organism is grasped according to the abstract side of dead existence; its moments, taken in this way, belong to anatomy and the cadaver, not to cognition and the living organism.",
+   "zh": "在形态本身的诸系统里，有机体是按照死的存在这一抽象方面被把握的；它的诸环节这样被接受下来，就属于解剖学和尸体，而不属于认识和活生生的有机体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 6,
+   "de": "Als solche Teile haben sie vielmehr aufgehört zu sein, denn sie hören auf, Prozesse zu sein.",
+   "en": "As such parts, they have rather ceased to be, for they cease to be processes.",
+   "zh": "作为这样的部分，它们反倒已经不再存在了，因为它们不再是过程。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 47,
+   "si": 7,
+   "de": "Da das Sein des Organismus wesentlich Allgemeinheit oder Reflexion in sich selbst ist, so kann das Sein seines Ganzen wie seine Momente nicht in einem anatomischen Systeme bestehen, sondern der wirkliche Ausdruck und ihre Äußerlichkeit ist vielmehr nur als eine Bewegung vorhanden, die sich durch die verschiedenen Teile der Gestaltung verläuft und worin das, was als einzelnes System herausgerissen und fixiert wird, sich wesentlich als fließendes Moment darstellt, so daß nicht jene Wirklichkeit, wie die Anatomie sie findet, als ihre Realität gelten darf, sondern nur sie als Prozeß, in welchem auch die anatomischen Teile allein einen Sinn haben.",
+   "en": "Since the being of the organism is essentially universality or reflection into itself, the being of its whole as well as its moments cannot consist in an anatomical system; rather, the actual expression and their externality is present only as a movement that runs through the different parts of formation, and in which what is torn out and fixed as a single system essentially presents itself as a fluid moment, so that it is not that actuality, as anatomy finds it, that may count as its reality, but only it as process, in which alone the anatomical parts too have a meaning.",
+   "zh": "由于有机体的存在本质上就是普遍性、或自身内的反思，所以它的整体的存在以及它的诸环节都不能存在于一个解剖学的系统之中，相反，现实的表现和它们的外在性倒只是作为一种运动而现成存在，这种运动贯穿形态化的各个不同部分，并且在其中，那被作为单个系统撕扯出来并固定下来的东西，本质上把自己表现为流动的环节，以致解剖学所发现的那种现实性不可以被当作它的实在性，而只有它作为过程才可以，因为在过程里，连解剖学的那些部分也才唯独有一种含义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 48,
+   "si": 0,
+   "de": "Es ergibt sich also, daß weder die Momente des organischen Innern, für sich genommen, Seiten eines Gesetzes des Seins abzugeben fähig sind, indem sie in einem solchen Gesetze von einem Dasein ausgesprochen, voneinander unterschieden und nicht jede auf gleiche Weise anstatt der anderen sollte genannt werden können; noch daß sie, auf die eine Seite gestellt, in der anderen an einem festen Systeme Ihre Realisierung haben; denn dies letztere ist so wenig etwas, das überhaupt organische Wahrheit hätte, als es der Ausdruck jener Momente des Innern ist.",
+   "en": "It follows, then, that neither are the moments of the organic inner, taken for themselves, capable of yielding sides of a law of being — since in such a law they are uttered of a determinate being, distinguished from one another, and not each could be named in the same way in place of the other; nor do they, placed on the one side, have their realization in the other on a fixed system; for the latter is as little something that would have organic truth at all as it is the expression of those moments of the inner.",
+   "zh": "于是得出：有机内部的诸环节，就自身来看，既不能充当一条存在之规律的诸方面，因为在这样一条规律里，它们是被就一个定在说出来、被彼此区别开的，并且不能每一个都以同样的方式代替另一个被称呼；它们被放在一个方面时，也不能在另一个方面、在一个固定的系统上有它们的实现；因为后一种东西既不是任何一般会具有有机真理的东西，也同样不是内部那些环节的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 48,
+   "si": 1,
+   "de": "Das Wesentliche des Organischen, da es an sich das Allgemeine ist, ist vielmehr überhaupt, seine Momente in der Wirklichkeit ebenso allgemein, d.h. als durchlaufende Prozesse zu haben, nicht aber an einem isolierten Dinge ein Bild des Allgemeinen zu geben.",
+   "en": "What is essential in the organic, since the organic is in itself the universal, is rather in general to have its moments in actuality just as universally, that is, as processes running through, and not to give a picture of the universal on an isolated thing.",
+   "zh": "有机物中要紧的东西，既然有机物自在地就是普遍者，倒是一般在于，在现实性中同样普遍地、也就是作为贯穿性的过程而拥有自己的诸环节，而不是在一个孤立了的物上给出普遍者的图像。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 49,
+   "si": 0,
+   "de": "Auf diese Weise geht an dem Organischen die Vorstellung eines Gesetzes überhaupt verloren.",
+   "en": "In this way the representation of a law in general is lost in the case of the organic.",
+   "zh": "这样一来，在有机物身上，关于一般规律的表象也就失去了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 49,
+   "si": 1,
+   "de": "Das Gesetz will den Gegensatz als ruhende Seiten auffassen und ausdrücken und an ihnen die Bestimmtheit, welche ihre Beziehung aufeinander ist.",
+   "en": "The law wants to grasp and express the opposition as resting sides, and on them the determinacy which is their relation to one another.",
+   "zh": "规律要把对立当作静止的诸方面来理解和表述，并在这些方面上表述出它们彼此关系的那种规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 49,
+   "si": 2,
+   "de": "Das innere, welchem die erscheinende Allgemeinheit, und das Äußere, welchem die Teile der ruhenden Gestalt angehören, sollten die sich entsprechenden Seiten des Gesetzes ausmachen, verlieren aber, so auseinandergehalten, ihre organische Bedeutung; und der Vorstellung des Gesetzes hegt gerade dies zum Grunde, daß seine beiden Seiten ein für sich seiendes gleichgültiges Bestehen hätten und an sie die Beziehung als eine gedoppelte sich entsprechende Bestimmtheit verteilt wäre.",
+   "en": "The inner, to which the appearing universality belongs, and the outer, to which the parts of the resting shape belong, were to constitute the corresponding sides of the law, but, held apart in this way, they lose their organic significance; and it is precisely this that lies at the ground of the representation of the law, that its two sides would have a being-for-itself, indifferent subsistence, and that the relation would be distributed to them as a doubled, corresponding determinacy.",
+   "zh": "内部，显现着的普遍性属于它，以及外部，静止形态的各个部分属于它，本来应当构成规律的那些彼此相应的方面，但这样被分开来保持，它们就失去了自己的有机含义；而恰恰是这一点构成规律表象的根据：它的两个方面会有一种自为存在的、漠不相关的持续存在，而关系则作为一种双重的、彼此相应的规定性被分配到它们身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 49,
+   "si": 3,
+   "de": "Jede Seite des Organischen ist vielmehr dies an ihr selbst, einfädle Allgemeinheit, in welcher alle Bestimmungen aufgelöst sind, und die Bewegung dieses Auflösens zu sein.",
+   "en": "Rather, each side of the organic is this in its own self: to be simple universality, in which all determinations are dissolved, and the movement of this dissolution.",
+   "zh": "有机物的每一方面反倒自在地就是这一点：是单纯的普遍性，一切规定都在其中被消解，并且是这种消解的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 0,
+   "de": "Die Einsicht in den Unterschied dieses Gesetzgebens gegen frühere Formen wird seine Natur vollends aufhellen.",
+   "en": "Insight into the difference of this law-giving from earlier forms will fully illuminate its nature.",
+   "zh": "对这种立法与早先那些形式之间的差别的识见，将把它的本性完全照亮。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 1,
+   "de": "– Sehen wir nämlich zurück auf die Bewegung des Wahrnehmens und des darin sich in sich reflektierenden und seinen Gegenstand hierdurch bestimmenden Verstandes, so hat dieser dabei an seinem Gegenstande die Beziehung dieser abstrakten Bestimmungen, des Allgemeinen und Einzelnen, des Wesentlichen und des Äußerlichen, nicht vor sich, sondern ist selbst das Übergehen, dem dieses Übergehen nicht gegenständlich wird.",
+   "en": "— For if we look back at the movement of perception and of the understanding which therein reflects itself into itself and thereby determines its object, then this understanding does not have before it, on its object, the relation of these abstract determinations, of the universal and the individual, of the essential and the external, but is itself the transition, to which this transition does not become an object.",
+   "zh": "——因为如果我们回顾知觉的运动，以及在其中反思到自身之中、并由此规定自己对象的知性的运动，那么知性在这里并没有在自己的对象上看到这些抽象规定的关系，即普遍者与个别者、本质的东西与外在的东西的关系，而是本身就是那种过渡，而过渡对它来说并不成为对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 2,
+   "de": "Hier hingegen ist die organische Einheit, d.h. eben die Beziehung Jener Gegensätze, und diese Beziehung ist reines Übergehen, selbst der Gegenstand.",
+   "en": "Here, by contrast, the organic unity, that is, precisely the relation of those oppositions, is itself the object; and this relation is pure transition.",
+   "zh": "而在这里，有机的统一，也就是那些对立的关系，本身就是对象；而这种关系是纯粹的过渡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 3,
+   "de": "Dies Übergehen in seiner Einfachheit ist unmittelbar Allgemeinheit; und indem sie in den unterschied tritt, dessen Beziehung das Gesetz ausdrücken soll, so sind seine Momente als allgemeine Gegenstände dieses Bewußtseins, und das Gesetz lautet, daß das Äußere Ausdruck des Inneren sei.",
+   "en": "This transition in its simplicity is immediately universality; and in that it enters into the difference whose relation the law is to express, its moments are as universal objects of this consciousness, and the law reads that the outer is the expression of the inner.",
+   "zh": "这种过渡在它的单纯性中直接就是普遍性；而既然它进入那种差别——这条规律要表达的就是这种差别的关系——，那么它的诸环节就是作为这个意识的普遍对象，而这条规律说的就是：外在的东西是内在的东西的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 4,
+   "de": "Der Verstand hat hier den Gedanken des Gesetzes selbst erfaßt, da er vorher nur überhaupt Gesetze suchte und die Momente derselben ihm als ein bestimmter Inhalt, nicht als die Gedanken derselben vorschwebten.",
+   "en": "Here the understanding has grasped the thought of the law itself, whereas previously it merely sought laws in general and the moments of these hovered before it as a determinate content, not as the thoughts of them.",
+   "zh": "知性在这里已经把握了规律本身的那个思想，因为它先前只是一般地在寻找规律，那些规律的诸环节在它面前浮现为一个特定的内容，而不是这些环节的思想。"
+  }
+ ]
+}

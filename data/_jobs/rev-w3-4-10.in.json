@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-10",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 5,
+   "de": "– In Ansehung des Inhalts sollen hiermit hier nicht solche Gesetze erhalten werden, welche nur ein ruhiges Aufnehmen rein seiender Unterschiede in die Form der Allgemeinheit sind, sondern Gesetze, die unmittelbar an diesen Unterschieden auch die Unruhe des Begriffes und damit zugleich die Notwendigkeit der Beziehung der Seiten haben.",
+   "en": "— As regards the content, what is to be obtained here is accordingly not laws that are merely a calm taking-up of purely existing differences into the form of universality, but laws that immediately have on these differences also the unrest of the concept and thereby at the same time the necessity of the relation of the sides.",
+   "zh": "——就内容而言，这里由此要得到的并不是那样一些规律，它们只不过是把纯粹存在着的差别安静地接纳进普遍性的形式之中，而是要得到那样一些规律，它们直接在这些差别上也有概念的不安，并由此同时有诸方面关系的必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 50,
+   "si": 6,
+   "de": "Allein weil eben der Gegenstand, die organische Einheit, das unendliche Aufheben oder die absolute Negation des Seins mit dem ruhigen Sein unmittelbar vereinigt und die Momente wesentlich reines Übergehen sind, so ergeben sich keine solchen seienden Seiten, als für das Gesetz erfordert werden.",
+   "en": "But precisely because the object, the organic unity, immediately unites the infinite sublating or the absolute negation of being with calm being, and the moments are essentially pure transition, there result no such existing sides as are required for the law.",
+   "zh": "但正因为对象，即有机的统一，把存在的那种无限的扬弃、或存在的绝对否定，与安静的存在直接结合起来，而诸环节本质上又是纯粹的过渡，所以就得出不了那样一些存在着的方面，像规律所需要的那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 0,
+   "de": "Um solche zu erhalten, muß der Verstand sich an das andere Moment des organischen Verhältnisses halten, nämlich an das Reflektiertsein des organischen Daseins in sich selbst.",
+   "en": "In order to obtain such [laws], the understanding must hold to the other moment of the organic relation, namely to the being-reflected of organic determinate being into itself.",
+   "zh": "为了得到这样一些规律，知性必须守住有机关系的另一个环节，即有机定在被反思回自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 1,
+   "de": "Aber dieses Sein ist so vollkommen in sich reflektiert, daß ihm keine Bestimmtheit gegen Anderes übrigbleibt.",
+   "en": "But this being is so perfectly reflected into itself that no determinacy over against an other is left to it.",
+   "zh": "但这种存在如此完满地反思回自身之中，以致对它来说，没有任何针对他者的规定性留存下来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 2,
+   "de": "Das unmittelbare sinnliche Sein ist unmittelbar mit der Bestimmtheit als solcher eins und drückt daher einen qualitativen Unterschied an ihm aus, wie z.B. Blau gegen Rot, Saures gegen Alkalisches usf.",
+   "en": "Immediate sensuous being is immediately one with determinacy as such and therefore expresses a qualitative difference on it, e.g. blue against red, acid against alkaline, and so on.",
+   "zh": "直接的感性存在直接与规定性本身合一，因此在自己身上表达出一种质的差别，例如蓝对红、酸性的东西对碱性的东西等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 3,
+   "de": "Aber das in sich zurückgekommene organische Sein ist vollkommen gleichgültig gegen Anderes, sein Dasein ist die einfache Allgemeinheit und verweigert dem Beobachten bleibende sinnliche Unterschiede oder, was dasselbe ist, zeigt seine wesentliche Bestimmtheit nur als den Wechsel seiender Bestimmtheiten.",
+   "en": "But the organic being that has come back into itself is perfectly indifferent toward an other; its determinate being is simple universality and refuses to observation persisting sensuous differences, or, what is the same, shows its essential determinacy only as the alternation of existent determinacies.",
+   "zh": "但已经返回自身之中的有机存在，对他者完全漠不相关，它的定在是单纯的普遍性，并且拒绝向观察提供持存的感性差别，或者，这是一回事，它只把自己的本质规定性显示为存在着的诸规定性的交替。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 4,
+   "de": "Wie sich daher der Unterschied als seiender ausdrückt, ist eben dies, daß er ein gleichgültiger ist, d.h. als Größe.",
+   "en": "The way, therefore, in which difference expresses itself as existent is precisely this, that it is an indifferent one, i.e. as magnitude.",
+   "zh": "因此，差别把自己表达为存在着的差别时所采取的方式，恰恰就是这样一点：它是漠不相关的差别，也就是说，是作为大小。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 5,
+   "de": "Hierin ist aber der Begriff getilgt und die Notwendigkeit verschwunden.",
+   "en": "But herein the concept is extinguished and necessity has disappeared.",
+   "zh": "但在这里面，概念被抹掉了，必然性也消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 51,
+   "si": 6,
+   "de": "Der Inhalt aber und Erfüllung dieses gleichgültigen Seins, der Wechsel der sinnlichen Bestimmungen, in die Einfachheit einer organischen Bestimmung zusammengenommen, drückt dann zugleich dies aus, daß er eben jene – der unmittelbaren Eigenschaft – Bestimmtheit nicht hat, und das Qualitative fällt allein in die Größe, wie wir oben gesehen.",
+   "en": "But the content and filling of this indifferent being, the alternation of the sensuous determinations taken together into the simplicity of an organic determination, then expresses at the same time this, that it does not have that determinacy — of the immediate property —, and the qualitative falls solely into magnitude, as we saw above.",
+   "zh": "但这种漠不相关的存在的内容和充实，即那些被合并进一个有机规定性的单纯性之中的感性规定性的交替，这时就同时表达出这样一点：它并没有那种规定性——即直接属性的规定性——，而质的东西则仅仅落进大小之中，正如我们上面所看到的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 52,
+   "si": 0,
+   "de": "Ob also schon das Gegenständliche, das als organische Bestimmtheit aufgefaßt wird, den Begriff an ihm selbst hat und sich hierdurch von dem unterscheidet, das für den Verstand ist, der sich als rein wahrnehmend bei dem Auffassen des Inhalts seiner Gesetze verhält, so fällt jenes Auffassen doch ganz in das Prinzip und die Manier des bloß wahrnehmenden Verstandes darum zurück, weil das Aufgefaßte zu Momenten eines Gesetzes gebraucht wird; denn hierdurch erhält es die Weise einer festen Bestimmtheit, die Form einer unmittelbaren Eigenschaft oder einer ruhenden Erscheinung, wird ferner in die Bestimmung der Größe aufgenommen, und die Natur des Begriffs ist unterdrückt.",
+   "en": "Even if, therefore, the objective element that is apprehended as organic determinacy has the concept on itself and thereby distinguishes itself from that which is for the understanding that comports itself as purely perceiving in the apprehension of the content of its laws, that apprehension nevertheless falls entirely back into the principle and the manner of the merely perceiving understanding, because what is apprehended is used as moments of a law; for hereby it receives the manner of a fixed determinacy, the form of an immediate property or of a resting appearance, is further taken up into the determination of magnitude, and the nature of the concept is suppressed.",
+   "zh": "所以，即使那个被把握为有机规定性的对象性东西自身就具有概念，并由此区别于那种为知性而存在的东西，而这种知性在把握它自己那些规律的内容时，表现得纯粹是知觉着的，那种把握却仍然完全落回到仅仅知觉着的知性的原则和方式之中，因为被把握到的东西被用作一条规律的诸环节；因为由此它就获得了固定规定性的方式，获得了一种直接属性或一种静止现象的形式，此外还被纳入大小的规定之中，而概念的本性则被压制了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 52,
+   "si": 1,
+   "de": "– Die Umtauschung eines bloß Wahrgenommenen gegen ein Insichreflektiertes, einer bloß sinnlichen Bestimmtheit gegen eine organische verliert also wieder ihren Wert, und zwar dadurch, daß der Verstand das Gesetzgeben noch nicht aufgehoben hat.",
+   "en": "— The exchange of something merely perceived for something reflected into itself, of a merely sensuous determinacy for an organic one, thus again loses its value, and indeed through this, that the understanding has not yet sublated law-giving.",
+   "zh": "——把一个仅仅被知觉到的东西换成被反思回自身之中的东西，把一种仅仅感性的规定性换成一种有机的规定性，这种交换于是又失去了自己的价值，而这是通过这一点：知性还没有扬弃立法。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 0,
+   "de": "Um die Vergleichung in Ansehung dieses Umtauschens an einigen Beispielen anzustellen, so wird etwa etwas, das für die Wahrnehmung ein Tier von starken Muskeln ist, als tierischer Organismus von hoher Irritabilität oder, was für die Wahrnehmung ein Zustand großer Schwäche ist, als Zustand hoher Sensibilität oder, wenn man lieber will, als eine innormale Affektion, und zwar eine Potenzierung derselben (Ausdrücke, welche das Sinnliche statt in den Begriff ins Lateinische – und zwar noch dazu in ein schlechtes – übersetzen) bestimmt.",
+   "en": "In order to institute the comparison with regard to this exchange on a few examples: something that for perception is an animal of strong muscles is determined as an animal organism of high irritability, or what for perception is a state of great weakness is determined as a state of high sensibility, or, if one prefers, as an abnormal affection, and indeed a potentiation of it (expressions that translate the sensuous not into the concept but into Latin — and into a bad Latin at that).",
+   "zh": "为了就这种交换举几个例子来作比较，那么，某种对知觉来说是具有强壮肌肉的动物的东西，就被规定为具有高度刺激感受性的动物有机体，或者，某种对知觉来说是极度虚弱状态的东西，就被规定为高度感受性的状态，或者，如果人们更愿意，就被规定为一种反常的感触，而且还是这种感触的增强（这些说法把感性的东西不是翻译成概念，而是翻译成拉丁文——并且还是一种糟糕的拉丁文）。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 1,
+   "de": "Daß das Tier starke Muskeln habe, kann vom Verstande auch so ausgedrückt werden, das Tier besitze eine große Muskelkraft, – wie die große Schwäche als eine geringe Kraft.",
+   "en": "That the animal has strong muscles can also be expressed by the understanding thus, that the animal possesses a great muscle-force, — as great weakness [is expressed] as a small force.",
+   "zh": "动物有强壮的肌肉，这一点知性也可以这样来表达：动物具有一种很大的肌肉力，——正如极度的虚弱被表达为一种很小的力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 2,
+   "de": "Die Bestimmung durch Irritabilität hat vor der Bestimmung als Kraft voraus, daß diese die unbestimmte Reflexion-in-sich, jene aber die bestimmte ausdrückt, denn die eigentümliche Kraft des Muskels ist eben Irritabilität, – und vor der Bestimmung durch starke Muskeln, daß, wie schon in der Kraft, die Reflexion-in-sich zugleich darin enthalten ist.",
+   "en": "Determination through irritability has this over determination as force, that the latter expresses indeterminate reflection-into-itself, the former however the determinate, for the peculiar force of the muscle is precisely irritability, — and over determination through strong muscles [it has this], that, as already in force, reflection-into-itself is at the same time contained in it.",
+   "zh": "通过刺激感受性来规定，比起作为力来规定，其长处在于：后者表达的是无规定的自身反思，而前者表达的则是有规定的自身反思，因为肌肉特有的力恰恰就是刺激感受性，——而比起通过强壮的肌肉来规定，其长处在于：正如在力那里已经发生的那样，自身反思同时也包含在其中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 3,
+   "de": "So wie die Schwäche oder die geringe Kraft, die organische Passivität, bestimmt durch Sensibilität ausgedrückt wird.",
+   "en": "Just as weakness or the small force, organic passivity, is expressed as determined through sensibility.",
+   "zh": "正如虚弱或很小的力，即有机的受动性，被表达为通过感受性来规定的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 4,
+   "de": "Aber diese Sensibilität so für sich genommen und fixiert und noch mit der Bestimmung der Größe verbunden und als größere oder geringere Sensibilität einer größeren oder geringeren Irritabilität entgegengesetzt, ist jede ganz in das sinnliche Element und zur gemeinen Form einer Eigenschaft herabgesetzt und ihre Beziehung nicht der Begriff, sondern im Gegenteil die Größe, in welche nun der Gegensatz fällt und ein gedankenloser Unterschied wird.",
+   "en": "But this sensibility, thus taken for itself and fixed, and still bound up with the determination of magnitude, and opposed as greater or lesser sensibility to a greater or lesser irritability, is each wholly degraded into the sensuous element and to the common form of a property, and their relation is not the concept but, on the contrary, magnitude, into which the opposition now falls and becomes a thoughtless difference.",
+   "zh": "但这种感受性如果这样自为地被看待并被固定下来，并且还与大小的规定结合在一起，作为较大或较小的感受性而与较大或较小的刺激感受性相对立，那么每一方就完全被贬低到感性元素之中、被贬低为属性的通常形式，而它们的关系也就不是概念，反倒是大小，对立现在落入大小之中，变成一种无思想的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 5,
+   "de": "Wenn hierbei zwar das Unbestimmte der Ausdrücke von Kraft und Stärke und Schwäche entfernt wurde, so entsteht jetzt das ebenso leere und unbestimmte Herumtreiben in den Gegensätzen einer höheren und niederen Sensibilität, Irritabilität, in ihrem Auf- und Absteigen an- und gegeneinander.",
+   "en": "If hereby the indeterminateness of the expressions force, strength and weakness was indeed removed, there now arises the equally empty and indeterminate roaming about in the oppositions of a higher and lower sensibility, irritability, in their rising and falling on one another and against one another.",
+   "zh": "如果说这样一来，力、强度和虚弱这些说法的不确定性固然被除掉了，那么现在就出现了同样空洞而不确定的情形：在较高和较低的感受性、刺激感受性这些对立面中，在它们彼此相对和相互之间的上升和下降中来回打转。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 6,
+   "de": "Nicht weniger als Stärke und Schwäche ganz sinnliche gedankenlose Bestimmungen sind, ist die größere oder geringere Sensibilität, Irritabilität die gedankenlos aufgefaßte und ebenso ausgesprochene sinnliche Erscheinung.",
+   "en": "No less than strength and weakness are wholly sensuous, thoughtless determinations, the greater or lesser sensibility, irritability is the sensuous appearance apprehended and likewise expressed without thought.",
+   "zh": "正如强度和虚弱是完全感性的、无思想的规定一样，较大或较小的感受性、刺激感受性也是被无思想地把握、并被同样无思想地说出的感性现象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 7,
+   "de": "An die Stelle jener begriffslosen Ausdrücke ist nicht der Begriff getreten, sondern Stärke und Schwäche durch eine Bestimmung erfüllt worden, die für sich allein genommen auf dem Begriffe beruht und ihn zum Inhalte hat, aber diesen Ursprung und Charakter gänzlich verliert.",
+   "en": "In place of those concept-less expressions the concept has not stepped; rather, strength and weakness have been filled by a determination that, taken for itself alone, rests on the concept and has it as its content, but wholly loses this origin and character.",
+   "zh": "取代那些无概念的说法而出现的并不是概念，而是强和弱被一种规定充实了，这种规定单独自为地来看是以概念为根据、并以概念为内容的，但却完全失去了这个来源和这种品格。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 53,
+   "si": 8,
+   "de": "– Durch die Form der Einfachheit und Unmittelbarkeit also, in welcher dieser Inhalt zur Seite eines Gesetzes gemacht wird, und durch die Größe, welche das Element des Unterschiedes solcher Bestimmungen ausmacht, behält das ursprünglich als Begriff seiende und gesetzte Wesen die Weise des sinnlichen Wahrnehmens und bleibt von dem Erkennen so entfernt als in der Bestimmung durch Stärke und Schwäche der Kraft oder durch unmittelbare sinnliche Eigenschaften.",
+   "en": "— Through the form of simplicity and immediacy, then, in which this content is made into the side of a law, and through magnitude, which constitutes the element of the difference of such determinations, the essence that originally is and is posited as concept retains the manner of sensuous perceiving and remains as far removed from cognition as in the determination through strength and weakness of force or through immediate sensuous properties.",
+   "zh": "——所以，通过单纯性和直接性这一形式——这种内容在这种形式中被弄成一条规律的一个方面——，并且通过大小——大小构成这类规定之差别所在的元素——，那个原本作为概念而存在、并被设定为概念的本质，就保持着感性知觉的方式，并且与认识相距之远，一如在通过力的强度和虚弱来规定、或通过直接的感性属性来规定时那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 54,
+   "si": 0,
+   "de": "Es ist jetzt auch noch dasjenige für sich allein zu betrachten übrig, was das Äußere des Organischen ist und wie an ihm der Gegensatz seines Inneren und Äußeren sich bestimmt, so wie zuerst das Innere des Ganzen in der Beziehung auf sein eigenes Äußeres betrachtet wurde.",
+   "en": "There now still remains, besides, to consider for itself alone that which is the outer of the organic, and how on it the opposition of its inner and outer determines itself, just as first the inner of the whole was considered in relation to its own outer.",
+   "zh": "现在也还剩下要单独自为地加以考察的东西，即有机体的外在东西是什么，以及它的内在与外在的对立如何在它身上得到规定，正如最初整体之内的东西是就它对自己外在东西的关系而被考察的那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 55,
+   "si": 0,
+   "de": "Das Äußere, für sich betrachtet, ist die Gestaltung überhaupt, das System des sich im Elemente des Seins gliedernden Lebens und wesentlich zugleich das Sein des organischen Wesens für ein Anderes, – gegenständliches Wesen in seinem Fürsichsein.",
+   "en": "The outer, considered for itself, is formation in general, the system of life that articulates itself in the element of being, and essentially at the same time the being of the organic essence for an other — objective essence in its being-for-itself.",
+   "zh": "外在东西，自为地来看，是一般的形态塑造，是在存在的元素中把自己组织起来的生命的系统，并且本质上同时是有机本质为他者的存在，——是处于其自为存在中的对象性本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 55,
+   "si": 1,
+   "de": "– Dies Andere erscheint zunächst als seine äußere unorganische Natur.",
+   "en": "— This other appears at first as its outer inorganic nature.",
+   "zh": "——这个他者最初显现为它外在的无机自然。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 55,
+   "si": 2,
+   "de": "Diese beiden in Beziehung auf ein Gesetz betrachtet, kann, wie wir oben sahen, die unorganische Natur nicht die Seite eines Gesetzes gegen das organische Wesen ausmachen, weil dieses zugleich schlechthin für sich ist und eine allgemeine und freie Beziehung auf sie hat.",
+   "en": "Considering these two in relation to a law, the inorganic nature cannot, as we saw above, constitute the side of a law over against the organic essence, because this is at the same time absolutely for itself and has a universal and free relation to it.",
+   "zh": "把这两者就一种规律来考察，那么，正如我们上面所看到的，无机自然不能构成一条规律与有机本质相对立的那一面，因为后者同时绝对地自为地存在，并且对它有一种普遍的、自由的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 0,
+   "de": "Das Verhältnis dieser beiden Seiten aber an der organischen Gestalt selbst näher bestimmt, so ist sie also nach einer Seite gegen die unorganische Natur gekehrt, auf der ändern aber für sich und in sich reflektiert.",
+   "en": "If, however, the relation of these two sides is determined more closely on the organic shape itself, then it is turned toward inorganic nature on one side, but on the other is for itself and reflected into itself.",
+   "zh": "但把这两方面的关系在有机形态本身身上更切近地加以规定，那么它就一方面朝向无机自然，另一方面却自为地存在并反思回自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 1,
+   "de": "Das wirkliche organische Wesen ist die Mitte, welche das Fürsichsein des Lebens mit dem Äußeren überhaupt oder dem Ansichsein zusammenschließt.",
+   "en": "The actual organic essence is the middle that closes together the being-for-itself of life with the outer in general, or being-in-itself.",
+   "zh": "现实的有机本质是这样一个中项，它把生命的自为存在与一般的外在东西、或自在存在联结起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 2,
+   "de": "– Das Extrem des Fürsichseins ist aber das Innere als unendliches Eins, welches die Momente der Gestalt selbst aus ihrem Bestehen und dem Zusammenhange mit dem Äußeren in sich zurücknimmt, das Inhaltslose, das an der Gestalt sich seinen Inhalt gibt und an ihr als ihr Prozeß erscheint.",
+   "en": "— But the extreme of being-for-itself is the inner as infinite one, which takes the moments of the shape itself back into itself out of their subsistence and their connection with the outer — the contentless, which on the shape gives itself its content and appears on it as its process.",
+   "zh": "——但自为存在的极端是作为无限的“一”的内在东西，它把形态自身的诸环节从它们的持存和与外在东西的联系中收回自身之中，——是无内容的东西，它在形态上给自己取得自己的内容，并且在形态上作为形态的过程而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 3,
+   "de": "In diesem Extreme als einfacher Negativität oder reiner Einzelheit hat das Organische seine absolute Freiheit, wodurch es gegen das Sein für Anderes und gegen die Bestimmtheit der Momente der Gestalt gleichgültig und gesichert ist.",
+   "en": "In this extreme, as simple negativity or pure singularity, the organic has its absolute freedom, whereby it is indifferent and secured against being-for-another and against the determinacy of the moments of the shape.",
+   "zh": "在这个作为单纯否定性或纯粹个别性的极端中，有机体拥有自己的绝对自由，由此它对为他存在、对形态诸环节的规定性都漠不相关，并且得到保障。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 4,
+   "de": "Diese Freiheit ist zugleich Freiheit der Momente selbst, sie ist ihre Möglichkeit, als daseiende zu erscheinen und aufgefaßt zu werden, und wie gegen Äußeres sind sie darin auch gegeneinander befreit und gleichgültig, denn die Einfachheit dieser Freiheit ist das Sein oder ihre einfache Substanz.",
+   "en": "This freedom is at the same time the freedom of the moments themselves; it is their possibility of appearing and of being apprehended as existent, and as against the outer they are therein also freed and indifferent with respect to one another, for the simplicity of this freedom is being, or their simple substance.",
+   "zh": "这种自由同时是诸环节自身的自由，它是诸环节作为定在着的东西而出现、并被把握的可能性，而正如对外在东西一样，它们在其中也彼此获得自由、彼此漠不相关，因为这种自由的单纯性就是存在，或者说就是它们的单纯实体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 5,
+   "de": "Dieser Begriff oder reine Freiheit ist ein und dasselbe Leben, die Gestalt oder das Sein für Anderes mag in noch so mannigfaltigem Spiele umherschweifen; es ist diesem Strome des Lebens gleichgültig, welcher Art die Mühlen sind, die er treibt.",
+   "en": "This concept, or pure freedom, is one and the same life, however manifold the play in which the shape, or being-for-another, may wander about; it is indifferent to this stream of life what kind the mills are that it drives.",
+   "zh": "这个概念、或纯粹自由，是同一个生命，形态或为他存在尽可以在千变万化的游戏里四处游荡；对这条生命的河流来说，它推动的是些什么样的磨坊，都是无关紧要的。"
+  }
+ ]
+}

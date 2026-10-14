@@ -1,0 +1,145 @@
+{
+ "id": "w1-8-64",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "Eleusis 66)",
+ "heading": "Vertrauliche Briefe über das vormalige staatsrechtliche Verhältnis des Wadtlandes (Pays de Vaud) zur Stadt Bern",
+ "blocks": [
+  {
+   "bi": 64,
+   "k": "h",
+   "hash": "19woo69erp",
+   "text": "Vertrauliche Briefe über das vormalige staatsrechtliche Verhältnis des Wadtlandes (Pays de Vaud) zur Stadt Bern"
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1rhmhey1gj",
+   "sents": [
+    "Eine völlige Aufdeckung der ehemaligen Oligarchie des Standes Bern Aus dem Französischen eines verstorbenen Schweizers [Jean Jacques Cart] übersetzt und mit Anmerkungen versehen [von G. W. F. Hegel]76) Frankfurt am Main / In der Jägerschen Buchhandlung 1798"
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "h",
+   "hash": "1fp4orlxky",
+   "text": "Inhalt"
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1t0b49c1lv",
+   "sents": [
+    "1. Brief.",
+    "Verfassung der Wadt unter Savoyen"
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "4bkogd1jwe",
+   "sents": [
+    "2. Brief.",
+    "Besitznehmung der Wadt durch Bern und von demselben geschehene Bestätigung ihrer Rechte"
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "ixsqhbas5r",
+   "sents": [
+    "3. Brief.",
+    "Bern bemächtigt sich der Kirchengüter der Wadt"
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "1nqibq51c1",
+   "sents": [
+    "4. Brief.",
+    "Bern läßt die Landstände eingehen und übt die gesetzgebende Gewalt aus"
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "1hd1f6r7ni",
+   "sents": [
+    "5. Brief.",
+    "Bern maßt sich die Macht, Auflagen zu machen, an und das Eigentum des Staatsvermögens"
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "1ohsf4lt7k",
+   "sents": [
+    "6. Brief.",
+    "Bern maßt sich die gerichtliche Gewalt an, hebt besonders den Rechtsgang auf in der Verhaftung Martins und in den Begebenheiten im Jahre 1791"
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "a1our713jp",
+   "sents": [
+    "7. Brief.",
+    "Fortsetzung"
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "xn80r61iqf",
+   "sents": [
+    "8. Brief.",
+    "Verfügung über die bewaffnete Macht"
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "klhuwwig10",
+   "sents": [
+    "9. Brief.",
+    "Fremde Kriegsdienste"
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "idh2e8mj8z",
+   "sents": [
+    "10. Brief.",
+    "Bern übt die kirchliche Gewalt aus; Schicksal der Archive der Wadt"
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "yzu828wej3",
+   "sents": [
+    "11. Brief.",
+    "Die Berner Landvögte"
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1r5ox2w1vt",
+   "sents": [
+    "12. Brief.",
+    "Sonstige Aristokratie"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/8.p64.json"
+}

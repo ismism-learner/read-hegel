@@ -1,0 +1,137 @@
+{
+ "id": "w1-9-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "heading": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "5p10q01epl",
+   "text": "Anmerkung zum 7. Brief (S. 138 f.)"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1ae4ek6mc9",
+   "sents": [
+    "Wie es mit der Einführung der peinlichen Halsgerichtsordnung in der Wadt ging, erzählt Seigneux (im angegebenen Werke)80) auf folgende Art, woraus erhellt, daß auch in diesem Falle die Regierung von Bern allein die gesetzgebende Gewalt ausübte: \"Die Schweizer\", sagt er, \"nahmen die Karolina an, ohne ihr jedoch gesetzliche Kraft zu geben.\"",
+    "(Die Berner Regierung hat auch bis auf den heutigen Tag kein peinliches Gesetzbuch, und es ist ihr auch entbehrlich, da sie zugleich gesetzgebende und richterliche Gewalt ist.)",
+    "Die Regierung befahl die Befolgung derselben ihren Vasallen, die das Recht über Leben und Tod haben, und besonders der Stadt Lausanne an; in Ansehung der letzteren erhellt es aus unseren Gerichtsprotokollen, worin man findet, daß, da im Jahr 1555 ein Mädchen ihre Leibesfrucht abgetrieben hatte, das peinliche Gericht die in der Karolina darauf gesetzte Strafe der Ertränkung veränderte; die gnädigen Herren gaben dem Gerichte darüber scharfe Verweise; auf die deswegen eingereichten untertänigen Entschuldigungen antworteten sie: \"daß sie zwar durch die gegebenen Entschuldigungen nicht befriedigt worden wären, doch die Sache für diesmal auf sich beruhen lassen wollten, aber sie (die peinlichen Richter von Lausanne) sollen sich wohl in acht nehmen und in Zukunft die Verbrecher nach ihren Verdiensten und nach dem kaiserlichen Rechte strafen und ihnen keine Gnade erweisen.\""
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "h",
+   "hash": "6afkxaxa9c",
+   "text": "Anmerkung zum 9. Brief (S. 163 f.)"
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1oigrg71bx",
+   "sents": [
+    "Die Aristokratien, sagt Montesquieu81) , haben von denjenigen Patriziern Gefahr zu fürchten, die an der Regierung nicht teilnehmen können; sie im Zaume zu halten, sei vorzüglich das fürchterliche Inquisitionstribunal in Venedig notwendig gewesen.",
+    "Die Regierung von Bern befriedigt seine überzähligen Patrizier teils durch die vielen Stellen im Kanton, die die Staatsverwaltung erfordert, teils wurde sie derselben vorzüglich durch die fremden Kriegsdienste los; seitdem diese aufgehört haben, ist sie mit denselben auch wegen der Ansprüche der niedrigeren Berner Bürgerschaft auf sogenannte bürgerliche Posten in Verlegenheit gekommen; zu welchen dieser Klasse, die nicht zu den regierenden Familien gehört, durch die jetzige zahlreichere und bedeutendere Konkurrenz vornehmerer Patrizier der Zugang schwerer wird."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "h",
+   "hash": "4xsrgom2xs",
+   "text": "Anmerkung zum 10. Brief (S. 169 ff.)"
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1nosruqzsz",
+   "sents": [
+    "Die Pfarreien im deutschen Kanton sind von zweierlei Art, Rangpfründen und Kreditpfründen; jene werden an die Kandidaten nach ihrem Alter vergeben, diese, wie es auch schon der Name zeigt, nach dem Kredit, den die Kompetenten durch Familienverhältnisse usw. haben; zu den Rangpfründen gehören alle, deren Einkünfte gering, wenige, deren Einkünfte mittelmäßig sind; unter den Kreditpfründen sind manche, deren Ertrag sich jährlich auf 3000 Taler und darüber belaufen kann; natürlich werden diese Berner Bürgern zuteil, die einträglichsten den jüngeren Söhnen vornehmer Familien, Tochtermänner und Ratsherren usw. Für die, die im deutschen Kanton ins Predigtamt treten wollen, wozu nur die Städtebürger das Recht haben, ist in Bern eine theologische Anstalt: die drei Jahre, die zum Studium der Theologie bestimmt sind, muß der Kandidat nicht notwendig zum Studieren anwenden, er braucht sie nur verstreichen und nach Verfluß derselben sich examinieren zu lassen; denn er kann die Erlaubnis erhalten, zugleich Hauslehrer, dabei halbe und ganze Jahre abwesend zu sein, ja in den drei vollen Jahren ein Schulmeisteramt auf dem Land zu versehen und sich nur nach Verlauf derselben zum Examen einzufinden."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1s5hgt21qh",
+   "sents": [
+    "[Cart S. 178: \"Vom Los oder vom Rang hängen die Landvogteien ab, und es kommen sehr häufig Männer darauf, die weder unsere Gesetze, noch unsere Sitten, noch unsere Verhältnisse kennen.\"]"
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "2w2l6f1dma",
+   "sents": [
+    "Nur ein Mitglied des großen Rats ist fähig, Landvogt zu werden.",
+    "Der große und kleine Rat zusammen besteht, wenn er vollzählig ist, aus 299 Mitgliedern und darf nicht unter 200 herabsinken.",
+    "Der kleine Rat wird aus und von dem großen Rat durch eine Vermittlung von Stimmgeben und Ballotieren besetzt, jedesmal nach Abgang eines Mitgliedes.",
+    "Der große Rat wird erst wieder vollzählig gemacht, wenn die Anzahl der übriggebliebenen Mitglieder sich den 200 nähert, und dies trifft gewöhnlich alle zehn Jahre zu.",
+    "Die Wahlherren sind der kleine Rat (mit den zwei Schultheißen 27 Männer), außerdem noch 16 (Seizeniers) von dem großen Rat, die schon eine Landvogtei gehabt haben (Alt-Landvögte).",
+    "Unter denjenigen alten Landvögten, die zu derselben Zunft gehören - und alle Berner Bürger müssen Mitglieder einer Zunft (Gesellschaft) sein -, entscheidet das Los, wer Wahlherr werden soll; oft befinden sich solcher, die fähig sind, Sechzehner zu werden, 15, 12, oft auch nur einer oder zwei auf einer Zunft; da dieses Losen erst den Mittwoch vor dem Karfreitag (an welchem die Besetzung des großen Rats geschieht) vor sich geht und die Zahl aller alten Landvögte, zum Beispiel im Jahre 1795, sich auf 70 belief, so wird bei allen siebzig vorher Besuch gemacht, intrigiert, berechnet; man begreift, wie mannigfaltig die Kombinationen sein müssen, die ein Kandidat zu machen hat, um sich auf jeden Fall der Stimmen zu versichern.",
+    "Die Erwählung der Mitglieder in den großen Rat selbst geschieht eigentlich durch Stimmenmehrheit; jeder der Wahlherren hat aber einen, zum Teil auch zwei Kandidaten zu ernennen, durch die gemeinschaftliche Übereinkunft, daß einem Klienten aller der Wahlherren jeder seine Stimme gibt.",
+    "In Ansehung der übrigen Kandidaten bestimmt die Wichtigkeit ihrer Familien und tausendfältige andere Rücksichten die Stimmgebung.",
+    "Wer hierin den übrigen am meisten zu imponieren weiß, [wer,] wenn sie seinen Willen nicht tun wollten, ihren Günstlingen seine Stimme zu verweigern am hartnäckigsten droht, der wird am meisten Einfluß haben.",
+    "Da jeder der Wahlherren ein oder zwei neue Mitglieder selbst zu ernennen (namsen) hat, so ernennt der Vater seinen Sohn oder seine zwei Söhne oder seinen Bruder; hat er eine Tochter, wählt er sich einen reichen Tochtermann aus usw. Hat eine Familie mehrere junge Männer, die im Alter sind, in [den] Rat kommen zu können, und glaubt sie, doch nur einen hineinbringen zu können, so kauft derjenige, der sich als Kandidat stellen will, den übrigen es ab, daß sie sich nicht auch bewerben, - kurz, unter 92 Mitgliedern, die im Jahre 1795 in den großen Rat aufgenommen wurden, wurde nur von einem einzigen gesagt, daß seine Verdienste in etwas zu seiner Erwählung beigetragen haben.",
+    "Man sieht aus dem bisherigen im allgemeinen die Form dieser Wahl; aber um von der Betriebsamkeit, die vorhergeht, den Intriguen, die dabei gemacht werden, der Mannigfaltigkeit der Kombinationen, um die Mannigfaltigkeit der Interessen zu verknüpfen, der Leidenschaft, womit dies alles betrieben wird, oder den Gefühlen, die auf den glücklichen oder unglücklichen Ausgang folgen, - von der Gewaltsamkeit dieser Hoffnungen, der Furcht, der Angst, von der Stärke dieser Freude oder dieser Verzweiflung, um von allem diesem zusammen ein Bild zu bekommen, muß man alles selbst mitangesehen haben.",
+    "Man hat Beispiele, daß Männer, die ihrer Erwählung schon vorher gewiß waren (wie es überhaupt immer nur sehr wenige zweifelhaft sind), doch über die nun erreichte Wirklichkeit auf einige Tage närrisch geworden sind; - wem alle seine Sorge und Mühe mißlingt und [wer] ausgeschlossen wird, dessen Gemüt wird auf immer niedergeschlagen sein, auf immer einen nagenden Wurm in sich tragen; denn dem vornehmen Berner ist dieser einzige der höchste Lebensweg; war er auf diesem unglücklich, so kann sein Gemüt durch nichts mehr ganz erfüllt werden."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1t0hb0o129",
+   "sents": [
+    "Die Landvogteien werden unter denjenigen verlost, die im gleichen Jahre in den großen Rat gekommen sind; die älteren Promotionen haben die Wahl, ob sie auf eine Landvogtei Anspruch machen wollen; findet sich unter der älteren Promotion keiner, so kommt sie an die jüngere Promotion; wer also sonst reich ist, kann einer Landvogtei am längsten entbehren und dann die beste erhalten; daher kommt es, daß in Romain Motiers (dem Beispiel, das Cart [S. 178 f.] anführt) nacheinander so viele alte Offiziere Landvögte wurden; sie hatten, als Kommandanten der Regimenter in fremden Diensten, sehr einträgliche Stellen und kamen erst im Alter zurück, um, nachdem sie vielleicht bei ihrer Ernennung in den großen Rat einer Ratssitzung beigewohnt hatten, jetzt wieder einer beizuwohnen, in der sie, als die ältesten, ohne Konkurrenz die beste Landvogtei für sich nehmen."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "h",
+   "hash": "14su8m61hp",
+   "text": "Daß die Magistrate von den Bürgern gewählt werden müssen"
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "zl2eekog11",
+   "sents": [
+    "[Über die neuesten inneren Verhältnisse Württembergs, besonders über die Gebrechen der Magistratsverfassung]83)"
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "1t9na2d18d",
+   "sents": [
+    "(1798)"
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "1jxtahx15g",
+   "sents": [
+    "An das Württembergische Volk"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "2xjdwv16nb",
+   "sents": [
+    "Es wäre einmal Zeit, daß das württembergische Volk aus seinem Schwanken zwischen Furcht und Hoffnung, aus seiner Abwechslung von Erwartung und von Täuschung in dieser Erwartung herausträte.",
+    "Ich will nicht sagen, daß es auch Zeit wäre, daß jeder, der in einer Veränderung der Dinge oder in der Erhaltung des Alten nur seinen beschränkten Nutzen oder den Nutzen seines Standes wünscht, nur seine Eitelkeit um Rat fragt, - jene dürftigen Wünsche aufgebe, diese kleinlichen Sorgen fahren ließe und die Sorge fürs Allgemeine sich auf die Seele bände.",
+    "Für die Menschen von besseren Wünschen, von reinerem Eifer wäre es besonders Zeit, ihrem unbestimmten Willen die Teile der Verfassung vorzuhalten, welche auf Ungerechtigkeit gegründet sind, und auf die notwendige Veränderung solcher Teile ihre Wirksamkeit zu richten."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/9.p0.json"
+}

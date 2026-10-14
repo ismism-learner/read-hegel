@@ -1,0 +1,1428 @@
+{
+ "volume": "w2",
+ "styleGuide": [
+  "权威顺序（不可颠倒）：① 用户的词族／术语政策最高，任何其他依据都不得用来推翻它；② 本卷术语包在政策框架内细化，与政策冲突时以政策为准；③ 共享词表；④ 通行译名、学术惯例、其他中译本与读者评论——仅供参考，只能用来改进，绝不能作为改动政策译名的理由。特别提醒：通行译名（如“唯心主义”“理念”）与政策冲突时，一律以政策为准。",
+  "把 Hegel 的长句保留为一整句：德文一句对中文一句，用逗号、破折号、分号按原文的嵌套层次展开，不拆成一串流水短句，也不重排他的语序。",
+  "用白话，不用论文腔：能说“X 就是 Y”就不写“所谓 X 者，乃 Y 也”；不用“盖、故、岂、焉、换言之、不可谓不”这类旧腔，也不用“进行／作出／关于……的问题”这类翻译体套话。",
+  "术语照本包 entries 统一：扬弃、自在、自为、自在自为、定在、环节、知性、理性、绝对者、同一性、差别、对立、分裂、直观、反思、思辨；一个德文词只给一个中文词，全卷一致。本包没有的术语，取上下文里最普通的说法，不临时造词。",
+  "思辨句的主词要显形：Hegel 常用 das Absolute、die Vernunft、der Verstand 作主词并大量用代词，中译在首次出现时写明“绝对者／理性／知性”，同一句内再出现才用代词，避免“它、这”连用造成指代不清。",
+  "三组轴心词绝不混用：Verstand／Vernunft 作“知性／理性”，Reflexion／Spekulation 作“反思／思辨”，Identität／Indifferenz 作“同一性／无差别”；同一句里两词并出时，靠固定搭配（知性同一性、无差别点、反思哲学）把差别显出来。",
+  "人名、地名、书名用通行中译，首次出现可附原文；拉丁语、法语、希腊语和缩写（in infinitum、curta supellex、scibili、Aperçu、Code Napoléon、S.、Nr.、vgl.、Int.-Blatt 等）照抄原文，必要时在括注里给中文。",
+  "讽刺和挖苦照译其锋刃：Notizenblatt、《箴言》和《谁在抽象地思维？》里的挖苦话用现代汉语的俏皮话落地（Pöbel 作“群氓”、Brotwissenschaft 作“混饭吃的学问”），不抹平成中性叙述，也不加原文没有的脏字。",
+  "页码、编号、分级符号（a)、α)、β)、226)、f0-h1-1、N_90_）和公式形式（Ich = Ich、A = A、A = B）原样保留，不译不动，便于三栏逐句联动。",
+  "词根一致：同一德文词根的不同形式必须共用一个中文词根——Idee/ideal/Idealität/Idealismus/das Ideelle 一律用“观念”（观念、观念性、观念论、观念物），严禁“观念论”；Realität/real/Realismus/das Reelle 一律用“实在”（实在性、实在论、实在物）；Begriff/begreifen 用“概念”（概念、以概念把握）；Vorstellung 用“表象”，不得占用“观念”。",
+  "对偶成对：观念性／实在性、观念论／实在论、观念物／实在物必须成对出现，不许一边用“观念”、另一边用“唯物”。",
+  "同源可见：若德文一句里同时出现同族词（如 Idee 与 Idealität），中文也要让读者看出其同源关系。",
+  "日常义例外：同一词在非体系语境中的日常义可保留通用说法（ideal＝理想的、Ideal＝理想、realisieren＝实现），但体系义必须回到词族词根。",
+  "不拆句、不动标点层级：原文用逗号、分号、冒号层层展开的长句，中文保留为一整句；不得把分号改成句号切成一串短句——那会让段内论证层次散掉，读者无法看出论证走向。",
+  "不增不删：不漏否定词、不漏被动、不漏半句；不把一句拆成两句；不作解释性增补，不夹带译者自己的见解（译者注只写版本、术语与必要说明）。",
+  "一句只译一次：定语从句、插入语都只出现一次，不得重复翻译同一从句。",
+  "反身代词与格：德语第三格 sich 多数是“对自己／为自己”，不是“自己”；es ist / es gibt 常等于“有”，不要一律译成“它是”。",
+  "主宾与格关系逐句核对：德语长句里分句的主语常发生切换，必须显式处理，不得让前后分句的主语颠倒或含糊。",
+  "不造生词：术语先照词族政策（本包 family 条目），政策未覆盖之处才用通行译名；确需新造必须加译注说明理由。不得为了“通俗”而改用与政策冲突的通行译名。",
+  "术语一一对应：一个德文术语只用一个中文译名，一个中文译名也只用于一个德文术语；不得用两三个中文词去译同一个概念，也不得把两个不同术语合译成一个词。",
+  "代词指代要落实：不让读者做“二次解读”；指代不清时重复名词。",
+  "书名与学派名中的 Idealismus 同样作“观念论”，不因通行书名而例外（《先验观念论体系》System des transzendentalen Idealismus、《德国观念论最古老的体系纲领》Das älteste Systemprogramm des deutschen Idealismus）；首次出现附德文原名，便于读者对照通行译名。"
+ ],
+ "entries": [
+  {
+   "source": "Reflexion",
+   "en": "reflection",
+   "zh": "反思",
+   "type": "term",
+   "note": "指分离、把对立面固定下来的思维活动；不作“反映”"
+  },
+  {
+   "source": "Reflexionsphilosophie",
+   "en": "philosophy of reflection",
+   "zh": "反思哲学",
+   "type": "term",
+   "note": "黑格尔对康德、赖因霍尔德一系的贬称"
+  },
+  {
+   "source": "Spekulation",
+   "en": "speculation",
+   "zh": "思辨",
+   "type": "term",
+   "note": "指把握绝对同一性的思辨思维；不作“投机”"
+  },
+  {
+   "source": "spekulativ",
+   "en": "speculative",
+   "zh": "思辨的",
+   "type": "term",
+   "note": "与反思的、经验的相对举"
+  },
+  {
+   "source": "Verstand",
+   "en": "understanding",
+   "zh": "知性",
+   "type": "term",
+   "note": "与 Vernunft（理性）严格分开；不作“理智”"
+  },
+  {
+   "source": "Vernunft",
+   "en": "reason",
+   "zh": "理性",
+   "type": "term",
+   "note": "与 Verstand（知性）严格分开"
+  },
+  {
+   "source": "Verstandesidentität",
+   "en": "identity of the understanding",
+   "zh": "知性同一性",
+   "type": "term",
+   "note": "指 A = A 式的抽象同一；反思哲学的要害"
+  },
+  {
+   "source": "gesunder Menschenverstand",
+   "en": "sound common sense",
+   "zh": "健全常识",
+   "type": "term",
+   "note": "《哲学批判杂志》论战中的讽刺用语；不作“健康的人类理智”"
+  },
+  {
+   "source": "Identität",
+   "en": "identity",
+   "zh": "同一性",
+   "type": "term",
+   "note": "绝对同一性指主体与客体的同一；不作“身份”"
+  },
+  {
+   "source": "Indifferenz",
+   "en": "indifference",
+   "zh": "无差别",
+   "type": "term",
+   "note": "谢林用语：绝对者中的无差别；不作“冷漠”“无所谓”"
+  },
+  {
+   "source": "Differenz",
+   "en": "difference",
+   "zh": "差别",
+   "type": "term",
+   "note": "《差别》一文的核心词；与 Verschiedenheit（差异）近义"
+  },
+  {
+   "source": "Entzweiung",
+   "en": "diremption",
+   "zh": "分裂",
+   "type": "term",
+   "note": "统一体的自我分裂；与 Entgegensetzung（对立）分开"
+  },
+  {
+   "source": "Entgegensetzung",
+   "en": "opposition",
+   "zh": "对立",
+   "type": "term",
+   "note": "全卷统一“对立”；不另造“对置”"
+  },
+  {
+   "source": "Gegensatz",
+   "en": "opposition",
+   "zh": "对立",
+   "type": "term",
+   "note": "与 Entgegensetzung 同作“对立”；指已成的一组对立关系，两词同句并出时本词作“对立面”"
+  },
+  {
+   "source": "das Entgegengesetzte",
+   "en": "the opposed",
+   "zh": "对立面",
+   "type": "term",
+   "note": "指被设定为相互对立的两项"
+  },
+  {
+   "source": "Widerspruch",
+   "en": "contradiction",
+   "zh": "矛盾",
+   "type": "term",
+   "note": "与 Gegensatz（对立）分开"
+  },
+  {
+   "source": "Antinomie",
+   "en": "antinomy",
+   "zh": "二律背反",
+   "type": "term",
+   "note": "康德术语的通行译名；不作“悖论”"
+  },
+  {
+   "source": "Synthese",
+   "en": "synthesis",
+   "zh": "综合",
+   "type": "term",
+   "note": "文中亦作拉丁拼法 Synthesis；与 Antithese（反题）对举"
+  },
+  {
+   "source": "Aufhebung",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "术语义；日常义（取消一桩不公正）除外"
+  },
+  {
+   "source": "Moment",
+   "en": "moment",
+   "zh": "环节",
+   "type": "term",
+   "note": "指整体的环节、要素；不作“时刻”"
+  },
+  {
+   "source": "Dasein",
+   "en": "determinate being",
+   "zh": "定在",
+   "type": "term",
+   "note": "与 Existenz（存在）分开；“上帝存在”等固定搭配从俗"
+  },
+  {
+   "source": "Existenz",
+   "en": "existence",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 Dasein（定在）分开"
+  },
+  {
+   "source": "absolutes Wissen",
+   "en": "absolute knowing",
+   "zh": "绝对知识",
+   "type": "term",
+   "note": "思辨知识的最高形态；不作“绝对认知”"
+  },
+  {
+   "source": "Wissenschaft",
+   "en": "science",
+   "zh": "科学",
+   "type": "term",
+   "note": "指体系性的知识；不作“学术”"
+  },
+  {
+   "source": "Begriff",
+   "en": "concept",
+   "zh": "概念",
+   "type": "term",
+   "note": "与 Vorstellung（表象）、Idee（理念）分开"
+  },
+  {
+   "source": "Idee",
+   "en": "idea",
+   "zh": "观念",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）；与 Begriff（概念）分开；不作“观念”"
+  },
+  {
+   "source": "Vorstellung",
+   "en": "representation",
+   "zh": "表象",
+   "type": "term",
+   "note": "与 Begriff 分开；日常义作“想法”"
+  },
+  {
+   "source": "Anschauung",
+   "en": "intuition",
+   "zh": "直观",
+   "type": "term",
+   "note": "通行译名；不作“直觉”"
+  },
+  {
+   "source": "transzendentale Anschauung",
+   "en": "transcendental intuition",
+   "zh": "先验直观",
+   "type": "term",
+   "note": "知识之肯定面；与反思相对"
+  },
+  {
+   "source": "intellektuelle Anschauung",
+   "en": "intellectual intuition",
+   "zh": "智性直观",
+   "type": "term",
+   "note": "与“先验直观”同域；本卷两词并存"
+  },
+  {
+   "source": "transzendental",
+   "en": "transcendental",
+   "zh": "先验的",
+   "type": "term",
+   "note": "与 transzendent（超验的）严格分开"
+  },
+  {
+   "source": "transzendent",
+   "en": "transcendent",
+   "zh": "超验的",
+   "type": "term",
+   "note": "与 transzendental（先验的）严格分开"
+  },
+  {
+   "source": "Subjekt-Objekt",
+   "en": "subject-object",
+   "zh": "主体—客体",
+   "type": "term",
+   "note": "费希特—谢林的核心词；主观的／客观的留给 subjektiv／objektiv"
+  },
+  {
+   "source": "Nicht-Ich",
+   "en": "not-I",
+   "zh": "非我",
+   "type": "term",
+   "note": "费希特用语；与 Ich（我）对举"
+  },
+  {
+   "source": "Ich = Ich",
+   "en": "I = I",
+   "zh": "我 = 我",
+   "type": "term",
+   "note": "费希特体系的第一原理；公式形式照原文保留"
+  },
+  {
+   "source": "das Absolute",
+   "en": "the absolute",
+   "zh": "绝对者",
+   "type": "term",
+   "note": "名词义须带“者”；形容词 absolut 作“绝对的”"
+  },
+  {
+   "source": "Absolutheit",
+   "en": "absoluteness",
+   "zh": "绝对性",
+   "type": "term",
+   "note": "与 Absolutsein（绝对存在）同域"
+  },
+  {
+   "source": "Idealismus",
+   "en": "idealism",
+   "zh": "观念论",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）；书名从通行译名《先验观念论体系》"
+  },
+  {
+   "source": "Dogmatismus",
+   "en": "dogmatism",
+   "zh": "独断论",
+   "type": "term",
+   "note": "哲学史义；不作“教条主义”"
+  },
+  {
+   "source": "Skeptizismus",
+   "en": "scepticism",
+   "zh": "怀疑论",
+   "type": "term",
+   "note": "《怀疑论与哲学的关系》的主题"
+  },
+  {
+   "source": "Formalismus",
+   "en": "formalism",
+   "zh": "形式主义",
+   "type": "term",
+   "note": "黑格尔对康德—费希特伦理学的指责"
+  },
+  {
+   "source": "Empirie",
+   "en": "empirical knowledge",
+   "zh": "经验",
+   "type": "term",
+   "note": "与哲学科学对举；形容词 empirisch 作“经验的”"
+  },
+  {
+   "source": "Potenz",
+   "en": "potency",
+   "zh": "级次",
+   "type": "term",
+   "note": "谢林用语（亦译“幂次”）；herabpotenziert 作“降格”"
+  },
+  {
+   "source": "Totalität",
+   "en": "totality",
+   "zh": "总体性",
+   "type": "term",
+   "note": "“整体”留给 das Ganze"
+  },
+  {
+   "source": "Mannigfaltigkeit",
+   "en": "manifoldness",
+   "zh": "杂多",
+   "type": "term",
+   "note": "康德—黑格尔术语；不作“多样性”"
+  },
+  {
+   "source": "Idealität",
+   "en": "ideality",
+   "zh": "观念性",
+   "type": "term",
+   "note": "与 Realität（实在性）对举"
+  },
+  {
+   "source": "Realität",
+   "en": "reality",
+   "zh": "实在性",
+   "type": "term",
+   "note": "与 Wirklichkeit（现实性）分开"
+  },
+  {
+   "source": "ideell",
+   "en": "ideal",
+   "zh": "观念的",
+   "type": "term",
+   "note": "与 reell（实在的）成对；不作“理想的”"
+  },
+  {
+   "source": "reell",
+   "en": "real",
+   "zh": "实在的",
+   "type": "term",
+   "note": "与 ideell（观念的）成对；不作“现实的”"
+  },
+  {
+   "source": "Unendlichkeit",
+   "en": "infinity",
+   "zh": "无限性",
+   "type": "term",
+   "note": "与 Endlichkeit（有限性）对举"
+  },
+  {
+   "source": "Endlichkeit",
+   "en": "finitude",
+   "zh": "有限性",
+   "type": "term",
+   "note": "与 Unendlichkeit（无限性）对举"
+  },
+  {
+   "source": "Unmittelbarkeit",
+   "en": "immediacy",
+   "zh": "直接性",
+   "type": "term",
+   "note": "与 Vermittlung（中介）对举"
+  },
+  {
+   "source": "Vermittlung",
+   "en": "mediation",
+   "zh": "中介",
+   "type": "term",
+   "note": "与 Unmittelbarkeit（直接性）对举"
+  },
+  {
+   "source": "Bewußtsein",
+   "en": "consciousness",
+   "zh": "意识",
+   "type": "term",
+   "note": "reines Bewußtsein 作“纯粹意识”"
+  },
+  {
+   "source": "Intelligenz",
+   "en": "intelligence",
+   "zh": "智性",
+   "type": "term",
+   "note": "费希特—谢林用语；与“智性直观”同族"
+  },
+  {
+   "source": "Naturphilosophie",
+   "en": "philosophy of nature",
+   "zh": "自然哲学",
+   "type": "term",
+   "note": "谢林一系的学科名；《差别》为其辩护"
+  },
+  {
+   "source": "Prinzip",
+   "en": "principle",
+   "zh": "原则",
+   "type": "term",
+   "note": "与 Grundsatz（根本命题）分开"
+  },
+  {
+   "source": "Grundsatz",
+   "en": "fundamental proposition",
+   "zh": "根本命题",
+   "type": "term",
+   "note": "《以绝对根本命题的形式出现的哲学原理》标题用词"
+  },
+  {
+   "source": "Satz",
+   "en": "proposition",
+   "zh": "命题",
+   "type": "term",
+   "note": "Satz des Grundes 作“根据命题”；不作“定理”"
+  },
+  {
+   "source": "Kategorie",
+   "en": "category",
+   "zh": "范畴",
+   "type": "term",
+   "note": "“范畴的演绎”是 w2 的核心争论"
+  },
+  {
+   "source": "Deduktion",
+   "en": "deduction",
+   "zh": "演绎",
+   "type": "term",
+   "note": "尤指康德“范畴的演绎”"
+  },
+  {
+   "source": "Konstruktion",
+   "en": "construction",
+   "zh": "建构",
+   "type": "term",
+   "note": "指在意识中建构绝对；与日常义“构造”区分"
+  },
+  {
+   "source": "Apriorität",
+   "en": "the a priori",
+   "zh": "先验性",
+   "type": "term",
+   "note": "与 Aposteriorität 对举；不作“先天性”"
+  },
+  {
+   "source": "Bestimmtheit",
+   "en": "determinacy",
+   "zh": "规定性",
+   "type": "term",
+   "note": "与 Gewißheit（确定性）分开"
+  },
+  {
+   "source": "Gewißheit",
+   "en": "certainty",
+   "zh": "确定性",
+   "type": "term",
+   "note": "与 Bestimmtheit（规定性）分开"
+  },
+  {
+   "source": "Erkenntnis",
+   "en": "cognition",
+   "zh": "认识",
+   "type": "term",
+   "note": "与 Wissen（知识）分开"
+  },
+  {
+   "source": "Notwendigkeit",
+   "en": "necessity",
+   "zh": "必然性",
+   "type": "term",
+   "note": "与 Zufälligkeit（偶然性）对举"
+  },
+  {
+   "source": "Wirklichkeit",
+   "en": "actuality",
+   "zh": "现实性",
+   "type": "term",
+   "note": "不作“实在性”；与 Realität 分开"
+  },
+  {
+   "source": "Bildung",
+   "en": "culture",
+   "zh": "教养",
+   "type": "term",
+   "note": "《差别》的核心词，兼含形成、教化义；不作“教育”"
+  },
+  {
+   "source": "Zeitbedürfnis",
+   "en": "the need of the time",
+   "zh": "时代需要",
+   "type": "term",
+   "note": "《差别》序言用语；指哲学当下的处境与需要"
+  },
+  {
+   "source": "Bedürfnis der Philosophie",
+   "en": "the need of philosophy",
+   "zh": "哲学的需要",
+   "type": "term",
+   "note": "《差别》第一节标题；其源为分裂"
+  },
+  {
+   "source": "Kritik",
+   "en": "criticism",
+   "zh": "批判",
+   "type": "term",
+   "note": "philosophische Kritik 作“哲学批判”；与书名《……批判》同词"
+  },
+  {
+   "source": "Rezension",
+   "en": "review",
+   "zh": "书评",
+   "type": "term",
+   "note": "本卷收有《埃尔朗根文学报》等处的书评"
+  },
+  {
+   "source": "Naturrecht",
+   "en": "natural law",
+   "zh": "自然法",
+   "type": "term",
+   "note": "学科名；不作“自然权利”“天赋人权”"
+  },
+  {
+   "source": "Rechtswissenschaft",
+   "en": "jurisprudence",
+   "zh": "法学",
+   "type": "term",
+   "note": "positive Rechtswissenschaften 作“实证法学”"
+  },
+  {
+   "source": "positives Recht",
+   "en": "positive law",
+   "zh": "实证法",
+   "type": "term",
+   "note": "positiv 指由权威给定；不作“积极的权利”"
+  },
+  {
+   "source": "Sittlichkeit",
+   "en": "ethical life",
+   "zh": "伦理",
+   "type": "term",
+   "note": "与 Moralität（道德）严格分开"
+  },
+  {
+   "source": "das Sittliche",
+   "en": "the ethical",
+   "zh": "伦理的东西",
+   "type": "term",
+   "note": "形容词名词化；指伦理领域本身"
+  },
+  {
+   "source": "absolute Sittlichkeit",
+   "en": "absolute ethical life",
+   "zh": "绝对伦理",
+   "type": "term",
+   "note": "耶拿伦理体系的核心概念"
+  },
+  {
+   "source": "Moralität",
+   "en": "morality",
+   "zh": "道德",
+   "type": "term",
+   "note": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "Recht",
+   "en": "right",
+   "zh": "权利",
+   "type": "term",
+   "note": "本卷多指权利；“法律”留给 Gesetz"
+  },
+  {
+   "source": "Gesetz",
+   "en": "law",
+   "zh": "法律",
+   "type": "term",
+   "note": "道德语境作“法则”（如 Sittengesetz）"
+  },
+  {
+   "source": "Zwang",
+   "en": "coercion",
+   "zh": "强制",
+   "type": "term",
+   "note": "自然法学说中的强制；与 Gewalt（暴力）分开"
+  },
+  {
+   "source": "Verbrechen",
+   "en": "crime",
+   "zh": "罪行",
+   "type": "term",
+   "note": "与 Sünde（罪）不同域"
+  },
+  {
+   "source": "Strafe",
+   "en": "punishment",
+   "zh": "刑罚",
+   "type": "term",
+   "note": "与 Züchtigung（惩戒）近义而不混"
+  },
+  {
+   "source": "Eigentum",
+   "en": "property",
+   "zh": "财产",
+   "type": "term",
+   "note": "与 Besitz（占有）区分"
+  },
+  {
+   "source": "Person",
+   "en": "person",
+   "zh": "人格",
+   "type": "term",
+   "note": "法权意义上的人格；日常义才作“人”"
+  },
+  {
+   "source": "Naturzustand",
+   "en": "state of nature",
+   "zh": "自然状态",
+   "type": "term",
+   "note": "近代自然法的核心概念"
+  },
+  {
+   "source": "Staat",
+   "en": "state",
+   "zh": "国家",
+   "type": "term",
+   "note": "全卷基本术语"
+  },
+  {
+   "source": "Verfassung",
+   "en": "constitution",
+   "zh": "宪法",
+   "type": "term",
+   "note": "政治语境可作“宪制”"
+  },
+  {
+   "source": "Entfremdung",
+   "en": "estrangement",
+   "zh": "异化",
+   "type": "term",
+   "note": "本卷仅一见；“外化”留给 Entäußerung"
+  },
+  {
+   "source": "Schelling",
+   "en": "Schelling",
+   "zh": "谢林",
+   "type": "person",
+   "note": "《差别》与《信仰与知识》的主要对话者"
+  },
+  {
+   "source": "Fichte",
+   "en": "Fichte",
+   "zh": "费希特",
+   "type": "person",
+   "note": "《差别》上编与《信仰与知识》C 部分的批评对象"
+  },
+  {
+   "source": "Kant",
+   "en": "Kant",
+   "zh": "康德",
+   "type": "person",
+   "note": "三批判的作者；w2 全部争论的出发点"
+  },
+  {
+   "source": "Reinhold",
+   "en": "Reinhold",
+   "zh": "赖因霍尔德",
+   "type": "person",
+   "note": "《差别》的写作起因；其“哲学现状”论被逐段批评"
+  },
+  {
+   "source": "Jacobi",
+   "en": "Jacobi",
+   "zh": "雅可比",
+   "type": "person",
+   "note": "《信仰与知识》B 部分专论；持直接知识说"
+  },
+  {
+   "source": "Spinoza",
+   "en": "Spinoza",
+   "zh": "斯宾诺莎",
+   "type": "person",
+   "note": "实体概念是《差别》反复引用的范式"
+  },
+  {
+   "source": "Schulze",
+   "en": "Schulze",
+   "zh": "舒尔策",
+   "type": "person",
+   "note": "《埃奈西德穆》作者；《怀疑论与哲学的关系》的论敌"
+  },
+  {
+   "source": "Sextus Empiricus",
+   "en": "Sextus Empiricus",
+   "zh": "塞克斯都·恩披里柯",
+   "type": "person",
+   "note": "古代怀疑论的主要来源；正文多作 Sextus"
+  },
+  {
+   "source": "Krug",
+   "en": "Krug",
+   "zh": "克鲁格",
+   "type": "person",
+   "note": "《哲学新工具论草案》作者；被黑格尔讥评"
+  },
+  {
+   "source": "Platon",
+   "en": "Plato",
+   "zh": "柏拉图",
+   "type": "person",
+   "note": "思辨哲学的典范；与亚里士多德并列"
+  },
+  {
+   "source": "Aristoteles",
+   "en": "Aristotle",
+   "zh": "亚里士多德",
+   "type": "person",
+   "note": "与柏拉图并列为思辨的先驱"
+  },
+  {
+   "source": "Leibniz",
+   "en": "Leibniz",
+   "zh": "莱布尼茨",
+   "type": "person",
+   "note": "单子论与充足理由在文中被援引"
+  },
+  {
+   "source": "Locke",
+   "en": "Locke",
+   "zh": "洛克",
+   "type": "person",
+   "note": "经验论的代表；与康德对举"
+  },
+  {
+   "source": "Hume",
+   "en": "Hume",
+   "zh": "休谟",
+   "type": "person",
+   "note": "近代怀疑论的来源；《怀疑论与哲学的关系》援引"
+  },
+  {
+   "source": "Bardili",
+   "en": "Bardili",
+   "zh": "巴尔迪利",
+   "type": "person",
+   "note": "赖因霍尔德晚年追随的“逻辑实在论”作者"
+  },
+  {
+   "source": "Bouterwek",
+   "en": "Bouterwek",
+   "zh": "布特维克",
+   "type": "person",
+   "note": "《思辨哲学初阶》作者；w2 首篇书评的对象"
+  },
+  {
+   "source": "Eschenmayer",
+   "en": "Eschenmayer",
+   "zh": "埃申迈尔",
+   "type": "person",
+   "note": "对自然哲学的观念论责难；见《差别》开篇"
+  },
+  {
+   "source": "Paulus",
+   "en": "Paulus",
+   "zh": "保卢斯",
+   "type": "person",
+   "note": "《新约注释》作者；见《德意志文学报箴言》"
+  },
+  {
+   "source": "Rosenkranz",
+   "en": "Rosenkranz",
+   "zh": "罗森克朗茨",
+   "type": "person",
+   "note": "《神性三角形残篇》的报告人"
+  },
+  {
+   "source": "Jena",
+   "en": "Jena",
+   "zh": "耶拿",
+   "type": "place",
+   "note": "1801-1807 年黑格尔的执教地与本卷写作地"
+  },
+  {
+   "source": "Würzburg",
+   "en": "Würzburg",
+   "zh": "维尔茨堡",
+   "type": "place",
+   "note": "谢林 1803 年后的任教地；《维尔茨堡学者通报》"
+  },
+  {
+   "source": "Erlangen",
+   "en": "Erlangen",
+   "zh": "埃尔朗根",
+   "type": "place",
+   "note": "《埃尔朗根文学报》所在地"
+  },
+  {
+   "source": "Tübingen",
+   "en": "Tübingen",
+   "zh": "图宾根",
+   "type": "place",
+   "note": "黑格尔、谢林的求学地；文中引“图宾根方面”的议论"
+  },
+  {
+   "source": "Göttingen",
+   "en": "Göttingen",
+   "zh": "哥廷根",
+   "type": "place",
+   "note": "《哥廷根学者通报》与当地哲学状况"
+  },
+  {
+   "source": "Berlin",
+   "en": "Berlin",
+   "zh": "柏林",
+   "type": "place",
+   "note": "《柏林月刊》等论战的出处"
+  },
+  {
+   "source": "Deutschland",
+   "en": "Germany",
+   "zh": "德意志",
+   "type": "place",
+   "note": "指当时的德意志帝国；今义“德国”只用于日常处"
+  },
+  {
+   "source": "Differenz des Fichteschen und Schellingschen Systems der Philosophie",
+   "en": "The Difference Between Fichte's and Schelling's Systems of Philosophy",
+   "zh": "《费希特与谢林哲学体系的差别》",
+   "type": "work",
+   "note": "本卷首篇；原文亦作 … Schellingischen …"
+  },
+  {
+   "source": "Glauben und Wissen",
+   "en": "Faith and Knowledge",
+   "zh": "《信仰与知识》",
+   "type": "work",
+   "note": "1802；副题“康德、雅可比、费希特哲学”"
+  },
+  {
+   "source": "Kritisches Journal der Philosophie",
+   "en": "Critical Journal of Philosophy",
+   "zh": "《哲学批判杂志》",
+   "type": "work",
+   "note": "黑格尔与谢林合办；本卷中段文章出自此刊"
+  },
+  {
+   "source": "Erlanger Literatur-Zeitung",
+   "en": "Erlangen Literary Gazette",
+   "zh": "《埃尔朗根文学报》",
+   "type": "work",
+   "note": "本卷首篇书评的发表处"
+  },
+  {
+   "source": "Jenaische Allgemeine Literatur-Zeitung",
+   "en": "Jena General Literary Gazette",
+   "zh": "《耶拿普通文学报》",
+   "type": "work",
+   "note": "正文缩写作 Jenaische Allg. Lit.-Zeit.；黑格尔的讽刺对象"
+  },
+  {
+   "source": "Über die wissenschaftlichen Behandlungsarten des Naturrechts",
+   "en": "On the Scientific Ways of Treating Natural Law",
+   "zh": "《论自然法的科学处理方式》",
+   "type": "work",
+   "note": "1802/03；全称后半为“其在实践哲学中的位置及其与实证法学的关系”"
+  },
+  {
+   "source": "Verhältnis des Skeptizismus zur Philosophie",
+   "en": "The Relation of Scepticism to Philosophy",
+   "zh": "《怀疑论与哲学的关系》",
+   "type": "work",
+   "note": "1802；对舒尔策的批判"
+  },
+  {
+   "source": "Wissenschaftslehre",
+   "en": "Doctrine of Science",
+   "zh": "《知识学》",
+   "type": "work",
+   "note": "费希特体系之名；不作“科学学”"
+  },
+  {
+   "source": "Grundlage der gesamten Wissenschaftslehre",
+   "en": "Foundations of the Entire Doctrine of Science",
+   "zh": "《全部知识学的基础》",
+   "type": "work",
+   "note": "1794/95；正文引作 Fichtes Grundlage"
+  },
+  {
+   "source": "System des transzendentalen Idealismus",
+   "en": "System of Transcendental Idealism",
+   "zh": "《先验观念论体系》",
+   "type": "work",
+   "note": "1800；谢林的主要体系著作"
+  },
+  {
+   "source": "Kritik der reinen Vernunft",
+   "en": "Critique of Pure Reason",
+   "zh": "《纯粹理性批判》",
+   "type": "work",
+   "note": "1781/87；正文亦简称 Kritik"
+  },
+  {
+   "source": "Kritik der praktischen Vernunft",
+   "en": "Critique of Practical Reason",
+   "zh": "《实践理性批判》",
+   "type": "work",
+   "note": "1788；《信仰与知识》开篇论及"
+  },
+  {
+   "source": "Kritik der Urteilskraft",
+   "en": "Critique of the Power of Judgement",
+   "zh": "《判断力批判》",
+   "type": "work",
+   "note": "1790；反思判断力概念的出处"
+  },
+  {
+   "source": "Ethik",
+   "en": "Ethics",
+   "zh": "《伦理学》",
+   "type": "work",
+   "note": "斯宾诺莎的著作；正文引其实体定义"
+  },
+  {
+   "source": "Aenesidemus",
+   "en": "Aenesidemus",
+   "zh": "《埃奈西德穆》",
+   "type": "work",
+   "note": "1792；舒尔策对康德—赖因霍尔德的怀疑论攻击"
+  },
+  {
+   "source": "Wer denkt abstrakt?",
+   "en": "Who Thinks Abstractly?",
+   "zh": "《谁在抽象地思维？》",
+   "type": "work",
+   "note": "本卷末编的通俗名篇"
+  },
+  {
+   "source": "Maximen des Journals der deutschen Literatur",
+   "en": "Maxims for the Journal of German Literature",
+   "zh": "《德意志文学报箴言》",
+   "type": "work",
+   "note": "本卷末编；书评工作的纲领"
+  },
+  {
+   "source": "Aphorismen aus Hegels Wastebook",
+   "en": "Aphorisms from Hegel's Wastebook",
+   "zh": "《黑格尔废稿簿箴言》",
+   "type": "work",
+   "note": "1803-1806 年的笔记；Wastebook 保留原文"
+  },
+  {
+   "source": "Fragment vom göttlichen Dreieck",
+   "en": "Fragment on the Divine Triangle",
+   "zh": "《神性三角形残篇》",
+   "type": "work",
+   "note": "据罗森克朗茨的报告辑出"
+  },
+  {
+   "source": "Habilitationsthesen",
+   "en": "Habilitation Theses",
+   "zh": "《任教资格论文》",
+   "type": "work",
+   "note": "1801；本卷附录"
+  },
+  {
+   "source": "System der Sittlichkeit",
+   "en": "System of Ethical Life",
+   "zh": "《伦理体系》",
+   "type": "work",
+   "note": "1802/03 耶拿体系草稿；与本卷自然法文的“绝对伦理”同一语境"
+  },
+  {
+   "source": "Jenaer Realphilosophie",
+   "en": "Jena Realphilosophy",
+   "zh": "《耶拿实在哲学》",
+   "type": "work",
+   "note": "1805/06 体系草稿；承接本卷自然法与伦理的体系工作"
+  },
+  {
+   "source": "das Ideelle",
+   "en": "",
+   "zh": "观念物",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "idealisieren",
+   "en": "",
+   "zh": "观念化",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "idealistisch",
+   "en": "",
+   "zh": "观念论的",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Idealrealismus",
+   "en": "",
+   "zh": "观念实在论",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "real",
+   "en": "",
+   "zh": "实在的",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "das Reelle",
+   "en": "",
+   "zh": "实在物",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "Realismus",
+   "en": "",
+   "zh": "实在论",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "begreifen",
+   "en": "",
+   "zh": "以概念把握",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begrifflich",
+   "en": "",
+   "zh": "概念性的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begrifflos",
+   "en": "",
+   "zh": "无概念的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "vorgestellt",
+   "en": "",
+   "zh": "被表象的",
+   "type": "term",
+   "note": "词族 Vorstellung（词根：表象）"
+  },
+  {
+   "source": "Geist",
+   "en": "",
+   "zh": "精神",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "geistig",
+   "en": "",
+   "zh": "精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "geistlos",
+   "en": "",
+   "zh": "无精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "Wissen",
+   "en": "",
+   "zh": "知识",
+   "type": "term",
+   "note": "词族 Wissen（词根：知）"
+  },
+  {
+   "source": "Wahrheit",
+   "en": "",
+   "zh": "真理",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahr",
+   "en": "",
+   "zh": "真的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahrhaft",
+   "en": "",
+   "zh": "真正的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wirklich",
+   "en": "",
+   "zh": "现实的",
+   "type": "term",
+   "note": "词族 Wirklichkeit（词根：现实）"
+  }
+ ],
+ "forbidden": [
+  {
+   "source": "Reflexion",
+   "forbidden": "反映",
+   "prefer": "反思",
+   "why": "Reflexion 是分离、固定化的思维活动，不是“反映”（Widerschein）"
+  },
+  {
+   "source": "Verstand",
+   "forbidden": "理智",
+   "prefer": "知性",
+   "why": "与 Vernunft（理性）必须分开，“理智”易混"
+  },
+  {
+   "source": "Vernunft",
+   "forbidden": "知性",
+   "prefer": "理性",
+   "why": "与 Verstand（知性）必须分开"
+  },
+  {
+   "source": "Spekulation",
+   "forbidden": "投机",
+   "prefer": "思辨",
+   "why": "本卷指思辨思维，与投机无关"
+  },
+  {
+   "source": "Identität",
+   "forbidden": "身份",
+   "prefer": "同一性",
+   "why": "哲学义为同一性；身份、认同是日常义"
+  },
+  {
+   "source": "Indifferenz",
+   "forbidden": "冷漠",
+   "prefer": "无差别",
+   "why": "谢林的 Indifferenz 指绝对者中的无差别，不是情感冷漠"
+  },
+  {
+   "source": "Entzweiung",
+   "forbidden": "对立",
+   "prefer": "分裂",
+   "why": "对立留给 Entgegensetzung／Gegensatz；Entzweiung 指统一体自身裂开"
+  },
+  {
+   "source": "Gegensatz",
+   "forbidden": "矛盾",
+   "prefer": "对立",
+   "why": "“矛盾”留给 Widerspruch"
+  },
+  {
+   "source": "Widerspruch",
+   "forbidden": "对立",
+   "prefer": "矛盾",
+   "why": "与 Gegensatz（对立）分开"
+  },
+  {
+   "source": "Aufhebung",
+   "forbidden": "取消",
+   "prefer": "扬弃",
+   "why": "术语义为扬弃；“取消一桩不公正”等日常义除外"
+  },
+  {
+   "source": "Moment",
+   "forbidden": "时刻",
+   "prefer": "环节",
+   "why": "Hegel 的 Moment 指整体的环节、要素"
+  },
+  {
+   "source": "Dasein",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "与 Existenz（存在）分开"
+  },
+  {
+   "source": "Existenz",
+   "forbidden": "定在",
+   "prefer": "存在",
+   "why": "与 Dasein（定在）分开"
+  },
+  {
+   "source": "Anschauung",
+   "forbidden": "直觉",
+   "prefer": "直观",
+   "why": "通行译名为直观；直觉偏心理感受"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "观念",
+   "prefer": "表象",
+   "why": "与 Begriff（概念）分开"
+  },
+  {
+   "source": "Begriff",
+   "forbidden": "观念",
+   "prefer": "概念",
+   "why": "“观念”留给 Idee（理念）"
+  },
+  {
+   "source": "Idee",
+   "forbidden": "概念",
+   "prefer": "观念",
+   "why": "与 Begriff（概念）分开"
+  },
+  {
+   "source": "Bestimmtheit",
+   "forbidden": "确定性",
+   "prefer": "规定性",
+   "why": "“确定性”留给 Gewißheit"
+  },
+  {
+   "source": "Erkenntnis",
+   "forbidden": "知识",
+   "prefer": "认识",
+   "why": "“知识”留给 Wissen"
+  },
+  {
+   "source": "Totalität",
+   "forbidden": "整体",
+   "prefer": "总体性",
+   "why": "“整体”留给 das Ganze"
+  },
+  {
+   "source": "Subjekt-Objekt",
+   "forbidden": "主客观",
+   "prefer": "主体—客体",
+   "why": "Subjekt／Objekt 是主体／客体；主观／客观留给 subjektiv／objektiv"
+  },
+  {
+   "source": "transzendental",
+   "forbidden": "超验的",
+   "prefer": "先验的",
+   "why": "与 transzendent（超验的）严格分开"
+  },
+  {
+   "source": "transzendent",
+   "forbidden": "先验的",
+   "prefer": "超验的",
+   "why": "与 transzendental（先验的）严格分开"
+  },
+  {
+   "source": "Dogmatismus",
+   "forbidden": "教条主义",
+   "prefer": "独断论",
+   "why": "哲学史上指独断论，与康德—黑格尔的用法一致"
+  },
+  {
+   "source": "Antinomie",
+   "forbidden": "悖论",
+   "prefer": "二律背反",
+   "why": "康德术语的通行译名"
+  },
+  {
+   "source": "Naturrecht",
+   "forbidden": "自然权利",
+   "prefer": "自然法",
+   "why": "学科名作自然法；不作“天赋人权”"
+  },
+  {
+   "source": "Sittlichkeit",
+   "forbidden": "道德",
+   "prefer": "伦理",
+   "why": "与 Moralität（道德）严格分开"
+  },
+  {
+   "source": "Moralität",
+   "forbidden": "伦理",
+   "prefer": "道德",
+   "why": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "positives Recht",
+   "forbidden": "积极的权利",
+   "prefer": "实证法",
+   "why": "positiv 在此指由权威给定，不是逻辑上的“积极”"
+  },
+  {
+   "source": "Entfremdung",
+   "forbidden": "外化",
+   "prefer": "异化",
+   "why": "“外化”留给 Entäußerung"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "理想主义",
+   "prefer": "观念论",
+   "why": "Idealismus 是哲学学说，不是“理想主义”；书名从通行译名"
+  },
+  {
+   "source": "Mannigfaltigkeit",
+   "forbidden": "多样性",
+   "prefer": "杂多",
+   "why": "康德—黑格尔术语作杂多"
+  },
+  {
+   "source": "Potenz",
+   "forbidden": "能力",
+   "prefer": "级次",
+   "why": "谢林的 Potenz 指幂次、级次，不是能力"
+  },
+  {
+   "source": "Wirklichkeit",
+   "forbidden": "实在性",
+   "prefer": "现实性",
+   "why": "与 Realität（实在性）分开"
+  },
+  {
+   "source": "Realität",
+   "forbidden": "现实性",
+   "prefer": "实在性",
+   "why": "与 Wirklichkeit（现实性）分开"
+  },
+  {
+   "source": "ideell",
+   "forbidden": "理想的",
+   "prefer": "观念的",
+   "why": "与 Ideal（理想）分开；ideell 是观念性的"
+  },
+  {
+   "source": "reell",
+   "forbidden": "现实的",
+   "prefer": "实在的",
+   "why": "与 wirklich（现实的）分开"
+  },
+  {
+   "source": "Wissenschaftslehre",
+   "forbidden": "科学学",
+   "prefer": "知识学",
+   "why": "费希特著作的通行译名"
+  },
+  {
+   "source": "Recht",
+   "forbidden": "法律",
+   "prefer": "权利",
+   "why": "本卷 Recht 多指权利；“法律”留给 Gesetz，只有明显指成文法时才用“法”"
+  },
+  {
+   "source": "Zwang",
+   "forbidden": "暴力",
+   "prefer": "强制",
+   "why": "“暴力”留给 Gewalt"
+  },
+  {
+   "source": "Bildung",
+   "forbidden": "教育",
+   "prefer": "教养",
+   "why": "“教育”留给 Erziehung；Bildung 指教养、教化"
+  },
+  {
+   "source": "das Absolute",
+   "forbidden": "绝对",
+   "prefer": "绝对者",
+   "why": "名词义的 das Absolute 要带“者”；形容词 absolut 才作“绝对的”"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "观念论",
+   "prefer": "观念论",
+   "why": "政策：Idealismus 一律作“观念论”"
+  },
+  {
+   "source": "idealistisch",
+   "forbidden": "观念论的",
+   "prefer": "观念论的",
+   "why": "同上"
+  },
+  {
+   "source": "Idealität",
+   "forbidden": "观念性",
+   "prefer": "观念性",
+   "why": "同上"
+  }
+ ],
+ "doNotTranslate": [
+  "in infinitum",
+  "a priori",
+  "a posteriori",
+  "à corps perdu",
+  "curta supellex",
+  "scibili",
+  "pruritus",
+  "scientiae arcanae",
+  "Aperçu",
+  "Code Napoléon",
+  "Wastebook",
+  "S.",
+  "Nr.",
+  "Bd.",
+  "vgl.",
+  "Int.-Blatt",
+  "Allg. Lit.-Zeit.",
+  "Jenaische Allg. Lit.-Zeit.",
+  "Stuttg. Allg. Zeitung"
+ ]
+}

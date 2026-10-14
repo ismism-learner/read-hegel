@@ -1,0 +1,91 @@
+{
+ "id": "family-01",
+ "kind": "family-repair",
+ "instruction": "Fix ONLY the word-family rendering in the Chinese. Keep everything else identical; do not retranslate the sentence, do not polish it. Return the corrected Chinese sentence.",
+ "items": [
+  {
+   "vol": "w2",
+   "chunk": "4",
+   "bi": 60,
+   "si": 0,
+   "de": "Hören wir Herrn Krug noch weiter über das Ich; er ist überall ein warmer Patron des Ich gegen die Gegner der Wissenschaftslehre, er hat nichts gegen das Ich als Anfangspunkt der Philosophie; aller Spott darüber sei kleinlich und abgeschmackt usw. Er macht Ich gleichfalls zum Realprinzip des Erkennens; er erzählt, daß der transzendentale Idealismus auf die Selbständigkeit des Ich oder der Vernunft sich gründe und daß er sich selbst für diese Selbständigkeit interessiere.",
+   "en": "Let us hear Herr Krug further on the I; he is everywhere a warm patron of the I against the opponents of the Doctrine of Science, he has nothing against the I as the starting point of philosophy; all mockery of it is, he says, petty and insipid, etc.",
+   "zh": "我们再听听克鲁格先生关于我的进一步说法；他处处都是我的热心庇护人，用来对付《知识学》的反对者；他对把我看作哲学的出发点毫无异议；据他说，对此的一切嘲笑都是小心眼、都是乏味的，等等。",
+   "family": "Idee",
+   "root": "观念",
+   "member": "Idealismus"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 16,
+   "si": 1,
+   "de": "Wenn aber jede Tatsache des Bewußtseins unmittelbare Gewißheit hat, so ist eine Einsicht, daß etwas nur bedingterweise existiere, unmöglich; denn bedingterweise existieren und für sich nichts Gewisses sein, ist gleichbedeutend. - Ebenso drückt sich der Verfasser S. 72 aus, wenn er von jenem bestialischen Anstieren der Welt und seiner unleugbaren Gewißheit den Übergang zum Problem der theoretischen Philosophie macht: obgleich das Sein von Dingen nach den Aussprüchen des Bewußtseins ganz gewiß ist, so befriedigt dies doch keineswegs die Vernunft (hier werden wir lernen, worin sie besteht), weil es sich bei existierenden Dingen, die wir kennen, nicht von selbst versteht, daß sie sind und daß sie das sind, was sie sind. - Was hat es denn aber nun für eine Bewandtnis mit jener unleugbaren Gewißheit der Tatsache in der unmittelbaren Erkenntnis des Seins der Dinge; bei der Wirklichkeit, S. 57, die wir den angeschauten Sachen beilegen, finden schlechterdings keine Grade statt, so daß eine Sache mehr von der Wirklichkeit besäße als die andere.",
+   "en": "But if every fact of consciousness has immediate certainty, then an insight that something exists only conditionally is impossible; for to exist conditionally and to be nothing certain for oneself are synonymous. - The author expresses himself similarly S. 72, when he makes the transition from that bestial staring at the world and its undeniable certainty to the problem of theoretical philosophy: although the being of things, according to the pronouncements of consciousness, is wholly certain, this by no means satisfies reason (here we shall learn what it consists in), because with existing things that we know it does not follow of itself that they are and that they are what they are.",
+   "zh": "但如果每一个意识的事实都具有直接的确定性，那么\"某物只是有条件地存在\"这一洞见就是不可能的；因为有条件地存在和自在地不是任何确定的东西，是同一个意思。——作者在 S. 72 也是这样表述的，当他把那种对世界的兽性呆视及其不可否认的确定性过渡到理论哲学的问题时说道：尽管按照意识的各种说法，事物的存在是完全确定的，但这根本不使理性满足（这里我们将认识到理性究竟是什么），因为对于我们所认识的现存事物来说，它们存在、并且它们就是它们所是的那个东西，并不是不言自明的。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "Wirklichkeit"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 22,
+   "si": 11,
+   "de": "Es ist aber, sagt Herr Schulze, neuerlich schon von mehreren, besonders von Stäudlin bemerkt worden, daß der Geist, der die mittlere und neuere Akademie belebte, von dem Geiste, der die Skeptiker in ihren Untersuchungen leitete, gänzlich verschieden sei; die Anhänger jener waren wirklich nichts weiter als sophistische Schwätzer, die lediglich auf Trugschlüsse und Blendwerke ausgingen und die Philosophie sowie den ganzen Streit der Skeptiker mit den Dogmatikern, wie er damals geführt wurde, nur als Mittel ihres Hauptzwecks, nämlich die Kunst, andere zu bereden, zu glänzen und Aufsehen zu erregen, benutzten und für die Erforschung der Wahrheit um ihrer selbst willen gar keinen Sinn hatten. - Wenn auch eine solche Beschuldigung überhaupt nicht schon an und für sich so hohl und ekelhaft wäre, als sie es ist, so bliebe ja noch die ältere Akademie und Platon selbst übrig; es bleibt die Philosophie überhaupt übrig, welche kein Dogmatismus ist, auf welche Rücksicht zu nehmen gewesen wäre; aber mehr Rücksicht auf die Philosophie, als wir aus dieser Anmerkung anführten, haben wir nicht finden können.",
+   "en": "But, says Herr Schulze, it has recently already been remarked by several, especially by Stäudlin, that the spirit which animated the middle and newer Academy is wholly different from the spirit which guided the sceptics in their investigations; the adherents of the former were really nothing more than sophistical babblers, who aimed solely at fallacies and delusions and used philosophy, as well as the whole dispute of the sceptics with the dogmatists as it was conducted at the time, only as a means of their main purpose, namely the art of persuading others, of shining and of causing a sensation, and had no sense at all for the investigation of truth for its own sake. - Even if such an accusation were not already in and for itself as hollow and disgusting as it is, there would still remain the older Academy and Plato himself; there remains philosophy in general, which is no dogmatism, which would have had to be taken into account; but more regard for philosophy than we have cited from this note we have not been able to find.",
+   "zh": "可是，舒尔策先生说，近来已经有好些人，尤其是施托伊德林指出：使中期和新学园派活跃起来的那个精神，与在研究中引导怀疑论者的那个精神完全不同；前者的追随者实际上不过是些诡辩的空谈家，一味追求谬误推论和障眼把戏，把哲学以及怀疑论者与独断论者之间当时所进行的那整场争论，只当作达成他们主要目的的手段，也就是当作说服别人、炫耀和引起轰动的本领来使用，对于为真理本身而研究真理则毫无感觉。——即便这样一种指控本身并不像它实际上那样空洞和恶心，那也还剩下了老学园派和柏拉图本人；还剩下了哲学本身，而哲学并不是什么独断论，本来是应当顾及它的；但我们没能找到比我们从这条注释里引出的更多的对哲学的顾及。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 66,
+   "si": 0,
+   "de": "Dasjenige aber, was Leibniz von der Wahrheit der angeborenen Begriffe und Einsichten der reinen Vernunft sagt, sei vollends noch grundloser, und man müsse sich wirklich wundern, wie hierbei der Mann, dem die Erfordernisse zu einem gültigen Beweise gar nicht unbekannt waren, sowenig Aufmerksamkeit auf die Vorschriften der Logik beweisen konnte. - Hier lernen wir vorerst, woran es Leibniz hat fehlen lassen, nämlich an Aufmerksamkeit auf die Logik; und Herr Schulze wundert sich wirklich darüber; woran es aber Leibniz nicht fehlte, sondern was er zu viel hatte, war Genie, wie wir unten noch finden werden; und darüber, daß ein Mensch Genie hat, wird man sich doch auch wirklich wundern müssen.",
+   "en": "But what Leibniz says about the truth of the innate concepts and insights of pure reason is, he says, altogether still more groundless, and one must really wonder how in this the man, to whom the requirements of a valid proof were not at all unknown, could show so little attention to the precepts of logic. - Here we learn first of all wherein Leibniz let something be lacking, namely attention to logic; and Herr Schulze really wonders at it; but wherein Leibniz was not lacking, but what he had in excess, was genius, as we shall still find below; and that a human being has genius is, after all, something one will really also have to wonder at.",
+   "zh": "可是莱布尼茨关于天赋概念和纯粹理性洞见之真理所说的话，据他说就更加毫无根据了，人们实际上该感到奇怪：一个对有效证明的要求绝非陌生的人，在这里怎么会对逻辑的规范表现出如此少的注意。——这里我们首先得知莱布尼茨欠缺的是什么，即对逻辑的注意；舒尔策先生对此实际上感到奇怪；而莱布尼茨并不欠缺、反倒多出来的东西，是天才，这我们下面还会看到；至于一个人有天才，那人们实际上倒也该感到奇怪。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 71,
+   "si": 1,
+   "de": "Herr Schulze fordert, es müßte ja vorher erst dargetan werden, daß ein von Ewigkeit her existierender und gewisse Wahrheiten ununterbrochen denkender Verstand existiere, bevor man behaupten kann, daß es ewig und zu allen Zeiten gültige Wahrheiten gebe; ewige Wahrheiten seien solche, die nach unserer Einsicht jeder Verstand, der sich des Urteils bewußt ist, ebenso denken müsse, wie wir sie denken, und dies habe folglich keine Beziehung darauf, daß ein die Urteile wirklich denkender Verstand von Ewigkeit her existiert habe. - Auch hier faßt Herr Schulze die Existenz des göttlichen Verstandes wieder als eine empirische Existenz, die Ewigkeit als eine empirische Ewigkeit auf.",
+   "en": "Herr Schulze demands that it must first be shown beforehand that an understanding existing from eternity and thinking certain truths uninterruptedly exists, before one can assert that there are truths valid eternally and at all times; eternal truths are such that, according to our insight, every understanding that is conscious of the judgment must think them just as we think them, and this consequently has no relation to the fact that an understanding really thinking the judgments has existed from eternity. — Here too Herr Schulze again takes the existence of the divine understanding as an empirical existence, eternity as an empirical eternity.",
+   "zh": "舒尔策先生要求，必须先证明有一个从永恒以来就存在、并且不间断地思维着某些真理的知性存在，然后才能主张有永恒地、在一切时候都有效的真理；永恒真理是这样一些真理，按照我们的洞见，每一个意识到该判断的知性都必定像我们思维它们那样思维它们，因此这同一个实际上思维着那些判断的知性从永恒以来就存在过，毫无关系。——在这里，舒尔策先生同样又把神圣知性的存在理解为一种经验的存在，把永恒理解为一种经验的永恒。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "6",
+   "bi": 39,
+   "si": 2,
+   "de": "Aber soweit als sie wirklich sie vereinzelte, soweit würde sie nichts Schönes sein; aber als der reine Leib der inneren Schönheit hört das empirische Dasein selbst auf, ein Zeitliches und etwas Eigenes zu sein.",
+   "en": "But insofar as it really isolated it, to that extent it would be nothing beautiful; but as the pure body of inner beauty, empirical determinate being itself ceases to be something temporal and something of its own.",
+   "zh": "但就它实际上把它个别化而言，它就不会是什么美的东西；不过，作为内在的美的纯粹身体，经验性的定在本身就停止再是时间性的东西和属于自己的东西。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 4,
+   "si": 6,
+   "de": "Denn statt mit der Sache sich zu befassen, ist solches Tun immer über sie hinaus; statt in ihr zu verweilen und sich in ihr zu vergessen, greift solches Wissen immer nach einem Anderen und bleibt vielmehr bei sich selbst, als daß es bei der Sache ist und sich ihr hingibt.",
+   "en": "For instead of occupying itself with the matter, such activity is always beyond it; instead of lingering in it and forgetting itself in it, such knowing always reaches for something else and stays rather with itself than with the matter, giving itself over to it.",
+   "zh": "因为这种做法不是在跟事情打交道，而总是跑到事情外面去；它不是留在事情里、把自己忘在事情里，而总是伸手去抓别的东西，始终待在自己那儿，而不是待在事情那儿、把自己交给事情。",
+   "family": "Wissen",
+   "root": "知",
+   "member": "Wissen"
+  }
+ ]
+}

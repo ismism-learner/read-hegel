@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-01",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 2,
+   "si": 0,
+   "de": "Das Bewußtsein geht in dem Gedanken, welchen es erfaßt hat, daß das einzelne Bewußtsein an sich absolutes Wesen ist, in sich selbst zurück.",
+   "en": "In the thought that it has grasped, namely that the individual consciousness is in itself absolute essence, consciousness withdraws into itself.",
+   "zh": "意识在它已经把握到的那个思想里，即个别意识自在地就是绝对本质，退回到自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 2,
+   "si": 1,
+   "de": "Für das unglückliche Bewußtsein ist das Ansichsein das Jenseits seiner selbst.",
+   "en": "For the unhappy consciousness, being-in-itself is the beyond of itself.",
+   "zh": "对苦恼意识来说，自在存在是它自身的彼岸。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 2,
+   "si": 2,
+   "de": "Aber seine Bewegung hat dies an ihm vollbracht, die Einzelheit in Ihrer vollständigen Entwicklung oder die Einzelheit, die wirkliches Bewußtsein ist, als das Negative seiner selbst, nämlich als das gegenständliche Extrem gesetzt oder sein Fürsichsein aus sich hinausgerungen und es zum Sein gemacht zu haben; darin ist für es auch seine Einheit mit diesem Allgemeinen geworden, welche für uns, da das aufgehobene Einzelne das Allgemeine ist, nicht mehr außer ihm fällt und, da das Bewußtsein in dieser seiner Negativität sich selbst erhält, an ihm als solchem sein Wesen ist.",
+   "en": "But its movement has accomplished this in it: to have posited individuality in its complete development, or the individuality that is actual consciousness, as the negative of itself, namely as the objective extreme, or to have wrested its being-for-itself out of itself and made it into being; therein its unity with this universal has also come to be for it, a unity which for us, since the sublated individual is the universal, no longer falls outside it, and, since consciousness maintains itself in this its negativity, is its essence on it as such.",
+   "zh": "但它的运动已经在它身上做到了这一点：把在其完整发展中的个别性，或者把那个是现实意识的个别性，设定为它自身的否定物，也就是设定为对象性的极端，或者把它的自为存在从自身中争出来并使之成为存在；在这里，它和这一普遍物的统一也已经成为对它而言的统一，而这种统一对我们来说——由于被扬弃的个别之物就是普遍物——不再落到它之外，并且——由于意识在其这种否定性中保持自身——就在它身上、作为这样的它，是它的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 2,
+   "si": 3,
+   "de": "Seine Wahrheit ist dasjenige, welches in dem Schlüsse, worin die Extreme absolut auseinandergehalten auftraten, als die Mitte erscheint, welche es dem unwandelbaren Bewußtsein ausspricht, daß das Einzelne auf sich Verzicht getan, und dem Einzelnen, daß das Unwandelbare kein Extrem mehr für es, sondern mit ihm versöhnt ist.",
+   "en": "Its truth is that which in the syllogism in which the extremes appeared absolutely held apart shows itself as the middle, which declares to the unchangeable consciousness that the individual has renounced itself, and to the individual that the unchangeable is no longer an extreme for it but is reconciled with it.",
+   "zh": "它的真理就是那个在两端绝对分离地出现于其中的推论里作为中项而出现的东西，这一中项对不变的意识说出：个别之物已经放弃了自己，并且对个别之物说出：不变者不再是它的一个极端，而是与它和解了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 2,
+   "si": 4,
+   "de": "Diese Mitte ist die beide unmittelbar wissende und sie beziehende Einheit, und das Bewußtsein ihrer Einheit, welche sie dem Bewußtsein und damit sich selbst ausspricht, [ist] die Gewißheit, alle Wahrheit zu sein.",
+   "en": "This middle is the unity that immediately knows both and relates them, and the consciousness of their unity, which it expresses to consciousness and thereby to itself, [is] the certainty of being all truth.",
+   "zh": "这一中项是直接知道两者并把两者联系起来的那种统一，而关于两者之统一的意识，即它向意识、并由此向自身说出的那种统一，〔就是〕自己是全部真理的确定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 3,
+   "si": 0,
+   "de": "Damit, daß das Selbstbewußtsein Vernunft ist, schlägt sein bisher negatives Verhältnis zu dem Anderssein in ein positives um.",
+   "en": "In that self-consciousness is reason, its hitherto negative relation to otherness turns into a positive one.",
+   "zh": "随着自我意识就是理性，它此前对他在的否定关系就转变成肯定的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 3,
+   "si": 1,
+   "de": "Bisher ist es ihm nur um seine Selbständigkeit und Freiheit zu tun gewesen, um sich für sich selbst auf Kosten der Welt oder seiner eigenen Wirklichkeit, welche ihm beide als das Negative seines Wesens erschienen, zu retten und zu erhalten.",
+   "en": "Hitherto it has been concerned only with its independence and freedom, with saving and preserving itself for itself at the cost of the world or of its own actuality, both of which appeared to it as the negative of its essence.",
+   "zh": "此前它关心的只是自己的独立性和自由，只是要牺牲世界或它自己的现实性，来为它自己拯救和保存自己，而这两者对它来说都显得是它本质的否定物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 3,
+   "si": 2,
+   "de": "Aber als Vernunft, seiner selbst versichert, hat es die Ruhe gegen sie empfangen und kann sie ertragen; denn es ist seiner selbst als der Realität gewiß, oder daß alle Wirklichkeit nichts anderes ist als es; sein Denken ist unmittelbar selbst die Wirklichkeit; es verhält sich also als Idealismus zu ihr.",
+   "en": "But as reason, assured of itself, it has received calmness toward them and can endure them; for it is certain of itself as reality, or that all actuality is nothing other than it; its thinking is immediately itself actuality; it therefore relates to it as idealism.",
+   "zh": "但作为理性、作为确信自身的理性，它已经对它们获得了平静，并且能够忍受它们；因为它确信自己就是实在性，或者确信一切现实性无非就是它；它的思维直接就是现实性；所以它以观念论的方式对待现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 3,
+   "si": 3,
+   "de": "Es ist ihm, indem es sich so erfaßt, als ob die Welt erst jetzt ihm würde; vorher versteht es sie nicht; es begehrt und bearbeitet sie, zieht sich aus ihr in sich zurück und vertilgt sie für sich und sich selbst als Bewußtsein – als Bewußtsein derselben als des Wesens sowie als Bewußtsein ihrer Nichtigkeit.",
+   "en": "In grasping itself thus, it seems to it as if the world were only now becoming for it; before, it does not understand it; it desires it and works upon it, withdraws out of it into itself, and annihilates it for itself and itself as consciousness — as consciousness of it as of the essence as well as consciousness of its nullity.",
+   "zh": "当它这样把握自己时，在它看来就好像世界现在才为它产生出来；此前它并不理解世界；它欲望世界并加工世界，从世界中退回自身，并为它自己消灭世界，也消灭作为意识的自己——既作为把世界看作本质的意识，也作为意识到世界之虚无性的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 3,
+   "si": 4,
+   "de": "Hierin erst, nachdem das Grab seiner Wahrheit verloren, das Vertilgen seiner Wirklichkeit selbst vertilgt und die Einzelheit des Bewußtseins ihm an sich absolutes Wesen ist, entdeckt es sie als seine neue wirkliche Welt, die in ihrem Bleiben Interesse für es hat wie vorhin nur in ihrem Verschwinden; denn ihr Bestehen wird ihm seine eigene Wahrheit und Gegenwart: es ist gewiß, nur sich darin zu erfahren.",
+   "en": "Only herein, after the grave of its truth has been lost, the annihilation of its actuality itself annihilated, and the individuality of consciousness is to it in itself absolute essence, does it discover it as its new actual world, which in its persistence has interest for it as previously only in its vanishing; for its subsistence becomes for it its own truth and presence: it is certain of experiencing only itself therein.",
+   "zh": "只有在这里，在它的真理的坟墓已经失去、它的现实性的消灭本身也被消灭、意识的个别性自在地就是绝对本质之后，它才发现世界是它的新的现实世界，这一世界在它的持续中存在对它有意义，正如先前只在它的消失中才有意义；因为世界的持存成为它自己的真理和当前在场：它确信在其中经验到的只是自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 0,
+   "de": "Die Vernunft ist die Gewißheit des Bewußtseins, alle Realität zu sein; so spricht der Idealismus ihren Begriff aus.",
+   "en": "Reason is the certainty of consciousness that it is all reality; thus idealism expresses its concept.",
+   "zh": "理性是意识确信自己是一切实在性；观念论说出的就是理性的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 1,
+   "de": "Wie das Bewußtsein, das als Vernunft auftritt, unmittelbar jene Gewißheit an sich hat, so spricht auch der Idealismus sie unmittelbar aus: Ich bin Ich, in dem Sinne, daß Ich, welches mir Gegenstand ist, nicht wie im Selbstbewußtsein überhaupt, noch auch wie im freien Selbstbewußtsein, dort nur leerer Gegenstand überhaupt, hier nur Gegenstand, der sich von den anderen zurückzieht, welche neben ihm noch gelten, sondern Gegenstand mit dem Bewußtsein des Nichtseins irgendeines anderen, einziger Gegenstand, alle Realität und Gegenwart ist.",
+   "en": "Just as the consciousness that appears as reason immediately has that certainty in itself, so too does idealism immediately express it: I am I, in the sense that the I which is object to me is not, as in self-consciousness in general, nor yet as in free self-consciousness — there only empty object in general, here only object that withdraws from the others which still count alongside it — but object with the consciousness of the non-being of any other, the sole object, all reality and presence.",
+   "zh": "正如作为理性出现的意识直接就在自身中具有那种确定性，观念论也直接说出了它：我就是我，其意义是：对我而言是对象的那个我，并不像在一般自我意识中那样、也不像在自由的自我意识中那样——在那里只是一般的空洞对象，在这里只是从那些在它旁边仍然算数的其他对象那里抽身退回的对象——而是带着对任何别的东西都不存在的意识的对象，是唯一的对象，是一切实在性和当前在场。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 2,
+   "de": "Das Selbstbewußtsein ist aber nicht nur für sich, sondern auch an sich alle Realität erst dadurch, daß es diese Realität wird oder vielmehr sich als solche erweist.",
+   "en": "But self-consciousness is not only for itself but also in itself all reality only by becoming this reality, or rather by proving itself to be such.",
+   "zh": "但自我意识不仅自为地、而且自在地就是一切实在性，这一点只有通过它成为这种实在性、或者毋宁说通过它把自己表明为这种实在性才成立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 3,
+   "de": "Es erweist sich so in dem Wege, worin zuerst in der dialektischen Bewegung des Meinens, Wahrnehmens und des Verstandes das Anderssein als an sich und dann in der Bewegung durch die Selbständigkeit des Bewußtseins in Herrschaft und Knechtschaft, durch den Gedanken der Freiheit, die skeptische Befreiung und den Kampf der absoluten Befreiung des in sich entzweiten Bewußtseins das Anderssein, insofern es nur für es ist, für es selbst verschwindet.",
+   "en": "It proves itself thus in the course in which first, in the dialectical movement of meaning, perceiving and the understanding, otherness vanishes as something in itself, and then, in the movement through the independence of consciousness in lordship and bondage, through the thought of freedom, the sceptical liberation and the struggle of the absolute liberation of the consciousness divided within itself, otherness, insofar as it is only for it, vanishes for it itself.",
+   "zh": "它是在这样一条道路上证明自己的：在这条道路上，首先在意谓、知觉和知性的辩证运动里，他在作为自在的东西消失了，然后在那条通过意识在主人与奴隶中的独立性、通过自由的思想、通过怀疑的解放以及通过自身内分裂的意识的绝对解放之斗争的运动里，他在只要它只是为意识而存在的限度内，对意识自身消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 4,
+   "de": "Es traten zwei Seiten nacheinander auf, die eine, worin das Wesen oder das Wahre für das Bewußtsein die Bestimmtheit des Seins, die andere[, worin es] die hatte, nur für es zu sein.",
+   "en": "Two sides appeared one after the other, the one in which the essence or the true had, for consciousness, the determinacy of being, the other [in which it] had that of being only for it.",
+   "zh": "先后出现了两个方面，一方面是本质或真的东西对意识而言具有存在的规定性，另一方面它有的则是只为它而存在的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 5,
+   "de": "Aber beide reduzierten sich in eine Wahrheit, daß, was ist, oder das Ansich nur ist, insofern es für das Bewußtsein, und was für es ist, auch an sich ist.",
+   "en": "But both reduced themselves to one truth: that what is, or the in-itself, is only insofar as it is for consciousness, and what is for it is also in itself.",
+   "zh": "但两者都归结为一个真理：存在的东西，或者自在，只有在它为意识而存在的限度内才存在，而它为意识而存在的东西也自在地存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 6,
+   "de": "Das Bewußtsein, welches diese Wahrheit ist, hat diesen Weg im Rücken und vergessen, indem es unmittelbar als Vernunft auftritt, oder diese unmittelbar auftretende Vernunft tritt nur als die Gewißheit jener Wahrheit auf.",
+   "en": "The consciousness that is this truth has this path behind it and forgotten, in that it appears immediately as reason; or this immediately appearing reason appears only as the certainty of that truth.",
+   "zh": "具有这一真理的意识把这条道路留在背后，并且已经把它遗忘，因为它直接作为理性出现；或者说，这一直接出现的理性只是作为那个真理的确定性而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 7,
+   "de": "Sie versichert so nur, alle Realität zu sein, begreift dies aber selbst nicht; denn jener vergessene Weg ist das Begreifen dieser unmittelbar ausgedrückten Behauptung.",
+   "en": "Thus it only assures [us] that it is all reality, but does not itself comprehend this; for that forgotten path is the comprehending of this immediately expressed assertion.",
+   "zh": "它这样只是断言自己是一切实在性，但自己并不以概念把握这一点；因为那条被遗忘的道路就是对这一直接说出的主张的概念把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 4,
+   "si": 8,
+   "de": "Und ebenso ist dem, der ihn nicht gemacht hat, diese Behauptung, wenn er sie in dieser reinen Form hört – denn in einer konkreten Gestalt macht er sie wohl selbst -unbegreiflich.",
+   "en": "And likewise, for one who has not made it, this assertion, when he hears it in this pure form — for in a concrete shape he surely makes it himself — is incomprehensible.",
+   "zh": "同样，对于没有走过这条道路的人来说，这一主张，当他以这种纯粹的形式听到它时——因为在具体的形态中他自己大概也会作出这一主张——是不可理解的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 0,
+   "de": "Der Idealismus, der jenen Weg nicht darstellt, sondern mit dieser Behauptung anfängt, ist daher auch reine Versicherung, welche sich selbst nicht begreift, noch sich anderen begreiflich machen kann.",
+   "en": "The idealism that does not set forth that path but begins with this assertion is therefore also pure assurance, which does not comprehend itself nor can make itself intelligible to others.",
+   "zh": "那种不陈述那条道路、而是从这一主张开始的观念论，因此也只是纯粹的断言，它既不以概念把握自己，也不能使自己为别人所理解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 1,
+   "de": "Er spricht eine unmittelbare Gewißheit aus, welcher andere unmittelbare Gewißheiten gegenüberstehen, die allein auf jenem Wege verlorengegangen sind.",
+   "en": "It expresses an immediate certainty, over against which stand other immediate certainties, which have been lost only on that path.",
+   "zh": "它说出一种直接的确定性，而与它相对立的是另一些直接的确定性，这些确定性只有在那条道路上才失去了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 2,
+   "de": "Mit gleichem Rechte stellen daher neben der Versicherung jener Gewißheit sich auch die Versicherungen dieser anderen Gewißheiten.",
+   "en": "With equal right, therefore, alongside the assurance of that certainty there also stand the assurances of these other certainties.",
+   "zh": "所以，凭借同样的权利，与那种确定性的断言并列，也出现了这些别的确定性的断言。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 3,
+   "de": "Die Vernunft beruft sich auf das Selbstbewußtsein eines jeden Bewußtseins: Ich bin Ich, mein Gegenstand und Wesen ist Ich, und keines wird ihr diese Wahrheit ableugnen.",
+   "en": "Reason appeals to the self-consciousness of every consciousness: I am I, my object and essence is I, and none will deny this truth to it.",
+   "zh": "理性诉诸每一个意识的自我意识：我就是我，我的对象和本质就是我，谁也不会对它否认这一真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 4,
+   "de": "Aber indem sie sie auf diese Berufung gründet, sanktioniert sie die Wahrheit der anderen Gewißheit, nämlich der: es ist Anderes für mich.",
+   "en": "But in founding it on this appeal, it sanctions the truth of the other certainty, namely that there is an other for me.",
+   "zh": "但就在它把这一点建立在这种诉诸之上时，它也就认可了另一种确定性的真理，即：有他物为我而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 5,
+   "de": "Anderes als Ich ist mir Gegenstand und Wesen, oder indem Ich mir Gegenstand und Wesen bin, bin ich es nur, indem Ich mich von dem Anderen überhaupt zurückziehe und als eine Wirklichkeit neben es trete.",
+   "en": "An other than I is object and essence to me, or, in that I am object and essence to myself, I am so only in that I withdraw from the other in general and step as an actuality alongside it.",
+   "zh": "与我不同的他物对我来说是对象和本质，或者，在我对自己是对象和本质时，我之所以如此，只是因为我从一般意义上的他物那里抽身退回，并作为一种现实性站到它旁边。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 6,
+   "de": "– Erst wenn die Vernunft als Reflexion aus dieser entgegengesetzten Gewißheit auftritt, tritt ihre Behauptung von sich nicht nur als Gewißheit und Versicherung, sondern als Wahrheit auf; und nicht neben anderen, sondern als die einzige.",
+   "en": "— Only when reason appears as reflection out of this opposed certainty does its assertion of itself appear not only as certainty and assurance but as truth; and not alongside others, but as the only one.",
+   "zh": "——只有当理性作为反思从这种对立的确定性中出现时，它关于自己的主张才不只是作为确定性和断言、而是作为真理出现；并且不是与其他真理并列，而是作为唯一的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 7,
+   "de": "Das unmittelbare Auftreten ist die Abstraktion ihres Vorhandenseins, dessen Wesen und Ansich-sein absoluter Begriff, d.h. die Bewegung seines Gewordenseins ist.",
+   "en": "The immediate appearance is the abstraction of its being-at-hand, whose essence and being-in-itself is the absolute concept, i.e. the movement of its having-become.",
+   "zh": "直接的出现是它的现成存在的抽象，这种现成存在的本质和自在存在就是绝对概念，即它已经生成的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 8,
+   "de": "– Das Bewußtsein wird sein Verhältnis zum Anderssein oder seinem Gegenstande auf verschiedene Weise bestimmen, je nachdem es gerade auf einer Stufe des sich bewußtwerdenden Weltgeistes steht.",
+   "en": "— Consciousness will determine its relation to otherness, or to its object, in different ways, according as it stands at a stage of the world-spirit becoming conscious of itself.",
+   "zh": "——意识将依它恰好站在正在意识到自身的世界精神的哪一个阶段上，以不同的方式规定自己与他在、或与自己的对象的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 5,
+   "si": 9,
+   "de": "Wie er sich und seinen Gegenstand jedesmal unmittelbar findet und bestimmt oder wie er für sich ist, hängt davon ab, was er schon geworden oder was er schon an sich ist.",
+   "en": "How it each time immediately finds and determines itself and its object, or how it is for itself, depends on what it has already become or what it already is in itself.",
+   "zh": "它每一次如何直接地找到并规定自己和自己的对象，或者说它如何自为地存在，取决于它已经成为了什么，或者它已经自在地是什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 6,
+   "si": 0,
+   "de": "Die Vernunft ist die Gewißheit, alle Realität zu sein.",
+   "en": "Reason is the certainty of being all reality.",
+   "zh": "理性是确定性，即它是一切实在性。"
+  }
+ ]
+}

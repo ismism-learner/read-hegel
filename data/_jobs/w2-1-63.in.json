@@ -1,0 +1,94 @@
+{
+ "id": "w2-1-63",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "blocks": [
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "1uyk8vr1bs",
+   "sents": [
+    "Die Natur ist hiermit sowohl in theoretischer als in praktischer Rücksicht ein wesentlich Bestimmtes und Totes.",
+    "In jener Rücksicht ist sie die angeschaute Selbstbeschränkung, d. h. die objektive Seite des Selbstbeschränkens; indem sie als Bedingung des Selbstbewußtseins deduziert und, um das Selbstbewußtsein zu erklären, gesetzt wird, ist sie bloß ein zum Behuf der Erklärung durch Reflexion Gesetztes, ein ideell Bewirktes.",
+    "Wenn sie schon dadurch, daß das Selbstbewußtsein bedingt durch sie erwiesen wird, eine gleiche Würde der Selbständigkeit mit jenem erhält, so ist, weil sie nur durch die Reflexion gesetzt ist, ihre Selbständigkeit ebendadurch auch vernichtet und ihr Grundcharakter der des Entgegengesetztseins."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "185ziefnxv",
+   "sents": [
+    "Ebenso wird in praktischer Rücksicht, in der Synthese des bewußtlosen Sich-selbst-Bestimmens und des Selbstbestimmens durch einen Begriff, des Naturtriebs und des Triebs der Freiheit um der Freiheit willen29) , die Natur durch die Kausalität der Freiheit zu einem reell Bewirkten.",
+    "Das Resultat ist: der Begriff soll Kausalität auf die Natur haben und die Natur als ein absolut Bestimmtes gesetzt werden."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1hthi9e1j8",
+   "sents": [
+    "Wenn die Reflexion ihre Analyse des Absoluten vollständig in einer Antinomie setzt, das eine Glied als Ich, Unbestimmtheit oder Sich-selbst-Bestimmen, das andere als Objekt, Bestimmtsein, und beide als ursprünglich anerkennt, so behauptet sie die relative Unbedingtheit und damit auch die relative Bedingtheit beider.",
+    "Über diese Wechselwirkung des gegenseitigen Bedingens kann die Reflexion nicht hinaus.",
+    "Sie erweist sich als Vernunft dadurch, daß sie die Antinomie des bedingten Unbedingten aufstellt, und indem sie durch dieselbe auf eine absolute Synthese der Freiheit und des Naturtriebs hinweist, hat sie die Entgegensetzung und das Bestehen beider, oder eines derselben, und sich selbst nicht als das Absolute und Ewige behauptet, sondern vernichtet und in den Abgrund ihrer Vollendung gestürzt.",
+    "Wenn sie aber sich und eins ihrer Entgegengesetzten als das Absolute behauptet und am Kausalitätsverhältnisse festhält, so ist der transzendentale Gesichtspunkt und die Vernunft dem Standpunkt der bloßen Reflexion und dem Verstand unterlegen, dem es gelungen ist, das Vernünftige in der Form einer Idee als ein absolut Entgegengesetztes zu fixieren.",
+    "Für die Vernunft bleibt nichts als die Ohnmacht des sich selbst aufhebenden Forderns und der Schein einer - aber verständigen, formalen - Vermittlung der Natur und Freiheit in der bloßen Idee der Aufhebung der Gegensätze, in der Idee der Unabhängigkeit des Ich und des Absolut-Bestimmtseins der Natur, die als ein zu Negierendes, als absolut abhängig gesetzt ist.",
+    "Der Gegensatz ist aber nicht verschwunden, sondern - weil, indem ein Glied desselben besteht, auch das andere besteht - unendlich gemacht."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "dewq1n19vb",
+   "sents": [
+    "Auf diesem höchsten Standpunkte hat die Natur den Charakter der absoluten Objektivität oder des Todes; nur auf einem niedrigeren Standpunkte tritt sie mit dem Schein eines Lebens, als Subjekt = Objekt auf.",
+    "Wie auf dem höchsten Standpunkte das Ich die Form seiner Erscheinung als Subjekt nicht verliert, so wird dagegen der Charakter der Natur, Subjekt = Objekt zu sein, ein bloßer Schein und absolute Objektivität ihr Wesen."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1vy3427jla",
+   "sents": [
+    "Die Natur ist nämlich das bewußtlose Produzieren des Ich, und Produzieren des Ich ist ein Sich-selbst-Bestimmen, die Natur also selbst Ich, Subjekt = Objekt; und so wie meine Natur gesetzt ist, gibt es noch Natur außer der meinen, welche nicht die ganze Natur ist; die Natur außer mir wird gesetzt, um meine Natur zu erklären.",
+    "Weil meine Natur bestimmt ist als ein Trieb, ein Sich-selbst-Bestimmen durch sich selbst, so muß auch die Natur außer mir so bestimmt werden, und diese Bestimmung außer mir ist Erklärungsgrund meiner Natur.30)"
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "gtojlh1f47",
+   "sents": [
+    "Von diesem Sich-selbst-Bestimmenden durch sich selbst müssen nun die Reflexionsprodukte, Ursache und Wirkung, Ganzes und Teil usw. in ihrer Antinomie prädiziert, die Natur also als Ursache und Wirkung ihrer selbst, als Ganzes und Teil zugleich usw. gesetzt werden, wodurch sie den Schein erhält, ein Lebendiges und Organisches zu sein.31)"
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "ljs3tqq9u3",
+   "sents": [
+    "Allein dieser Standpunkt, auf welchem das Objektive von der reflektierenden Urteilskraft als ein Lebendiges charakterisiert wird, wird zu einem niedrigeren Standpunkt.",
+    "Ich findet sich nämlich nur als Natur, insofern es seine ursprüngliche Begrenztheit allein anschaut und die absolute Schranke des Urtriebs, also sich selbst objektiv setzt.",
+    "Auf dem transzendentalen Standpunkte wird aber Subjekt = Objekt nur im reinen Bewußtsein, im unbeschränkten Sich-selbst-Setzen anerkannt; dieses Sich-selbst-Setzen hat aber ein absolutes Entgegensetzen gegen sich, welches hierdurch als absolute Schranke des Urtriebs bestimmt ist.",
+    "Insofern Ich, als Trieb, sich nicht nach der Idee der Unendlichkeit bestimmt, also sich endlich setzt, ist dieses Endliche die Natur; es ist, als Ich, zugleich unendlich und Subjekt-Objekt.",
+    "Der transzendentale Gesichtspunkt, weil er nur das Unendliche als Ich setzt, macht hiermit eine Trennung des Endlichen und Unendlichen.",
+    "Er zieht die Subjekt-Objektivität aus dem, was als Natur erscheint, heraus, und dieser bleibt nichts als die tote Schale der Objektivität.",
+    "Ihr, dem vorher Endlich-Unendlichen, wird die Unendlichkeit genommen, und sie bleibt reine Endlichkeit, dem Ich = Ich entgegengesetzt; was Ich an ihr war, wird zum Subjekt gezogen.",
+    "Wenn nun der transzendentale Gesichtspunkt von der Identität, Ich = Ich, worin weder Subjektives noch Objektives ist, zur Differenz beider, welche als Entgegensetzen gegen das Sich-selbst-Setzen, gegen Ich = Ich geblieben ist, fortgeht und die Entgegengesetzten immer weiter bestimmt, so kommt er auch zu einem Standpunkt, auf welchem Natur für sich, als Subjekt = Objekt gesetzt ist; aber es soll nicht vergessen werden, daß diese Ansicht der Natur nur ein Produkt der Reflexion auf dem niedrigeren Standpunkt sei.",
+    "In der transzendentalen Deduktion bleibt die Schranke des Urtriebs (objektiv gesetzt - Natur) eine dem Urtrieb, dem wahren Wesen, das Ich = Ich, Subjekt = Objekt ist, absolut entgegengesetzte reine Objektivität.",
+    "Diese Entgegensetzung ist die Bedingung, durch welche Ich praktisch wird, d. h. die Entgegensetzung aufheben muß; diese Aufhebung wird so gedacht, daß eins vom andern abhängig gesetzt wird.",
+    "Die Natur wird in praktischer Rücksicht gesetzt als ein absolut durch den Begriff Bestimmtes; insofern sie nicht vom Ich bestimmt ist, hat Ich nicht Kausalität oder ist nicht praktisch; und der Standpunkt, welcher die Natur lebendig setzte, fällt wieder weg, denn ihr Wesen, ihr Ansich, sollte nichts sein als eine Schranke, eine Negation.",
+    "Die Vernunft bleibt auf diesem praktischen Standpunkte nichts als die tote und tötende Regel formaler Einheit, in die Hand der Reflexion gegeben, welche Subjekt und Objekt ins Verhältnis der Abhängigkeit des einen vom andern oder der Kausalität setzt und auf diese Weise das Prinzip der Spekulation, die Identität gänzlich beseitigt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p63.json"
+}

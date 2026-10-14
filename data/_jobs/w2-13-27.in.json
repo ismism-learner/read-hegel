@@ -1,0 +1,114 @@
+{
+ "id": "w2-13-27",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1d30iu21cb",
+   "sents": [
+    "In Deutschland wird immer der gesunde Menschenverstand in Schutz genommen gegen die sogenannten Anmaßungen der Philosophie.",
+    "Eitle Mühe, denn wenn ihnen die Philosophie auch alles einräumt, so nützt es sie doch nichts, denn - sie haben keinen.",
+    "Der echte gesunde Menschenverstand ist nicht bäurische Roheit, sondern in der gebildeten Sphäre mit den Bestimmtheiten der Bildung frei und gewaltsam umgehend nach der Wahrheit, und dann unmittelbar Rousseausche Paradoxie, wenn er seinen Widerspruch gegen die Bestimmtheiten ebenso wie die Bildung selbst in Grundsätzen ausdrückt, oder als Erfahrung, Raisonnement, Witz, wie Voltaire oder Helvetius.",
+    "Der Adel in Deutschland hat wohl auch gesunden Menschenverstand, aber eben darum braucht er ihn geradezu, ohne zu beweisen, daß er gebraucht werden dürfe - als wobei jene stehenbleiben."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "u7bmjk6t4a",
+   "sents": [
+    "Wieland, dem man sonst eben nicht Paradoxie vorwirft, hat den paradoxen Satz aufgestellt, daß es dienlich sei, von der Materie, worüber man schreibe, etwas zu verstehen, und man hat ihn probat gefunden."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "1ywhfme1oq",
+   "sents": [
+    "Narren werden mit Schaden klug, die gescheiten Leute bleiben hingegen mit allem Schaden unklug."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "6ppr5h1afd",
+   "sents": [
+    "Sei keine Schlafmütze, sondern immer wach!",
+    "Denn wenn du eine Schlafmütze bist, so bist du blind und stumm.",
+    "Bist du aber wach, so siehst du alles und sagst zu allem, was es ist.",
+    "Dieses aber ist die Vernunft und das Beherrschen der Welt."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "16l80061et",
+   "sents": [
+    "Auf Münzen von Titus und Vespasianus: ϑειότης, aeternitas (Titi etc.) etwas Gewöhnliches.",
+    "Auch schon Aeternitas Augusti.",
+    "Kaiserlicher Titel: Aeternitas vestra. Αἰώνιος βίος kommt auch von den Ptolemäern auf dem Rosettischen Stein vor; sonst auch nur αἰώνιος.",
+    "Dies αἰών schien sonst dem Neuen Testament eigentümlich zu sein."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "9m9uj8un0j",
+   "sents": [
+    "Einem Skrupulanten kann man sagen, daß das Gewissen eine moralische Laterne sei, die nur auf gutem Wege leuchtet; geht man auf bösen, so bläst man sie aus."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1vbbspa1ha",
+   "sents": [
+    "In omnia alia abeunt, welche mit Verleugnung ihrer Subjektivität etwas Erwiesenes, Wahrheit, denken und annehmen sollen.",
+    "Ihre subjektive Unruhe ist der Ruhe des Erkennens nicht fähig.",
+    "Sie haben unter keiner Zucht gestanden."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "in0t6b1f35",
+   "sents": [
+    "In Schwaben sagt man von etwas längst Geschehenem: es ist schon so lange, daß es bald nicht mehr wahr ist.",
+    "So ist Christus schon so lange für unsere Sünden gestorben, daß es bald nicht mehr wahr ist."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "16end4z11n",
+   "sents": [
+    "Die Bälle, öffentlichen Örter, Schauspiele sind nicht mehr viel besucht.",
+    "On s'assemble en famille, on revient aux mœurs.",
+    "Diese mœurs sind die allgemeine Langeweile des Öffentlichen, die Moralität."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1672124tzd",
+   "sents": [
+    "Für die Niederträchtigkeit ist allein die Moralität als Beziehung zur Tugend möglich.",
+    "Wie Karl Moor, nachdem er ganz verzweifelt, nachdem Vater und Geliebte dahin sind, zu seiner Strafe durch eine moralische Handlung geht: \"Dem Manne kann geholfen werden.\"",
+    "Das wahrhaft Tragische ist das Moralische.",
+    "Uns ist es zugleich sentimental."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p27.json"
+}

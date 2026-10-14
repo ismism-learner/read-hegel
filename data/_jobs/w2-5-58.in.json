@@ -1,0 +1,119 @@
+{
+ "id": "w2-5-58",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "Notizenblatt. 108) Besonderer Zweck des Blatts",
+ "heading": "Notizenblatt.108) Besonderer Zweck des Blatts",
+ "blocks": [
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "u0p6k11blz",
+   "sents": [
+    "\"Dritter Grund (S. 627): Der spekulative Philosoph stützt seine vorgebliche Wissenschaft von den absoluten Gründen des bedingterweise Existierenden ganz vorzüglich auf den Schluß von der Beschaffenheit der Wirkung auf die Beschaffenheit einer angemessenen Ursache. Von der Beschaffenheit der Wirkung läßt sich aber nicht im geringsten mit einiger Sicherheit auf die Beschaffenheit der Ursache schließen.\""
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "iuv0ex2ff9",
+   "sents": [
+    "In der Erläuterung wird behauptet, daß, wenn man nicht etwa durch Eingebung zur Erkenntnis dessen, was allem Bedingten zum Grunde liegen mag, gekommen sein will, so könne sie nur eine durch das Prinzip der Kausalität vermittelte Erkenntnis sein. - Von der spekulativen Philosophie ist diese Voraussetzung, daß in ihr das Kausalitätsverhältnis vorzüglich herrschend sei, wieder grundfalsch, denn es ist vielmehr völlig aus ihr verbannt; wenn es in der Form von Produzieren und Produkt etwa vorzukommen scheint, so wird es, indem das Produzierende und das Produkt gleichgesetzt werden, die Ursache gleich der Wirkung ein und ebendasselbe als Ursache seiner selbst und als Wirkung seiner selbst, damit unmittelbar aufgehoben und nur der Ausdruck des Verhältnisses, aber nicht das Verhältnis angewendet; - daß in der spekulativen Philosophie von der Beschaffenheit des Bedingten auf das Unbedingte geschlossen werde, davon ist ohnehin keine Rede."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "15a7ty71vf",
+   "sents": [
+    "Dies ist (S. 643) nun \"das Verzeichnis und der Inhalt der allgemeinen Gründe, um deren willen der Skeptiker den Lehren aller Systeme der Philosophie, die bisher aufgestellt worden sind oder noch künftig aufgestellt werden möchten, Gewißheit abspricht und welche ihn bestimmen, keinem einzigen dieser Systeme gegründete Ansprüche auf Wahrheit beizulegen\".",
+    "Man hat aber gesehen, daß diese Gründe mit der Philosophie nichts zu schaffen haben, indem die Philosophie nicht ein Ding aus Begriffen herauszuklauben noch eine jenseits der Vernunft liegende Sache auszukundschaften, überhaupt weder mit dem, was der Herr Verfasser Begriffe nennt, noch mit Dingen beschäftigt ist, noch von Wirkungen auf Ursachen schließt."
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "17qp2r51xy",
+   "sents": [
+    "Aus diesen Gründen, sagt Herr Schulze, sehe sich der Skeptiker bewogen, wenn er den eigentlichen Zweck der Philosophie und seine Bedingungen und zugleich die Fähigkeit des menschlichen Gemüts, zu einer realen und sicheren Erkenntnis zu gelangen, in Erwägung zieht, nicht einsehen zu können, wie jemals eine Erkenntnis des Übersinnlichen zustande kommen solle, wenn anders sich die Einrichtung des menschlichen Erkenntnisvermögens nicht ändert, wie wohl kein Vernünftiger erwartet und woraufhin eine Hoffnung zu nähren töricht sein würde.",
+    "Und um so törichter würde die Nährung einer solchen Hoffnung sein, da eine Philosophie auch bei der Einrichtung des menschlichen Gemüts, wie sie im laufenden Jahre sich vorfindet, möglich ist."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "d8evjnbiof",
+   "sents": [
+    "Diese Waffen sind es, mit welchen nun die Systeme Lockes, Leibnizens, Kants bekämpft werden; das System Lockes und Leibnizens nämlich als Systeme des Realismus, - jenes eines sensualistischen, dieses eines rationalistischen -, Kants System aber als System des transzendentalen Idealismus; der neuere transzendentale Idealismus ist für einen dritten Band aufgespart."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "1097b1hmyi",
+   "sents": [
+    "Der erste Band enthält die Darstellung dieser Systeme, des Lockeschen von S. 113 bis 140, des Leibnizischen von S. 141 bis 172.",
+    "Von S. 172 bis 582 aber erhalten wir wieder einen Auszug der so oft ausgezogenen Kantischen Kritik der reinen Vernunft; der folgende [Teil] bis zu Ende ist dem oben dargestellten Skeptizismus gewidmet."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "1xx6zdy4ie",
+   "sents": [
+    "Der zweite Band enthält die Kritik dieser Systeme nach den oben beleuchteten Gründen, - des Lockeschen Systems von S. 7 bis 90, des Leibnizischen von S. 91 bis 125.",
+    "Dem Kantischen sind 600 Seiten gewidmet."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1pp2nl5ejb",
+   "sents": [
+    "Als ein Beispiel, wie diese skeptischen Gründe auf diese Systeme angewendet werden, geben wir die Art, wie der Herr Verfasser Leibnizens angeborene Begriffe bestreitet; diese Widerlegung Leibnizens nimmt II.",
+    "Bd., S. 100 folgenden Verlauf. - Seit überhaupt Leibniz darin, daß der Grund der notwendigen Urteile bloß im Gemüt selbst liege und daß also der Verstand schon a priori Erkenntnisse enthalte, den Ton angegeben hat, so hat man es freilich unzählige Male wiederholt, daß notwendige Urteile nur aus dem erkennenden Subjekte selbst herrühren können, aber man hat bis jetzt noch keine einzige Eigenschaft dieses Subjekts nachgewiesen, vermöge welcher es sich ganz besonders dazu qualifizierte, die Quelle notwendiger Urteile zu sein, und weder in der Einfachheit, noch in der Substantialität, noch auch in der Erkenntnisfähigkeit desselben wird der Grund zu einer solchen Qualifikation angetroffen. - Sind denn die Einfachheit und die Substantialität der Seele Qualitäten, welche dieser Skeptizismus zugibt? - Wenn es bei der Behauptung notwendiger Urteile nur darauf ankäme, sie in einer Qualität der Seele aufzuzeigen, so ist ja nichts zu tun, als zu sagen, die Seele habe die Qualität notwendiger Urteile.",
+    "Wenn der Herr Verfasser alsdann behauptet, daß, soweit unsere Einsicht von unserem erkennenden Ich reiche soweit treffen wir auch in demselben nichts an, was dasselbe bestimmte, eine Quelle notwendiger Urteile sein zu müssen, so sagt er doch unmittelbar darauf, daß die Objekte unseres Denkens bald zufällige, bald notwendige Urteile sind; man könne aber nicht sagen, die letzteren Urteile hätten mehr Beziehung auf den Verstand und dessen Natur als wie jene, und es gehöre zum Wesen unseres Verstandes, notwendige Urteile hervorzubringen; man hat aber ja nur anzunehmen, es gebe zweierlei Qualitäten des Verstandes, eine Qualität der zufälligen, eine andere der notwendigen Urteile; auf diese Weise ist die Qualifikation unseres Gemüts zu notwendigen Urteilen ebensogut aufgewiesen als die anderen Qualitäten in einer empirischen Psychologie.",
+    "Herr Schulze gibt ja die notwendigen Urteile als eine Tatsache des Bewußtseins zu."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1hne7na1d9",
+   "sents": [
+    "Dasjenige aber, was Leibniz von der Wahrheit der angeborenen Begriffe und Einsichten der reinen Vernunft sagt, sei vollends noch grundloser, und man müsse sich wirklich wundern, wie hierbei der Mann, dem die Erfordernisse zu einem gültigen Beweise gar nicht unbekannt waren, sowenig Aufmerksamkeit auf die Vorschriften der Logik beweisen konnte. - Hier lernen wir vorerst, woran es Leibniz hat fehlen lassen, nämlich an Aufmerksamkeit auf die Logik; und Herr Schulze wundert sich wirklich darüber; woran es aber Leibniz nicht fehlte, sondern was er zu viel hatte, war Genie, wie wir unten noch finden werden; und darüber, daß ein Mensch Genie hat, wird man sich doch auch wirklich wundern müssen."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "c4qzv13dcq",
+   "sents": [
+    "Nämlich: es versteht sich nicht von selbst, daß, wenn es angeborene Begriffe und Grundsätze in unserem Gemüte gibt, auch etwas ihnen Entsprechendes außer denselben da sei, worauf sie sich beziehen und das sie so, wie es seiner objektiven Wirklichkeit nach ist, zu erkennen geben; denn Begriffe und Urteile in uns sind ja nicht die dadurch gedachten Objekte selbst, und mit der Notwendigkeit der Beziehung des Prädikats auf das Subjekt in unserem Denken derselben ist keineswegs die davon der Art nach ganz verschiedene Beziehung des Gedankens auf ein außer ihm existierendes reales Ding gegeben.",
+    "Man sieht, der Herr Verfasser nimmt die angeborenen Begriffe in dem grellsten Sinne, der möglich ist; nach seiner Vorstellung wird ein Subjekt geboren mit einem Paket Wechsel im Kopfe, welche auf eine außerhalb jenes Kopfes existierende Welt gezogen sind - die Frage aber wäre, ob die Wechsel von dieser Bank akzeptiert werden, ob sie nicht falsch sind -, oder mit einem Haufen Lotterielose in der Seele, von denen man niemals erfahren wird, ob sie nicht lauter Nieten sind, weil kein Ziehen der Lotterie erfolgt, durch das sie realisiert würden.",
+    "Dies ist, fährt der Herr Verfasser fort, auch jederzeit von den Verteidigern der angeborenen Begriffe und Grundsätze in der menschlichen Seele eingesehen und zugestanden worden, und daher haben sie einen Beweis für die Wahrheit dieser Begriffe und Grundsätze zu geben oder auch die Art genauer zu bestimmen gesucht, wie sich solche Begriffe auf reale Dinge beziehen sollen.",
+    "In der Anmerkung wird angeführt, nach dem Platon seien die Begriffe und Grundsätze, welche die Seele angeboren in das gegenwärtige Leben mitbringt und wodurch wir allein vermögend sind, das Wirkliche, wie es ist, nicht wie es uns durch die Sinne erscheint, zu erkennen, - bloße Erinnerungen derjenigen Anschauungen der Dinge, deren die Seele während ihres Umgangs mit Gott teilhaftig war.",
+    "Cartesius lasse es dabei bewenden, daß er sich auf die Wahrhaftigkeit Gottes berufe; dem Spinoza sei das Denken unseres Verstandes deshalb wahr, weil es aus den Vorstellungen und Erkenntnissen der Gottheit besteht, insofern sie das Wesen unseres Geistes ausmachen, welche Erkenntnisse der Gottheit mit dem dadurch Erkannten aber vollkommen übereinstimmen müssen und sogar mit diesem Erkannten ein und dasselbe Ding seien.",
+    "Nach Leibniz soll den in unserem Gemüte a priori liegenden Grundsätzen und darin enthaltenen Vorstellungen aus dem Grunde Wahrheit und Realität zukommen, weil sie Abbildungen der in dem Verstande der Gottheit befindlichen Begriffe und Wahrheiten, welche das Prinzip der Möglichkeit, Existenz und Beschaffenheit aller realen Dinge in der Welt sind, sind.",
+    "Durch die Stellung, welche Herr Schulze der Sache gegeben hat, hat er aber, noch ehe er an die Kritik kommt, die Sache unmittelbar verrückt; ist es denn dem Platon, Spinoza, Cartesius, Leibniz eigentlich um eine Beweisführung zu tun gewesen, daß den angeborenen Begriffen oder der Vernunft eine Realität entspreche, oder um eine Bestimmung der Art, wenn diese Philosophen als Grund der Wahrheit derselben Gott setzen?",
+    "Die Folge ist nach Herrn Schulze diese: a) subjektive Begriffe, die für sich ohne Realität sind, alsdann b) eine außerhalb ihrer liegende Realität, jetzt c) die Frage, wie das zusammenkomme, d) der Beweis ihrer Wahrheit in einem den Begriffen und der Realität Fremden; jene Philosophen haben vielmehr jene, wie Herr Schulze sagt, im täglichen Leben vorausgesetzte Identität des Begriffs und der Realität erkannt und sie Verstand Gottes genannt, in welchem Wirklichkeit und Möglichkeit eins sei."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "h7jo5yfn5p",
+   "sents": [
+    "Wir wollen hierbei, lautet des Verfassers Urteil hierüber, nicht untersuchen, ob dieses Argument für die Wahrheit und Zuverlässigkeit der angeborenen Begriffe am Ende nicht mit theosophischen Grillen über die Verwandtschaft unserer Seele mit der Natur Gottes in Verbindung stehe und daraus abgeleitet worden sei, welches man sonst aus dem abnehmen kann, was Leibniz von der Entstehung der endlichen Monaden aus der obersten Monas lehrte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/5.p58.json"
+}

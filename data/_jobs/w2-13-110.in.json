@@ -1,0 +1,82 @@
+{
+ "id": "w2-13-110",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 110,
+   "k": "p",
+   "hash": "io8lv51gac",
+   "sents": [
+    "Die Freude am Johannisfeuer brauchte nur organisiert zu werden.",
+    "Auf allen Bergen werden eine Menge Feuer angesteckt.",
+    "Es ist die Freude am ersten Feuer, und was ist die Freude an einem solchen lebendigen Element anderes als etwas Religiöses?",
+    "Denn es ist die Freude an ihm selbst als einem Element.",
+    "Diese Freude muß sich selbst ehren, sich mit Bewußtsein ordnen, sich gesetzlich machen.",
+    "Diese Freude braucht nur als Ernst genommen zu werden, so ist sie ein Gottesdienst.",
+    "Aber sie wird nicht so genommen.",
+    "Der Mensch, in der Religion des Schmerzes, verachtet seine Freude, verwirft das Bewußtsein von ihr. - Anders bei den Griechen, die selbst das Essen zu einem Gottesdienst machten, d. h. mit Bewußtsein und Willen genossen.",
+    "Bei uns ist die Langeweile zu Hause.",
+    "Eine Gesellschaft schämt sich des Essens.",
+    "Es gibt keine ernsthafteren Menschen als die Griechen und keine fröhlicheren."
+   ]
+  },
+  {
+   "bi": 111,
+   "k": "p",
+   "hash": "1etbxghfpg",
+   "sents": [
+    "Sonst hat die niedrige Volksklasse einzelne Familienglieder ausgestoßen als den Sündenbock, auf denen die Last der Entbehrung, der Büßung und der Entfremdung seiner selbst bis zur Verrücktheit liegt, es selbst aber ging frei aus und erkaufte sich die Versöhnung durch diese Opfer.",
+    "Jetzt aber hat es die Buße selbst auf sich genommen."
+   ]
+  },
+  {
+   "bi": 112,
+   "k": "p",
+   "hash": "utu6qtvvxb",
+   "sents": [
+    "Lieber sich zehn Millionen mit Gewalt nehmen, sich ins Gesicht spucken, sich mit Füßen treten, sich prügeln lassen, als eine Million freiwillig geben, freiwillig sich einer Wunde aussetzen, indem man Wunden austeilt: das ist der Sinn der deutschen Nation.",
+    "Mit dem zehnten Teil des Aufwandes von Geld und Naturalien, mit dem tausendsten Teil der Leiden, mit Ersparung des Gebirgs von Schande, die die Deutschen der vergangene Krieg gekostet hat, konnten sie durch 9/10 des Verlorenen 999/1000 der Leiden abwenden und statt der Schande Ehre erwerben.",
+    "Aber die Deutschen wollen [lieber] die Satisfaktion haben, neutral zu bleiben, d. h. von beiden Teilen sich ausschinden zu lassen, als einem Teil anhangen.",
+    "Sie haben die Befriedigung, doch für sich geblieben zu sein.",
+    "Sie sind die Quäkernation von Europa.",
+    "Nehmen lassen sie sich alles, den Rock, und aus Gutmütigkeit, um kein böses Gesicht zu bekommen, geben sie noch das Wams.",
+    "Wenn sie einen Backenstreich von einer Seite, einer der kriegführenden Mächte bekommen, so setzen sie sich in die Stellung, von der anderen auch bekommen zu müssen.",
+    "Wie Tertullian die Christen beschreibt."
+   ]
+  },
+  {
+   "bi": 113,
+   "k": "p",
+   "hash": "8b8ac01dzw",
+   "sents": [
+    "Unter dem Wie einer Sache meint man ihre Art. Vier hölzerne Beine, ein Brett darüber, ist das Wie eines Stuhls, d. h. eben der Stuhl."
+   ]
+  },
+  {
+   "bi": 114,
+   "k": "p",
+   "hash": "jz0hsf1u06",
+   "sents": [
+    "Notwendigkeit der Gesetze gegen den Wucher.",
+    "Weil der Einzelne die Gelegenheiten und die Individuen nicht kennt, bei denen Geld zu haben ist, erscheint dies seltener, als es ist.",
+    "Der Staat hingegen soll diese Kenntnis der Seltenheit oder Menge des Geldes kennen.",
+    "Seine Taxe der Zinsen suppliert die Folge, aus welcher jene Verlegenheit entspringen würde, die Meinung größerer Seltenheit und dadurch Entstehung höherer Zinsen.",
+    "Ferner, wie auf die Kornpreise jedes Gerücht von Krieg und Frieden, Hagelwetter usf.",
+    "Einfluß hat, so würde beim Gelde dasselbe Schwanken eintreten.",
+    "Diese Unbeständigkeit ist es, die den Preis erhöht, denn die Hoffnung, höher oder wenigstens nicht niedriger zu verkaufen, ist stärker als die Furcht des Gegenteils, und jene bewirkt stärker das Zurückhalten als diese das Losschlagen.",
+    "Daher Taxen auf Brot, Fleisch usw. notwendig."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p110.json"
+}

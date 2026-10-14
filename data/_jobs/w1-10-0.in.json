@@ -1,0 +1,139 @@
+{
+ "id": "w1-10-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "[Grundkonzept zum Geist des Christentums]",
+ "heading": "[Grundkonzept zum Geist des Christentums]",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1ux8zy11eh",
+   "text": "[Grundkonzept zum Geist des Christentums]"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1hi1jz111c",
+   "sents": [
+    "95) Zu der Zeit, da Jesus unter der jüdischen Nation auftrat, befand sie sich in dem Zustande, der die Bedingung einer früher oder später erfolgenden Revolution ist und immer die gleichen allgemeinen Charaktere trägt.",
+    "Wenn der Geist aus einer Verfassung aus den Gesetzen gewichen ist und jener durch seine Veränderung zu diesen nicht mehr stimmt, so entsteht ein Suchen, ein Streben nach etwas anderem, das bald von jedem in etwas anderem gefunden wird, wodurch denn eine Mannigfaltigkeit der Bildungen, der Lebensweisen, der Ansprüche, der Bedürfnisse hervorgeht, die, wenn sie nach und nach so weit divergieren, daß sie nimmer nebeneinander bestehen können, endlich einen Ausbruch bewirken und einer neuen allgemeinen Form, einem neuen Bande der Menschen ihr Dasein geben; je loser dies Band ist, je mehr es unvereinigt läßt, desto mehr Samen zu neuen Ungleichheiten und künftigen Explosionen liegt darin."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1f62gbv1jz",
+   "sents": [
+    "So gibt das jüdische Volk zur Zeit Jesu uns nicht mehr das Bild eines Ganzen; ein Allgemeines hält sie notdürftig noch zusammen, aber es ist so viel fremdartiger und mannigfaltiger Stoff, so vielerlei Leben und Ideale vorhanden, so viel unbefriedigtes, neugierig nach Neuem umherschauendes Streben, daß jeder mit Zuversicht und Hoffnungen auftretende Reformator sich eines Anhangs für ebenso versichert halten kann als einer feindlichen Partei."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "5l43xvp1zv",
+   "sents": [
+    "Die äußere Unabhängigkeit des jüdischen Staates war verloren, die Römer und von Römern geduldete oder gegebene Könige vereinigten darum ziemlich den allgemeinen heimlichen Haß der Juden gegen sich; die Forderung der Unabhängigkeit lag zu tief in ihrer Religion, die anderen Völkern kaum das Neben-ihr-Bestehen gönnte; wie sollte sie Herrschaft eines derselben über ihre Kinder erträglich finden?",
+    "Das Volk, dessen sonstige Wirklichkeit noch ungekränkt blieb, war noch nicht auf dem Punkte, diese aufopfern wollen zu müssen, und wartete daher auf einen fremden, mit Macht ausgerüsteten Messias, der für dasselbe täte, was es selbst nicht wagte, oder es zum Wagen begeisterte und durch diese Gewalt fortrisse."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "hz7jzqtja1",
+   "sents": [
+    "Es zeichneten sich viele durch strengere und genauere Beobachtung aller religiösen Pünktlichkeiten aus, und schon daß sie sich dadurch auszeichneten, zeigt uns den Verlust der Unbefangenheit, die Mühe und einen Kampf, etwas zu erreichen, was nicht aus sich selbst hervorging.",
+    "Der Dienst, in dem sie standen, war der Dienst gegen ein blindes, nicht (wie das griechische) innerhalb der Natur liegendes Fatum, und ihre größere Religiosität [war] ein beständigeres Anhängen und Abhängen von Mannigfaltigerem, das sich auf das Eine bezöge, aber jedes andere Bewußtsein ausschlösse.",
+    "Die Pharisäer suchten mit Anstrengung vollkommene Juden zu sein, und dies beweist, daß sie die Möglichkeit kannten, es nicht zu sein.",
+    "Die Sadduzäer ließen ihr Jüdisches als ein Wirkliches in sich bestehen, weil es einmal da war, und waren mit Wenigem zufrieden, aber es schien für sie unmittelbar kein Interesse zu haben als nur insofern, als es einmal Bedingung ihres übrigen Genusses war, sonst waren sie und ihr Dasein sich selbst höchstes Gesetz.",
+    "Auch die Essener ließen sich nicht in Kampf mit ihm ein, sondern ließen es beiseite liegen, denn dem Streite zu entfliehen, warfen sie sich in ihre einförmige Lebensart."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "10r0z0swkk",
+   "sents": [
+    "Es mußte endlich einer auftreten, der das Judentum selbst geradezu angriff; aber weil er in den Juden nicht fand, das ihm geholfen hätte, es zu bestreiten, das er hätte festhalten und mit welchem er es hätte stürzen können, so mußte er untergehen und unmittelbar auch nur eine Sekte gestiftet haben."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "pp9poljm5j",
+   "sents": [
+    "Die Wurzel des Judentums ist das Objektive, d. h. der Dienst, die Knechtschaft eines Fremden.",
+    "Dies griff Jesus an."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "5zoq4dnsrv",
+   "sents": [
+    "a) Knechtschaft gegen ihr Gesetz, den Willen des Herrn - ihm entgegengesetzt Selbstbestimmung, Selbsttätigkeit.",
+    "Was ist Knechtschaft gegen ein Gesetz?"
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1mce74uhgv",
+   "sents": [
+    "α) im entgegengesetzten - Willenlosigkeit; β) in Beziehung auf andere Menschen - Gefühllosigkeit, Mangel schöner Beziehungen, Liebe, Trennung γ) Gottlosigkeit"
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "eziznt1efr",
+   "sents": [
+    "b) Der Herr, der unsichtbare Herr - ihm entgegengesetzt Schicksallosigkeit, entweder der Unschuld oder der Selbstmacht; jene nicht möglich, er konnte in sie nicht die beiden Entgegengesetzten vereinigen, weil eigentlich nur eins der Entgegengesetzten ohne Widerstreit herrschte, - dies nicht, als Gottlosigkeit - also die Herrschaft gemildert in Vaterschaft - Abhängigkeit von einem Liebenden in Ansehung der Not."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1acfhsw18e",
+   "sents": [
+    "c) Andere bestimmt α) entweder von mir - diesem entgegengesetzt Moralität, oder β) von einem anderen (Verachtung der Menschen, Egoismus und Hoffen auf objektive Hilfe) - Achtung anderer, Berichtigung oder Vernichtung dieser Hoffnung.",
+    "Autorität gegen Autorität - allein auf die Autorität des Glaubens an Menschennatur.",
+    "Joh[annes]: er wußte, welche Kraft im Menschen war.",
+    "Wunder - er hoffte auch auf ihre Wirkung - Reelles nicht Polemisches.",
+    "Die Aufregung des Subjektiven in mancherlei Rücksichten - eine schöne Religion zu stiften, das Ideal davon? findet man es?"
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "19mos4s16y",
+   "sents": [
+    "Nur dann kann zwischen Zeremonial- und Moralgesetzen unterschieden werden, wenn Moralität vindiziert ist; in der jüdischen Religion Moralität unmöglich, weil keine Freiheit darin war, sondern durchgängige Herrschaft."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "1gchgb915q",
+   "sents": [
+    "Im allgemeinen [setzte Jesus das] Subjekt gegen das Gesetz."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1hl97c71r0",
+   "sents": [
+    "Dem Gesetz setzte er Moralität entgegen? - Moralität ist nach Kant die Unterjochung des Einzelnen unter das Allgemeine, der Sieg des Allgemeinen über sein entgegengesetztes Einzelnes - eher Erhebung des Einzelnen zum Allgemeinen, Vereinigung - Aufhebung der beiden Entgegengesetzten durch Vereinigung."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/10.p0.json"
+}

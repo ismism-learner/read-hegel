@@ -1,0 +1,29 @@
+{
+ "id": "w2-10-48",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "Über die wissenschaftlichen Behandlungsarten des Naturrechts, seine Stelle in der praktischen Philosophie und sein Verhältnis zu den positiven Rechtswissenschaften 226)",
+ "heading": "Über die wissenschaftlichen Behandlungsarten des Naturrechts, seine Stelle in der praktischen Philosophie und sein Verhältnis zu den positiven Rechtswissenschaften226)",
+ "blocks": [
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "5a96f717hx",
+   "sents": [
+    "Dies z. B. auf die Strafe angewandt, so ist in ihr allein die Wiedervergeltung vernünftig; denn durch sie wird das Verbrechen bezwungen.",
+    "Eine Bestimmtheit + A, welche das Verbrechen gesetzt hat, wird durch das Setzen von - A ergänzt und so beide vernichtet; oder positiv angesehen: mit der Bestimmtheit + A wird für den Verbrecher die entgegengesetzte - A verbunden und beider gleicherweise gesetzt, da das Verbrechen nur eine setzte.",
+    "So ist die Strafe Wiederherstellung der Freiheit, und der Verbrecher sowohl ist frei geblieben oder vielmehr frei gemacht, als der Strafende vernünftig und frei gehandelt hat.",
+    "In dieser ihrer Bestimmung ist also die Strafe etwas an sich, wahrhaftig unendlich und etwas Absolutes, das hiermit seine Achtung und Furcht in sich selbst hat; sie kommt aus der Freiheit und bleibt selbst als bezwingend in der Freiheit.",
+    "Wenn hingegen die Strafe als Zwang vorgestellt wird, so ist sie bloß als eine Bestimmtheit und als etwas schlechthin Endliches, keine Vernünftigkeit in sich Führendes gesetzt und fällt ganz unter den gemeinen Begriff eines bestimmten Dinges, gegen ein Anderes, oder einer Ware, für die etwas anderes, nämlich das Verbrechen zu erkaufen ist; der Staat hält als richterliche Gewalt einen Markt mit Bestimmtheiten, die Verbrechen heißen und die ihm gegen andere Bestimmtheiten feil sind, und das Gesetzbuch ist der Preiskourant."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/10.p48.json"
+}

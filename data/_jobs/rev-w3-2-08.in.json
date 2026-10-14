@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-08",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 38,
+   "si": 4,
+   "de": "Wenn es mit dem Innern und dem Zusammengeschlossensein mit ihm durch die Erscheinung weiter nichts wäre, so bliebe nichts übrig, als sich an die Erscheinung zu halten, d.h. etwas als wahr zu nehmen, von dem wir wissen, daß es nicht wahr ist, oder, damit doch in dem Leeren, welches zwar erst als Leerheit von gegenständlichen Dingen geworden, aber, als Leerheit an sich, auch für die Leerheit aller geistigen Verhältnisse und der Unterschiede des Bewußtseins als Bewußtseins genommen werden muß, – damit also in diesem so ganz Leeren, welches auch das Heilige genannt wird, doch etwas sei, es mit Träumereien, Erscheinungen, die das Bewußtsein sich selbst erzeugt, zu erfüllen; es müßte sich gefallen lassen, daß so schlecht mit ihm umgegangen wird, denn es wäre keines besseren würdig, indem Träumereien selbst noch besser sind als seine Leerheit.",
+   "en": "If there were nothing further with the inner and the being-closed-together with it through appearance, nothing would remain but to hold to appearance, i.e. to take something as true of which we know that it is not true, or – so that there may yet be something in the empty, which has indeed first come to be as emptiness of objective things, but, as emptiness in itself, must also be taken as the emptiness of all spiritual relations and of the differences of consciousness as consciousness – so that therefore in this wholly empty [realm], which is also called the holy, there may yet be something, to fill it with dreams, appearances that consciousness itself produces; it would have to put up with being dealt with so badly, for it would be worthy of nothing better, since dreams themselves are still better than its emptiness.",
+   "zh": "如果内在以及通过现象与内在联结在一起这件事不过如此，那就只剩下一条路：固守现象，也就是说，把某种我们知道它并非真的的东西当作真的；或者——为了在那个空无中毕竟还有点东西，而这个空无虽然最初是作为对象性东西的空无而产生的，但作为自在的空无，也必须被看作一切精神关系和意识之为意识的差别的空无——，也就是说，为了在这个如此完全空无、甚至也被称为神圣之物的东西里毕竟有点什么，就用梦幻、用意识自己产生出来的现象去填满它；它只好忍受人们这样糟糕地对待它，因为它不配得到更好的待遇，既然梦幻本身还比它的空无要好些。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 39,
+   "si": 0,
+   "de": "Das Innere oder das übersinnliche Jenseits ist aber entstanden, es kommt aus der Erscheinung her, und sie ist seine Vermittlung; oder die Erscheinung ist sein Wesen und in der Tat seine Erfüllung.",
+   "en": "But the inner, or the supersensuous beyond, has come into being; it comes from appearance, and appearance is its mediation; or appearance is its essence and in fact its fulfillment.",
+   "zh": "但内在，或者说超感性的彼岸，是产生出来的，它来自现象，而现象就是它的中介；或者说，现象就是它的本质，而且事实上就是它的充实。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 39,
+   "si": 1,
+   "de": "Das Übersinnliche ist das Sinnliche und Wahrgenommene, gesetzt, wie es in Wahrheit ist; die Wahrheit des Sinnlichen und Wahrgenommenen aber ist, Erscheinung zu sein.",
+   "en": "The supersensuous is the sensuous and the perceived, posited as it is in truth; but the truth of the sensuous and the perceived is to be appearance.",
+   "zh": "超感性之物就是感性之物和被知觉到的东西，被设定为它们在真理中所是的样子；但感性之物和被知觉到的东西的真理，就是它们是现象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 39,
+   "si": 2,
+   "de": "Das Übersinnliche ist also die Erscheinung als Erscheinung.",
+   "en": "The supersensuous is therefore appearance as appearance.",
+   "zh": "所以超感性之物就是作为现象的现象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 39,
+   "si": 3,
+   "de": "– Wenn dabei gedacht wird, das Übersinnliche sei also die sinnliche Welt oder die Welt, wie sie für die unmittelbare sinnliche Gewißheit und Wahrnehmung ist, so ist dies ein verkehrtes Verstehen; denn die Erscheinung ist vielmehr nicht die Welt des sinnlichen Wissens und Wahrnehmens als seiende, sondern sie als aufgehobene oder in Wahrheit als innere gesetzt.",
+   "en": "– If it is thereby thought that the supersensuous is thus the sensuous world, or the world as it is for immediate sense-certainty and perception, then this is an inverted understanding; for appearance is rather not the world of sensuous knowing and perceiving as existing, but is posited as sublated, or in truth as inner.",
+   "zh": "——如果在这里人们以为，超感性之物因此就是感性世界，或者说就是那对直接的感性确定性和知觉来说所是的世界，那么这就是一种颠倒的理解；因为现象毋宁说并不是作为存在着的感性知识和知觉的世界，而是作为被扬弃了的世界、或者说在真理中作为内在的世界而被设定的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 39,
+   "si": 4,
+   "de": "Es pflegt gesagt zu werden, das Übersinnliche sei nicht die Erscheinung; dabei wird aber unter der Erscheinung nicht die Erscheinung verstanden, sondern vielmehr die sinnliche Welt als selbst reelle Wirklichkeit.",
+   "en": "It is usually said that the supersensuous is not appearance; but in that case, by appearance is not understood appearance, but rather the sensuous world as itself real actuality.",
+   "zh": "人们通常说，超感性之物不是现象；但这样一来，在现象这个名称下所理解的并不是现象，而毋宁说是把感性世界当作本身实在的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 0,
+   "de": "Der Verstand, welcher unser Gegenstand ist, befindet sich auf eben dieser Stelle, daß ihm das Innere nur erst als das allgemeine, noch unerfüllte Ansich geworden; das Spiel der Kräfte hat nur eben diese negative Bedeutung, nicht an sich, und nur diese positive, das Vermittelnde, aber außer ihm zu sein.",
+   "en": "The understanding that is our object finds itself at precisely this position, that the inner has become for it only first as the universal, still unfulfilled in-itself; the play of forces has only this negative meaning, not to be in itself, and only this positive one, to be the mediating, but outside it.",
+   "zh": "作为我们对象的知性正处在这个位置上：内在对它来说最初还只是作为普遍的、尚未被充实的自在而出现的；力的游戏只有这样一个否定的含义，即它不是自在的，也只有这样一个肯定的含义，即它是进行中介的东西，但却在知性之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 1,
+   "de": "Seine Beziehung auf das Innere durch die Vermittlung aber ist seine Bewegung, durch welche es sich ihm erfüllen wird.",
+   "en": "But its relation to the inner through mediation is its movement, through which it will fulfill the inner for itself.",
+   "zh": "但它通过中介而与内在的关系，就是它的运动，它将通过这一运动为它自己把内在充实起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 2,
+   "de": "– Unmittelbar für ihn ist das Spiel der Kräfte; das Wahre aber ist ihm das einfache Innere; die Bewegung der Kraft ist daher ebenso nur als Einfaches überhaupt das Wahre.",
+   "en": "– Immediately for it is the play of forces; but the true is for it the simple inner; the movement of force is therefore likewise only as simple in general the true.",
+   "zh": "——对知性来说，直接的东西就是力的游戏；但真的东西对知性来说却是单纯的内在；所以力的运动同样只有作为一般单纯的东西才是真的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 3,
+   "de": "Von diesem Spiele der Kräfte haben wir aber gesehen, daß es diese Beschaffenheit hat, daß die Kraft, welche sollizitiert wird von einer anderen Kraft, ebenso das Sollizitierende für diese andere ist, welche selbst erst hierdurch sollizitierende wird.",
+   "en": "But we have seen of this play of forces that it has this constitution, that the force which is solicited by another force is likewise the soliciting [factor] for this other, which itself first becomes soliciting only through this.",
+   "zh": "但我们已经看到，力的游戏具有这样的性质：被另一个力所推动的力，同样也是这个另一个力的推动者，而这另一个力本身只有通过这种方式才成为推动者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 4,
+   "de": "Es ist hierin ebenso nur der unmittelbare Wechsel oder das absolute Austauschen der Bestimmtheit vorhanden, welche den einzigen Inhalt des Auftretenden ausmacht, entweder allgemeines Medium oder negative Einheit zu sein.",
+   "en": "Herein there is likewise present only the immediate exchange, or the absolute interchange of the determinacy that makes up the sole content of what appears, to be either universal medium or negative unity.",
+   "zh": "在这里同样只存在着直接的交替，或者说规定性的绝对互换，而这种规定性构成了出现的东西的唯一内容：要么是普遍介质，要么是否定的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 5,
+   "de": "Es hört in seinem bestimmten Auftreten selbst unmittelbar auf, das zu sein, als was es auftritt; es sollizitiert durch sein bestimmtes Auftreten die andere Seite, die sich hierdurch äußert; d. h. diese ist unmittelbar jetzt das, was die erste sein sollte.",
+   "en": "In its determinate appearance it immediately ceases to be what it appears as; through its determinate appearance it solicits the other side, which thereby expresses itself; i.e. this side is immediately now what the first was supposed to be.",
+   "zh": "它在自己特定的出现中直接就不再是它出现为的那个东西；它通过自己特定的出现推动另一面，而另一面由此表现自己；也就是说，这另一面现在直接就是那第一个本该是的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 6,
+   "de": "Diese beiden Seiten, das Verhältnis des Sollizitierens und das Verhältnis des bestimmten entgegengesetzten Inhalts ist jedes für sich die absolute Verkehrung und Verwechslung.",
+   "en": "These two sides, the relation of soliciting and the relation of determinate opposed content, is each for itself the absolute inversion and confounding.",
+   "zh": "这两个方面，即推动的关系和特定的对立内容的关系，每一个自为地都是绝对的颠倒和混淆。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 7,
+   "de": "Aber diese beiden Verhältnisse sind selbst wieder dasselbe; und der Unterschied der Form, das Sollizitierte und das Sollizitierende zu sein, ist dasselbe, was der Unterschied des Inhalts ist, das Sollizitierte als solches, nämlich das passive Medium; das Sollizitierende hingegen das tätige, die negative Einheit oder das Eins.",
+   "en": "But these two relations are themselves again the same; and the difference of form, to be the solicited and the soliciting, is the same as the difference of content: the solicited as such, namely the passive medium; the soliciting, on the other hand, the active, the negative unity or the One.",
+   "zh": "但这两个关系本身又都是同一个东西；而形式的差别，即成为被推动者和推动者，也就是内容上的差别，即：被推动者本身，也就是被动的介质；而推动者则是主动的东西，是否定的统一或者一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 8,
+   "de": "Hierdurch verschwindet aller Unterschied besonderer Kräfte, die in dieser Bewegung vorhanden sein sollten, gegeneinander überhaupt, denn sie beruhten allein auf jenen Unterschieden; und der Unterschied der Kräfte fällt ebenso mit jenen beiden nur in einen zusammen.",
+   "en": "Hereby all difference of particular forces that were supposed to be present in this movement vanishes altogether over against one another, for they rested solely on those differences; and the difference of the forces likewise coalesces with those two into one.",
+   "zh": "这样一来，那些本应在这种运动中存在的特殊力彼此之间的一切差别就整个消失了，因为它们仅仅以那些差别为依据；而诸力的差别同样也与那两者合而为一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 9,
+   "de": "Es ist also weder die Kraft noch das Sollizitieren und Sollizitiertwerden, noch die Bestimmtheit, bestehendes Medium und in sich reftektierte Einheit zu sein, weder einzeln für sich etwas, noch sind es verschiedene Gegensätze, sondern was in diesem absoluten Wechsel ist, ist nur der Unterschied als allgemeiner oder als ein solcher, in welchen sich die vielen Gegensätze reduziert haben.",
+   "en": "Thus neither force, nor soliciting and being-solicited, nor the determinacy of being a subsisting medium and a unity reflected into itself, is anything singly for itself, nor are they different oppositions; but what is in this absolute change is only the difference as universal, or as such a one into which the many oppositions have reduced themselves.",
+   "zh": "所以，无论是力，还是推动和被推动，还是成为持存着的介质和在自身中反思的统一这一规定性，都不是单个地自为的什么，也不是各种不同的对立；毋宁说，在这种绝对交替中存在的东西，只是作为普遍的差别，或者说只是那许多对立都已还原于其中的这样一种差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 40,
+   "si": 10,
+   "de": "Dieser Unterschied als allgemeiner ist daher das Einfache an dem Spiele der Kraft selbst und das Wahre desselben; er ist das Gesetz der Kraft.",
+   "en": "This difference as universal is therefore the simple [element] in the play of force itself and the true of it; it is the law of force.",
+   "zh": "所以，这个作为普遍的差别，就是力的游戏本身身上的单纯东西，也就是它里面真的东西；它就是力的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 41,
+   "si": 0,
+   "de": "Zu dem einfachen Unterschiede wird die absolut wechselnde Erscheinung durch ihre Beziehung auf die Einfachheit des Innern oder des Verstandes, Das Innere ist zunächst nur das an sich Allgemeine; dies an sich einfache Allgemeine ist aber wesentlich ebenso absolut der allgemeine Unterschied, denn es ist das Resultat des Wechsels selbst, oder der Wechsel ist sein Wesen, aber der Wechsel als im Innern gesetzt, wie er in Wahrheit ist, in dasselbe hiermit als ebenso absolut allgemeiner, beruhigter, sich gleichbleibender Unterschied aufgenommen.",
+   "en": "To simple difference the absolutely changing appearance is reduced through its relation to the simplicity of the inner or of the understanding, the inner is at first only the universal in itself; but this in-itself simple universal is essentially just as absolutely the universal difference, for it is the result of the change itself, or the change is its essence, but the change as posited in the inner, as it is in truth, is hereby taken up into that same inner as an equally absolutely universal, calm, self-same difference.",
+   "zh": "绝对变换着的现象通过它与内在或知性的单纯性的关系，就变成单纯的差别，内在首先只是自在的普遍者；但这个自在单纯着的普遍者本质上同样绝对是普遍的差别，因为它是变换本身的结果，或者说变换就是它的本质，不过变换作为被设定在内在之中的东西、如同它在真理中那样，就由此被纳入这同一个内在之中，成为同样绝对普遍的、平静的、自身保持等同的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 41,
+   "si": 1,
+   "de": "Oder die Negation ist wesentliches Moment des Allgemeinen, und sie oder die Vermittlung also im Allgemeinen ist allgemeiner Unterschied.",
+   "en": "Or the negation is an essential moment of the universal, and it, or mediation, is therefore in the universal the universal difference.",
+   "zh": "或者说，否定是普遍者的本质环节，而它、或者说中介，因此在普遍者中就是普遍的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 41,
+   "si": 2,
+   "de": "Er ist im Gesetze ausgedrückt als dem beständigen Bilde der unsteten Erscheinung, Die übersinnliche Welt ist hiermit ein ruhiges Reich von Gesetzen, zwar jenseits der wahrgenommenen Welt, denn diese stellt das Gesetz nur durch beständige Veränderung dar, aber in ihr ebenso gegenwärtig und ihr unmittelbares stilles Abbild.",
+   "en": "It is expressed in the law as the constant image of the unstable appearance, the supersensuous world is hereby a calm realm of laws, indeed beyond the perceived world, for the latter presents the law only through constant alteration, but equally present in it and its immediate, still copy.",
+   "zh": "它在规律中被表达出来，作为不稳定的现象的恒常图像，超感性世界由此就是一个平静的规律王国，它虽然在被知觉到的世界彼岸，因为后者只通过不断的改变来呈现规律，但同样就在这世界里是当下的，是后者直接的、寂静的摹本。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 0,
+   "de": "Dies Reich der Gesetze ist zwar die Wahrheit des Verstandes, welche an dem Unterschiede, der in dem Gesetze ist, den Inhalt hat; es ist aber zugleich nur seine erste Wahrheit und füllt die Erscheinung nicht aus.",
+   "en": "This realm of laws is indeed the truth of the understanding, which has its content in the difference that is in the law; but it is at the same time only its first truth and does not fill out the appearance.",
+   "zh": "这个规律王国诚然是知性的真理，它的内容就在规律中存在的那个差别里；但它同时只是知性的第一个真理，并没有把现象填满。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 1,
+   "de": "Das Gesetz ist in ihr gegenwärtig, aber es ist nicht ihre ganze Gegenwart; es hat unter immer anderen Umständen eine immer andere Wirklichkeit.",
+   "en": "The law is present in it, but it is not its whole presence; under ever different circumstances it has an ever different actuality.",
+   "zh": "规律在它里面是当下的，但它并不是它的全部当下；规律在总是不同的情况下有总是不同的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 2,
+   "de": "Es bleibt dadurch der Erscheinung für sich eine Seite, welche nicht im Innern ist; oder sie ist in Wahrheit noch nicht als Erscheinung, als aufgehobenes Fürsichsein gesetzt.",
+   "en": "Thereby there remains over for the appearance itself a side that is not in the inner; or it is in truth not yet posited as appearance, as sublated being-for-itself.",
+   "zh": "现象本身由此还剩下一个方面，这个方面不在内在之中；或者说，现象在真理中还没有被设定为现象，还没有被设定为被扬弃了的自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 3,
+   "de": "Dieser Mangel des Gesetzes muß sich an ihm selbst ebenso hervortun.",
+   "en": "This deficiency of the law must likewise come to light in the law itself.",
+   "zh": "规律的这种缺陷必然同样在规律自身身上显露出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 4,
+   "de": "Was ihm zu mangeln scheint, ist, daß es zwar den Unterschied selbst an ihm hat, aber als allgemeinen, unbestimmten.",
+   "en": "What it seems to lack is that it indeed has the difference itself on it, but as a universal, indeterminate one.",
+   "zh": "它看起来缺少的东西就是，它虽然自身具有差别本身，但只是作为普遍的、不确定的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 5,
+   "de": "Insofern es aber nicht das Gesetz überhaupt, sondern ein Gesetz ist, hat es die Bestimmtheit an ihm; und es sind damit unbestimmt viele Gesetze vorhanden.",
+   "en": "But insofar as it is not law in general but a law, it has determinacy on it; and there are thereby indeterminately many laws present.",
+   "zh": "但既然它不是一般意义上的规律，而是一个规律，它就自身具有规定性；于是也就有不确定地多的规律存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 6,
+   "de": "Allein diese Vielheit ist vielmehr selbst ein Mangel; sie widerspricht nämlich dem Prinzip des Verstandes, welchem als Bewußtsein des einfachen Innern die an sich allgemeine Einheit das Wahre ist.",
+   "en": "But this multiplicity is itself rather a deficiency; for it contradicts the principle of the understanding, for which, as consciousness of the simple inner, the in-itself universal unity is the true.",
+   "zh": "但这种多数性毋宁说本身就是一种缺陷；因为它与知性的原则相矛盾，而知性作为对单纯内在的意识，是以自在的普遍统一为真的东西的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 7,
+   "de": "Die vielen Gesetze muß er darum vielmehr in ein Gesetz zusammenfallen lassen, wie z.B. das Gesetz, nach welchem der Stein fällt, und das Gesetz, nach welchem die himmlischen Sphären sich bewegen, als ein Gesetz begriffen worden ist.",
+   "en": "The understanding must therefore rather let the many laws collapse into one law, just as e.g. the law according to which the stone falls and the law according to which the heavenly spheres move have been comprehended as one law.",
+   "zh": "所以知性毋宁必须让这许多规律合并为一个规律，例如石头下落所遵循的规律和天体运行所遵循的规律，就曾被以概念把握为一个规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 8,
+   "de": "Mit diesem Ineinanderfallen aber verlieren die Gesetze ihre Bestimmtheit; das Gesetz wird immer oberflächlicher, und es ist damit in der Tat nicht die Einheit dieser bestimmten Gesetze, sondern ein ihre Bestimmtheit weglassendes Gesetz gefunden; wie das eine Gesetz, welches die Gesetze des Falles der Körper an der Erde und der himmlischen Bewegung in sich vereint, sie beide in der Tat nicht ausdrückt.",
+   "en": "But with this collapsing into one another the laws lose their determinacy; the law becomes ever more superficial, and there is thereby in fact found not the unity of these determinate laws but a law that omits their determinacy; just as the one law that unites in itself the laws of the fall of bodies on the earth and of heavenly motion in fact does not express them both.",
+   "zh": "但随这种互相合并，规律就失去了它们的规定性；规律变得越来越表面，而由此实际上找到的并不是这些特定规律的统一，而是一个丢掉了它们的规定性的规律；正如那一个把物体在地球上下落的规律和天体运动的规律联合于自身的规律，实际上并没有表达出这两者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 9,
+   "de": "Die Vereinigung aller Gesetze in der allgemeinen Attraktion drückt keinen Inhalt weiter aus als eben den bloßen Begriff des Gesetzes selbst, der darin als seiend gesetzt ist.",
+   "en": "The unification of all laws in universal attraction expresses no further content than precisely the mere concept of the law itself, which is posited therein as existing.",
+   "zh": "把所有规律统一于普遍引力之中，所表达的内容不外乎就是规律自身那个在其中被设定为存在着的单纯概念。"
+  }
+ ]
+}

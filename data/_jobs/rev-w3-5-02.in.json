@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-02",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 7,
+   "si": 3,
+   "de": "Indem aber das Auffassen sie zugleich in die Form der Allgemeinheit eintreten läßt, findet es ihr Gesetz und scheint Jetzt einen vernünftigen Zweck zu haben und ein notwendiges Geschäft zu treiben.",
+   "en": "But in that apprehension at the same time lets it enter into the form of universality, it finds its law and now seems to have a rational purpose and to carry on a necessary business.",
+   "zh": "但是，既然这种领会同时让它进入普遍性的形式，它就找到了自己的规律，现在似乎有了一个理性的目的，并且在从事一件必要的事情。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 8,
+   "si": 0,
+   "de": "Die Momente, die den Inhalt des Gesetzes ausmachen, sind einerseits die Individualität selbst, andrerseits ihre allgemeine unorganische Natur, nämlich die vorgefundenen Umstände, Lage, Gewohnheiten, Sitten, Religion usw.; aus diesen ist die bestimmte Individualität zu begreifen.",
+   "en": "The moments that make up the content of the law are on the one hand individuality itself, on the other hand its universal inorganic nature, namely the circumstances, situation, habits, customs, religion etc. that are found at hand; out of these the determinate individuality is to be comprehended.",
+   "zh": "构成规律之内容的那些环节，一方面是个体性本身，另一方面是它的普遍的、无机的自然，即那些现成被发现的处境、状况、习惯、风俗、宗教等等；确定的个体性要从这些东西出发才能以概念把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 8,
+   "si": 1,
+   "de": "Sie enthalten Bestimmtes ebensowohl als Allgemeines und sind zugleich Vorhandenes, das sich der Beobachtung darbietet und sich an der ändern Seite in der Form der Individualität ausdrückt.",
+   "en": "They contain the determinate as well as the universal and are at the same time something at hand that offers itself to observation and on the other side expresses itself in the form of individuality.",
+   "zh": "它们既包含确定的东西，也包含普遍的东西，同时又是现成存在的东西，它呈现给观察，并且在另一面以个体性的形式表达出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 0,
+   "de": "Das Gesetz dieses Verhältnisses der beiden Seiten müßte nun dies enthalten, was diese bestimmten Umstände für eine Wirkung und Einfluß auf die Individualität ausüben.",
+   "en": "The law of this relation of the two sides would now have to contain what effect and influence these determinate circumstances exercise on individuality.",
+   "zh": "这两方面之关系的规律，现在必须包含：这些确定的处境对个体性产生出什么样的作用和影响。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 1,
+   "de": "Diese Individualität aber ist gerade dies, ebensowohl das Allgemeine zu sein und daher auf eine ruhige unmittelbare Weise mit dem vorhandenen Allgemeinen, den Sitten, Gewohnheiten usf. zusammenzufließen und ihnen gemäß zu werden, als sich entgegengesetzt gegen sie zu verhalten und sie vielmehr zu verkehren – sowie gegen sie in ihrer Einzelheit ganz gleichgültig sich zu verhalten, sie nicht auf sich einwirken zu lassen und nicht gegen sie tätig zu sein.",
+   "en": "But this individuality is precisely this: to be the universal as well, and therefore to flow together in a calm, immediate way with the universal that is at hand, with customs, habits etc., and to become conformable to them, as also to behave in opposition to them and rather to invert them – and likewise to behave quite indifferently toward them in its singleness, not to let them act upon it and not to be active against them.",
+   "zh": "但是，这种个体性恰恰就是这样一回事：既是普遍之物，因而以平静而直接的方式与现成存在的普遍之物、即风俗、习惯等等交融在一起并变得合乎它们，又是与它们相对立地行动、宁可把它们颠倒过来——同样也是对它们采取在其个别性中完全漠不相关的态度，不让它们作用于自己，也不对它们有所行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 2,
+   "de": "Was auf die Individualität Einfluß und welchen Einfluß es haben soll – was eigentlich gleichbedeutend ist –, hängt darum nur von der Individualität selbst ab; dadurch ist diese Individualität diese bestimmte geworden, heißt nichts anderes als: sie ist dies schon gewesen.",
+   "en": "What is to have influence on individuality, and what influence it is to have – which is really the same thing – therefore depends only on individuality itself; that this individuality has thereby become this determinate one means nothing else than: it has already been this.",
+   "zh": "什么东西应当对个体性有影响、又应当有怎样的影响——这其实是同一个意思——，因此只取决于个体性本身；说这种个体性由此变成了这个确定的个体性，无非是说：它早就已经是这样了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 3,
+   "de": "Umstände, Lage, Sitten usf., welche einerseits gezeigt werden als vorhanden und andrerseits in dieser bestimmten Individualität, drücken nur das unbestimmte Wesen derselben aus, um welches es nicht zu tun ist.",
+   "en": "Circumstances, situation, customs etc., which are shown on the one hand as at hand and on the other hand in this determinate individuality, express only the indeterminate essence of the latter, which is not what is at stake.",
+   "zh": "处境、状况、风俗等等，一方面被表明为现成存在的，另一方面又被表明为存在于这个确定的个体性之中的，它们所表达的只是个体性那种不确定的本质，而事情并不在于这种本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 4,
+   "de": "Wenn diese Umstände, Denkungsart, Sitten, Weltzustand überhaupt nicht gewesen wären, so wäre allerdings das Individuum nicht geworden, was es ist; denn diese allgemeine Substanz sind alle, welche in diesem Weltzustande sich befinden.",
+   "en": "If these circumstances, way of thinking, customs, the condition of the world in general had not been, then the individual would indeed not have become what it is; for all who find themselves in this condition of the world are this universal substance.",
+   "zh": "如果这些处境、思维方式、风俗、总的世界状况不曾存在，那么个体当然就不会成为它所是的那个东西；因为处在这种世界状况中的一切人都是这种普遍实体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 5,
+   "de": "– Wie er sich aber in diesem Individuum – und ein solches soll begriffen werden – partikularisiert hat, so müßte er sich an und für sich selbst partikularisiert und in dieser Bestimmtheit, welche er sich gegeben, auf ein Individuum eingewirkt haben; nur so hätte er es zu diesem bestimmten gemacht, das es ist.",
+   "en": "– But as it has particularized itself in this individual – and such an individual is to be comprehended – so it would have had to particularize itself in and for itself and, in this determinacy that it has given itself, to have acted upon an individual; only thus would it have made it into this determinate one that it is.",
+   "zh": "——但是，它既然在这个个体身上——而这样的个体是应当被以概念把握的——把自己特殊化了，那么它就必须自在自为地把自己特殊化，并且以它赋予自己的这种规定性对一个个体发生作用；只有这样，它才会把这个个体造成它所是的这个确定的个体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 6,
+   "de": "Wenn das Äußere sich an und für sich so beschaffen hat, wie es an der Individualität erscheint, wäre diese aus jenem begriffen.",
+   "en": "If the outer were constituted in and for itself as it appears on individuality, then the latter would be comprehended out of the former.",
+   "zh": "如果外在的东西自在自为地就是这样构成的，如同它在个体性身上显现出来的那样，那么这种个体性就会从那个外在的东西出发而被以概念把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 9,
+   "si": 7,
+   "de": "Wir hätten eine gedoppelte Galerie von Bildern, deren eine der Widerschein der ändern wäre; die eine die Galerie der völligen Bestimmtheit und Umgrenzung äußerer Umstände, die andere dieselbe übersetzt in die Weise, wie sie in dem bewußten Wesen sind; jene die Kugelfläche, dieses der Mittelpunkt, welcher sie in sich vorstellt.",
+   "en": "We would have a doubled gallery of images, the one a reflection of the other; the one the gallery of the complete determinacy and delimitation of outer circumstances, the other the same translated into the manner in which they are in the conscious essence; the former the spherical surface, the latter the centre that represents it within itself.",
+   "zh": "我们就会有一个双重的图像长廊，其中一个是另一个的反照；一个是外在处境的完全规定性和界限的长廊，另一个则是把同一个东西翻译成它们在意识本质中存在的方式；前者是球面，后者是把球面表象在自身之内的中心点。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 10,
+   "si": 0,
+   "de": "Aber die Kugelfläche, die Welt des Individuums, hat unmittelbar die zweideutige Bedeutung, an und für sich seiende Welt und Lage, und Welt des Individuums entweder insofern zu sein, als dieses mit ihr nur zusammengeflossen wäre, sie so, wie sie ist, in sich hineingehen lassen und gegen sie sich nur als formelles Bewußtsein verhalten hätte, – oder aber Welt des Individuums so zu sein, wie das Vorhandene von ihm verkehrt worden ist.",
+   "en": "But the spherical surface, the world of the individual, has immediately the ambiguous meaning of being world and situation existing in and for itself, and world of the individual either in so far as the latter would merely have flowed together with it, let it enter into itself as it is, and behaved toward it only as formal consciousness – or else of being the world of the individual as what is at hand has been inverted by it.",
+   "zh": "但是，球面、即个体的世界，直接就有这样一种双重的意义：它既是自在自为地存在着的世界和状况，又是个体的世界——要么是这样：个体与它只是交融在一起，让它如其所是地进入自己之内，并且对它只表现为形式意识；——要么是那样：它是这样一个个体的世界，即现成存在的东西已被这个个体颠倒过来了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 10,
+   "si": 1,
+   "de": "– Da um dieser Freiheit willen die Wirklichkeit dieser gedoppelten Bedeutung fähig ist, so ist die Welt des Individuums nur aus diesem selbst zu begreifen, und der Einfluß der Wirklichkeit, welche als an und für sich seiend vorgestellt wird, auf das Individuum erhält durch dieses absolut den entgegengesetzten Sinn, daß es entweder den Strom der einfließenden Wirklichkeit an ihm gewähren läßt oder daß es ihn abbricht und verkehrt.",
+   "en": "– Since by virtue of this freedom actuality is capable of this double meaning, the world of the individual is to be comprehended only out of this individual itself, and the influence of the actuality that is represented as existing in and for itself upon the individual receives through the latter absolutely the opposite sense, namely that it either lets the stream of inflowing actuality have its way with it or that it cuts it off and inverts it.",
+   "zh": "——既然由于这种自由，现实性能够具有这种双重的意义，那么个体的世界就只能从个体自身出发去以概念把握，而被表象为自在自为地存在着的现实性对个体的影响，通过个体绝对地获得了相反的意义：个体要么听任涌入的现实性之流在它身上施展，要么把这一洪流切断并颠倒过来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 10,
+   "si": 2,
+   "de": "Hierdurch aber wird die psychologische Notwendigkeit ein so leeres Wort, daß von dem, was diesen Einfluß soll gehabt haben, die absolute Möglichkeit vorhanden ist, daß es ihn auch hätte nicht haben können.",
+   "en": "But thereby psychological necessity becomes so empty a word that, of what is supposed to have had this influence, there is the absolute possibility that it also could not have had it.",
+   "zh": "但这样一来，心理学的必然性就变成了一个如此空洞的词，以至于对于据说曾有过这种影响的东西，绝对有可能它本来也可以没有这种影响。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 11,
+   "si": 0,
+   "de": "Es fällt hiermit das Sein hinweg, welches an und für sich wäre und die eine, und zwar die allgemeine Seite eines Gesetzes ausmachen sollte.",
+   "en": "Therewith the being falls away that would be in and for itself and was to make up the one, and indeed the universal, side of a law.",
+   "zh": "这样一来，那种自在自为地存在、并且应当构成一条规律的其中一面、而且是普遍的那一面的存在，就消失不见了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 11,
+   "si": 1,
+   "de": "Die Individualität ist, was ihre Welt als die ihrige ist; sie selbst ist der Kreis ihres Tuns, worin sie sich als Wirklichkeit dargestellt hat, und schlechthin nur Einheit des vorhandenen und des gemachten Seins; eine Einheit, deren Seiten nicht wie in der Vorstellung des psychologischen Gesetzes als an sich vorhandene Welt und als für sich seiende Individualität auseinanderfallen; oder wenn sie so jede für sich betrachtet wird, so ist keine Notwendigkeit und Gesetz, ihrer Beziehung füreinander vorhanden.",
+   "en": "Individuality is what its world is as its own; it is itself the circle of its doing, in which it has presented itself as actuality, and absolutely only the unity of the being at hand and the being made; a unity whose sides do not fall apart, as in the representation of the psychological law, into a world existing in itself and an individuality existing for itself; or if they are thus considered each for itself, then no necessity and law of their relation to one another is present.",
+   "zh": "个体性就是它的世界作为它自己的世界所是的那个东西；它自己就是它的行动的圆圈，在其中它把自己展现为现实性，并且绝对只是现成存在的存在与被造成的存在之统一；这种统一的各个方面并不像在心理学规律的表象中那样，分崩为自在存在着的世界和自为存在着的个体性；或者，如果它们被这样各自分开来看，那么它们彼此之间的关系就没有任何必然性和规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 13,
+   "si": 0,
+   "de": "Die psychologische Beobachtung findet kein Gesetz des Verhältnisses des Selbstbewußtseins zu der Wirklichkeit oder der ihm entgegengesetzten Welt und ist durch die Gleichgültigkeit beider gegeneinander auf die eigentümliche Bestimmtheit der realen Individualität zurückgetrieben, welche an und für sich selbst ist oder den Gegensatz des Fürsichseins und des Ansichseins in ihrer absoluten Vermittlung getilgt enthält.",
+   "en": "Psychological observation finds no law of the relation of self-consciousness to actuality or to the world opposed to it and is driven back, by the indifference of the two to one another, to the peculiar determinacy of the real individuality, which is in and for itself, or contains the opposition of being-for-itself and being-in-itself cancelled in their absolute mediation.",
+   "zh": "心理学的观察找不到自我意识与现实性、或与和它相对立的世界之间关系的规律，并且由于两者彼此漠不相关，它被逼回到实在的个体性那种特有的规定性上去，这种个体性是自在自为的，或者说，它把自为存在与自在存在的对立在其绝对中介中消除掉而包含于自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 13,
+   "si": 1,
+   "de": "Sie ist der Gegenstand, der Jetzt der Beobachtung geworden oder zu dem sie übergeht.",
+   "en": "It is the object that has now become the object of observation, or to which observation passes over.",
+   "zh": "它就是现在已成为观察之对象的那个对象，或者说，是观察所过渡到的那个对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 14,
+   "si": 0,
+   "de": "Das Individuum ist an und für sich selbst: es ist für sich, oder es ist ein freies Tun; es ist aber auch an sich, oder es selbst hat ein ursprüngliches bestimmtes Sein, – eine Bestimmtheit, welche dem Begriffe nach dasselbe ist, was die Psychologie außer ihm finden wollte.",
+   "en": "The individual is in and for itself: it is for itself, or it is a free doing; but it is also in itself, or it itself has an original determinate being – a determinacy that according to the concept is the same as what psychology wanted to find outside it.",
+   "zh": "个体是自在自为的：它是自为的，或者说它是一种自由的行为；但它也是自在的，或者说它自身具有一种原初的、确定的存在——一种按照概念来说与心理学想在它之外找到的东西相同的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 14,
+   "si": 1,
+   "de": "An ihm selbst tritt also der Gegensatz hervor, dies Gedoppelte, Bewegung des Bewußtseins und das feste Sein einer erscheinenden Wirklichkeit zu sein, einer solchen, welche an ihm unmittelbar die seinige ist.",
+   "en": "In it itself, therefore, the opposition emerges, this doubledness: to be movement of consciousness and the firm being of an appearing actuality, of such an actuality as is immediately its own in it.",
+   "zh": "所以在它自身上就出现了这种对立、这种双重性：既是意识的运动，又是一种显现着的现实性的坚固存在，而这种现实性在它身上直接就是它自己的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 14,
+   "si": 2,
+   "de": "Dies Sein, der Leib der bestimmten Individualität, ist die Ursprünglichkeit derselben, ihr Nichtgetanhaben.",
+   "en": "This being, the body of the determinate individuality, is the originality of the latter, its not-having-done.",
+   "zh": "这种存在，即确定个体性的身体，是这种个体性的原初性，是它的未曾有所做。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 14,
+   "si": 3,
+   "de": "Aber indem das Individuum zugleich nur ist, was es getan hat, so ist sein Leib auch der von ihm hervorgebrachte Ausdruck seiner selbst; zugleich ein Zeichen, welches nicht unmittelbare Sache geblieben, sondern woran es nur zu erkennen gibt, was es in dem Sinne ist, daß es seine ursprüngliche Natur ins Werk richtet.",
+   "en": "But since the individual is at the same time only what it has done, its body is also the expression of itself that it has brought forth; at the same time a sign that has not remained an immediate matter, but in which it only gives to be cognized what it is in the sense that it directs its original nature into the work.",
+   "zh": "但是，既然个体同时只是它所做过的事情，那么它的身体也是由它产生出来的、它自己的表达；同时是一个符号，这个符号并没有停留在直接的事情上，而它在这个符号上只是让人认识到它是什么，其意义是：它把自己的原初本性付诸实现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 0,
+   "de": "Betrachten wir die hier vorhandenen Momente in Beziehung auf die vorhergehende Ansicht, so ist hier eine allgemeine menschliche Gestalt oder wenigstens die allgemeine eines Klimas, Weltteils, eines Volks, wie vorhin dieselben allgemeinen Sitten und Bildung.",
+   "en": "If we consider the moments present here in relation to the preceding view, what we have here is a universal human shape, or at least the universal shape of a climate, a part of the world, a people, just as before [we had] the same universal customs and culture.",
+   "zh": "如果我们联系先前的看法来考察这里现成的各个环节，那么这里就是一种普遍的人的形态，或者至少是一个气候、一个大洲、一个民族的普遍形态，正如先前是那些同样的普遍习俗和教养。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 1,
+   "de": "Hierzu kommen die besonderen Umstände und Lage innerhalb der allgemeinen Wirklichkeit; hier ist diese besondere Wirklichkeit als besondere Formation der Gestalt des Individuums.",
+   "en": "To these are added the particular circumstances and situation within the universal actuality; here this particular actuality is [there] as the particular formation of the shape of the individual.",
+   "zh": "除此之外，还有普遍现实性之内的那些特殊环境和处境；在这里，这种特殊的现实性就是作为个体形态的特殊构形。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 2,
+   "de": "– Auf der andern Seite, wie vorhin das freie Tun des Individuums und die Wirklichkeit als die seinige gegen die vorhandene gesetzt war, steht hier die Gestalt als Ausdruck seiner durch es selbst gesetzten Verwirklichung, die Züge und Formen seines selbsttätigen Wesens.",
+   "en": "— On the other side, just as before the free doing of the individual and the actuality as its own were posited over against the existing [actuality], here the shape stands as the expression of its realization posited through itself, the traits and forms of its self-active essence.",
+   "zh": "——在另一方面，正如先前个体的自由行动和作为它自己的现实性被设定为与现成的现实性相对立，在这里，形态就是它通过自身设定的现实化的表达，是它自己活动着的本质的那些特征和形式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 3,
+   "de": "Aber die sowohl allgemeine als besondere Wirklichkeit, welche die Beobachtung vorhin außer dem Individuum vorfand, ist hier die Wirklichkeit desselben, sein angeborener Leib, und in eben diesen fällt der Ausdruck, der seinem Tun angehört.",
+   "en": "But the actuality that is both universal and particular, which observation previously found outside the individual, is here the actuality of the same, its innate body, and it is precisely into this that the expression falls which belongs to its doing.",
+   "zh": "但是，那种既普遍又特殊的现实性——观察先前在个体之外发现了它——在这里就是这个个体自己的现实性，就是它天生的身体，而属于它行动的那种表达恰恰落在其中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 4,
+   "de": "In der psychologischen Betrachtung sollte die an und für sich seiende Wirklichkeit und die bestimmte Individualität aufeinander bezogen werden; hier aber ist die ganze bestimmte Individualität Gegenstand der Beobachtung; und jede Seite seines Gegensatzes ist selbst dies Ganze.",
+   "en": "In the psychological consideration, the actuality that is in and for itself and the determinate individuality were to be related to one another; here, however, the whole determinate individuality is the object of observation; and each side of its opposition is itself this whole.",
+   "zh": "在心理学的考察里，自在自为地存在着的现实性和特定的个体性应当被相互关联起来；但在这里，整个特定的个体性都是观察的对象；而它这个对立的每一方自身就是这个整体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 5,
+   "de": "Zu dem äußeren Ganzen gehört also nicht nur das ursprüngliche Sein, der angeborene Leib, sondern ebenso die Formation desselben, die der Tätigkeit des Innern angehört; er ist Einheit des ungebildeten und des gebildeten Seins und die von dem Fürsichsein durchdrungene Wirklichkeit des Individuums.",
+   "en": "To the outer whole there thus belongs not only the original being, the innate body, but equally its formation, which belongs to the activity of the inner; it is the unity of unformed and of formed being, and the actuality of the individual permeated by being-for-itself.",
+   "zh": "所以，属于外在整体的不仅有原初的存在、即天生的身体，而且同样有这身体的构形，而这种构形属于内在东西的活动；它是未受教养的存在和已受教养的存在的统一，是被自为存在贯穿了的个体之现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 6,
+   "de": "Dieses Ganze, welches die bestimmten ursprünglichen festen Teile und die Züge, die allein durch das Tun entstehen, in sich faßt, ist, und dies Sein ist Ausdruck des Innern, des als Bewußtsein und Bewegung gesetzten Individuums.",
+   "en": "This whole, which contains in itself the determinate original firm parts and the traits that arise solely through doing, is, and this being is the expression of the inner, of the individual posited as consciousness and movement.",
+   "zh": "这个整体——它把那些特定的、原初的、固定的部分和那些仅仅通过行动才产生的特征都包含在自身之中——存在着，而这种存在就是内在东西的表达，就是那个被设定为意识和运动的个体的表达。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 7,
+   "de": "– Dies Innere ist ebenso nicht mehr die formelle, inhaltlose oder unbestimmte Selbsttätigkeit, deren Inhalt und Bestimmtheit, wie vorhin, in den äußeren Umständen läge, sondern es ist ein an sich bestimmter ursprünglicher Charakter, dessen Form nur die Tätigkeit ist.",
+   "en": "— This inner is likewise no longer the formal, contentless or indeterminate self-activity whose content and determinacy, as before, would lie in the outer circumstances, but it is an in-itself determinate original character whose form is only activity.",
+   "zh": "——这个内在东西同样不再是那种形式的、无内容的或不确定的自身活动，这种活动的内容和规定性会像先前那样落在外部环境里，而是一个自在地被规定的、原初的性格，它的形式只是活动。"
+  }
+ ]
+}

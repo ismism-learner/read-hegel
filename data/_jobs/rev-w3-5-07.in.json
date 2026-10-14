@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-07",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 35,
+   "si": 4,
+   "de": "– Dies ist das Verhältnis und der Verstand, den die beiden Selten dieser Beziehung in dem sie beobachtenden Bewußtsein haben.",
+   "en": "— This is the relation and the understanding that the two sides of this relation have in the consciousness observing them.",
+   "zh": "——这就是这一关系的两个方面在观察着它们的意识中所具有的关系和知性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 36,
+   "si": 0,
+   "de": "Diesem ist es nun um die bestimmtere Beziehung dieser Seiten zu tun; der Schädelknochen hat wohl im allgemeinen die Bedeutung, die unmittelbare Wirklichkeit des Geistes zu sein.",
+   "en": "This [consciousness] is now concerned with the more determinate relation of these sides; the skull bone does indeed in general have the meaning of being the immediate actuality of spirit.",
+   "zh": "现在，它所关心的则是这些方面之间更确定的关系；头颅骨在一般情况下的确具有这样的含义：它是精神的直接现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 36,
+   "si": 1,
+   "de": "Aber die Vielseitigkeit des Geistes gibt seinem Dasein eine ebensolche Vieldeutigkeit; was zu gewinnen ist, ist die Bestimmtheit der Bedeutung der einzelnen Stellen, in welche dies Dasein geteilt ist, und es ist zu sehen, wie sie das Hinweisen darauf an ihnen haben.",
+   "en": "But the many-sidedness of spirit gives its determinate being an equally manifold ambiguity; what is to be gained is the determinacy of the meaning of the individual places into which this determinate being is divided, and it is to be seen how they have the pointing to it on them.",
+   "zh": "但精神的多方面性使它的定在也具有一种同样的多义性；要争取到的是这种定在被划分成的各个个别位置在含义上的规定性，并且要看看它们在自己身上如何拥有那种对它的指示。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 37,
+   "si": 0,
+   "de": "Der Schädelknochen ist kein Organ der Tätigkeit, noch auch eine sprechende Bewegung; es wird weder mit dem Schädelknochen gestohlen, gemordet usf., noch verzieht er zu solchen Taten im geringsten die Miene, so daß er sprechende Gebärde würde.",
+   "en": "The skull bone is no organ of activity, nor yet a speaking movement; one neither steals, murders etc. with the skull bone, nor does it in the least pull a face for such deeds, so that it would become a speaking gesture.",
+   "zh": "头颅骨不是活动的器官，也不是一种言说着的运动；人们既不用头颅骨去偷窃、杀人等等，它也丝毫不为这类行为做出表情，以至于它竟会成为言说着的姿势。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 37,
+   "si": 1,
+   "de": "– Noch hat auch dieses Seiende den Wert eines Zeichens.",
+   "en": "— Nor does this existent have the value of a sign either.",
+   "zh": "——这个存在者也同样不具有一个符号的价值。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 37,
+   "si": 2,
+   "de": "Miene und Gebärde, Ton, auch eine Säule, ein Pfahl, der auf einer öden Insel eingeschlagen ist, kündigen sich sogleich an, daß noch irgend etwas anderes damit gemeint ist als das, was sie unmittelbar nur sind.",
+   "en": "Facial expression and gesture, tone, also a column, a post driven into a barren island, announce themselves at once as meaning that something else is still meant by them than what they immediately merely are.",
+   "zh": "表情和姿势、声音，还有一根柱子、一根钉在一座荒岛上的木桩，都立刻表明自己：借它们所意谓的还有某种别的东西，而不只是它们直接所是的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 37,
+   "si": 3,
+   "de": "Sie geben sich selbst sogleich für Zeichen aus, indem sie eine Bestimmtheit an ihnen haben, welche auf etwas anderes dadurch hinweist, daß sie ihnen nicht eigentümlich angehört.",
+   "en": "They give themselves out at once as signs, in that they have on them a determinacy which points to something else by the fact that it does not belong to them as their own.",
+   "zh": "它们立刻就把自己表明为符号，因为它们在自身那里具有一种规定性，这种规定性之所以指向某种别的东西，是因为它并不专属于它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 37,
+   "si": 4,
+   "de": "Man kann sich wohl auch bei einem Schädel, wie Hamlet bei Yoricks2, vielerlei einfallen lassen, aber der Schädelknochen für sich ist ein so gleichgültiges, unbefangenes Ding, daß an ihm unmittelbar nichts anderes zu sehen und zu meinen ist als nur er selbst; er erinnert wohl an das Gehirn und seine Bestimmtheit, an Schädel von anderer Formation, aber nicht an eine bewußte Bewegung, indem er weder Miene und Gebärde noch etwas an ihm eingedrückt hat, das [als] von einem bewußten Tun herkommend sich ankündigte; denn er ist diejenige Wirklichkeit, welche an der Individualität eine solche andere Seite darstellen sollte, die nicht mehr sich in sich reflektierendes Sein, sondern rein unmittelbares Sein wäre.",
+   "en": "One can indeed, at a skull, as Hamlet at Yorick's2, let many things occur to one, but the skull bone for itself is so indifferent, unprejudiced a thing that on it immediately nothing else is to be seen and meant than only itself; it indeed reminds one of the brain and its determinacy, of skulls of another formation, but not of a conscious movement, since it has neither facial expression and gesture nor anything imprinted on it that would announce itself [as] coming from a conscious doing; for it is that actuality which was to present on individuality such an other side, which would no longer be being reflected into itself, but purely immediate being.",
+   "zh": "人们固然也可以面对一个头颅，像哈姆雷特面对约里克的骷髅2那样，生出各种各样的念头，但头颅骨本身却是一个如此漠不相关、毫无成见的物，以至于在它身上直接既看不到、也意谓不出别的什么，而只有它自己；它固然使人想起脑及其规定性，想起构造不同的头颅，但不会使人想起一种意识活动，因为它既没有表情和姿势，也没有在自己身上压印着什么会表明自己是从一种意识活动而来的东西；因为它是那种现实性，这种现实性本应在个体性身上展示出这样一个另外的方面，这个方面不再是在自身中反思着自己的存在，而会是纯粹直接的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 38,
+   "si": 0,
+   "de": "Da er ferner auch nicht selbst fühlt, so scheint sich eine bestimmtere Bedeutung für ihn etwa noch so ergeben zu können, daß bestimmte Empfindungen durch die Nachbarschaft erkennen ließen, was mit ihm gemeint sei; und indem eine bewußte Weise des Geistes bei einer bestimmten Stelle desselben ihr Gefühl hat, wird etwa dieser Ort in seiner Gestalt sie und ihre Besonderheit andeuten.",
+   "en": "Since, furthermore, it does not itself feel either, a more determinate meaning might still seem able to arise for it in this way: that determinate sensations would let one recognize, through the neighborhood, what is meant with it; and since a conscious mode of the spirit has its feeling at a determinate place of the same, this place would in its shape intimate that mode and its particularity.",
+   "zh": "此外，既然它自己也不感觉，那么对它来说似乎还可能这样得出一种更确定的意义：某些特定的感受会通过邻近关系让人认识到，它身上所指的是什么；而由于精神的某个有意识的方式在颅骨的某个特定位置上拥有自己的感受，这个位置就会以它的形态暗示那种方式及其特殊性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 38,
+   "si": 1,
+   "de": "Wie z.B. manche bei dem angestrengten Denken oder auch schon beim Denken überhaupt eine schmerzliche Spannung irgendwo im Kopfe zu fühlen klagen, könnte auch das Stehlen, das Morden, das Dichten usf. jedes mit einer eigenen Empfindung begleitet sein, die außerdem noch ihre besondere Stelle haben müßte.",
+   "en": "Just as, for example, some complain that in strenuous thinking, or even in thinking in general, they feel a painful tension somewhere in the head, so too stealing, murdering, poetizing etc. could each be accompanied by a sensation of its own, which besides would still have to have its particular place.",
+   "zh": "例如，就像有些人在费力的思考时、或者甚至在一般地思考时，就抱怨在头脑里某处感到一种痛苦的紧张，偷窃、杀人、作诗等等也可以各自伴随着一种特有的感受，而这种感受此外还必须拥有它特殊的位置。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 38,
+   "si": 2,
+   "de": "Diese Stelle des Gehirns, die auf diese Art mehr bewegt und betätigt wäre, würde wahrscheinlich auch die benachbarte Stelle des Knochens mehr ausbilden; oder diese würde aus Sympathie oder Konsensus auch nicht träge sein, sondern sich vergrößern oder verkleinern oder, auf welche Weise es sei, sich formieren,",
+   "en": "This place of the brain, which in this way would be more moved and set in activity, would probably also form the neighboring place of the bone more; or, out of sympathy or consensus, the latter too would not be idle, but would enlarge or diminish itself or, in whatever way it be, form itself,",
+   "zh": "大脑的这个位置，以这种方式会更多地被运动和活动起来，它大概也会更多地养成骨骼的邻近位置；或者，后者出于同感或一致也不会懒惰，而是会变大或变小，或者无论以什么方式，把自己形成起来，"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 38,
+   "si": 3,
+   "de": "– Was jedoch diese Hypothese unwahrscheinlich macht, ist dies, daß das Gefühl überhaupt etwas Unbestimmtes ist und das Gefühl im Kopfe als dem Zentrum das allgemeine Mitgefühl alles Leidens sein möchte, so daß sich mit dem Diebs-Mörders-Dichters-Kopf-Kitzel oder Schmerz andere vermischen und sich voneinander sowie von denen, die man bloß körperlich nennen kann, so wenig unterscheiden lassen würden, als aus dem Symptome des Kopfwehs, wenn wir seine Bedeutung nur auf das Körperliche einschränken, sich die Krankheit bestimmen läßt.",
+   "en": "– What, however, makes this hypothesis improbable is this: that feeling in general is something indeterminate, and that feeling in the head as the center would be the universal fellow-feeling of all suffering, so that with the thief-murderer-poet-head-tickle or pain others would mix, and would be as little distinguishable from one another and from those that one can call merely bodily, as from the symptom of headache — if we restrict its meaning merely to the bodily — the illness can be determined.",
+   "zh": "——不过，使这个假说变得不大可能的是：感受一般地是某种不确定的东西，而头脑里作为中心的感受会是这一切痛苦之普遍的共同感受，以致在偷儿—凶手—诗人—脑袋的痒或痛里会混进别的感受，而这些感受彼此之间、以及它们与那些只能叫作身体性的感受之间，会如此难以区分，就像从头痛的症状出发——如果我们把它的意义仅仅限制在身体性的东西上——无法确定疾病一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 0,
+   "de": "Es fällt in der Tat, von welcher Seite die Sache betrachtet werde, alle notwendige gegenseitige Beziehung sowie deren durch sich selbst sprechende Andeutung hinweg.",
+   "en": "In fact, from whichever side the matter be considered, every necessary reciprocal relation, as well as its intimation speaking through itself, falls away.",
+   "zh": "事实上，无论从哪一面来看这件事，一切必然的相互关系以及这种关系那种自身言说着的暗示，都消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 1,
+   "de": "Es bleibt, wenn denn die Beziehung doch stattfinden soll, eine begrifflose freie prästabilierte Harmonie der entsprechenden Bestimmung beider Seiten übrig und notwendig; denn die eine soll geistlose Wirklichkeit, bloßes Ding sein.",
+   "en": "If the relation is after all to take place, there remains, and necessarily so, a concept-less free pre-established harmony of the corresponding determination of both sides; for the one is supposed to be spirit-less actuality, a mere thing.",
+   "zh": "如果这种关系毕竟还是要发生，那么剩下的、并且必然剩下的，就是双方相应规定之间一种无概念的、自由的预定和谐；因为其中一方应当是无所精神的现实性，是单纯的物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 2,
+   "de": "– Es stehen also eben auf einer Seite eine Menge ruhender Schädelstellen, auf der ändern eine Menge Geisteseigenschaften, deren Vielheit und Bestimmung von dem Zustande der Psychologie abhängen wird.",
+   "en": "– Thus there stand on the one side a multitude of resting skull-places, on the other a multitude of spiritual properties, whose multiplicity and determination will depend on the state of psychology.",
+   "zh": "——于是，恰恰在一边立着一大堆静止的颅骨位置，在另一边立着一大堆精神属性，后者的多样性和规定将取决于心理学所处的状态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 3,
+   "de": "Je elender die Vorstellung von dem Geiste ist, um so mehr wird von dieser Seite die Sache erleichtert; denn teils werden die Eigenschaften um so weniger, teils um so abgeschiedener, fester und knöcherner, hierdurch Knochenbestimmungen um so ähnlicher und mit ihnen vergleichbarer.",
+   "en": "The more wretched the representation of the spirit is, the more the matter is facilitated from this side; for partly the properties become the fewer, partly the more separated off, firm and bony, and thereby all the more similar to and comparable with bone-determinations.",
+   "zh": "关于精神的表象越是可怜，从这一面看事情就越是被弄得容易；因为一方面属性会变得越来越少，另一方面会变得越来越分离、越来越坚实、越来越骨质化，由此与骨骼规定越来越相似、越来越可比。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 4,
+   "de": "Allein obzwar durch die Elendigkeit der Vorstellung von dem Geiste vieles erleichtert ist, so bleibt doch immer eine sehr große Menge auf beiden Seiten; es bleibt die gänzliche Zufälligkeit ihrer Beziehung für die Beobachtung.",
+   "en": "But although much is facilitated by the wretchedness of the representation of the spirit, there nevertheless always remains a very great multitude on both sides; there remains, for observation, the complete contingency of their relation.",
+   "zh": "但是，尽管由于关于精神的表象之可怜，许多东西被弄得容易了，双方却始终还剩下很大的一堆；对观察来说，剩下的就是它们之关系的完全偶然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 5,
+   "de": "Wenn von den Kindern Israels aus dem Sand am Meere, dem sie entsprechen sollen, jedes das Körnchen, dessen Zeichen es ist, sich nehmen sollte, so ist diese Gleichgültigkeit und Willkür, welche jedem das seine zuteilte, ebenso stark als die, welche jeder Seelenfähigkeit, Leidenschaft und, was hier gleichfalls betrachtet werden müßte, den Schattierungen von Charakteren, von welchen die feinere Psychologie und Menschenkenntnis zu sprechen pflegt, ihre Schädelstätten und Knochenformen zuweist.",
+   "en": "If, of the children of Israel from the sand by the sea, to which they are supposed to correspond, each were to take for itself the little grain of which it is the sign, then this indifference and arbitrariness, which allotted to each its own, is just as strong as that which assigns to each soul-faculty, passion, and — what would here likewise have to be considered — the shadings of characters, of which the finer psychology and knowledge of human nature is accustomed to speak, their skull-places and bone-forms.",
+   "zh": "如果以色列的子孙要从海边的沙子里——他们应当与这沙子相对应——各自取出属于自己作为其标记的那一粒沙，那么这种给每一个分派其应有之物的漠不关心和任意，就与那种漠不关心和任意一样强，后者给每一种灵魂能力、激情，以及——这里同样必须加以考察的——性格的种种色调（更精细的心理学和人情知识惯于谈论这些色调）分派其颅骨位置和骨骼形式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 6,
+   "de": "– Der Schädel des Mörders hat dieses – nicht Organ, auch nicht Zeichen, sondern diesen Knorren; aber dieser Mörder hat noch eine Menge anderer Eigenschaften sowie andere Knorren und mit den Knorren auch Vertiefungen; man hat die Wahl unter Knorren und Vertiefungen, Und wieder kann sein Mordsinn, auf welchen Knorren oder Vertiefung es sei, und hinwiederum [können] diese, auf welche Eigenschaft es sei, bezogen werden; denn weder ist der Mörder nur dies Abstraktum eines Mörders, noch hat er nur eine Erhabenheit und eine Vertiefung.",
+   "en": "– The murderer's skull has this — not an organ, nor yet a sign, but this bump; but this murderer has besides a multitude of other properties as well as other bumps, and along with the bumps also depressions; one has a choice among bumps and depressions; and again his murderous sense can be related to whichever bump or depression it be, and in turn these can be related to whichever property it be; for neither is the murderer only this abstraction of a murderer, nor has he only one elevation and one depression.",
+   "zh": "——凶手的颅骨有这个——不是器官，也不是标记，而是这个隆起；但这个凶手还有许多别的属性以及别的隆起，并且与隆起一起还有凹陷；人们在隆起和凹陷之间有得选；而他的杀人意念又可以——无论涉及哪一个隆起或凹陷——与之相关联，反过来，这些隆起或凹陷又可以——无论涉及哪一种属性——与之相关联；因为凶手既不只是凶手这个抽象物，也不只有一处隆起和一处凹陷。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 7,
+   "de": "Die Beobachtungen, welche hierüber angestellt werden, müssen darum gerade auch so gut lauten als der Regen des Krämers und der Hausfrau am Jahrmarkte und bei der Wäsche.",
+   "en": "The observations that are instituted about this must therefore sound just as good as the shopkeeper's and the housewife's rain at the fair and at the washing.",
+   "zh": "因此，在这方面所作的那些观察，听起来也必定和小贩与主妇在集市上、在洗衣时所说的那场雨一样好。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 8,
+   "de": "Krämer und Hausfrau konnten auch die Beobachtung machen, daß es immer regnet, wenn dieser Nachbar vorbeigeht oder wenn Schweinsbraten gegessen wird.",
+   "en": "Shopkeeper and housewife could also make the observation that it always rains when this neighbor passes by or when roast pork is eaten.",
+   "zh": "小贩和主妇也能作这样的观察：每当这个邻居走过，或者每当吃烤猪肉时，天总是下雨。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 9,
+   "de": "Wie der Regen gegen diese Umstände, so gleichgültig ist für die Beobachtung diese Bestimmtheit des Geistes gegen dieses bestimmte Sein des Schädels.",
+   "en": "As the rain is indifferent toward these circumstances, so indifferent is, for observation, this determinacy of the spirit toward this determinate being of the skull.",
+   "zh": "正如雨对这些情况漠不关心，对观察来说，精神的这种规定性对颅骨的这种特定存在也同样漠不关心。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 39,
+   "si": 10,
+   "de": "Denn von den beiden Gegenständen dieses Beobachtens ist der eine ein trockenes Fürsichsein, eine knöcherne Eigenschaft des Geistes, wie der andere ein trockenes Ansichsein, ein so knöchernes Ding, als beide sind, ist vollkommen gleichgültig gegen alles andere; es ist dem hohen Knorren ebenso gleichgültig, ob ein Mörder in seiner Nachbarschaft, als dem Mörder, ob die Plattheit in seiner Nähe ist.",
+   "en": "For of the two objects of this observing, the one is a dry being-for-itself, a bony property of the spirit, while the other is a dry being-in-itself, a thing as bony as both are, and it is completely indifferent toward everything else; it is just as indifferent to the high bump whether a murderer is in its neighborhood, as it is to the murderer whether flatness is in his vicinity.",
+   "zh": "因为在这种观察的两个对象中，一个是干巴巴的自为存在，是精神的一种骨质属性，正如另一个是干巴巴的自在存在，是一个与两者一样骨质的物，它完全漠不关心一切别的东西；高隆起对是否有一个凶手在它近旁同样无所谓，正如凶手对是否有一处平坦在他近旁无所谓。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 0,
+   "de": "Es bleibt allerdings die Möglichkeit, daß mit irgendeiner Eigenschaft, Leidenschaft usf. ein Knorren an irgendeiner Stelle verbunden sei, unüberwindlich übrig.",
+   "en": "To be sure, the possibility that a bump at some place be connected with some property, passion etc. remains insuperably left over.",
+   "zh": "当然，某种属性、激情等等与某处的一个隆起相联结，这种可能性不可克服地留存着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 1,
+   "de": "Man kann sich den Mörder mit einem hohen Knorren hier an dieser Schädelstelle, den Dieb mit einer dort vorstellen.",
+   "en": "One can represent the murderer with a high bump here at this skull-place, the thief with one there.",
+   "zh": "人们可以设想凶手在这里这个颅骨位置上有一个高隆起，小偷在那边有一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 2,
+   "de": "Von dieser Seite ist die Schädelwissenschaft noch großer Erweiterung fähig; denn zunächst scheint sie sich nur auf die Verbindung eines Knorren mit einer Eigenschaft an demselben Individuum, so daß dieses beide besitzt, einzuschränken.",
+   "en": "From this side the science of the skull is still capable of great expansion; for to begin with it seems to restrict itself only to the connection of a bump with a property in the same individual, so that this individual possesses both.",
+   "zh": "从这一面看，颅骨科学还能有很大的扩展；因为起初它似乎只把自己限制在一个隆起与同一个体身上某种属性的联结，以致这个个体兼有两者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 3,
+   "de": "Aber schon die natürliche Schädelwissenschaft – denn es muß so gut eine solche als eine natürliche Phsylognomik geben geht über diese Schranke hinaus; sie urteilt nicht nur, daß ein schlauer Mensch einen faustdicken Knorren hinter den Ohren sitzen habe, sondern sie stellt auch vor, daß die untreue Ehefrau nicht selbst, sondern das andere eheliche Individuum Knorren an der Stirne habe.",
+   "en": "But even natural science of the skull — for there must be such a one as well as a natural physiognomy — goes beyond this limit; it judges not only that a clever human being has a fist-thick bump sitting behind the ears, but also represents that the unfaithful wife has bumps on her forehead not herself but the other marital individual.",
+   "zh": "但自然的颅骨科学——因为既有一种自然的面相学，也就必定同样有一种自然的颅骨科学——已经超出了这个界限；它不仅判断一个狡猾的人耳朵后面坐着一个拳头大的隆起，而且还设想：不忠的妻子额头上长隆起的不是她自己，而是另一个婚姻中的个体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 4,
+   "de": "– Ebenso kann man sich auch den, der mit dem Mörder unter einem Dache wohnt, oder auch seinen Nachbar und weiter hinaus seine Mitbürger usf. mit hohen Knorren an irgendeiner Schädelstelle vorstellen, so gut als die fliegende Kuh, die zuerst von dem Krebs, der auf dem Esel ritt, geliebkost und hernach usf. wurde.",
+   "en": "– Likewise one can represent to oneself the one who lives under the same roof with the murderer, or also his neighbor and, further out, his fellow citizens etc., as having high bumps at some skull-place, just as well as the flying cow that was first caressed by the crab that rode on the donkey and afterward etc.",
+   "zh": "——同样，人们也可以设想那个与凶手同住在一个屋顶下的人，或者他的邻居，再往外还有他的同胞等等，在某个颅骨位置上长着高隆起，就像设想那头飞牛一样：它先是被那只骑在驴上的螃蟹抚爱，后来又等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 40,
+   "si": 5,
+   "de": "– Wird aber die Möglichkeit nicht im Sinne der Möglichkeit des Vorstellen; sondern der inneren Möglichkeit oder des Begriffs genommen, so ist der Gegenstand eine solche Wirklichkeit, welche reines Ding und ohne dergleichen Bedeutung ist und sein soll und sie also nur in der Vorstellung haben kann.",
+   "en": "– If, however, the possibility is taken not in the sense of the possibility of representing, but of inner possibility or of the concept, then the object is such an actuality as is and is supposed to be a pure thing and without any such meaning, and can therefore have it only in representation.",
+   "zh": "——但如果这种可能性不是就表象的可能性、而是就内在的可能性或概念而言来理解，那么对象就是这样一种现实性：它是、并且应当是纯粹的物，没有诸如此类的意义，因而只能在表象中拥有这种意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 0,
+   "de": "Schreitet, ungeachtet der Gleichgültigkeit der beiden Seiten, der Beobachter jedoch ans Werk, Beziehungen zu bestimmen, teils frisch gehalten durch den allgemeinen Vernunftgrund, daß das Äußere der Ausdruck des Inneren sei, teils sich unterstützend mit der Analogie von Schädeln der Tiere – welche zwar wohl einen einfacheren Charakter haben mögen als die Menschen, von denen es aber zugleich um ebenso schwerer zu sagen wird, welchen sie haben, indem es nicht der Vorstellung eines jeden Menschen so leicht sein kann, sich in die Natur eines Tieres recht hineinzubilden –, so findet der Beobachter bei der Versicherung der Gesetze, die er entdeckt haben will, eine vorzügliche Hilfe an einem Unterschiede, der uns hier notwendig auch einfallen muß.",
+   "en": "If, however, despite the indifference of both sides, the observer nevertheless proceeds to the work of determining relations — kept fresh partly by the universal ground of reason that the outer is the expression of the inner, partly supporting himself with the analogy of the skulls of animals, which may indeed have a simpler character than human beings, but of which it becomes at the same time all the harder to say which one they have, since it cannot be so easy for the representation of every human being to form itself properly into the nature of an animal — then the observer finds, in the assurance of the laws that he wants to have discovered, an excellent help in a distinction that must here necessarily also occur to us.",
+   "zh": "可是，尽管双方漠不关心，如果观察者还是着手去规定种种关系——他一方面被那条普遍的理性根据保持新鲜：外在的东西是内在东西的表达，另一方面又借助动物颅骨的类比来支持自己（动物颅骨虽然也许具有比人更简单的性格，但同时要说清它们具有哪一种性格却同样更难，因为并不是每个人的表象都能那么容易地把自己真正培养到一种动物的本性里去）——，那么观察者在确信他自以为发现了的那些规律时，就会在一个差别那里找到极好的帮助，而这个差别在这里也必然会使我们想到。"
+  }
+ ]
+}

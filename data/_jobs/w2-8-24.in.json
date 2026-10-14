@@ -1,0 +1,85 @@
+{
+ "id": "w2-8-24",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "B. Jacobische Philosophie",
+ "heading": "B. Jacobische Philosophie",
+ "blocks": [
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "6w399o15x5",
+   "sents": [
+    "Wenn damit, daß die Zeit nichts an sich ist und daß sie in der Ewigkeit verlorengeht, die beliebte Tendenz des Erklärens nicht zufrieden ist und Jacobi dem Spinoza zumutet, daß er mit seiner Philosophie eine natürliche Erklärung des Daseins endlicher und sukzessiver Dinge habe zustande bringen wollen, so ergibt sich aus dem obigen, was eigentlich eine Erklärung der Zeit ist, nämlich eine Abstraktion, die in einer ewigen Idee gemacht wird.",
+    "Die Abstraktion der Zeit konnte also Jacobi unmittelbar an der Totalität oder dem Satze des Grundes machen und sie auf diese Weise aus ihm begreifen; aber die Abstraktion als solche und in dieser Form in der Totalität zu finden, dies hebt sich unmittelbar auf.",
+    "Wir erhalten die Abstraktion der Zeit, wenn wir von den Attributen das Denken isolieren und es nicht als Attribut der absoluten Substanz, als welches es diese selbst ausdrückt, begreifen, sondern es, abstrahiert von ihr, als leeres Denken, subjektive Unendlichkeit fixieren und diese Abstraktion in relative Beziehung auf die Einzelheit des Seins setzen.",
+    "Durch diese Abstraktion wird dann die Zeit wahrhaft aus der Ewigkeit erkannt und, wenn man will, erklärt; ihre Deduktion aber aus einer Gemeinschaft einzelner Dinge wird eine natürlichere Erklärung geben, indem das Vorausgesetzte, die einzelnen Dinge, ja schon etwas Natürliches sind.",
+    "Unter der Natürlichkeit, durch welche die Philosophie ihre Erklärungsweise zustande bringen wollte, ist durchgehend ersichtlich, daß Jacobi nichts anderes versteht als das formale Wissen und reflektierte Denken und Erkennen nach der Einbildung; es gehören hierher die oben angeführten Stellen über Jacobis Begriff vom Wissen.",
+    "Auf eine solche natürliche Weise ist freilich kein philosophisches Begreifen möglich, und in Spinoza möchten wohl wenige Zeilen von dieser Natürlichkeit zu finden sein; sondern da Jacobi unter natürlichem Erklären das Erkennen nach der Einbildung versteht, so ist wohl alles übernatürlich in Spinoza, und so konnte die Behauptung Jacobis, daß die Welt sich nicht natürlich erklären lasse171) , am allermeisten ihre Bestätigung in Spinoza, welcher sie nicht nur aufgestellt, sondern ausgeführt hat, finden.",
+    "Aber dadurch fällt alle sogenannte Natürlichkeit überhaupt weg und damit selbst auch jene Übernatürlichkeit, weil sie nur ist, insofern ein Natürliches ihr gegenüber ist, und es ist weder darum zu tun, daß die Vernunft, wie Jacobi (Briefe über Spinoza, S. 419) sagt, das Außernatürliche oder Übernatürliche in ein Natürliches, noch auch, daß sie das Natürliche in ein Übernatürliches zu verwandeln sucht172) ; sondern jene Natürlichkeit, d. h. der Mechanismus und Kausalzusammenhang und die Zeit sowie das Wissen, das an der reinen Identität fortgeht und Tatsachen analysiert, ist für sie gar nicht vorhanden."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1ng9jftq3x",
+   "sents": [
+    "Was endlich die mathematischen Gleichnisse eines actu Unendlichen betrifft, welche Spinoza dem Betrug der Imagination entgegensetzte und mit welchen er durch seine Imagination sich, nach Jacobi, habe sollen täuschen lassen, so ist Spinoza seiner Sache so gewiß, daß er sagt: Wie erbärmlich diejenigen, welche das actu Unendliche für eine Ungereimtheit halten, räsoniert haben, darüber mögen die Mathematiker urteilen, die durch Argumente von solchem Schrot sich nicht aufhalten ließen in klar und deutlich erkannten Dingen.173) Das Beispiel Spinozas ist der Raum, der zwischen zwei Kreisen eingeschlossen ist, welche nicht einen gemeinschaftlichen Mittelpunkt haben, nach der Figur, die er auch als sein echtes Symbol vor seine Prinzipien der Cartesianischen Philosophie setzen ließ, indem er durch dieses Beispiel die empirische Unendlichkeit aus dem endlosen Hinaustreiben des Einbildens zurückgeholt und sie vor sich hingebannt hat.",
+    "Die Mathematiker schließen, daß die Ungleichheiten, welche in diesem Raume möglich, unendlich sind, nicht aus der unendlichen Menge der Teile - denn seine Größe ist bestimmt und begrenzt, und ich kann größere und kleinere Räume, also größere und kleinere Unendlichkeiten setzen -, sondern weil die Natur der Sache jede Bestimmtheit der Zahl übertrifft174) ; es ist in diesem begrenzten Raume ein wirkliches Unendliches, ein actu Unendliches.",
+    "Wir sehen in diesem Beispiel nämlich das Unendliche, das oben als die absolute Affirmation oder der absolute Begriff bestimmt worden ist, zugleich für die Anschauung, also im Besonderen dargestellt, und der absolute Begriff ist actu die Identität Entgegengesetzter; werden diese Teile auseinandergehalten und als solche identisch gesetzt, ist dies Besondere, als solches wirklich gesetzt, in Zahlen ausgedrückt und soll es in seiner Inkommensurabilität nach dem Begriff identisch gesetzt werden, so entspringt die empirische Unendlichkeit in den unendlichen Reihen der Mathematiker.",
+    "Die Inkommensurabilität aber besteht darin, daß das Besondere von der Subsumtion unter den Begriff entbunden, in Teile zerlegt wird und diese absolut bestimmte und absolut gegeneinander ungleiche sind und, wenn sie, vorhin im intuitiven Begriff gleichgesetzt, jetzt einander verglichen werden, nicht mehr in der Identität, sondern nur im Verhältnisse sind.",
+    "Mit einem Worte, es ist dies nichts als die Umwandlung der Geometrie in Analysis oder bestimmter - des Pythagoreischen Lehrsatzes, welcher allein alle wahrhafte Geometrie ist, in die Reihen der Funktionen krummer Linien."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "ewih01qcj8",
+   "sents": [
+    "Es ergibt sich hieraus der wahre Charakter des Denkens, der Unendlichkeit ist; indem nämlich der absolute Begriff Unendlichkeit - an sich absolute Affirmation, aber gegen das Entgegengesetzte und Endliche gekehrt ist als ihre Identität, so ist es absolute Negation, und diese Negation als seiend, reell gesetzt ist das Setzen Entgegengesetzter: + A - A = 0. Das Nichts existiert als + A - A und ist seinem Wesen nach Unendlichkeit, Denken, absoluter Begriff, absolute reine Affirmation. Diese abstrahierte Unendlichkeit der absoluten Substanz ist dasjenige, was Fichte als Ich oder reines Selbstbewußtsein, reines Denken, nämlich als das ewige Tun oder Produzieren der Differenz, welche das reflektierte Denken immer nur als Produkt kennt, unserer neuen subjektiveren Kultur nähergebracht hat. Das in der Erscheinung Außereinandergehaltene, Inkommensurable, die Differenz als Produkt ist sich in dem letzten Verhältnisse, in der Unendlichkeit, d. h. worin die Entgegengesetzten zugleich wegfallen, gleich, und die Identität in Beziehung auf die als für sich seiend (in Zahlen) gesetzten Inkommensurablen ist eine unendliche, ein Nichts; aber die Inkommensurablen nicht als diese Abstraktionen, für sich seiend (in Zahlen), noch als ohne das Ganze bestehende Teile, sondern nach dem, was sie an sich sind, nämlich sie nur im Ganzen gesetzt, so ist der wahrhafte Begriff, die wahrhafte Gleichheit des Ganzen und der Teile, und die affirmative Unendlichkeit, das actu Unendliche, für intuitive oder geometrische Erkenntnis vorhanden. Diese Idee des Unendlichen ist eine der allerwichtigsten im Spinozistischen System, und in einer Darstellung desselben müßte sie eine größere Figur spielen, als - wie in den Jacobischen Sätzen - nur immer ein müßiges Prädikat zu Denken, Ausdehnung usw. ab[zu]geben. Es liegt in ihr gerade das Wichtigste, nämlich die Erkenntnis des Vereinigungspunktes der Attribute; aber ohne diese Idee sind die höchsten Ideen Spinozas auf eine formelle, historische Weise dargestellt, wie in der 14. These [in Jacobis Spinoza] die Attribute und Modi zu der absoluten Substanz in der gemeinen Reflexionsform von Eigenschaften hinzukommen.175)"
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "eedygp1skd",
+   "sents": [
+    "Wir stellen die Formen der Unendlichkeit kurz zusammen.",
+    "Das wahrhafte Unendliche ist die absolute Idee, Identität des Allgemeinen und Besonderen oder Identität des Unendlichen und Endlichen selbst, nämlich des Unendlichen, insofern es einem Endlichen entgegengesetzt ist.",
+    "Und dieses Unendliche ist reines Denken; gesetzt als diese Abstraktion, ist es reine absolut-formale Identität, reiner Begriff, Kantische Vernunft, Fichtesches Ich.",
+    "Aber gegen dieses Endliche gestellt, ist es ebendeswegen absolutes Nichts desselben: + A - A = 0; es ist die negative Seite der absoluten Idee. Dieses Nichts als Realität gesetzt, die Unendlichkeit selbst nicht als Subjekt oder Produzieren, als welches sie reine Identität sowohl als Nichts ist, sondern als Objekt oder Produkt, ist sie das + A - A, das Setzen Entgegengesetzter. Aber keine von diesen Formen der Unendlichkeit ist noch die Unendlichkeit der Einbildung oder die empirische. Die erste Unendlichkeit ist die der absoluten Vernunft; die Unendlichkeit der reinen Identität oder der Negativität ist die der formalen oder negativen Vernunft. Das Unendliche aber, in seiner Realität als + A - A, wovon das eine selbst als Unendliches, das andere als Endliches bestimmt wird, oder die Endlichkeit überhaupt, ist das der Reflexion und der Einbildung, wozu das oben Angezeigte gehört, wenn ein Endliches als absolut, d. h. zugleich als ein Anderes gesetzt werden soll. Bei Jacobi findet sich Unendlichkeit entweder als etwas Müßiges oder als die empirische der Einbildung, und dies verleitet ihn zu meinen, Spinoza habe in seinem mathematischen Beispiel (Jacobi spricht von mehreren, aber im 29. Brief ist nur eins, und Ethik, P. I, Prop. XV, Schol., ist es nicht Spinoza, der das dortige Beispiel gebraucht, sondern er führt es von den Gegnern an) eine empirische Unendlichkeit als actu existierend darstellen wollen, und ist durch das mathematische Beispiel insofern befriedigt, daß er zwar keine objektive und wirkliche, aber doch eine subjektive und idealische [Unendlichkeit] darin findet."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "twg8qrt6nd",
+   "sents": [
+    "Wo wir eine Verknüpfung von Grund und Folge (David Hume, S. 94) wahrnehmen, werden wir uns des Mannigfaltigen in einer Vorstellung bewußt, und dies geschieht in der Zeit, und diese idealische Sukzession ist selbst eine wirkliche in dem Subjekt, das sie erzeugt.176) - Spinoza hat auf diese Weise mehr geleistet, als er im Sinne hatte; denn er dachte bei seinem Beispiele gar nicht an Sukzession, und sie ist auch nicht darin zu sehen.",
+    "Jacobi findet aber doch wenigstens eine subjektive darin; das Beispiel hat bei ihm also statt der philosophischen eine psychologische und empirische Bedeutung, nur findet er noch nicht genug Empirisches, nämlich außer der psychologischen nicht auch noch eine objektive wirkliche Sukzession darin, obschon auch die Idealische selbst eine wirkliche Sukzession im Subjekt ist."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "91v9ir1os7",
+   "sents": [
+    "Die Natur dieses polemischen Verfahrens besteht also darin, daß Jacobi die Sukzession und Endlichkeit entweder vermißt und sie in der Spekulation schlechthin fordert oder sie hineinerklärt und dann Ungereimtheiten findet.",
+    "Die positive Seite dieses Fixiertseins im Endlichen nach der ideellen Form, nämlich in bezug aufs Wissen haben wir oben gesehen, welches als am Faden der Ähnlichkeit und Identität fortgehend und eines Faktums bedürftig begriffen wird, das ihm gegeben sein muß als ein Fremdes, das + B, zu welchem die Identität des Begriffes hinzutretend vorgestellt wird.",
+    "Von dieser Empirie nun überhaupt und von der Individualität des Sinnes, welche den Umfang und die Schönheit dieser Empirie bestimmt, und daß durch die Vernunft die Empirie des Menschen einen anderen Charakter hat als die Empirie des Tiers, wie auch von der empirischen Darstellung subjektiver Individualität oder des Sinnes hat Jacobi zuweilen geist- und sinnreiche Ausdrücke.",
+    "Solche Sachen von der Beziehung der Empirie auf das Wissen, wie (Reinholds Beiträge, 3.",
+    "Heft, S. 92): daß Raum und Zeit Tatsachen sind, weil Bewegung eine Tatsache ist.",
+    "\"Ein Mensch, der sich nie bewegt hätte, könnte sich keinen Raum vorstellen; wer sich nie verändert hätte, kennte keinen Begriff der Zeit ...",
+    "A priori möchten wir sowenig zu derselben gelangen, wie wir zur reinen Mannigfaltigkeit, zur verbindenden Verbindung, zur produzierenden Spontaneität des Verstandes gelangten\"177) , können vielleicht dem Verarbeiter Köppen und nicht Jacobi zugehören."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/8.p24.json"
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>a. Petrus Lombardus - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/18/HE18-140.html","collection":"hegel","title":"a. Petrus Lombardus","lang":"de","prev":{"file":"HE18-139.html","title":"2. Methodische Darstellung des kirchlichen Lehrbegriffs"},"next":{"file":"HE18-141.html","title":"b. Thomas von Aquino"},"volPath":"/docs/HEGEL/18/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/18/">Werke 18</a><span class="crumb-sep">/</span><span class="crumb current">HE18-140.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h6 id="h140-1"> a. Petrus Lombardus </h6> <p>Petrus aus Novara in der Lombardei in der Mitte des 12. Jahrhunderts ist Urheber dieser Methode. <i>Petrus</i> <i>Lombardus</i> stellte ein Ganzes von scholastischer Theologie auf, welches mehrere Jahrhunderte eine Grundlage blieb. Er verfaßte so seine <i>IV</i> <i>Libri</i> <i>sententiarum</i>, daher er auch den Namen <i>Magister</i> <i>sententiarum</i> erhielt; jeder scholastische Gelehrte hatte so damals ein Prädikat: <i>Doctor</i> <i>acutus</i>, <i>invincibilis</i>, <i>sententiosus</i>, <i>angelicus</i> usf. Er ist im Jahre 1164 gestorben. Diese <i>sententiae</i> sind viele Jahrhunderte lang die Grundlage des kirchlichen Lehrbegriffs gewesen. </p>
+<p>Auch andere bedienten sich solcher Titel; <i>Robert</i> <i>Pulleyn</i> schrieb <i>Sententiarum</i> <i>libros</i> <i>VIII</i>.<sup><a href="#N_810_" id="X_810_">810)</a></sup></p>
+<p>Er sammelte die Hauptbestimmungen der kirchlichen Lehre aus Konzilien und Kirchenvätern und fügte dann über besondere Umstände subtile Fragen hinzu, welche die Schule beschäftigten und ein Gegenstand der Disputationen wurden. Er selbst beantwortete zwar diese Fragen, ließ aber dann noch Gegengründe folgen; die Antwort läßt die Sache bei Petrus oft problematisch, so daß die Fragen eigentlich nicht <a id="S19-562"></a> entschieden beantwortet waren. Die Gründe werden von beiden Seiten aufgezählt; die Kirchenväter widersprechen sich, und für die eine und die andere entgegengesetzte Seite sammelte man eine Menge Beweisstellen aus ihnen. So entstanden <i>theses</i>, dazu <i>quaestiones</i>, hierzu <i>argumenta</i>, dagegen <i>positiones</i> und endlich <i>dubia</i>, - je nachdem man die Worte in diesem oder jenem Sinne nahm, dieser oder jener Autorität folgen wollte. </p>
+<p>Es kam doch Methode herein. Diese Mitte des 12. Jahrhunderts macht die Epoche aus, wo die Scholastik als gelehrte (philosophische) Theologie allgemeiner wurde. Dieses Buch ist im ganzen Mittelalter von den <i>doctores</i> <i>theologiae</i> <i>dogmaticae</i> kommentiert worden, welche nun als die öffentlichen Bewahrer der kirchlichen Lehre galten. Die Geistlichkeit hatte Seelsorge. Jene Doktoren hatten überhaupt Autorität, hielten Synoden, kritisierten und verdammten diese oder jene Lehren, Bücher als ketzerisch usf., - auf Synoden oder als Sorbonne, eine Gesellschaft solcher Doktoren an der Universität zu Paris. Man kann sie für Kirchenversammlungen, für eine Art von Vätern in Ansehung des christlichen Lehrbegriffs ansehen. </p>
+<p>Besonders hielten sie gegen die Schriften von Mystikern, wie des <i>Amalrich</i> und seines Schülers <i>David</i> <i>von</i> <i>Dinanto</i>, die in ihrer Ansicht, dem Proklos ähnlich, auf die Einheit zurückgingen. Amalrich, 1204 als Ketzer angeklagt<sup><a href="#N_811_" id="X_811_">811)</a></sup> , sagte z. B.: "Gott ist alles, Gott und die Kreatur sind nicht verschieden; in Gott sind alle Dinge, Gott ist die eine allgemeine Substanz."<sup><a href="#N_812_" id="X_812_">812)</a></sup> "David behauptete: Gott ist die erste Materie (ὕλη), und alles ist eins der Materie nach und Gott eben diese Einheit. Er teilte alle Dinge in drei Klassen: Körper, Seelen, ewige immaterielle Substanzen oder Geister. Das unteilbare Prinzip der Seelen ist der <span class="unicode">νου ͂ς</span>, das der Geister Gott. Diese drei Prinzipien sind identisch und daher alle Dinge dem Wesen nach <a id="X_813_"></a>eins."<sup><a href="#N_813_" id="S19-563">813)</a></sup> Seine Bücher wurden verbrannt. - Der Andere, der hier berühmt ist, war: </p>
+<aside class="fn">
+<p class="fni"><a href="#X_810_" id="N_810_">810)</a> <i class="qua">Brucker III, 767-768</i></p>
+<p class="fni"><a href="#X_811_" id="N_811_">811)</a> <i class="qua">Tennemann, Bd. VIII, S. 317</i></p>
+<p class="fni"><a href="#X_812_" id="N_812_">812)</a> <i class="qua">Brucker III, 688</i></p>
+<p class="fni"><a href="#X_813_" id="N_813_">813)</a> <i class="qua">Thomas Aquinas, in IV libros sententiarum, L. II, Dist. 17, Qu. 1, Art. 1</i>; <i class="qua">Albertus Magnus, Summa Theologica I, Tract. IV, Qu. 20 (Opera XVII, p. 76)</i></p>
+</aside>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE18-139.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">2. Methodische Darstellung des kirchlichen Lehrbegriffs</span></a>
+              <a href="./HE18-141.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">b. Thomas von Aquino</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

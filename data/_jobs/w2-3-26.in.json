@@ -1,0 +1,44 @@
+{
+ "id": "w2-3-26",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "Rezensionen aus der Erlanger Literatur-Zeitung",
+ "heading": "Rezensionen aus der Erlanger Literatur-Zeitung",
+ "blocks": [
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "2q9ty614kt",
+   "sents": [
+    "Die Untersuchung steht endlich da still, wo sie zu den höchsten Gründen des Wissens gelangt, S. 118. 'Dies sind die beiden Unendlichen, das freie Ich und die äußeren Kräfte; wie hängen nun diese beiden Unendlichen zusammen, ist eines das Produkt des anderen?",
+    "Diese Fragen sind absolut unbeantwortbar; - denn in jedem Bewußtsein, mithin auch in dem des etwaigen Beantworters müssen beide als antipodisch vorkommen.",
+    "Durch ihr stetes Zusammentreffen, durch ihren immerwährenden Kampf aus entgegengesetzten Punkten entsteht allererst Wirklichkeit, Erfahrung, Wissen, Erkenntnis.",
+    "Beide müssen ewig unvereinbar bleiben, jedes der Entgegengesetzten ist ein Absolutes für sich und doch jedes auch durch das andere bedingt.' - Und dies sind dann die höchsten Gründe des Wissens, die, wie wir sehen, in nichts anderem als dem allergewöhnlichsten und formellsten Dualismus, mit Fichteschen Farben und gehörig erbaulichen und rednerischen Amplifikationen übertüncht, bestehen."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "p3eo86kfbb",
+   "sents": [
+    "Das Verhältnis der rechtlichen Freiheit wird nun so eingeführt, daß der Mensch durch seinen Leib und die Außenwelt mit den freien Wesen seiner Gattung im Verhältnis möglicher Wechselwirkungen steht, wodurch einer der Wirksamkeit des anderen unwiderstehlichen Zwang entgegensetzen könne; der Zustand, in welchem weder ihre Wirksamkeit gewaltsam gehemmt [ist], noch sie untereinander dieselbe hemmen, ist jenes Verhältnis der rechtlichen Freiheit. - Nun folgt noch manches über das Sittengesetz, was man nicht anders als Deklamationen nennen kann; und weder die höchsten Gründe des Wissens noch eine Deduktion des Rechts aus denselben sind irgendwo zu erblicken, sondern nichts als Kantische Moralphilosophie und Worte des Fichteschen Idealismus als ein Dualismus aufgefaßt, mit leerem deklamatorischem Schwung vorgetragen, der die Sache wahrscheinlich populär und gemeinfaßlich machen soll."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1u6i4t01n4",
+   "sents": [
+    "Der dritte Abschnitt, S. 154, der Beweis der Richtigkeit des im ersten Abschnitt aus Urteilen des gemeinen Verstandes entwickelten Begriffs, findet sich freilich sehr leicht; denn im ersten Abschnitt waren schon die Begriffe des zweiten in den gemeinen Verstand hineinerklärt, und das Ganze hätte darum ebensogut unter dem Titel des ersten Abschnitts abgehandelt werden können."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/3.p26.json"
+}

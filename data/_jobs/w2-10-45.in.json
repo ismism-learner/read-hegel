@@ -1,0 +1,25 @@
+{
+ "id": "w2-10-45",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "Über die wissenschaftlichen Behandlungsarten des Naturrechts, seine Stelle in der praktischen Philosophie und sein Verhältnis zu den positiven Rechtswissenschaften 226)",
+ "heading": "Über die wissenschaftlichen Behandlungsarten des Naturrechts, seine Stelle in der praktischen Philosophie und sein Verhältnis zu den positiven Rechtswissenschaften226)",
+ "blocks": [
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "pikhbk1x0d",
+   "sents": [
+    "Es ist die Ansicht der Freiheit völlig zu verwerfen, nach welcher sie eine Wahl sein soll zwischen entgegengesetzten Bestimmtheiten, so daß, wenn + A und - A vorlägen, sie darin bestünde, entweder als + A oder als - A sich zu bestimmen, und an dies Entweder-Oder schlechthin gebunden wäre. So etwas wie diese Möglichkeit der Wahl ist schlechthin eine empirische Freiheit, welche eins ist mit der empirischen gemeinen Notwendigkeit und schlechthin nicht von ihr trennbar. Sie ist vielmehr die Negation oder Idealität der Entgegengesetzten, sowohl des + A als des - A, die Abstraktion der Möglichkeit, daß keins von beiden ist; ein Äußeres wäre für sie nur, insofern sie allein als + A oder allein als - A bestimmt wäre, aber sie ist gerade das Gegenteil hiervon und nichts Äußeres für sie, und so ist für sie kein Zwang möglich."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/10.p45.json"
+}

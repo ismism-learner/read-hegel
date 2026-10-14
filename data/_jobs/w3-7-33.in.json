@@ -1,0 +1,62 @@
+{
+ "id": "w3-7-33",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 7,
+ "chunkTitle": "C. Die Individualität, welche sich an und für sich selbst reell ist",
+ "heading": "C. Die Individualität, welche sich an und für sich selbst reell ist",
+ "blocks": [
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "rqoa215ksp",
+   "sents": [
+    "Ein anderes berühmtes Gebot ist: Liebe deinen Nächsten als dich selbst.",
+    "Es ist an den Einzelnen im Verhältnisse zu den Einzelnen gerichtet und behauptet es als ein Verhältnis des Einzelnen zum Einzelnen oder als Verhältnis der Empfindung.",
+    "Die tätige Liebe – denn eine untätige hat kein Sein und ist darum wohl nicht gemeint – geht darauf, Übel von einem Menschen abzusondern und ihm Gutes zuzufügen.",
+    "Zu diesem Behuf muß unterschieden werden, was an ihm das Übel, was gegen dies Übel das zweckmäßige Gute und was überhaupt sein Wohl ist; d.h. ich muß ihn mit Verstand lieben; unverständige Liebe wird ihm schaden, vielleicht mehr als Haß.",
+    "Das verständige wesentliche Wohltun ist aber in seiner reichsten und wichtigsten Gestalt das verständige allgemeine Tun des Staats – ein Tun, mit welchem verglichen das Tun des Einzelnen als eines Einzelnen etwas überhaupt so Geringfügiges wird, daß es fast nicht der Mühe wert ist, davon zu sprechen.",
+    "Jenes Tun ist dabei von so großer Macht, daß, wenn das einzelne Tun sich ihm entgegensetzen und entweder geradezu für sich Verbrechen sein oder einem anderen zuliebe das Allgemeine um das Recht und den Anteil, welchen es an ihm hat, betrügen wollte, es überhaupt unnütz sein und unwiderstehlich zerstört werden würde.",
+    "Es bleibt dem Wohltun, welches Empfindung ist, nur die Bedeutung eines ganz einzelnen Tuns, einer Nothilfe, die ebenso zufällig als augenblicklich ist.",
+    "Der Zufall bestimmt nicht nur seine Gelegenheit, sondern auch dies, ob es überhaupt ein Werk ist, ob es nicht sogleich wieder aufgelöst und selbst vielmehr in Übel verkehrt wird.",
+    "Dieses Handeln also zum Wohl anderer, das als notwendig ausgesprochen wird, ist so beschaffen, daß es vielleicht existieren kann, vielleicht auch nicht; daß, wenn der Fall zufälligerweise sich darbietet, es vielleicht ein Werk, vielleicht gut ist, vielleicht auch nicht.",
+    "Dies Gesetz hat hiermit ebensowenig einen allgemeinen Inhalt als das erste, das betrachtet wurde, und drückt nicht, wie es als absolutes Sittengesetz sollte, etwas aus, das an und für sich ist.",
+    "Oder solche Gesetze bleiben nur beim Sollen stehen, haben aber keine Wirklichkeit; sie sind nicht Gesetze, sondern nur Gebote."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1j347j9204",
+   "sents": [
+    "Es erhellt aber in der Tat aus der Natur der Sache selbst, daß auf einen allgemeinen absoluten Inhalt Verzicht getan werden muß; denn der einfachen Substanz – und ihr Wesen ist dies, einfache zu sein – ist jede Bestimmtheit, die an ihr gesetzt wird, ungemäß.",
+    "Das Gebot in seiner einfachen Absolutheit spricht selbst unmittelbares sittliches Sein aus; der Unterschied, der an ihm erscheint, ist eine Bestimmtheit und also ein Inhalt, der unter der absoluten Allgemeinheit dieses einfachen Seins steht.",
+    "Indem hiermit auf einen absoluten Inhalt Verzicht getan werden muß, kann ihm nur die formale Allgemeinheit oder dies, daß es sich nicht widerspreche, zukommen; denn die inhaltslose Allgemeinheit ist die formale, und absoluter Inhalt heißt selbst soviel als ein Unterschied, der keiner ist, oder als Inhaltslosigkeit."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "18m6vpkqcj",
+   "sents": [
+    "Was dem Gesetzgeben übrigbleibt, ist also die reine Form der Allgemeinheit oder in der Tat die Tautologie des Bewußtseins, welche dem Inhalt gegenübertritt und ein Wissen nicht von dem seienden oder eigentlichen Inhalte, sondern von dem Wesen oder der Sichselbstgleichheit desselben ist."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "x5sov4r75a",
+   "sents": [
+    "Das sittliche Wesen ist hiermit nicht unmittelbar selbst ein Inhalt, sondern nur ein Maßstab, ob ein Inhalt fähig sei, Gesetz zu sein oder nicht, indem er sich nicht selbst widerspricht.",
+    "Die gesetzgebende Vernunft ist zu einer nur prüfenden Vernunft herabgesetzt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/7.p33.json"
+}

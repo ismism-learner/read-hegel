@@ -1,0 +1,21 @@
+# 冗余备份（重建前的快照，不进版本库）
+data/_backup/
+data/_archive/
+
+# 已应用的审校/修复补丁（内容已并入译文）
+data/_jobs/_applied/
+
+# 运行期临时产物
+*.log
+*.tmp
+_tmp_*.txt
+.venv/
+node_modules/
+__pycache__/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

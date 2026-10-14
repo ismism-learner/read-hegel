@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>b. Der Schluß der Induktion - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-172.html","collection":"hegel","title":"b. Der Schluß der Induktion","lang":"de","prev":{"file":"HE05-171.html","title":"a. Der Schluß der Allheit"},"next":{"file":"HE05-173.html","title":"c. Der Schluß der Analogie"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-172.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 id="h172-1">b. Der Schluß der Induktion</h4>
+<p>1. Der Schluß der Allheit steht unter dem Schema der ersten Figur, <i>E-B-A</i>, der Schluß der Induktion unter dem der zweiten, <i>A-E-B</i>, da er wieder die Einzelheit zur Mitte hat, nicht die <i>abstrakte</i> Einzelheit, sondern als <i>vollständig</i>, nämlich gesetzt mit der ihr entgegengesetzten Bestimmung, der Allgemeinheit. – Das <i>eine Extrem</i> ist irgendein Prädikat, das allen diesen Einzelnen gemeinschaftlich ist; die Beziehung desselben auf sie macht die unmittelbaren Prämissen aus, dergleichen eine im vorhergehenden Schlüsse Schlußsatz sein sollte. – Das <i>andere Extrem</i> kann die unmittelbare <i>Gattung</i> sein, wie sie in der Mitte des vorigen Schlusses oder im Subjekte des universellen Urteils vorhanden ist und welche in den sämtlichen Einzelnen oder auch Arten der Mitte erschöpft ist. Der Schluß hat hiernach die Gestalt:</p>
+<p class="zenoPC"><i>e</i></p>
+<p class="zenoPC"><i>e</i></p>
+<p class="zenoPC"><i>A – – B.</i></p>
+<p class="zenoPC"><i>e</i></p>
+<p class="zenoPC"><i>e</i></p>
+<p class="zenoPC">ins</p>
+<p class="zenoPC">Unendliche.</p>
+<p>2. Die zweite Figur des formalen Schlusses, <i>A – E – B</i>, entsprach dem Schema darum nicht, weil in der einen Prämisse <i><a id="S384"></a> E</i>, das die Mitte ausmacht, nicht subsumierend oder Prädikat war. In der Induktion ist dieser Mangel gehoben; die Mitte ist hier: <i>Alle Einzelnen</i>; der Satz <i>A – E</i>, welcher das objektive Allgemeine oder [die] Gattung als zum Extrem ausgeschieden, als Subjekt enthält, hat ein Prädikat, das mit ihm wenigstens von gleichem Umfange, hiermit für die äußere Reflexion identisch ist. Der Löwe, Elefant usf. machen die <i>Gattung</i> des vierfüßigen Tiers aus; der Unterschied, daß <i>derselbe</i> Inhalt das eine Mal in der Einzelheit, das andere Mal in der Allgemeinheit gesetzt ist, ist hiermit bloße <i>gleichgültige Formbestimmung</i>, – eine Gleichgültigkeit, welche das im Reflexionsschlusse gesetzte Resultat des formalen Schlusses und hier durch die Gleichheit des Umfangs gesetzt ist.</p>
+<p>Die Induktion ist daher nicht der Schluß der bloßen <i>Wahrnehmung</i> oder des zufälligen Daseins wie die ihm entsprechende zweite Figur, sondern Schluß der<i> Erfahrung</i>, – des subjektiven Zusammenfassens der Einzelnen in die Gattung und des Zusammenschließens der Gattung mit einer allgemeinen Bestimmtheit, weil sie in allen Einzelnen angetroffen wird. Er hat auch die objektive Bedeutung, daß die unmittelbare Gattung sich durch die Totalität der Einzelheit zu einer allgemeinen Eigenschaft bestimmt, in einem all gemeinen Verhältnisse oder Merkmal ihr Dasein hat. – Allein die objektive Bedeutung dieses wie der anderen Schlüsse ist nur erst ihr innerer Begriff und hier noch nicht gesetzt.</p>
+<p>3. Die Induktion ist vielmehr noch wesentlich ein subjektiver Schluß. Die Mitte sind die Einzelnen in ihrer Unmittelbarkeit; das Zusammenfassen derselben in die Gattung durch die Allheit ist eine <i>äußerliche</i> Reflexion. Um der bestehenden <i>Unmittelbarkeit</i> der Einzelnen und um der daraus fließenden <i>Äußerlichkeit</i> willen ist die Allgemeinheit nur Vollständigkeit oder bleibt vielmehr <i>eine Aufgabe</i>. – Es kommt an ihr daher wieder der <i>Progreß</i> in die schlechte<a id="S385"></a> Unendlichkeit zum Vorschein; die <i>Einzelheit</i> soll als <i>identisch</i> mit der <i>Allgemeinheit</i> gesetzt werden, aber indem die<i> Einzelnen</i> ebensosehr als <i>unmittelbare</i> gesetzt sind, so bleibt jene Einheit nur ein perennierendes <i>Sollen</i>; sie ist eine Einheit der <i>Gleichheit</i>; die identisch sein sollen, sollen es zugleich <i>nicht</i> sein. Die <i>a, b, c, d, e</i> nur ins <i>Unendliche</i> fort machen die Gattung aus und geben die vollendete Erfahrung. Der <i>Schlußsatz</i> der Induktion bleibt insofern <i>problematisch</i>.</p>
+<p>Indem sie aber dies ausdrückt, daß die Wahrnehmung, um zur Erfahrung zu werden, <i>ins Unendliche</i> fortgesetzt werden <i>soll</i>, setzt sie voraus, daß die Gattung mit ihrer Bestimmtheit <i>an und für sich</i> zusammengeschlossen sei. Sie setzt damit eigentlich ihren Schlußsatz vielmehr als ein Unmittelbares voraus, wie der Schluß der Allheit für eine seiner Prämissen den Schlußsatz voraussetzt. – Eine Erfahrung, die auf Induktion beruht, wird als gültig angenommen, <i>obgleich</i> die Wahrnehmung zugestandenermaßen <i>nicht vollendet</i> ist; es kann aber nur angenommen werden, daß sich keine <i>Instanz gegen</i> jene Erfahrung ergeben könne, insofern diese <i>an und für sich</i> wahr sei. Der Schluß durch Induktion gründet sich daher wohl auf eine Unmittelbarkeit, aber nicht auf die, auf die er sich gründen sollte, auf die <i>seiende</i> Unmittelbarkeit der <i>Einzelheit</i>, sondern <i>auf die an und für sich seiende</i>, auf die <i>allgemeine</i>. – Die Grundbestimmung der Induktion ist, ein Schluß zu sein; wenn die Einzelheit als wesentliche, die Allgemeinheit aber nur als äußerliche Bestimmung der Mitte genommen wird, so fiele die Mitte in zwei unverbundene Teile auseinander, und es wäre kein Schluß vorhanden; diese Äußerlichkeit gehört vielmehr den Extremen an. Die <i>Einzelheit</i> kann nur Mitte sein <i>als unmittelbar identisch</i> mit der<i> Allgemeinheit</i>, eine solche Allgemeinheit ist eigentlich die <i>objektive, die Gattung</i>. – Dies kann auch so betrachtet werden: Die Allgemeinheit ist an der Bestimmung der Einzelheit, welche der Mitte der Induktion zugrunde liegt, <i>äußerlich, aber wesentlich</i>;<a id="S386"></a> ein solches <i>Äußerliches</i> ist sosehr unmittelbar sein Gegenteil, das <i>Innerliche</i>. – Die Wahrheit des Schlusses der Induktion ist daher ein solcher Schluß, der eine Einzelheit zur Mitte hat, die unmittelbar <i>an sich selbst</i> Allgemeinheit ist; – <i>der Schluß der Analogie</i>.<a id="S387"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-171.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">a. Der Schluß der Allheit</span></a>
+              <a href="./HE05-173.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">c. Der Schluß der Analogie</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

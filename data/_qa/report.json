@@ -1,0 +1,4467 @@
+{
+ "generated": "2026-10-14T11:10:05.559Z",
+ "blocks": 2776,
+ "sentences": 10098,
+ "issues": [
+  {
+   "sev": "minor",
+   "where": "w1/0#5",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#6",
+   "msg": "sentence 0: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#6",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#6",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 2: \"Bestimmungsgrund\" is not rendered as “规定根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 4: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#8",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#9",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#11",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#16",
+   "msg": "sentence 2: repeated Chinese fragment “活着每一个都”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#16",
+   "msg": "sentence 2: \"Mannigfaltigkeit\" is not rendered as “杂多”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#22",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#22",
+   "msg": "sentence 0: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#22",
+   "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/0#22",
+   "msg": "sentence 0: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#25",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#26",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#28",
+   "msg": "sentence 1: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#30",
+   "msg": "sentence 1: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#35",
+   "msg": "sentence 1: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#35",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#36",
+   "msg": "sentence 1: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#36",
+   "msg": "sentence 3: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#43",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#43",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#47",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#47",
+   "msg": "sentence 5: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#48",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#49",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#53",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#54",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#54",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#56",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#56",
+   "msg": "sentence 1: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#57",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#58",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#65",
+   "msg": "sentence 1: \"Phantasie\" is not rendered as “想象力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#66",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/0#68",
+   "msg": "sentence 0: \"Vernunft\" is not rendered as “理性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#3",
+   "msg": "sentence 2: \"Vorsehung\" is not rendered as “护佑”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/1#3",
+   "msg": "sentence 2: \"Vorsehung\" rendered with forbidden “天意” (expected “护佑”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#4",
+   "msg": "sentence 0: \"Vorsehung\" is not rendered as “护佑”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/1#4",
+   "msg": "sentence 0: \"Vorsehung\" rendered with forbidden “天意” (expected “护佑”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#6",
+   "msg": "sentence 0: \"Vorsehung\" is not rendered as “护佑”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/1#6",
+   "msg": "sentence 0: \"Vorsehung\" rendered with forbidden “天意” (expected “护佑”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#7",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#8",
+   "msg": "sentence 0: \"Phantasie\" is not rendered as “想象力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#15",
+   "msg": "sentence 0: \"Gnade\" is not rendered as “恩典”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#15",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#16",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#16",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#16",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/1#20",
+   "msg": "heading language mismatch"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#21",
+   "msg": "sentence 0: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#21",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#21",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#22",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#22",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#23",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#24",
+   "msg": "sentence 0: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#24",
+   "msg": "sentence 1: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#26",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#27",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#38",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#39",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#39",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#40",
+   "msg": "sentence 0: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/1#41",
+   "msg": "sentence 0: German negation with no Chinese negation (“Christus hatte zwölf Apostel, die Zahl Zwölf war eine feste,…” → “基督有十二个使徒，十二这个数目是一个固定的、持存的数目——他有好几个门徒，但使徒…”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#43",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#44",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#44",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#46",
+   "msg": "sentence 3: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#47",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#47",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#53",
+   "msg": "sentence 2: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#54",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#59",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#59",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#61",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#64",
+   "msg": "sentence 4: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#64",
+   "msg": "sentence 5: \"Wunder\" is not rendered as “奇迹”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#64",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#65",
+   "msg": "sentence 1: \"Maxime\" is not rendered as “准则”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#65",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/1#66",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#2",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#2",
+   "msg": "sentence 4: \"Phantasie\" is not rendered as “想象力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#2",
+   "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#6",
+   "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#7",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#8",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#9",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#22",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#24",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#26",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#27",
+   "msg": "sentence 0: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#28",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#34",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#34",
+   "msg": "sentence 0: \"Phantasie\" is not rendered as “想象力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#36",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#37",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#40",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#40",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#41",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#41",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#42",
+   "msg": "sentence 1: \"Schein\" is not rendered as “假象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#42",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#42",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#42",
+   "msg": "sentence 9: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#43",
+   "msg": "sentence 0: \"Schein\" is not rendered as “假象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#44",
+   "msg": "sentence 2: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#47",
+   "msg": "sentence 2: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#47",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#49",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#51",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#58",
+   "msg": "sentence 0: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/2#58",
+   "msg": "sentence 0: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#68",
+   "msg": "sentence 3: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#68",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/2#68",
+   "msg": "sentence 3: \"Gesinnung\" rendered with forbidden “信念” (expected “意向”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#71",
+   "msg": "sentence 2: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/2#71",
+   "msg": "sentence 2: \"Gesinnung\" rendered with forbidden “信念” (expected “意向”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#76",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#80",
+   "msg": "sentence 3: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#80",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/2#80",
+   "msg": "sentence 3: \"Gesinnung\" rendered with forbidden “信念” (expected “意向”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#80",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#80",
+   "msg": "sentence 9: \"Gnade\" is not rendered as “恩典”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/2#80",
+   "msg": "sentence 10: \"Gnade\" is not rendered as “恩典”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#1",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#6",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#10",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#11",
+   "msg": "sentence 4: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#11",
+   "msg": "sentence 4: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 8: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 9: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#19",
+   "msg": "sentence 14: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#21",
+   "msg": "sentence 1: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#21",
+   "msg": "sentence 1: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#21",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#21",
+   "msg": "sentence 2: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#22",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#23",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#24",
+   "msg": "sentence 0: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#24",
+   "msg": "sentence 0: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#24",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#27",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#27",
+   "msg": "sentence 0: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#27",
+   "msg": "sentence 1: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#27",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#27",
+   "msg": "sentence 1: \"Entgegensetzung\" is not rendered as “对立”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#29",
+   "msg": "sentence 1: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#30",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#33",
+   "msg": "sentence 2: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#33",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#40",
+   "msg": "sentence 1: \"Reich Gottes\" is not rendered as “上帝之国”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#42",
+   "msg": "sentence 3: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#42",
+   "msg": "sentence 3: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#44",
+   "msg": "sentence 1: \"Sittlichkeit\" is not rendered as “伦理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#44",
+   "msg": "sentence 1: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#44",
+   "msg": "sentence 1: \"Sittlichkeit\" rendered with forbidden “道德” (expected “伦理”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#44",
+   "msg": "sentence 2: \"Vorsehung\" is not rendered as “护佑”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#44",
+   "msg": "sentence 2: \"Seligkeit\" is not rendered as “至福”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#44",
+   "msg": "sentence 2: \"Vorsehung\" rendered with forbidden “天意” (expected “护佑”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#44",
+   "msg": "sentence 3: \"Seligkeit\" is not rendered as “至福”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/3#44",
+   "msg": "sentence 5: zh/de length ratio 0.19 (23/121)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#45",
+   "msg": "sentence 0: \"Seligkeit\" is not rendered as “至福”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/3#45",
+   "msg": "sentence 1: \"Endzweck\" is not rendered as “终极目的”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#6",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#6",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#12",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#12",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#12",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#13",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#13",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#13",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#15",
+   "msg": "sentence 6: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/4#15",
+   "msg": "sentence 6: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#17",
+   "msg": "sentence 0: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#17",
+   "msg": "sentence 3: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#20",
+   "msg": "sentence 3: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#22",
+   "msg": "sentence 2: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#22",
+   "msg": "sentence 3: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#22",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#24",
+   "msg": "sentence 1: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/4#25",
+   "msg": "sentence 2: \"Neigung\" is not rendered as “偏好”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#2",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#2",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#4",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#5",
+   "msg": "sentence 0: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/5#5",
+   "msg": "sentence 0: \"Aufhebung\" rendered with forbidden “取消” (expected “扬弃”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#16",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#18",
+   "msg": "sentence 4: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#18",
+   "msg": "sentence 5: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#19",
+   "msg": "sentence 1: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#25",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#25",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#26",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#30",
+   "msg": "sentence 2: \"Gemeinde\" is not rendered as “教团”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#30",
+   "msg": "sentence 2: \"Verstand\" is not rendered as “知性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#32",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#33",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/5#33",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#1",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#4",
+   "msg": "sentence 2: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#5",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#5",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#8",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#9",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#9",
+   "msg": "sentence 0: \"Phantasie\" is not rendered as “想象力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#10",
+   "msg": "sentence 0: \"Tugend\" is not rendered as “美德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#10",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#10",
+   "msg": "sentence 1: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#10",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#12",
+   "msg": "sentence 0: \"Gesinnung\" is not rendered as “意向”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#12",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#12",
+   "msg": "sentence 1: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#12",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#12",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#13",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#13",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#14",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#14",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#14",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#20",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#20",
+   "msg": "sentence 1: \"Realität\" is not rendered as “实在性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#21",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#22",
+   "msg": "sentence 1: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/6#22",
+   "msg": "sentence 1: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#22",
+   "msg": "sentence 2: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#25",
+   "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#28",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/6#31",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#3",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#5",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#7",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#9",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#17",
+   "msg": "sentence 6: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#19",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#19",
+   "msg": "sentence 2: \"Kirche\" is not rendered as “教会”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#19",
+   "msg": "sentence 4: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#23",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#32",
+   "msg": "sentence 0: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#32",
+   "msg": "sentence 2: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#34",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#35",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#35",
+   "msg": "sentence 11: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#36",
+   "msg": "sentence 2: repeated Chinese fragment “偶然的东西作为”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#41",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#45",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#45",
+   "msg": "sentence 5: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#45",
+   "msg": "sentence 6: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#46",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#47",
+   "msg": "sentence 2: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#47",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/7#47",
+   "msg": "sentence 8: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#6",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#6",
+   "msg": "sentence 6: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#12",
+   "msg": "sentence 1: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#28",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#39",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#54",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#60",
+   "msg": "sentence 0: repeated Chinese fragment “被给予的东西”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#62",
+   "msg": "sentence 0: repeated Chinese fragment “不存在的东西”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#80",
+   "msg": "sentence 0: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#87",
+   "msg": "sentence 0: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#89",
+   "msg": "sentence 0: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#90",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#90",
+   "msg": "sentence 0: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/8#94",
+   "msg": "sentence 0: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#1",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#1",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#3",
+   "msg": "sentence 1: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#5",
+   "msg": "sentence 0: \"Kant\" is not rendered as “康德”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#14",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#17",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#24",
+   "msg": "sentence 6: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/9#35",
+   "msg": "sentence 0: zh/de length ratio 0.19 (30/160)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#35",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#38",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#38",
+   "msg": "sentence 9: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#44",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#46",
+   "msg": "sentence 0: \"Wunder\" is not rendered as “奇迹”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#59",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#62",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#67",
+   "msg": "sentence 2: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/9#67",
+   "msg": "sentence 7: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#2",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#17",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#19",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#21",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#22",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#25",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#30",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#31",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#31",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#35",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#36",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#37",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#37",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#37",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#37",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#37",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#39",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#58",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#93",
+   "msg": "sentence 3: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/10#114",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#2",
+   "msg": "sentence 1: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#7",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#8",
+   "msg": "sentence 6: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#11",
+   "msg": "sentence 4: repeated Chinese fragment “活动不是一种”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#16",
+   "msg": "sentence 3: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#19",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#31",
+   "msg": "sentence 19: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#33",
+   "msg": "sentence 6: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#33",
+   "msg": "sentence 19: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#34",
+   "msg": "sentence 4: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#37",
+   "msg": "sentence 0: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#39",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#47",
+   "msg": "sentence 0: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#47",
+   "msg": "sentence 1: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#47",
+   "msg": "sentence 9: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#47",
+   "msg": "sentence 10: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#51",
+   "msg": "sentence 8: \"Empfindung\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#63",
+   "msg": "sentence 2: repeated Chinese fragment “一种神性的作用”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#64",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/11#64",
+   "msg": "sentence 28: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/12#5",
+   "msg": "sentence 0: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/12#5",
+   "msg": "sentence 16: \"Mannigfaltigkeit\" is not rendered as “杂多”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/12#5",
+   "msg": "sentence 19: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/12#5",
+   "msg": "sentence 20: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#4",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#4",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#7",
+   "msg": "sentence 1: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#8",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/13#12",
+   "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 11: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 13: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 14: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 17: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#14",
+   "msg": "sentence 49: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#30",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#30",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#32",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#32",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#34",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/13#38",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#3",
+   "msg": "sentence 4: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#3",
+   "msg": "sentence 8: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#3",
+   "msg": "sentence 9: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#3",
+   "msg": "sentence 23: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#3",
+   "msg": "sentence 24: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#10",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#12",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#33",
+   "msg": "sentence 1: \"Einheit\" is not rendered as “统一”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#33",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#44",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#58",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#62",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#75",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/14#75",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#6",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#6",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#11",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#27",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#35",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#41",
+   "msg": "sentence 0: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#45",
+   "msg": "sentence 0: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#58",
+   "msg": "sentence 2: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#58",
+   "msg": "sentence 2: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#59",
+   "msg": "sentence 0: \"Realität\" is not rendered as “实在性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/15#62",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/15#62",
+   "msg": "sentence 1: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#3",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#22",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#29",
+   "msg": "sentence 0: \"Realität\" is not rendered as “实在性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#35",
+   "msg": "sentence 0: \"Deutschland\" is not rendered as “德意志”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#36",
+   "msg": "sentence 5: repeated Chinese fragment “执行刑罚的人”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#40",
+   "msg": "sentence 0: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#47",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#48",
+   "msg": "sentence 0: \"Vermittlung\" is not rendered as “中介”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#49",
+   "msg": "sentence 3: \"Unmittelbarkeit\" is not rendered as “直接性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#50",
+   "msg": "sentence 0: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#53",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#61",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#68",
+   "msg": "sentence 3: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/16#69",
+   "msg": "sentence 1: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#5",
+   "msg": "sentence 0: \"Zeremonie\" is not rendered as “仪式”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#6",
+   "msg": "sentence 1: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#12",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#16",
+   "msg": "sentence 2: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#17",
+   "msg": "sentence 2: \"Frankreich\" is not rendered as “法国”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#30",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#42",
+   "msg": "sentence 2: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#44",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#46",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/17#55",
+   "msg": "sentence 1: Chinese without CJK"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/17#61",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#6",
+   "msg": "sentence 3: \"Opfer\" is not rendered as “献祭”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#12",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#18",
+   "msg": "sentence 1: \"Gemeinde\" is not rendered as “教团”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#26",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#31",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#31",
+   "msg": "sentence 2: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#31",
+   "msg": "sentence 2: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#35",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#38",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#38",
+   "msg": "sentence 1: \"Unmittelbarkeit\" is not rendered as “直接性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#42",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/18#43",
+   "msg": "sentence 1: zh/de length ratio 0.20 (18/89)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#43",
+   "msg": "sentence 2: \"Unmittelbarkeit\" is not rendered as “直接性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#44",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#44",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#49",
+   "msg": "sentence 0: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/18#49",
+   "msg": "sentence 2: en/de word ratio 1.64 (18/11)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#50",
+   "msg": "sentence 0: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#53",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#53",
+   "msg": "sentence 0: \"Schicksal\" is not rendered as “命运”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/18#66",
+   "msg": "sentence 1: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#3",
+   "msg": "sentence 2: \"Frankreich\" is not rendered as “法国”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#5",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#9",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#15",
+   "msg": "sentence 3: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#37",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/19#37",
+   "msg": "sentence 0: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#38",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w1/19#38",
+   "msg": "sentence 2: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#44",
+   "msg": "sentence 3: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#55",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#55",
+   "msg": "sentence 2: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#55",
+   "msg": "sentence 2: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/19#55",
+   "msg": "sentence 3: \"Realität\" is not rendered as “实在性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#1",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#4",
+   "msg": "sentence 1: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#14",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#14",
+   "msg": "sentence 6: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#26",
+   "msg": "sentence 4: \"Gefühl\" is not rendered as “感受”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#32",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#62",
+   "msg": "sentence 0: \"Verstand\" is not rendered as “知性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#63",
+   "msg": "sentence 0: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#69",
+   "msg": "sentence 8: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#71",
+   "msg": "sentence 5: \"Trennung\" is not rendered as “分离”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#85",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/20#86",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/21#6",
+   "msg": "sentence 4: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w1/21#7",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/0#14",
+   "msg": "sentence 4: \"Bewußtsein\" is not rendered as “意识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/0#19",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/0#40",
+   "msg": "sentence 3: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/0#40",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/0#40",
+   "msg": "sentence 7: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#1",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#2",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#2",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#7",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#7",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#8",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/1#11",
+   "msg": "sentence 7: “vorgestellt” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#13",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#19",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#24",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#47",
+   "msg": "sentence 8: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#59",
+   "msg": "sentence 0: \"Differenz\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#63",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#65",
+   "msg": "sentence 5: \"Gegensatz\" is not rendered as “对立”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#71",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#79",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/1#79",
+   "msg": "sentence 0: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#82",
+   "msg": "sentence 1: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/1#84",
+   "msg": "sentence 9: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#1",
+   "msg": "sentence 2: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#7",
+   "msg": "sentence 6: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#7",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#9",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#14",
+   "msg": "sentence 9: \"Unendlichkeit\" is not rendered as “无限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#17",
+   "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#20",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#35",
+   "msg": "sentence 1: \"Verstand\" is not rendered as “知性”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/2#35",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#37",
+   "msg": "sentence 2: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#38",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/2#38",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#52",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/2#55",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#4",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#4",
+   "msg": "sentence 8: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#6",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#8",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#8",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/3#24",
+   "msg": "sentence 2: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/3#24",
+   "msg": "sentence 2: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#7",
+   "msg": "sentence 2: \"Gegensatz\" is not rendered as “对立”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#18",
+   "msg": "sentence 2: \"Mannigfaltigkeit\" is not rendered as “杂多”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#23",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#32",
+   "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#35",
+   "msg": "sentence 0: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#36",
+   "msg": "sentence 2: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#43",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#58",
+   "msg": "sentence 0: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#60",
+   "msg": "sentence 0: \"Vernunft\" is not rendered as “理性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#60",
+   "msg": "sentence 0: \"Idealismus\" is not rendered as “观念论”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/4#60",
+   "msg": "sentence 0: “Idealismus” (family Idee) does not keep the family root “观念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#60",
+   "msg": "sentence 1: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#67",
+   "msg": "sentence 5: \"Grundsatz\" is not rendered as “根本命题”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/4#67",
+   "msg": "sentence 5: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#1",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#2",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#2",
+   "msg": "sentence 2: \"Rezension\" is not rendered as “书评”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#2",
+   "msg": "sentence 2: \"Krug\" is not rendered as “克鲁格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#9",
+   "msg": "sentence 1: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#10",
+   "msg": "sentence 1: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#16",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#16",
+   "msg": "sentence 1: “Wirklichkeit” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#20",
+   "msg": "sentence 1: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#20",
+   "msg": "sentence 1: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#21",
+   "msg": "sentence 4: \"Schulze\" is not rendered as “舒尔策”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#22",
+   "msg": "sentence 10: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#29",
+   "msg": "sentence 0: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#32",
+   "msg": "sentence 2: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#32",
+   "msg": "sentence 4: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#35",
+   "msg": "sentence 1: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#36",
+   "msg": "sentence 0: \"Differenz\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#39",
+   "msg": "sentence 5: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#44",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#44",
+   "msg": "sentence 5: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#44",
+   "msg": "sentence 5: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#46",
+   "msg": "sentence 0: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#55",
+   "msg": "sentence 1: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#55",
+   "msg": "sentence 1: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/5#59",
+   "msg": "sentence 0: \"Prinzip\" is not rendered as “原则”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#66",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/5#71",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/6#7",
+   "msg": "sentence 7: \"Kritik\" is not rendered as “批判”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/6#13",
+   "msg": "sentence 2: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/6#14",
+   "msg": "sentence 1: \"Wissenschaftslehre\" is not rendered as “《知识学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/6#35",
+   "msg": "sentence 0: \"Glauben und Wissen\" is not rendered as “《信仰与知识》”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/6#39",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/6#50",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#1",
+   "msg": "sentence 1: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/7#1",
+   "msg": "sentence 1: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/7#2",
+   "msg": "sentence 2: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#6",
+   "msg": "sentence 3: \"Differenz\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#6",
+   "msg": "sentence 3: \"Begriff\" is not rendered as “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/7#6",
+   "msg": "sentence 3: “Begriff” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#6",
+   "msg": "sentence 4: \"Identität\" is not rendered as “同一性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#8",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#12",
+   "msg": "sentence 3: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#15",
+   "msg": "sentence 6: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#20",
+   "msg": "sentence 0: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#20",
+   "msg": "sentence 2: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/7#20",
+   "msg": "sentence 2: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#23",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#24",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#24",
+   "msg": "sentence 1: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#24",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#27",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#28",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#30",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/7#30",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#3",
+   "msg": "sentence 0: “vorgestellt” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#3",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#5",
+   "msg": "sentence 5: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#8",
+   "msg": "sentence 1: “wahr” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#11",
+   "msg": "sentence 0: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#15",
+   "msg": "sentence 1: \"Hume\" is not rendered as “休谟”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#15",
+   "msg": "sentence 3: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#15",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#19",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#22",
+   "msg": "sentence 5: \"Unendlichkeit\" is not rendered as “无限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#22",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#23",
+   "msg": "sentence 0: \"Unendlichkeit\" is not rendered as “无限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#23",
+   "msg": "sentence 1: \"Unendlichkeit\" is not rendered as “无限性”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#23",
+   "msg": "sentence 6: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#24",
+   "msg": "sentence 1: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#24",
+   "msg": "sentence 2: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#25",
+   "msg": "sentence 0: \"Prinzip\" is not rendered as “原则”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#27",
+   "msg": "sentence 4: repeated Chinese fragment “作为主体或生产”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#28",
+   "msg": "sentence 0: \"Hume\" is not rendered as “休谟”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#30",
+   "msg": "sentence 4: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#30",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#31",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#34",
+   "msg": "sentence 2: \"Bewußtsein\" is not rendered as “意识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#38",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#39",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#42",
+   "msg": "sentence 4: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#42",
+   "msg": "sentence 9: “wahr” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#44",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#44",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#44",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#44",
+   "msg": "sentence 8: zh/de length ratio 0.13 (6/46)"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#47",
+   "msg": "sentence 5: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#50",
+   "msg": "sentence 3: \"Idee\" is not rendered as “观念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/8#50",
+   "msg": "sentence 3: “Idee” (family Idee) does not keep the family root “观念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#53",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#53",
+   "msg": "sentence 11: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#55",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/8#60",
+   "msg": "sentence 5: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#6",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#8",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#12",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#12",
+   "msg": "sentence 4: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#13",
+   "msg": "sentence 0: “begreifen” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#19",
+   "msg": "sentence 6: zh/de length ratio 1.45 (250/173)"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#19",
+   "msg": "sentence 7: zh/de length ratio 1.56 (192/123)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#28",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#29",
+   "msg": "sentence 0: \"Endlichkeit\" is not rendered as “有限性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#29",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#29",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#30",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#32",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#33",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#33",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#33",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#34",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#35",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#36",
+   "msg": "sentence 3: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#36",
+   "msg": "sentence 3: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#38",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/9#41",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#42",
+   "msg": "sentence 2: repeated Chinese fragment “另一些义务被遵守”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#42",
+   "msg": "sentence 6: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/9#46",
+   "msg": "sentence 0: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#9",
+   "msg": "sentence 3: \"Verbrechen\" is not rendered as “罪行”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#18",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/10#20",
+   "msg": "sentence 1: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/10#20",
+   "msg": "sentence 2: \"Recht\" rendered with forbidden “法律” (expected “权利”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 3: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 4: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#20",
+   "msg": "sentence 5: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#31",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#31",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#31",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#32",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#32",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#32",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#32",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#33",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/10#40",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/10#42",
+   "msg": "sentence 6: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/10#47",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/11#0",
+   "msg": "heading language mismatch"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#7",
+   "msg": "sentence 1: \"Realität\" is not rendered as “实在性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#9",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#9",
+   "msg": "sentence 3: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/11#9",
+   "msg": "sentence 3: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#15",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#15",
+   "msg": "sentence 8: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#15",
+   "msg": "sentence 9: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#19",
+   "msg": "sentence 1: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#19",
+   "msg": "sentence 1: \"Ethik\" is not rendered as “《伦理学》”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/11#21",
+   "msg": "sentence 0: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/11#21",
+   "msg": "sentence 0: \"Wirklichkeit\" rendered with forbidden “实在性” (expected “现实性”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#3",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/12#7",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#9",
+   "msg": "sentence 7: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#10",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#10",
+   "msg": "sentence 5: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#14",
+   "msg": "sentence 1: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#17",
+   "msg": "sentence 9: \"Verstand\" is not rendered as “知性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#18",
+   "msg": "sentence 4: \"Verstand\" is not rendered as “知性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#19",
+   "msg": "sentence 4: \"Moment\" is not rendered as “环节”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/12#20",
+   "msg": "sentence 1: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/12#20",
+   "msg": "sentence 1: “vorgestellt” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/12#23",
+   "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/12#28",
+   "msg": "sentence 0: en/de word ratio 1.67 (20/12)"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#5",
+   "msg": "sentence 0: en/de word ratio 1.62 (21/13)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#5",
+   "msg": "sentence 8: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#5",
+   "msg": "sentence 10: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#18",
+   "msg": "sentence 1: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#18",
+   "msg": "sentence 1: Chinese identical to German"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#23",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#35",
+   "msg": "sentence 1: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#35",
+   "msg": "sentence 1: Chinese identical to German"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#36",
+   "msg": "sentence 1: \"Strafe\" is not rendered as “刑罚”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#39",
+   "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#40",
+   "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#41",
+   "msg": "sentence 1: Chinese without CJK"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#44",
+   "msg": "sentence 0: zh/de length ratio 0.21 (14/68)"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#45",
+   "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#46",
+   "msg": "sentence 0: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#61",
+   "msg": "sentence 1: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#67",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#69",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#76",
+   "msg": "sentence 0: en/de word ratio 1.67 (15/9)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#91",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#100",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#108",
+   "msg": "sentence 1: zh/de length ratio 1.15 (93/81)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#108",
+   "msg": "sentence 1: repeated Chinese fragment “mortuum”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/13#109",
+   "msg": "sentence 0: en/de word ratio 1.64 (18/11)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/13#118",
+   "msg": "sentence 2: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/14#13",
+   "msg": "sentence 0: \"Recht\" is not rendered as “权利”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/14#34",
+   "msg": "sentence 0: \"Verbrechen\" is not rendered as “罪行”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/14#38",
+   "msg": "sentence 4: \"Prinzip\" is not rendered as “原则”"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/14#42",
+   "msg": "sentence 4: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "major",
+   "where": "w2/14#42",
+   "msg": "sentence 4: \"Bildung\" rendered with forbidden “教育” (expected “教养”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w2/14#42",
+   "msg": "sentence 7: \"Wissenschaft\" is not rendered as “科学”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#8",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#8",
+   "msg": "sentence 5: \"Lust\" is not rendered as “快乐”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#9",
+   "msg": "sentence 4: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#12",
+   "msg": "sentence 1: \"Begriff\" is not rendered as “概念”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/0#12",
+   "msg": "sentence 1: “Begriff” (family Begriff) does not keep the family root “概念”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#13",
+   "msg": "sentence 3: \"Kraft\" is not rendered as “力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#14",
+   "msg": "sentence 0: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#17",
+   "msg": "sentence 2: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#24",
+   "msg": "sentence 7: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#34",
+   "msg": "sentence 4: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#38",
+   "msg": "sentence 6: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#43",
+   "msg": "sentence 0: \"Gegensatz\" is not rendered as “对立”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#45",
+   "msg": "sentence 2: \"Glaube\" is not rendered as “信仰”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#47",
+   "msg": "sentence 1: \"Ding\" is not rendered as “物”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#47",
+   "msg": "sentence 5: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#48",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#49",
+   "msg": "sentence 10: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#49",
+   "msg": "sentence 11: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#51",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#58",
+   "msg": "sentence 2: \"Erinnerung\" is not rendered as “回忆”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#67",
+   "msg": "sentence 8: \"Schuld\" is not rendered as “罪过”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/0#70",
+   "msg": "sentence 1: \"Ding\" is not rendered as “物”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/1#21",
+   "msg": "sentence 1: German negation with no Chinese negation (“Sie erscheint außerdem als die wahrhafteste; denn sie hat vo…” → “此外它还显得是最真的；因为它还从对象身上去掉任何东西，而是把对象在其整个完整性中…”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/1#23",
+   "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/1#23",
+   "msg": "sentence 2: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/1#35",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/1#40",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/1#40",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/2#7",
+   "msg": "sentence 5: “wahr” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/2#8",
+   "msg": "sentence 0: “wahr” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#11",
+   "msg": "sentence 5: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#22",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#29",
+   "msg": "sentence 1: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#34",
+   "msg": "sentence 0: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#35",
+   "msg": "sentence 0: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#47",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/2#47",
+   "msg": "sentence 4: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#48",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/2#48",
+   "msg": "sentence 2: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#51",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/2#56",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#13",
+   "msg": "sentence 3: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#24",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#35",
+   "msg": "sentence 6: \"Gestalt\" is not rendered as “形态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#41",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#42",
+   "msg": "sentence 3: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#44",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#61",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#61",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#63",
+   "msg": "sentence 1: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/3#67",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/3#68",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#4",
+   "msg": "sentence 0: \"Gewißheit\" is not rendered as “确定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#12",
+   "msg": "sentence 3: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/4#14",
+   "msg": "sentence 6: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#22",
+   "msg": "sentence 5: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#28",
+   "msg": "sentence 4: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#30",
+   "msg": "sentence 7: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#31",
+   "msg": "sentence 1: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/4#32",
+   "msg": "sentence 8: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/4#41",
+   "msg": "sentence 0: \"wirklich\" rendered with forbidden “实在的” (expected “现实的”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#6",
+   "msg": "sentence 0: \"Ding\" is not rendered as “物”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#7",
+   "msg": "sentence 3: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#13",
+   "msg": "sentence 1: \"Jetzt\" is not rendered as “这时”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#22",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#22",
+   "msg": "sentence 6: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#24",
+   "msg": "sentence 1: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/5#24",
+   "msg": "sentence 1: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#30",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#34",
+   "msg": "sentence 2: \"Ding\" is not rendered as “物”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#39",
+   "msg": "sentence 5: \"Schädelstätte\" is not rendered as “骷髅地”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#47",
+   "msg": "sentence 6: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#48",
+   "msg": "sentence 4: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/5#48",
+   "msg": "sentence 6: \"Gewißheit\" is not rendered as “确定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#3",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#5",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#6",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#8",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#9",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#11",
+   "msg": "sentence 8: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#13",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#28",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#34",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/6#34",
+   "msg": "sentence 4: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#43",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#43",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#43",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#44",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/6#52",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#10",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#28",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#29",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#30",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#30",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#31",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#32",
+   "msg": "sentence 13: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#33",
+   "msg": "sentence 9: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#33",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/7#36",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#1",
+   "msg": "sentence 8: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#2",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#2",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#2",
+   "msg": "sentence 7: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#2",
+   "msg": "sentence 9: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#3",
+   "msg": "sentence 8: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#4",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#4",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#6",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#6",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#6",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#6",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#8",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#8",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#8",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#8",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#12",
+   "msg": "sentence 9: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#12",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#15",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#16",
+   "msg": "sentence 1: \"Fürsichsein\" is not rendered as “自为存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#18",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#18",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#23",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#25",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#27",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#27",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#28",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#30",
+   "msg": "sentence 6: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#30",
+   "msg": "sentence 10: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#32",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#32",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#32",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#33",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#33",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#33",
+   "msg": "sentence 12: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#34",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#35",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#37",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#37",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#38",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#38",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#39",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#41",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/8#41",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#1",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#2",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#2",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#2",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#3",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#3",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#3",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#4",
+   "msg": "sentence 4: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#4",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#5",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#5",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#5",
+   "msg": "sentence 10: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#5",
+   "msg": "sentence 11: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#5",
+   "msg": "sentence 11: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#6",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#6",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#6",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#6",
+   "msg": "sentence 4: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#7",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#9",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#11",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#12",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#12",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/9#12",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#12",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#12",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#13",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#13",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#13",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#14",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#16",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/9#18",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#19",
+   "msg": "sentence 9: \"Meinen\" is not rendered as “意谓”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#41",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#55",
+   "msg": "sentence 5: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#60",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#62",
+   "msg": "sentence 8: repeated Chinese fragment “相等的东西一切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#64",
+   "msg": "sentence 6: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/9#64",
+   "msg": "sentence 9: \"Moment\" is not rendered as “环节”"
+  }
+ ],
+ "bySev": {
+  "critical": 0,
+  "major": 107,
+  "minor": 784
+ }
+}

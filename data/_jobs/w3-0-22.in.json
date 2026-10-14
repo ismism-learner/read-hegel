@@ -1,0 +1,76 @@
+{
+ "id": "w3-0-22",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "cpgt61yiav",
+   "sents": [
+    "Dies Perhorreszieren stammt aber in der Tat aus der Unbekanntschaft mit der Natur der Vermittlung und des absoluten Erkennens selbst.",
+    "Denn die Vermittlung ist nichts anderes als die sich bewegende Sichselbstgleichheit, oder sie ist die Reflexion in sich selbst, das Moment des fürsichseienden Ich, die reine Negativität oder, auf ihre reine Abstraktion herabgesetzt, das einfache Werden.",
+    "Das Ich oder das Werden überhaupt, dieses Vermitteln ist um seiner Einfachheit willen eben die werdende Unmittelbarkeit und das Unmittelbare selbst.",
+    "– Es ist daher ein Verkennen der Vernunft, wenn die Reflexion aus dem Wahren ausgeschlossen und nicht als positives Moment des Absoluten erfaßt wird.",
+    "Sie ist es, die das Wahre zum Resultate macht, aber diesen Gegensatz gegen sein Werden ebenso aufhebt, denn dies Werden ist ebenso einfach und daher von der Form des Wahren, im Resultate sich als einfach zu zeigen, nicht verschieden; es ist vielmehr eben dies Zurückgegangensein in die Einfachheit.",
+    "– Wenn der Embryo wohl an sich Mensch ist, so ist er es aber nicht für sich; für sich ist er es nur als gebildete Vernunft, die sich zu dem gemacht hat, was sie an sich ist.",
+    "Dies erst ist ihre Wirklichkeit.",
+    "Aber dies Resultat ist selbst einfache Unmittelbarkeit, denn es ist die selbstbewußte Freiheit, die in sich ruht und den Gegensatz nicht auf die Seite gebracht hat und ihn da liegen läßt, sondern mit ihm versöhnt ist."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "19bpbngsa3",
+   "sents": [
+    "Das Gesagte kann auch so ausgedrückt werden, daß die Vernunft das zweckmäßige Tun ist.",
+    "Die Erhebung der vermeinten Natur über das mißkannte Denken und zunächst die Verbannung der äußeren Zweckmäßigkeit hat die Form des Zwecks überhaupt in Mißkredit gebracht.",
+    "Allein, wie auch Aristoteles die Natur als das zweckmäßige Tun bestimmt, der Zweck ist das Unmittelbare, Ruhende, das Unbewegte, welches selbst bewegend ist; so ist es Subjekt.",
+    "Seine Kraft, zu bewegen, abstrakt genommen, ist das Fürsichsein oder die reine Negativität.",
+    "Das Resultat ist nur darum dasselbe, was der Anfang, weil der Anfang Zweck ist; – oder das Wirkliche ist nur darum dasselbe, was sein Begriff, weil das Unmittelbare als Zweck das Selbst oder die reine Wirklichkeit in ihm selbst hat.",
+    "Der ausgeführte Zweck oder das daseiende Wirkliche ist Bewegung und entfaltetes Werden; eben diese Unruhe aber ist das Selbst; und jener Unmittelbarkeit und Einfachheit des Anfangs ist es darum gleich, weil es das Resultat, das in sich Zurückgekehrte, – das in sich Zurückgekehrte aber eben das Selbst und das Selbst die sich auf sich beziehende Gleichheit und Einfachheit ist."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "139j3qx15b",
+   "sents": [
+    "Das Bedürfnis, das Absolute als Subjekt vorzustellen, bediente sich der Sätze: Gott ist das Ewige, oder die moralische Weltordnung, oder die Liebe usf.",
+    "In solchen Sätzen ist das Wahre nur geradezu als Subjekt gesetzt, nicht aber als die Bewegung des sich in sich selbst Reflektierens dargestellt.",
+    "Es wird in einem Satze der Art mit dem Worte »Gott« angefangen.",
+    "Dies für sich ist ein sinnloser Laut, ein bloßer Name; erst das Prädikat sagt, was er ist, ist seine Erfüllung und Bedeutung; der leere Anfang wird nur in diesem Ende ein wirkliches Wissen.",
+    "Insofern ist nicht abzusehen, warum nicht vom Ewigen, der moralischen Weltordnung usf. oder, wie die Alten taten, von reinen Begriffen, dem Sein, dem Einen usf., von dem, was die Bedeutung ist, allein gesprochen wird, ohne den sinnlosen Laut noch hinzuzufügen.",
+    "Aber durch dies Wort wird eben bezeichnet, daß nicht ein Sein oder Wesen oder Allgemeines überhaupt, sondern ein in sich Reflektiertes, ein Subjekt gesetzt ist.",
+    "Allein zugleich ist dies nur antizipiert.",
+    "Das Subjekt ist als fester Punkt angenommen, an den als ihren Halt die Prädikate geheftet sind, durch eine Bewegung, die dem von ihm Wissenden angehört und die auch nicht dafür angesehen wird, dem Punkte selbst anzugehören; durch sie aber wäre allein der Inhalt als Subjekt dargestellt.",
+    "In der Art, wie diese Bewegung beschaffen ist, kann sie ihm nicht angehören; aber nach Voraussetzung jenes Punkts kann sie auch nicht anders beschaffen, kann sie nur äußerlich sein.",
+    "Jene Antizipation, daß das Absolute Subjekt ist, ist daher nicht nur nicht die Wirklichkeit dieses Begriffs, sondern macht sie sogar unmöglich; denn jene setzt ihn als ruhenden Punkt, diese aber ist die Selbstbewegung."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "h6eunk6jiy",
+   "sents": [
+    "Unter mancherlei Folgerungen, die aus dem Gesagten fließen, kann diese herausgehoben werden, daß das Wissen nur als Wissenschaft oder als System wirklich ist und dargestellt werden kann; daß ferner ein sogenannter Grundsatz oder Prinzip der Philosophie, wenn er wahr ist, schon darum auch falsch ist, insofern er nur als Grundsatz oder Prinzip ist.",
+    "– Es ist deswegen leicht, ihn zu widerlegen.",
+    "Die Widerlegung besteht darin, daß sein Mangel aufgezeigt wird; mangelhaft aber ist er, weil er nur das Allgemeine oder Prinzip, der Anfang ist.",
+    "Ist die Widerlegung gründlich, so ist sie aus ihm selbst genommen und entwickelt, – nicht durch entgegengesetzte Versicherungen und Einfälle von außen her bewerkstelligt.",
+    "Sie würde also eigentlich seine Entwicklung und somit die Ergänzung seiner Mangelhaftigkeit sein, wenn sie sich nicht darin verkennte, daß sie ihr negatives Tun allein beachtet und sich ihres Fortgangs und Resultates nicht auch nach seiner positiven Seite bewußt wird.",
+    "– Die eigentliche positive Ausführung des Anfangs ist zugleich umgekehrt ebensosehr ein negatives Verhalten gegen ihn, nämlich gegen seine einseitige Form, erst unmittelbar oder Zweck zu sein.",
+    "Sie kann somit gleichfalls als Widerlegung desjenigen genommen werden, was den Grund des Systems ausmacht; richtiger aber ist sie als ein Aufzeigen anzusehen, daß der Grund oder das Prinzip des Systems in der Tat nur sein Anfang ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p22.json"
+}

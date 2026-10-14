@@ -1,0 +1,140 @@
+{
+ "id": "w1-10-14",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "[Grundkonzept zum Geist des Christentums]",
+ "heading": "[Grundkonzept zum Geist des Christentums]",
+ "blocks": [
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "l7wve91a0j",
+   "sents": [
+    "a) Einigkeit im Bestimmten setzt Freiheit voraus, denn ein Beschränktes hat ein Entgegengesetztes96)"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "dff92x16t8",
+   "sents": [
+    "b) Einigkeit des ganzen Menschen"
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "xv825sqkbv",
+   "sents": [
+    "c) Ideal der Einigkeit."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "rejx301gnk",
+   "sents": [
+    "Die Idee ihres Willens ist das Gegenteil des Willens; sein Zweck [ist] nicht zu wollen; aber das Objekt der Handlung, der Gedanke, der Zweck [ist] immer ein Trieb, eine Tätigkeit, eine reflektierte nämlich, aber nicht des passiven Menschen, also eines fremden Willens; zur bestimmten Handlung ein bestimmter Wille, Trieb notwendig; aber dieser bestimmte Wille [ist] nicht im passiven Menschen wirklich, also nur in der Idee, in der Vorstellung.",
+    "Dieser fremde Wille [ist] ein objektives Gesetz."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "hcehrl1bw8",
+   "sents": [
+    "Dadurch, daß er ihnen zeigte, sie haben einen schlechten Willen zeigte er ihnen, sie haben einen Willen."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "pm53rq1i6t",
+   "sents": [
+    "In der Bergpredigt immer ein Gegenüberstellen des objektiven Gebotes und der Pflicht; ein Opfer nicht deswegen etwa, damit etwas geschenkt und verziehen wird, sondern ihr sollt verzeihen; - Eid nicht wegen des Tempels heilig, sondern ihr sollt wahrhaftig sein; die Handlung und eure Absicht sollen eins sein, ihr sollt die Handlung in ihrem ganzen Umfange tun, jede Handlung stammt aus einem Gesetz, dies Gesetz soll auch euer eigenes sein."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "ory1pr1nfb",
+   "sents": [
+    "Von den moralischen Geboten sind nur die Verbote fähig, objektiv zu werden; moralische Gebote sind Vereinigungen als Regeln ausgedrückt, Regeln sind die Beziehungen der Objekte aufeinander; die äußere Beziehung, d. h. die Beziehung Getrennter kann nur negativ, d. h. als Verbot angegeben werden; denn die lebendige Vereinigung, Einigkeit in der moralischen Handlung ist keine äußere, d. h. die Bezogenen sind keine Getrennten mehr."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "tcmyuzcv2h",
+   "sents": [
+    "Moralität ist Aufhebung einer Trennung im Leben, theoretische Einheit ist Einheit Entgegengesetzter - das Prinzip der Moralität ist Liebe; Beziehung in Trennung: Bestimmen oder Bestimmtwerden, jenes unmoralisch gegen andere, dies gegen sich selbst - denn beides ist nur Bewirken einer theoretischen Einheit.",
+    "Wollen ist das Ausschließen des Entgegengesetzten, - die Tat ist das Aufheben der Trennung zwischen dem Gewollten, jetzt noch Vorgestellten und dem Streben, der Tätigkeit, [dem] Trieb, dem Wollenden.",
+    "Bei einem positiven Gesetz ist die Handlung keine Vereinigung, sondern ein Bestimmtwerden; das Prinzip nicht Liebe; das Motiv ist ein Beweggrund im eigentlichen Sinne, es verhält sich als Ursache, Wirkendes; es ist ein Fremdes, nicht eine Modifikation des Wollenden.",
+    "Das Objekt der Handlung ist im Positiven nicht der reflektierte Trieb selbst oder der Trieb als Objekt, sondern ein Fremdes, von dem Triebe Verschiedenes."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "z2aili1c4w",
+   "sents": [
+    "Kants praktische Vernunft ist das Vermögen der Allgemeinheit, d. h. das Vermögen auszuschließen; die Triebfeder Achtung; dies Ausgeschlossene in Furcht unterjocht - eine Desorganisation, das Ausschließen eines noch Vereinigten; das Ausgeschlossene ist nicht ein Aufgehobenes, sondern ein Getrenntes noch Bestehendes.",
+    "Das Gebot ist zwar subjektiv, ein Gesetz des Menschen, aber ein Gesetz, das anderen in ihm Vorhandenen widerspricht, ein Gesetz, das herrscht, es gebietet nur, die Achtung treibt zur Handlung, aber Achtung ist das Gegenteil des Prinzips, dem die Handlung gemäß ist; das Prinzip ist Allgemeinheit; Achtung ist dies nicht; die Gebote sind für die Achtung immer ein Gegebenes."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1nuctok1jy",
+   "sents": [
+    "Jesus setzt dem Gebote die Gesinnung gegenüber, d. h. die Geneigtheit, so zu handeln; Neigung ist in sich gegründet, hat ihr idealisches Objekt in sich selbst; nicht in einem Fremden (dem Sittengesetze der Vernunft).",
+    "Er sagt nicht: haltet solche Gebote, weil sie Gebote eures Geistes sind, nicht weil sie euren Voreltern gegeben worden sind, sondern weil ihr sie selbst euch gebt - so sagt er nicht; er setzt die Gesinnung gegenüber, die Geneigtheit, moralisch zu handeln.",
+    "Da eine moralische Handlung beschränkt ist, so ist auch das Ganze, aus dem sie kommt, immer beschränkt und zeigt sich nur in dieser Beschränkung; sie ist aber nur durch ihr Objekt, durch die besondere Art der Trennung, die sie aufhebt, bestimmt; sonst innerhalb dieser Grenze ist ihr Prinzip vollständige Vereinigung; da aber diese Gesinnung bedingt, beschränkt ist, so ruht sie und handelt nur, wenn die Bedingung eintritt, dann vereinigt sie, sie ist also einerseits nur im Handeln sichtbar, in dem, was sie tut (man kann von ihr nicht im vollen Sinne sagen: sie ist, weil sie nicht unbedingt ist), andererseits ist sie in der Handlung nicht vollständig dargestellt.",
+    "Denn die Handlung zeigt nur die bewirkte objektive Beziehung der bei der Handlung Vorhandenen; nicht die Vereinigung, die das Lebendige ist; aber weil diese Vereinigung nur in dieser Handlung ist, so steht sie einzeln und isoliert; es ist nicht mehr vereinigt worden, als in dieser Handlung geschehen ist."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1poddkpcf9",
+   "sents": [
+    "Ist zugleich ein Streben vorhanden, diese Akte zu vervielfältigen, so ist das Prinzip nicht mehr eine ruhende Gesinnung; ein Bedürfnis und das Bedürfnis eines Ganzen der Vereinigung ist vorhanden, das Bedürfnis der Liebe (allgemeine Menschenliebe); sie sucht das Ganze in einer unendlichen Mannigfaltigkeit von Handlungen zu schaffen, dem Beschränkten der einzelnen Handlung durch die Menge und Vervielfältigung den Schein des Ganzen Unendlichen zu geben.",
+    "Darum schöne Seelen, die unglücklich sind, entweder daß sie sich ihres Schicksals bewußt oder daß sie nur nicht in der ganzen Fülle ihrer Liebe befriedigt sind, so wohltätig sind - sie haben schöne Momente des Genusses, aber auch nur Momente, und die Tränen des Mitleids, der Rührung über eine solche schöne Handlung sind Wehmut über ihre Beschränktheit - oder die hartnäckige Ausschlagung der Annehmung des Dankes, die verborgene Großmut [ist] eine Scham über die Mangelhaftigkeit des Zustandes.",
+    "Der Wohltäter ist immer größer als der Empfangende."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1w3f8pm13i",
+   "sents": [
+    "In [den Evangelien des] Matthäus, Markus und Lukas [ist] Christus mehr im Gegensatz gegen die Juden - mehr Moral.",
+    "Im Johannes [-Evangelium ist er] mehr er selbst, mehr religiösen Inhalts, seine Beziehung auf Gott und seine Gemeine, seine Einheit mit dem Vater, und wie seine Anhänger mit ihm unter sich eins sein sollen - Er der Mittelpunkt und das Oberhaupt; wie bei der lebendigsten Vereinigung mehrerer Menschen immer noch eine Trennung stattfindet, so auch in dieser Vereinigung - dies das Gesetz der Menschheit; im Ideal das völlig vereinigt, was noch getrennt ist, die Griechen in Nationalgöttern, die Christen in Christus."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "bn1go81ehq",
+   "sents": [
+    "a) Moral"
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "19g3adjxrh",
+   "sents": [
+    "b) Liebe"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/10.p14.json"
+}

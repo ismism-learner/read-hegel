@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-04",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 1,
+   "de": "– Dies Reflektiertsein ist zuerst verschieden von der Tat selbst und kann also etwas anderes sein und für etwas anderes genommen werden, als sie ist; man sieht es einem am Gesicht an, ob es ihm Ernst mit dem ist, was er sagt oder tut.",
+   "en": "– This being-reflected is at first different from the deed itself and can therefore be something else and be taken for something else than it is; one can see from a person's face whether he is in earnest about what he says or does.",
+   "zh": "——这种反思首先不同于行为本身，因此它可以是别的东西，也可以被当作不同于行为的东西；人们从一个人脸上就看得出来，他对自己所说或所做的，是不是认真的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 2,
+   "de": "– Umgekehrt aber ist dieses, was Ausdruck des Innern sein soll, zugleich seiender Ausdruck und fällt hiermit selbst in die Bestimmung des Seins herunter, das absolut zufällig für das selbstbewußte Wesen ist.",
+   "en": "– Conversely, however, this, which is supposed to be expression of the inner, is at the same time an existent expression and thereby itself falls down into the determination of being, which is absolutely contingent for the self-conscious essence.",
+   "zh": "——但反过来，这种应当是内在东西之表达的东西，同时又是存在着的表达，并因此本身跌落到存在的规定里，而存在对自我意识着的本质来说是绝对偶然的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 3,
+   "de": "Es ist daher wohl Ausdruck, aber zugleich auch nur wie ein Zeichen, so daß dem ausgedrückten Inhalte die Beschaffenheit dessen, wodurch es ausgedrückt wird, vollkommen gleichgültig ist.",
+   "en": "It is therefore indeed expression, but at the same time also only like a sign, so that the constitution of that whereby it is expressed is completely indifferent to the expressed content.",
+   "zh": "因此它固然是表达，但同时也不过像一个记号，以至于对那个被表达出来的内容来说，用以表达它的那个东西的状况是完全无关紧要的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 4,
+   "de": "Das Innere ist in dieser Erscheinung wohl sichtbares Unsichtbares, aber ohne an sie geknüpft zu sein; es kann ebensowohl in einer anderen Erscheinung sein, als ein anderes Inneres in derselben Erscheinung sein kann.",
+   "en": "The inner is in this appearance indeed a visible invisible, but without being tied to it; it can just as well be in another appearance, as another inner can be in the same appearance.",
+   "zh": "内在东西在这种现象中固然是可看见的不可见者，但并没有系缚在它上面；它同样可以在另一种现象中，正如另一种内在东西可以在同一种现象中一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 5,
+   "de": "–Lichtenberg sagt daher mit Recht: »Gesetzt, der Physiognome haschte den Menschen einmal, so käme es nur auf einen braven Entschluß an, sich wieder auf Jahrtausende unbegreiflich zu machen.«",
+   "en": "– Lichtenberg therefore says with reason: 'Suppose the physiognomist ever caught a human being, it would only take an honest resolve to make oneself incomprehensible again for millennia.'",
+   "zh": "——所以利希滕贝格说得有道理：“假定面相学家有一次逮住了人，那也只需要一个正直的决心，就能让自己在数千年里重新变得不可理解。”"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 6,
+   "de": "– Wie in dem vorhergehenden Verhältnisse die vorliegenden Umstände ein Seiendes waren, woraus die Individualität sich das nahm, was sie vermochte und wollte, entweder sich ihm ergebend oder es verkehrend, aus welchem Grunde es die Notwendigkeit und das Wesen der Individualität nicht enthielt, – ebenso ist hier das erscheinende unmittelbare Sein der Individualität ein solches, das entweder ihr Reflektiertsein aus der Wirklichkeit und ihr Insichsein ausdrückt oder das für sie nur ein Zeichen ist, das gleichgültig gegen das Bezeichnete [ist] und darum in Wahrheit nichts bezeichnet; es ist ihr ebensowohl ihr Gesicht als ihre Maske, die sie ablegen kann.",
+   "en": "– As in the preceding relation the circumstances at hand were a being out of which individuality took for itself what it was capable of and wanted, either surrendering itself to it or perverting it, on which ground it did not contain the necessity and the essence of individuality, – so here the appearing immediate being of individuality is such that it either expresses its being-reflected out of actuality and its being-within-itself, or is for it only a sign that is indifferent to what is designated and therefore in truth designates nothing; it is for it just as much its face as its mask, which it can lay aside.",
+   "zh": "——正如在先前那种关系里，眼前的各种情况是一种存在者，个体性从中取走它所能取、所愿取的东西，要么顺从它，要么颠倒它，正因如此，它并不包含个体性的必然性和本质——同样，在这里，个体性那种显现着的直接存在也是这样一种东西：它要么表达出个体性从现实性中的反思和它的在自身中的存在，要么对个体性来说只是一个记号，这个记号对被标记的东西无关紧要，因此真正说来什么也没有标记；它既是个体性的脸，又是个体性可以摘下的面具。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 7,
+   "de": "– Sie durchdringt ihre Gestalt, bewegt sich, spricht in ihr; aber dies ganze Dasein tritt ebenso als ein gleichgültiges Sein gegen den Willen und die Handlung über; sie tilgt an ihm die Bedeutung, die es vorhin hatte, ihr Reflektiertsein in sich oder ihr wahres Wesen an ihm zu haben, und legt es umgekehrt vielmehr in den Willen und in die Tat.",
+   "en": "– It pervades its shape, moves, speaks in it; but this whole determinate being likewise steps over as a being indifferent to the will and the action; it erases on it the meaning it previously had, of having its being-reflected into itself or its true essence on it, and conversely rather lays it into the will and into the deed.",
+   "zh": "——它贯穿自己的形态，在其中运动、说话；但这整个定在同样作为一种对意志和行动无关紧要的存在而出现；它抹掉了它在这个定在上先前具有的那种含义，即在这个定在上拥有自己在自身中的反思或自己真正的本质，反而把这含义放进意志和行为里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 0,
+   "de": "Die Individualität gibt dasjenige Insichreflektiertsein auf, welches in den Zügen ausgedrückt ist, und legt ihr Wesen in das Werk.",
+   "en": "Individuality gives up that being-reflected-into-itself which is expressed in the features, and lays its essence into the work.",
+   "zh": "个体性放弃了那种在特征中表达出来的、在自身中的反思，而把它的本质放进作品里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 1,
+   "de": "Hierin widerspricht sie dem Verhältnisse, welches von dem Vernunftinstinkte, der sich auf das Beobachten der selbstbewußten Individualität legt, in Ansehung dessen, was ihr Inneres und Äußeres sein soll, festgesetzt wird.",
+   "en": "Herein it contradicts the relation that is fixed by the instinct of reason, which applies itself to the observing of self-conscious individuality, with regard to what is supposed to be its inner and its outer.",
+   "zh": "在这里，它与那种关系相矛盾，这种关系是由那个致力于观察自我意识着的个体性的理性本能，就什么应当是个体性的内在东西和外在东西这一点而确立起来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 2,
+   "de": "Dieser Gesichtspunkt führt uns auf den eigentlichen Gedanken, der der physiognomischen – wenn man so will – Wissenschaft zum Grunde liegt.",
+   "en": "This point of view leads us to the proper thought that lies at the basis of the physiognomic – if one will – science.",
+   "zh": "这个观点把我们引向那个真正的思想，它——如果人们愿意这么说的话——是面相学的科学的根据。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 3,
+   "de": "Der Gegensatz, auf welchen dies Beobachten geraten, ist der Form nach der Gegensatz von Praktischem und Theoretischem, beides nämlich innerhalb des Praktischen selbst gesetzt, – von der sich im Handeln (dies im allgemeinsten Sinne genommen) verwirklichenden Individualität und derselben, wie sie in diesem Handeln zugleich daraus heraus, in sich reflektiert und es ihr Gegenstand ist.",
+   "en": "The opposition into which this observation falls is, as to form, the opposition of the practical and the theoretical, both namely posited within the practical itself, – of the individuality that actualizes itself in acting (this taken in the most universal sense) and of the same individuality as it in this acting is at the same time out of it, reflected into itself, and this acting is its object.",
+   "zh": "这种观察所陷入的对立，在形式上就是实践的东西和理论的东西的对立，不过两者都被设定在实践的东西本身之内，——也就是在行动中（这要在最普遍的意义上来理解）实现自身的个体性，与同一个个体性之间的对立，后者在这种行动中同时从中走出、反思回自身，而行动则是它的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 4,
+   "de": "Das Beobachten nimmt diesen Gegensatz nach demselben verkehrten Verhältnisse auf, worin er sich in der Erscheinung bestimmt.",
+   "en": "Observation takes up this opposition according to the same inverted relation in which it determines itself in the appearance.",
+   "zh": "观察按照这种对立在现象中规定自己所依据的那种同样的颠倒关系，来接纳这种对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 5,
+   "de": "Für das unwesentliche Äußere gilt ihm die Tat selbst und das Werk, es sei der Sprache oder einer befestigteren Wirklichkeit, – für das wesentliche Innere aber das Insichsein der Individualität.",
+   "en": "For the unessential outer, the deed itself and the work count for it, be it of language or of a more fixed actuality, – but for the essential inner, the being-within-itself of individuality.",
+   "zh": "在它看来，行为本身和作品——不管是语言的，还是一种更固定下来的现实性——算作非本质的外在东西，而个体性的在自身中的存在则算作本质性的内在东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 6,
+   "de": "Unter den beiden Seiten, welche das praktische Bewußtsein an ihm hat, dem Beabsichtigen und der Tat – dem Meinen über seine Handlung und der Handlung selbst – wählt die Beobachtung jene Seite zum wahren Innern; dieses soll seine mehr oder weniger unwesentliche Äußerung an der Tat, seine wahre aber an seiner Gestalt haben.",
+   "en": "Among the two sides that practical consciousness has on it, the intending and the deed – the meaning about its action and the action itself – observation chooses that side as the true inner; this is to have its more or less unessential expression in the deed, but its true one in its shape.",
+   "zh": "在实践意识于它身上所具有的两个方面——意图和行为，即关于自己行动的意谓和行动本身——之中，观察把前一个方面选作真的内在东西；这个内在东西应当把它的或多或少非本质的表现放在行为上，而把它的真的表现放在它的形态上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 7,
+   "de": "Die letztere Äußerung ist unmittelbare sinnliche Gegenwart des individuellen Geistes; die Innerlichkeit, die die wahre sein soll, ist die Eigenheit der Absicht und die Einzelheit des Fürsichseins; beides der gemeinte Geist.",
+   "en": "The latter expression is the immediate sensuous presentness of the individual spirit; the inwardness that is supposed to be the true one is the peculiarity of the intention and the singularity of being-for-itself; both are the meant spirit.",
+   "zh": "后一种表现是个体精神的直接的感性当前在场；那种应当是真正的内在性，是意图的独特性以及自为存在的个别性；两者都是被意谓的精神。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 23,
+   "si": 8,
+   "de": "Was das Beobachten zu seinen Gegenständen hat, ist also gemeintes Dasein, und zwischen solchem sucht es Gesetze auf.",
+   "en": "What observation has as its objects is therefore meant determinate being, and among such it seeks for laws.",
+   "zh": "所以，观察当作自己对象的东西，是被意谓的定在，而它就是在这样的东西之间去寻找规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 0,
+   "de": "Das unmittelbare Meinen über die gemeinte Gegenwart des Geistes ist die natürliche Physiognomik, das vorschnelle Urteil über die innere Natur und den Charakter ihrer Gestalt bei ihrem ersten Anblicke.",
+   "en": "The immediate opinion about the meant presence of spirit is natural physiognomy, the hasty judgment about the inner nature and the character of its shape at first sight of it.",
+   "zh": "关于精神的被意谓的在场的直接意谓，就是自然的面相学，就是对它的形态的内在自然和性格在第一眼看到它时作出的仓促判断。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 1,
+   "de": "Der Gegenstand dieser Meinung ist von der Art, daß es in seinem Wesen liegt, in Wahrheit etwas anderes zu sein als nur sinnliches unmittelbares Sein.",
+   "en": "The object of this opinion is of such a kind that it lies in its essence to be in truth something other than only sensuous immediate being.",
+   "zh": "这种意谓的对象是这样一种东西：它的本质就在于，它其实是某种别的，而不只是感性的直接存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 2,
+   "de": "Es ist zwar auch eben dieses im Sinnlichen aus ihm Insichreflektiertsein, was gegenwärtig, die Sichtbarkeit als Sichtbarkeit des Unsichtbaren, was Gegenstand des Beobachtens ist.",
+   "en": "To be sure, it is likewise precisely this being-reflected-into-itself out of the sensuous, what is present, the visibility as visibility of the invisible, that is the object of observation.",
+   "zh": "当然，正是这个在感性之物中从它出发反射回自身的存在，正是这个在场的东西，这个作为不可见者的可见性的可见性，才是观察的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 3,
+   "de": "Aber eben diese sinnliche unmittelbare Gegenwart ist Wirklichkeit des Geistes, wie sie nur für die Meinung ist; und das Beobachten treibt sich nach dieser Seite mit seinem gemeinten Dasein, mit der Physiognomie, Handschrift, Ton der Stimme usf. herum.",
+   "en": "But precisely this sensuous immediate presence is actuality of spirit as it is only for opinion; and in this respect observation turns around with its meant determinate being, with the physiognomy, handwriting, tone of the voice, and so on.",
+   "zh": "但正是这种感性的直接的在场，才是精神的现实性，而它只是对意谓而言才如此；实际观测在这一方面就带着它那被意谓的定在团团打转，琢磨着面相、笔迹、声音的声调等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 4,
+   "de": "– Es bezieht solches Dasein auf eben solches gemeintes Inneres.",
+   "en": "– It relates such determinate being to just such a meant inner [element].",
+   "zh": "——它把这样的定在联系到同样被意谓的内在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 5,
+   "de": "Es ist nicht der Mörder, der Dieb, welcher erkannt werden soll, sondern die Fähigkeit, es zu sein; die feste abstrakte Bestimmtheit verliert sich dadurch in die konkrete unendliche Bestimmtheit des einzelnen Individuums, die nun kunstreichere Schildereien erfordert, als jene Qualifikationen sind.",
+   "en": "It is not the murderer, the thief, that is to be recognized, but the capacity to be it; the firm abstract determinacy thereby loses itself in the concrete infinite determinacy of the single individual, which now requires more artful portrayals than those qualifications are.",
+   "zh": "要认识的并不是凶手、小偷，而是能够成为凶手、小偷的那种能力；固定的抽象的规定性由此消融在单个个体的具体的无限规定性之中，而这种规定性现在要求比那些资格鉴定更需要技巧的描绘。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 6,
+   "de": "Solche kunstreichen Schildereien sagen wohl mehr als die Qualifikation durch Mörder, Dieb, oder gutherzig, unverdorben usf., aber für ihren Zweck, das gemeinte Sein oder die einzelne Individualität auszusprechen, bei weitem nicht genug, sowenig als die Schildereien der Gestalt, welche über die flache Stirne, lange Nase usf. hinausgehen.",
+   "en": "Such artful portrayals indeed say more than the qualification through murderer, thief, or good-hearted, uncorrupted, and so on, but for their purpose, to express the meant being or the single individuality, far from enough, as little as the portrayals of the shape which go beyond the flat forehead, long nose, and so on.",
+   "zh": "这样一些需要技巧的描绘，固然比用凶手、小偷，或者好心肠、没变坏等等所作的资格鉴定说得更多，但就它们的目的——说出那被意谓的存在或单个的个体性——来说，却远远不够，正如超出平坦的额头、长鼻子等等的形态描绘也远远不够一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 7,
+   "de": "Denn die einzelne Gestalt wie das einzelne Selbstbewußtsein ist als gemeintes Sein unaussprechlich.",
+   "en": "For the single shape as well as the single self-consciousness is, as meant being, inexpressible.",
+   "zh": "因为单个的形态和单个的自我意识一样，作为被意谓的存在都是不可言说的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 24,
+   "si": 8,
+   "de": "Die Wissenschaft der Menschenkenntnis, welche auf den vermeinten Menschen, sowie [die] der Physiognomik, die auf seine vermeinte Wirklichkeit geht und das bewußtlose Urteilen der natürlichen Physiognomik zu einem Wissen erheben will, ist daher etwas End- und Bodenloses, das nie dazu kommen kann zu sagen, was es meint, weil es nur meint und sein Inhalt nur Gemeintes ist.",
+   "en": "The science of knowledge of human beings, which goes after the supposed human being, as well as [the science] of physiognomy, which goes after its supposed actuality and wants to raise the unconscious judging of natural physiognomy to a knowing, is therefore something endless and bottomless, which can never get to say what it means, because it only means and its content is only something meant.",
+   "zh": "所以，关于人的知识这门科学既然着眼于那自以为是的人，面相学既然着眼于他自以为的现实性，并且想把自然的面相学那种无意识的判断提升为一种知识，它们就都是无穷无尽、没有根基的东西，永远无法进到说出自己所意谓的东西，因为它只是在意谓，而它的内容只是被意谓的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 25,
+   "si": 0,
+   "de": "Die Gesetze, welche diese Wissenschaft zu finden ausgeht, sind Beziehungen dieser beiden gemeinten Seiten und können daher selbst nichts als ein leeres Meinen sein.",
+   "en": "The laws that this science sets out to find are relations of these two meant sides and can therefore themselves be nothing but an empty meaning.",
+   "zh": "这门科学要去找的那些规律，是被意谓的这两个方面之间的关系，所以它们本身只能是一种空洞的意谓。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 25,
+   "si": 1,
+   "de": "Auch da dies vermeinte Wissen, das mit der Wirklichkeit des Geistes sich zu tun macht, gerade dies zu seinem Gegenstande hat, daß er aus seinem sinnlichen Dasein heraus sich in sich reflektiert, und das bestimmte Dasein für ihn eine gleichgültige Zufälligkeit ist, so muß es bei seinen aufgefundenen Gesetzen unmittelbar wissen, daß nichts damit gesagt ist, sondern eigentlich rein geschwatzt oder nur eine Meinung von sich gegeben wird; ein Ausdruck, der die Wahrheit hat, dies als dasselbe auszusprechen, – seine Meinung zu sagen und damit nicht die Sache, sondern nur eine Meinung von sich beizubringen.",
+   "en": "Since, moreover, this meant knowing, which sets about dealing with the actuality of spirit, has precisely this as its object, that spirit reflects itself out of its sensuous determinate being into itself, and that the determinate being is for it an indifferent contingency, it must immediately know, with the laws it has found, that nothing is thereby said, but that in fact there is pure idle chatter or only a meaning is given about itself; an expression that has the truth of stating this as the same thing – to say its meaning and thereby bring forward not the matter but only a meaning about itself.",
+   "zh": "而且，既然这种意谓着的知识着手与精神的现实性打交道，却恰恰把这一点当作自己的对象：精神从它的感性定在中反射回自身，并且这特定的定在对它来说是一种无关紧要的偶然性，那么它带着自己找出来的那些规律，就必定直接知道：借此什么也没有说出，而实际上是纯粹在闲扯，或者只是说出了关于自己的一种意谓；这个说法有一种真理，就是把这一点说成同一回事——说出自己的意谓，并借此带来的不是事情，而只是关于自己的一种意谓。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 25,
+   "si": 2,
+   "de": "Dem Inhalte nach aber können diese Beobachtungen nicht von denen abweichen: »Es regnet allemal, wenn wir Jahrmarkt haben, sagt der Krämer; und auch allemal, wenn ich Wäsche trockne, sagt die Hausfrau.«",
+   "en": "As regards content, however, these observations cannot differ from those: “It always rains when we have a fair, says the merchant; and always, too, when I dry my laundry, says the housewife.”",
+   "zh": "在内容上，这些观察却不可能与下面这些有什么不同：“我们一有集市，天就总是下雨，商人说；我一晾衣服，天也总是下雨，家庭主妇说。”"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 0,
+   "de": "Lichtenberg, der das physiognomische Beobachten so charakterisiert, sagt auch noch dies: »Wenn jemand sagte: du handelst zwar wie ein ehrlicher Mann, ich sehe es aber aus deiner Figur, du zwingst dich und bist ein Schelm im Herzen; fürwahr eine solche Anrede wird bis ans Ende der Welt von jedem braven Kerl mit einer Ohrfeige erwidert werden.«",
+   "en": "Lichtenberg, who characterizes physiognomic observation in this way, also says this: “If someone said: you do indeed act like an honest man, but I see from your figure that you are forcing yourself and are a rogue in your heart; truly such an address will to the end of the world be answered by every honest fellow with a box on the ear.”",
+   "zh": "利希滕贝格这样刻画面相学的观察，他还说了这样的话：“假如有人说：你行事倒像个老实人，但我从你的体形看出来，你是在强迫自己，心里是个无赖；说真的，这样一句招呼，直到世界末日都会被每个正派家伙用一个耳光来回答。”"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 1,
+   "de": "– Diese Erwiderung ist deswegen treffend, weil sie die Widerlegung der ersten Voraussetzung einer solchen Wissenschaft des Meinens ist, daß nämlich die Wirklichkeit des Menschen sein Gesicht usf. sei.",
+   "en": "– This reply is to the point because it is the refutation of the first presupposition of such a science of meaning, namely that the actuality of the human being is his face and so on.",
+   "zh": "——这个回答之所以切中要害，是因为它驳倒了这样一种意谓的科学的第一条前提，即：人的现实性就是他的脸等等。"
+  }
+ ]
+}

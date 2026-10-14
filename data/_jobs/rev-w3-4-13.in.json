@@ -1,0 +1,135 @@
+{
+ "id": "rev-w3-4-13",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 65,
+   "si": 0,
+   "de": "Indem nun das allgemeine Leben als das einfache Wesen der Gattung von seiner Seite die Unterschiede des Begriffs entwickelt und sie als eine Reihe der einfachen Bestimmtheiten darstellen muß, so ist diese ein System gleichgültig gesetzter Unterschiede oder eine Zahlreihe.",
+   "en": "Since now universal life, as the simple essence of the genus, develops on its side the differences of the concept and must present them as a series of simple determinacies, this is a system of indifferently posited differences, or a number-series.",
+   "zh": "既然一般的生命作为类的单纯本质，从它这一方面展开概念的诸差别，并且必须把它们作为单纯规定性的一个序列呈现出来，那么这个序列就是漠不相关地被设定起来的诸差别的一个系统，或者说是一个数列。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 65,
+   "si": 1,
+   "de": "Wenn vorhin das Organische in der Form der Einzelheit diesem wesenlosen Unterschiede gegenübergesetzt wurde, der ihre lebendige Natur nicht ausdrückt und enthält – und wenn in Ansehung des Unorganischen nach seinem ganzen in der Menge seiner Eigenschaften entwickelten Dasein eben dies gesagt werden muß –, so ist es jetzt das allgemeine Individuum, welches nicht nur als frei von jeder Gliederung der Gattung, sondern auch als ihre Macht zu betrachten ist.",
+   "en": "If just now the organic was set over against this essenceless difference in the form of singularity, a difference that does not express and contain its living nature - and if with regard to the inorganic, according to its whole determinate being developed in the multiplicity of its properties, precisely this must be said - then it is now the universal individual that is to be considered not only as free from every articulation of the genus, but also as its power.",
+   "zh": "如果说刚才有机物以个别性的形式被置于这种无本质的差别对面——这种差别并不表达、也不包含它的活的本性——，并且如果说，就无机物按其在自己属性的杂多中展开的整个定在而言，恰恰也必须说同样的话，那么现在要考察的就是普遍的个体：它不仅摆脱了类的任何划分，而且必须被看作类的威力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 65,
+   "si": 2,
+   "de": "Die Gattung, welche sich in Arten nach der allgemeinen Bestimmtheit der Zahl zerlegt oder auch einzelne Bestimmtheiten ihres Daseins, z.B. die Figur, Farbe usf. zu ihrem Einteilungsgrunde nehmen mag, erleidet in diesem ruhigen Geschäfte Gewalt von der Seite des allgemeinen Individuums, der Erde, welches als die allgemeine Negativität die Unterschiede, wie sie dieselben an sich hat und deren Natur um der Substanz willen, der sie angehören, eine andere ist als die Natur jener, gegen das Systematisieren der Gattung geltend macht.",
+   "en": "The genus, which decomposes itself into species according to the universal determinacy of number, or may also take single determinacies of its determinate being, e.g. figure, colour, etc., as its ground of division, suffers in this quiet business violence from the side of the universal individual, the earth, which, as the universal negativity, asserts the differences as it has them in itself - and the nature of which, by virtue of the substance to which they belong, is another than the nature of those - against the systematizing of the genus.",
+   "zh": "类按照数的普遍规定性把自己分解为种，或者也把它的定在的个别规定性、例如形状、颜色等等当作自己的划分根据，而它在这样一件安静的事情上，从普遍的个体即地球那一方面遭受暴力：地球作为普遍的否定性，把那些差别按照它自在地拥有它们的样子——而这些差别的本性，由于它们所属的实体之故，不同于前面那些差别的本性——，用来对抗类的系统化。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 65,
+   "si": 3,
+   "de": "Dieses Tun der Gattung wird zu einem ganz eingeschränkten Geschäft, das sie nur innerhalb jener mächtigen Elemente treiben darf und das durch die zügellose Gewalt derselben allenthalben unterbrochen, lückenhaft und verkümmert wird.",
+   "en": "This doing of the genus becomes a quite restricted business, which it may carry on only within those powerful elements, and which, through the unbridled violence of the same, is everywhere interrupted, full of gaps and stunted.",
+   "zh": "类的这种作为变成一件完全受到限制的事情，它只能在那些强大的元素之内从事这件事情，而这件事情被那些元素无法无天的暴力到处打断，变得残缺不全、萎缩不堪。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 66,
+   "si": 0,
+   "de": "Es folgt hieraus, daß der Beobachtung an dem gestalteten Dasein nur die Vernunft als Leben überhaupt werden kann, welches aber in seinem Unterscheiden keine vernünftige Reibung und Gliederung an sich selbst wirklich hat und nicht ein in sich gegründetes System der Gestalten ist.",
+   "en": "From this it follows that, for observation at shaped determinate being, only reason as life in general can come to be, a reason which, however, in its distinguishing, does not actually have in itself any rational friction and articulation, and is not a system of shapes grounded in itself.",
+   "zh": "由此得出，在形成了形态的定在那里，观察所能得到的只能是作为一般生命的理性，但这种理性在它的区分中并没有在自身那里现实地具有任何理性的摩擦和划分，也不是一个在自身中建立起来的形态系统。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 66,
+   "si": 1,
+   "de": "– Wenn im Schlüsse der organischen Gestaltung die Mitte, worin die Art und ihre Wirklichkeit als einzelne Individualität fällt, an ihr selbst die Extreme der inneren Allgemeinheit und der allgemeinen Individualität hätte, so würde diese Mitte an der Bewegung ihrer Wirklichkeit den Ausdruck und die Natur der Allgemeinheit haben und die sich selbst systematisierende Entwicklung sein.",
+   "en": "- If in the syllogism of organic formation the middle term, in which the species and its actuality fall as single individuality, had in itself the extremes of inner universality and of universal individuality, then this middle term would, in the movement of its actuality, have the expression and the nature of universality, and would be the self-systematizing development.",
+   "zh": "——如果在有机形态的推论里，那个中项——种及其现实性作为个别的个体性就落入其中——在自身那里拥有内在普遍性和普遍个体性这两个极端，那么这个中项就会在它现实性的运动中具有普遍性的表达和本性，并且会是那个自我系统化的发展。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 66,
+   "si": 2,
+   "de": "So hat das Bewußtsein, zwischen dem allgemeinen Geiste und seiner Einzelheit oder dem sinnlichen Bewußtsein, zur Mitte das System der Gestaltungen des Bewußtseins, als ein zum Ganzen sich ordnendes Leben des Geistes, – das System, das hier betrachtet wird und welches als Weltgeschichte sein gegenständliches Dasein hat.",
+   "en": "Thus consciousness has, between the universal spirit and its singularity or sensuous consciousness, as its middle term the system of the shapes of consciousness, as a life of spirit ordering itself into a whole - the system that is considered here and which has its objective determinate being as world history.",
+   "zh": "所以，意识在普遍的精神和它的个别性、即感性意识之间，以意识的诸形态的系统为中项，作为一种把自己安排成整体的精神生命，——这个系统就是这里所考察的系统，它作为世界历史拥有自己的对象性的定在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 66,
+   "si": 3,
+   "de": "Aber die organische Natur hat keine Geschichte; sie fällt von ihrem Allgemeinen, dem Leben, unmittelbar in die Einzelheit des Daseins herunter, und die in dieser Wirklichkeit vereinigten Momente der einfachen Bestimmtheit und der einzelnen Lebendigkeit bringen das Werden nur als die zufällige Bewegung hervor, worin jedes an seinem Teile tätig ist und das Ganze erhalten wird; aber diese Regsamkeit ist für sich selbst nur auf ihren Punkt beschränkt, weil das Ganze nicht in ihm vorhanden ist, und dies ist nicht darin vorhanden, weil es nicht als Ganzes hier für sich ist.",
+   "en": "But organic nature has no history; it falls from its universal, life, immediately down into the singularity of determinate being, and the moments united in this actuality, of simple determinacy and of single vitality, bring forth becoming only as the contingent movement in which each is active in its part and the whole is preserved; but this activity is for itself limited only to its point, because the whole is not present in it, and this is not present in it because it is not here for itself as a whole.",
+   "zh": "但有机的自然没有历史；它从自己的普遍物、即生命，直接跌落到定在的个别性里，而在这个现实性中联合起来的、简单的规定性和个别的生命活动这两个环节，只把生成当作偶然的运动产生出来，在其中每一方都在自己那一部分上活动着，而整体则得到维持；但这种活跃自为地只局限于它的那一点上，因为整体并不在它之中现成存在，而它之所以不在它之中现成存在，是因为整体并不是作为整体在这里自为地存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 67,
+   "si": 0,
+   "de": "Außerdem also, daß die beobachtende Vernunft in der organischen Natur nur zur Anschauung ihrer selbst als allgemeines Leben überhaupt kommt, wird ihr die Anschauung seiner Entwicklung und Realisierung nur nach ganz allgemein unterschiedenen Systemen, deren Bestimmtheit, ihr Wesen, nicht in dem Organischen als solchem, sondern in dem allgemeinen Individuum liegt; und, unter diesen Unterschieden der Erde, nach Reibungen, welche die Gattung versucht.",
+   "en": "Besides, then, that observing reason in organic nature comes only to the intuition of itself as universal life in general, the intuition of its development and realization comes to it only according to quite generally distinguished systems, whose determinacy, their essence, lies not in the organic as such but in the universal individual; and, among these differences of the earth, according to frictions that the genus attempts.",
+   "zh": "此外，既然观察的理性在有机的自然里只达到对自身作为一般生命的直观，那么对它来说，对它的发展和实在化的直观就只能是按照那些完全一般地加以区分的系统，这些系统的规定性、即它们的本质，并不在于有机的东西本身，而在于普遍的个体；并且，在地球的这些差别之下，是按照类所尝试的那些摩擦。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 68,
+   "si": 0,
+   "de": "Indem also in seiner Wirklichkeit die Allgemeinheit des organischen Lebens sich, ohne die wahrhafte fürsichseiende Vermittlung, unmittelbar in das Extrem der Einzelheit herunterfallen läßt, so hat das beobachtende Bewußtsein nur das Meinen als Ding vor sich; und wenn die Vernunft das müßige Interesse haben kann, dieses Meinen zu beobachten, ist sie auf das Beschreiben und Hererzählen von Meinungen und Einfällen der Natur beschränkt.",
+   "en": "Since, therefore, in its actuality the universality of organic life lets itself, without the true mediation that is being-for-itself, fall immediately into the extreme of singularity, observing consciousness has before itself only meaning as thing; and if reason can have the idle interest of observing this meaning, it is restricted to describing and recounting opinions and fancies of nature.",
+   "zh": "所以，既然有机生命的普遍性在它的现实性中，没有那真正的、自为存在的中介，就直接让自己跌落到个别性这个极端里，那么观察的意识面前就只有作为物的意谓；而如果理性可能怀有那种闲散的兴趣，去观察这种意谓，它就只限于描述和讲述自然的种种意见和念头。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 68,
+   "si": 1,
+   "de": "Diese geistlose Freiheit des Meinens wird zwar allenthalben Anfänge von Gesetzen, Spuren von Notwendigkeit, Anspielungen auf Ordnung und Reibung, witzige und scheinbare Beziehungen darbieten.",
+   "en": "This spiritless freedom of meaning will indeed everywhere offer beginnings of laws, traces of necessity, allusions to order and friction, witty and semblable relations.",
+   "zh": "这种无精神的意谓自由虽然到处都会提供出规律的种种端绪、必然性的种种踪迹、对秩序和摩擦的种种暗示，以及一些俏皮的、貌似的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 68,
+   "si": 2,
+   "de": "Aber die Beobachtung kommt in der Beziehung des Organischen auf die seienden Unterschiede des Unorganischen, die Elemente, Zonen und Klimate, in Ansehung des Gesetzes und der Notwendigkeit nicht über den großen Einfluß hinaus.",
+   "en": "But in the relation of the organic to the existing differences of the inorganic, the elements, zones and climates, observation does not, with regard to law and necessity, get beyond the great influence.",
+   "zh": "但在有机的东西对无机的东西那些存在着的差别、即元素、地带和气候的关系上，就规律和必然性而言，观察并没有超出那种巨大的影响。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 68,
+   "si": 3,
+   "de": "So auf der ändern Seite, wo die Individualität nicht die Bedeutung der Erde, sondern des dem organischen Leben immanenten Eins hat, dies mit dem Allgemeinen in unmittelbarer Einheit zwar die Gattung ausmacht, aber deren einfache Einheit eben darum nur als Zahl sich bestimmt und daher die qualitative Erscheinung freiläßt, – kann es die Beobachtung nicht über artige Bemerkungen, interessante Beziehungen, freundliches Entgegenkommen dem Begriffe hinausbringen.",
+   "en": "Thus on the other side, where individuality has the significance not of the earth but of the One immanent in organic life, this [One], in immediate unity with the universal, indeed constitutes the genus, but its simple unity for that very reason determines itself only as number and therefore sets free the qualitative appearance, - observation cannot bring it beyond neat remarks, interesting relations, friendly accommodation to the concept.",
+   "zh": "所以，在另一方面，在那里，个体性所具有的意义不是地球，而是内在于有机生命的那个一，这个一与普遍物处于直接的统一中，虽然由此构成了类，但正因为如此，它的简单统一只把自己规定为数目，因而放开了质的现象，——观察也无法把它带到乖巧的评注、有趣的关联、对概念的和善迎合之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 68,
+   "si": 4,
+   "de": "Aber die artigen Bemerkungen sind kein Wissen der Notwendigkeit, die interessanten Beziehungen bleiben bei dem Interesse stehen, das Interesse ist aber nur noch die Meinung von der Vernunft; und die Freundlichkeit des Individuellen, mit der es an einen Begriff anspielt, ist eine kindliche Freundlichkeit, welche kindisch ist, wenn sie an und für sich etwas gelten will oder soll.",
+   "en": "But the neat remarks are no knowledge of necessity, the interesting relations remain stuck at the interest, but the interest is now only the opinion about reason; and the friendliness of the individual, with which it alludes to a concept, is a childish friendliness, which is childish if it wants or is supposed to count for something in and for itself.",
+   "zh": "但那些乖巧的评注并不是对必然性的知识，那些有趣的关联停留在兴趣那里，而兴趣现在只是关于理性的意见；并且，个别东西的那种和善——它凭这种和善暗示着某个概念——是一种幼稚的和善，如果它自在自为地要或应当算作某种东西，它就是幼稚的。"
+  }
+ ]
+}

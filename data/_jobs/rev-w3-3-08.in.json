@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-08",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 1,
+   "de": "Sie geht nicht aus einem Fremden, das seine vielfache Entwicklung in sich zusammenstürzte, als ein Resultat hervor, welches sein Werden hinter sich hätte; sondern das Bewußtsein selbst ist die absolute dialektische Unruhe, dieses Gemisch von sinnlichen und gedachten Vorstellungen, deren Unterschiede zusammenfallen und deren Gleichheit sich ebenso – denn sie ist selbst die Bestimmtheit gegen das Ungleiche – wieder auflöst.",
+   "en": "It does not emerge from something alien, which has collapsed the manifold development of that something into itself, as a result that would have its becoming behind it; rather, consciousness itself is the absolute dialectical unrest, this mixture of sensuous and thought representations, whose differences collapse and whose equality likewise – for it is itself the determinacy against the unequal – again dissolves.",
+   "zh": "它不是从某个陌生的东西——那东西把自身多方面的展开收拢到自己里面——中作为一个把自身生成抛在背后的结果产生出来的；相反，意识本身就是绝对的辩证的不安，就是感性的表象和思想到的表象的这种混合，这些表象的差别归于消失，而它们的相等也同样——因为它本身就是针对不相等者的那个规定性——重新消解掉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 2,
+   "de": "Dies Bewußtsein ist aber eben hierin in der Tat, statt sichselbstgleiches Bewußtsein zu sein, nur eine schlechthin zufällige Verwirrung, der Schwindel einer sich immer erzeugenden Unordnung.",
+   "en": "But precisely in this, instead of being self-same consciousness, this consciousness is in fact only a thoroughly contingent confusion, the dizziness of a disorder that keeps producing itself.",
+   "zh": "但恰恰在这一点上，这种意识实际上并不是自身等同的意识，而只是一种完全偶然的混乱，是一种不断自己产生出来的无序的眩晕。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 3,
+   "de": "Es ist dies für sich selbst; denn es selbst erhält und bringt diese sich bewegende Verwirrung hervor.",
+   "en": "It is this for itself; for it itself preserves and brings forth this self-moving confusion.",
+   "zh": "这对它自己是如此；因为它自己保持并产生出这种自己运动着的混乱。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 4,
+   "de": "Es bekennt sich darum auch dazu, es bekennt, ein ganz zufälliges, einzelnes Bewußtsein zu sein – ein Bewußtsein, das empirisch ist, sich nach dem richtet, was keine Realität für es hat, dem gehorcht, was ihm kein Wesen ist, das tut und zur Wirklichkeit bringt, was ihm keine Wahrheit hat.",
+   "en": "It therefore also confesses to this, it confesses to being a wholly contingent, singular consciousness – a consciousness that is empirical, that directs itself by what has no reality for it, that obeys what is no essence to it, that does and brings into actuality what has no truth for it.",
+   "zh": "因此它也承认这一点，它承认自己是一种完全偶然的、个别的意识——一种经验性的意识，它按照对它没有实在性的东西来行事，听从对它不是本质的东西，做并把对它没有真理的东西带到现实性中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 5,
+   "de": "Aber ebenso, wie es sich auf diese Weise als einzelnes, zufälliges und in der Tat tierisches Leben und verlorenes Selbstbewußtsein gilt, macht es sich im Gegenteile auch wieder zum allgemeinen sichselbstgleichen, denn es ist die Negativität aller Einzelheit und alles Unterschiedes.",
+   "en": "But just as in this way it counts as singular, contingent, and in fact animal life and lost self-consciousness, so on the contrary it also makes itself again into the universal, self-same one, for it is the negativity of all singularity and all difference.",
+   "zh": "但正如它这样把自己当作个别的、偶然的、实际上是动物性的生命和失去了自身的自我意识，它反过来也又把自己弄成普遍的、自身等同的东西，因为它是所有个别性和所有差别的否定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 6,
+   "de": "Von dieser Sichselbstgleichheit oder in ihr selbst vielmehr fällt es wieder in Jene Zufälligkeit und Verwirrung zurück, denn eben diese sich bewegende Negativität hat es nur mit Einzelnem zu tun und treibt sich mit Zufälligem herum.",
+   "en": "From this self-sameness, or rather in it, it falls back again into that contingency and confusion, for precisely this self-moving negativity has to do only with the singular and drives itself around with the contingent.",
+   "zh": "从这种自身等同中，或者毋宁说在它之中，它又重新落回那种偶然性和混乱，因为恰恰这种自己运动着的否定性只与个别的东西打交道，围着偶然的东西打转。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 7,
+   "de": "Dies Bewußtsein ist also diese bewußtlose Faselei, von dem einen Extreme des sichselbstgleichen Selbstbewußtseins zum ändern des zufälligen, verworrenen und verwirrenden Bewußtseins hinüber- und herüberzugehen.",
+   "en": "This consciousness is therefore this unconscious twaddle, of passing over and back from the one extreme of self-same self-consciousness to the other of contingent, confused and confusing consciousness.",
+   "zh": "所以，这种意识就是这种无意识的胡言乱语：从自身等同的自我意识这一个极端，转到偶然的、混乱的并且造成混乱的意识那另一个极端，又转回来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 8,
+   "de": "Es selbst bringt diese beiden Gedanken seiner selbst nicht zusammen; es erkennt seine Freiheit einmal als Erhebung über alle Verwirrung und alle Zufälligkeit des Daseins und bekennt sich ebenso das andere Mal wieder als ein Zurückfallen in die Unwesentlichkeit und als ein Herumtreiben in ihr.",
+   "en": "It itself does not bring these two thoughts of itself together; it recognizes its freedom at one time as elevation above all confusion and all contingency of determinate being, and confesses itself just as much the other time again as a falling back into unessentiality and as a driving about within it.",
+   "zh": "它自己并不把关于它自己的这两个思想合到一起；它一会儿把自己的自由认作对定在的一切混乱和一切偶然性的超出，并且同样又一次承认自己重新落回非本质性之中并在其中四处游荡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 9,
+   "de": "Es läßt den unwesentlichen Inhalt in seinem Denken verschwinden, aber eben darin ist es das Bewußtsein eines Unwesentlichen; es spricht das absolute Verschwinden aus, aber das Aussprechen ist, und dies Bewußtsein ist das ausgesprochene Verschwinden; es spricht die Nichtigkeit des Sehens, Hörens usf. aus, und es sieht, hört usf. selbst, es spricht die Nichtigkeit der sittlichen Wesenheiten aus und macht sie selbst zu den Mächten seines Handelns.",
+   "en": "It lets the unessential content vanish in its thinking, but precisely therein it is the consciousness of an unessential element; it pronounces the absolute vanishing, but the pronouncing is, and this consciousness is the pronounced vanishing; it pronounces the nullity of seeing, hearing, etc., and it itself sees, hears, etc., it pronounces the nullity of the ethical essences and itself makes them into the powers of its acting.",
+   "zh": "它让非本质的内容在它的思维中消失，但恰恰因此它就是某种非本质之物的意识；它说出绝对的消失，但说出本身存在着，而这种意识就是被说出的消失；它说出看、听等等的虚无性，而它自己却看、听等等，它说出伦理的本质的虚无性，却自己把它们弄成它行动的力量。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 10,
+   "de": "Sein Tun und seine Worte widersprechen sich immer, und ebenso hat es selbst das gedoppelte widersprechende Bewußtsein der Unwandelbarkeit und Gleichheit und der völligen Zufälligkeit und Ungleichheit mit sich.",
+   "en": "Its doing and its words always contradict each other, and it itself likewise has the doubled, contradictory consciousness of unchangeableness and equality and of complete contingency and inequality with itself.",
+   "zh": "它的行为和它的话总是互相矛盾，它自己也同样有那双重的、自相矛盾的意识：既意识到不变性和相等，又意识到完全的偶然性和不相等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 11,
+   "de": "Aber es hält diesen Widerspruch seiner selbst auseinander und verhält sich darüber wie in seiner rein negativen Bewegung überhaupt.",
+   "en": "But it holds this contradiction of itself apart and comports itself over it as in its purely negative movement in general.",
+   "zh": "但它把自身这种矛盾分开来持守，并像在它一般的纯粹否定的运动中那样对待这种矛盾。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 43,
+   "si": 12,
+   "de": "Wird ihm die Gleichheit aufgezeigt, so zeigt es die Ungleichheit auf; und indem ihm diese, die es eben ausgesprochen hat, jetzt vorgehalten wird, so geht es zum Aufzeigen der Gleichheit über; sein Gerede ist in der Tat ein Gezanke eigensinniger Jungen, deren einer A sagt, wenn der andere B, und wieder B, wenn der andere A, und die sich durch den Widerspruch mit sich selbst die Freude erkaufen, miteinander im Widerspruche zu bleiben.",
+   "en": "If equality is shown to it, it points out inequality; and when this inequality, which it has just pronounced, is now held up to it, it passes over to pointing out equality; its talk is in fact a squabble of stubborn boys, one of whom says A when the other says B, and again B when the other says A, and who buy for themselves, through the contradiction with themselves, the joy of remaining in contradiction with each other.",
+   "zh": "如果向它指出相等，它就指出不相等；而当它刚刚说出的这种不相等现在被摆到它面前时，它就转到指出相等上去；它这番言论实际上就是固执孩子们的争吵，一个说 A，另一个就说 B，另一个说 A 时这一个又说 B，他们靠与自身的矛盾换来彼此继续处在矛盾中的快乐。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 44,
+   "si": 0,
+   "de": "Im Skeptizismus erfährt das Bewußtsein in Wahrheit sich als ein in sich selbst widersprechendes Bewußtsein; es geht aus dieser Erfahrung eine neue Gestalt hervor, welche die zwei Gedanken zusammenbringt, die der Skeptizismus auseinanderhält.",
+   "en": "In scepticism consciousness truly experiences itself as a consciousness that contradicts itself; out of this experience a new shape emerges, which brings together the two thoughts that scepticism holds apart.",
+   "zh": "在怀疑论里，意识真正经验到自己是一种自相矛盾的意识；从这种经验中产生出一个新形态，它把怀疑论分开持守的两个思想合到一起。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 44,
+   "si": 1,
+   "de": "Die Gedankenlosigkeit des Skeptizismus über sich selbst muß verschwinden, weil es In der Tat ein Bewußtsein ist, welches diese beiden Weisen an ihm hat.",
+   "en": "The thoughtlessness of scepticism about itself must vanish, because it is in fact a consciousness that has these two ways on it.",
+   "zh": "怀疑论对自身的思想贫乏必须消失，因为它实际上是一种意识，这种意识在它身上具有这两种方式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 44,
+   "si": 2,
+   "de": "Diese neue Gestalt ist hierdurch ein solches, welches für sich das gedoppelte Bewußtsein seiner als des sich befreienden, unwandelbaren und sichselbstgleichen und seiner als des absolut sich verwirrenden und verkehrenden und das Bewußtsein dieses seines Widerspruchs ist.",
+   "en": "Hereby this new shape is one that is for itself the doubled consciousness of itself as self-liberating, unchangeable and self-same, and of itself as absolutely self-confusing and self-inverting, and is the consciousness of this its contradiction.",
+   "zh": "由此，这个新形态就是这样一种东西：它自为地具有双重的意识，既意识到自己是解放自己的、不变的和自身等同的，又意识到自己是绝对地造成混乱和颠倒的，并且它就是对自己这一矛盾的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 44,
+   "si": 3,
+   "de": "– Im Stoizismus ist das Selbstbewußtsein die einfache Freiheit seiner selbst; im Skeptizismus realisiert sie sich, vernichtet die andere Seite des bestimmten Daseins, aber verdoppelt sich vielmehr und ist sich nun ein Zweifaches.",
+   "en": "– In stoicism self-consciousness is the simple freedom of itself; in scepticism it realizes itself, annihilates the other side of determinate being, but instead doubles itself and is now for itself a twofold.",
+   "zh": "——在斯多葛主义里，自我意识是它自己的单纯自由；在怀疑论里，这种自由把自己实在化，消灭了定在的另一面，但却毋宁说把自己双重化，现在对自己来说是一个二重的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 44,
+   "si": 4,
+   "de": "Hierdurch ist die Verdopplung, welche früher an zwei Einzelne, an den Herrn und den Knecht, sich verteilte, in Eines eingekehrt; die Verdopplung des Selbstbewußtseins in sich selbst, welche im Begriffe des Geistes wesentlich ist, ist hiermit vorhanden, aber noch nicht ihre Einheit, und das unglückliche Bewußtsein ist das Bewußtsein seiner als des gedoppelten, nur widersprechenden Wesens.",
+   "en": "Hereby the doubling that formerly distributed itself over two singulars, over the master and the slave, has turned inward into one; the doubling of self-consciousness within itself, which is essential in the concept of spirit, is hereby present, but not yet its unity, and the unhappy consciousness is the consciousness of itself as the doubled, merely contradictory essence.",
+   "zh": "由此，先前分在两个个别者即主人和奴隶身上的双重化，已经转回到一个东西之内；自我意识在自身之内的双重化，这种在精神的概念中本质性的双重化，于是已经存在，但还不是它们的统一，而苦恼意识就是对自己作为双重化的、仅仅矛盾着的本质的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 45,
+   "si": 0,
+   "de": "Dieses unglückliche, in sich entzweite Bewußtsein muß also, weil dieser Widerspruch seines Wesens sich ein Bewußtsein ist, in dem einen Bewußtsein immer auch das andere haben und so aus Jedem unmittelbar, indem es zum Siege und zur Ruhe der Einheit gekommen zu sein meint, wieder ausgetrieben werden.",
+   "en": "This unhappy, inwardly divided consciousness must therefore, because this contradiction of its essence is a consciousness to it, always have the other in the one consciousness too, and so be driven out again immediately from each, just when it thinks it has come to the victory and rest of unity.",
+   "zh": "所以，这种苦恼的、自身分裂的意识，既然它本质的这一矛盾对它是一个意识，就必须在这一个意识里也总是有另一个意识，并且就这样从每一个意识那里立刻被重新赶出去，正当它以为已经达到统一体的胜利和安宁的时候。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 45,
+   "si": 1,
+   "de": "Seine wahre Rückkehr aber in sich selbst oder seine Versöhnung mit sich wird den Begriff des lebendig gewordenen und in die Existenz getretenen Geistes darstellen, weil an ihm schon dies ist, daß es als ein ungeteiltes Bewußtsein ein gedoppeltes ist: es selbst ist das Schauen eines Selbstbewußtseins in ein anderes, und es selbst ist beide, und die Einheit beider ist ihm auch das Wesen; aber es für sich ist sich noch nicht dieses Wesen selbst, noch nicht die Einheit beider.",
+   "en": "But its true return into itself, or its reconciliation with itself, will present the concept of spirit that has become living and entered into existence, because on it there already is this, that as an undivided consciousness it is a doubled one: it itself is the looking of one self-consciousness into another, and it itself is both, and the unity of both is also the essence to it; but for itself it is not yet this essence itself, not yet the unity of both.",
+   "zh": "但它真正的返回自身，或者说它与自身的和解，将会呈现出已经变成活生生的、已经进入存在的精神的概念，因为在它身上已经有了这一点：它作为未被分割的意识是一个双重化的意识：它自己就是一个自我意识向另一个自我意识的观看，它自己就是两者，而两者的统一对它也是本质；但它自为地还不是这个本质本身，还不是两者的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 46,
+   "si": 0,
+   "de": "Indem es zunächst nur die unmittelbare Einheit beider ist, aber für es nicht beide dasselbe, sondern entgegengesetzte sind, so ist ihm das eine, nämlich das einfache unwandelbare, als das Wiesen; das andere aber, das vielfache wandelbare, als das Unwesentliche.",
+   "en": "In that it is at first only the immediate unity of both, but for it the two are not the same but opposed, the one, namely the simple unchangeable, is for it the essential; the other, however, the manifold changeable, is for it the unessential.",
+   "zh": "由于它首先只是两者的直接统一，但两者对它并不是同一个东西，而是对立的东西，所以两者中的一个，即单纯的不变者，对它来说是本质的；而另一个，即杂多的可变者，对它来说是非本质的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 46,
+   "si": 1,
+   "de": "Beide sind für es einander fremde Wesen; es selbst, weil es das Bewußtsein dieses Widerspruchs ist, stellt sich auf die Seite des wandelbaren Bewußtseins und ist sich das Unwesentliche; aber als Bewußtsein der Unwandelbarkeit oder des einfachen Wesens muß es zugleich darauf gehen, sich von dem Unwesentlichen, d.h. sich von sich selbst zu befreien.",
+   "en": "Both are for it essences alien to each other; it itself, because it is the consciousness of this contradiction, places itself on the side of the changeable consciousness and is for itself the unessential; but as consciousness of unchangeableness or of the simple essence it must at the same time aim at freeing itself from the unessential, that is, from itself.",
+   "zh": "两者对它来说是彼此陌生的本质；它自己，因为它是这一矛盾意识，就站到可变意识那一边，并自为地是非本质的；但作为不变性或者说单纯本质的意识，它同时必须致力于从非本质的东西、即从它自己那里解放出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 46,
+   "si": 2,
+   "de": "Denn ob es für sich wohl nur das wandelbare und das unwandelbare ihm ein Fremdes ist, so ist es selbst einfaches und hiermit unwandelbares Bewußtsein, dessen hiermit als seines Wesens sich bewußt, jedoch so, daß es selbst für sich wieder nicht dies Wesen ist.",
+   "en": "For although for itself it is indeed only the changeable, and the unchangeable is something alien to it, it is itself simple and hence unchangeable consciousness, conscious of this as its essence, yet in such a way that it itself, for itself, is again not this essence.",
+   "zh": "因为，虽然它自为地确实只是可变者，而不变者对它是某种陌生的东西，它自己却是单纯的、因而也是不变的意识，并意识到这一点是它的本质，但又是这样：它自己自为地重新不是这个本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 46,
+   "si": 3,
+   "de": "Die Stellung, welche es beiden gibt, kann daher nicht eine Gleichgültigkeit derselben gegeneinander, d. i. nicht eine Gleichgültigkeit seiner selbst gegen das Unwandelbare sein; sondern es ist unmittelbar selbst beide, und es ist für es die Beziehung beider als eine Beziehung des Wesens auf das Unwesen, so daß dies letztere aufzuheben ist; aber indem ihm beide gleich wesentlich und widersprechend sind, ist es nur die widersprechende Bewegung, in welcher das Gegenteil nicht in seinem Gegenteile zur Ruhe kommt, sondern in ihm nur als Gegenteil sich neu erzeugt.",
+   "en": "The position that it gives to both can therefore not be an indifference of the two toward each other, that is, not an indifference of itself toward the unchangeable; rather it is immediately itself both, and the relation of the two is for it a relation of the essence to the non-essence, so that this latter is to be sublated; but since both are equally essential and contradictory to it, it is only the contradictory movement, in which the opposite does not come to rest in its opposite, but in it is only newly produced as opposite.",
+   "zh": "所以，它给两者安排的位置不可能是一种两者彼此之间的漠不相关，也就是说，不可能是它自己对不变者的漠不相关；相反，它直接就是两者，而两者的关系对它来说就是本质对非本质的关系，以至于后者是要被扬弃的；但由于两者对它同等本质又互相矛盾，它就只是那矛盾的运动：在对立面中，对立面并不在自己的对立面中达到安宁，而只是在其中作为对立面重新产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 47,
+   "si": 0,
+   "de": "Es ist damit ein Kampf gegen einen Feind vorhanden, gegen welchen der Sieg vielmehr ein Unterliegen, das eine erreicht zu haben vielmehr der Verlust desselben in seinem Gegenteile ist.",
+   "en": "Thereby a struggle against an enemy is present, a struggle in which victory is rather a succumbing, and to have attained the one is rather the loss of it in its opposite.",
+   "zh": "因此，这里就出现了一场针对敌人的斗争，在这场斗争中，胜利毋宁说是一种屈服，而赢得了这一个，毋宁说就是在自己的对立面中失去了它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 47,
+   "si": 1,
+   "de": "Das Bewußtsein des Lebens, seines Daseins und Tuns ist nur der Schmerz über dieses Dasein und Tun, denn es hat darin nur das Bewußtsein seines Gegenteils, als des Wesens, und der eigenen Nichtigkeit.",
+   "en": "The consciousness of life, of its determinate being and doing, is only the pain over this determinate being and doing, for in it, it has only the consciousness of its opposite as the essence, and of its own nullity.",
+   "zh": "生命的意识，即它的定在和行动的意识，只是对这种定在和行动的痛苦，因为它在这里只有对其对立面作为本质的意识，以及对自己的虚无性的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 47,
+   "si": 2,
+   "de": "Es geht in die Erhebung hieraus zum Unwandelbaren über.",
+   "en": "It passes over into the elevation out of this to the unchangeable.",
+   "zh": "它由此过渡到向不变者的上升。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 47,
+   "si": 3,
+   "de": "Aber diese Erhebung ist selbst dies Bewußtsein; sie ist also unmittelbar das Bewußtsein des Gegenteils, nämlich seiner selbst als der Einzelheit.",
+   "en": "But this elevation is itself this consciousness; it is therefore immediately the consciousness of the opposite, namely of itself as singularity.",
+   "zh": "但这种上升本身就是这种意识；所以它直接就是对对立面的意识，即对自己作为个别性的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 47,
+   "si": 4,
+   "de": "Das Unwandelbare, das in das Bewußtsein tritt, ist ebendadurch zugleich von der Einzelheit berührt und nur mit dieser gegenwärtig; statt diese im Bewußtsein des Unwandelbaren vertilgt zu haben, geht sie darin immer nur hervor.",
+   "en": "The unchangeable that enters into consciousness is thereby at the same time touched by singularity and is present only along with it; instead of having extinguished this singularity in the consciousness of the unchangeable, it only ever emerges in it.",
+   "zh": "进入意识中的不变者，正因此同时也被个别性所触动，并且只与个别性一起是当前的；个别性并没有在不变者的意识中被消灭，反而总是在其中不断产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 0,
+   "de": "In dieser Bewegung aber erfährt es eben dieses Hervortreten der Einzelheit am Unwandelbaren und des Unwandelbaren an der Einzelheit.",
+   "en": "But in this movement it experiences precisely this emergence of singularity on the unchangeable, and of the unchangeable on singularity.",
+   "zh": "但在这场运动中，它恰好经验到个别性在不变者身上的这种显露，以及不变者在个别性身上的显露。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 1,
+   "de": "Es wird für es die Einzelheit überhaupt am unwandelbaren Wesen und zugleich die seinige an ihm.",
+   "en": "Singularity in general on the unchangeable essence, and at the same time its own singularity on it, become for it.",
+   "zh": "于是，对它来说，一般而言的个别性出现在不变的本质身上，同时它自己的个别性也出现在不变者身上。"
+  }
+ ]
+}

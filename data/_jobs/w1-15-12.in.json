@@ -1,0 +1,133 @@
+{
+ "id": "w1-15-12",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 15,
+ "chunkTitle": "I. Begriff des Staats",
+ "heading": "I. Begriff des Staats",
+ "blocks": [
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "1xmf6yy7le",
+   "sents": [
+    "Daß in der Religion, in demjenigen, worin sich das innerste Sein der Menschen ausspricht und, wenn auch alle anderen äußeren und zerstreuten Dinge gleichgültig sein können, sie sich doch als in einem festen Mittelpunkt erkennen und hierdurch erst vermöchten, über die Ungleichheit [und] Wandelbarkeit der übrigen Verhältnisse und Zustände Zutrauen zueinander zu haben und einer des anderen sicher zu sein, - daß hierin wenigstens Identität sei, ist ebenfalls in neueren Staaten entbehrlich erfunden worden."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "15f2egeqbq",
+   "sents": [
+    "Selbst in dem frostigeren Europa ist die Einheit [der] Religion sonst immer die Grundbedingung eines Staates gewesen.",
+    "Man hat von gar nichts anderem gewußt und ohne dieses erste Einssein kein anderes Einssein oder Vertrauen möglich gefunden.",
+    "Zuzeiten ist dies Band selbst so energisch geworden, daß es Völker, die sich sonst fremd und in Nationalfeindschaft waren, mehrmals plötzlich in einen Staat verwandelte, welcher nicht bloß als eine heilige Gemeine der Christenheit, noch als eine ihre Interessen und um derselben willen ihre Wirksamkeit verbindende Koalition, sondern als eine weltliche Macht, als Staat zugleich das Vaterland seines ewigen und zeitlichen Lebens im Kriege über das Morgenland als ein Volk und Heer erobert hat."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "yeys1w1cno",
+   "sents": [
+    "Sowenig vorher und nachher bei der Absonderung in Völker die Gleichheit der Religionen die Kriege hinderte und sie in einen Staat band, so wenig reißt in unseren Zeiten die Ungleichheit der Religion einen Staat auseinander.",
+    "Die Staatsgewalt hat als reines Staatsrecht sich von der religiösen Gewalt und ihrem Rechte zu sondern und für sich Bestand genug zu erhalten und sich so einzurichten gewußt, daß er [der Staat] der Kirche nicht bedarf und sie wieder in den Zustand der Trennung von sich gesetzt [ist], den sie in ihrem Ursprunge von dem römischen Staate hatte."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "11993bi17g",
+   "sents": [
+    "Nach den Staatstheorien freilich, welche in unseren Zeiten teils von seinwollenden Philosophen und Menschheitsrechtelehrern aufgestellt, teils in ungeheuren politischen Experimenten realisiert worden sind, wird - nur das Allerwichtigste, Sprache, Bildung, Sitten und Religion ausgenommen - das übrige alles, was wir von dem notwendigen Begriff der Staatsgewalt ausgeschlossen haben, der unmittelbaren Tätigkeit der höchsten Staatsgewalt unterworfen, und [zwar so,] daß es von ihr bestimmt, daß alle diese Seiten bis auf ihre kleinsten Fäden hinaus von ihr angezogen werden."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "kjswem1wpo",
+   "sents": [
+    "Daß die höchste Staatsgewalt die oberste Aufsicht über die angeführten Seiten der inneren Verhältnisse eines Volks und ihrer nach Zufall und alter Willkür bestimmten Organisationen tragen müsse, daß sie die Haupttätigkeit des Staats nicht hindern dürfen, sondern diese vor allen Dingen sich [zu] sichern und zu diesem Zweck die untergeordneten Systeme von Rechten und Privilegien nicht zu schonen habe, versteht sich von selbst; aber es ist ein großer Vorzug der alten Staaten Europas, daß, indem die Staatsgewalt für ihre Bedürfnisse und ihren Gang gesichert ist, sie der eigenen Tätigkeit der Staatsbürger im Einzelnen der Rechtspflege, der Verwaltung usw. einen freien Spielraum läßt, teils in Rücksicht auf die Besetzung der hierin nötigen Beamten, teils auf die Besorgung der laufenden Geschäfte und Handhabung der Gesetze und Gewohnheiten."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1a9fyzfy4t",
+   "sents": [
+    "Es ist bei der Größe der jetzigen Staaten die Realität des Ideals, nach welchem jeder freie Mann an der Beratschlagung und Bestimmung über die allgemeinen Staatsangelegenheiten Anteil haben soll, durchaus unmöglich.",
+    "Die Staatsgewalt muß sich sowohl für die Ausführung, als Regierung, als auch für das Beschließen darüber in einen Mittelpunkt konzentrieren.",
+    "Wenn dieser Mittelpunkt für sich selbst durch die Ehrfurcht der Völker sicher und in der Person des nach einem Naturgesetz und [durch] die Geburt bestimmten Monarchen in seiner Unwandelbarkeit geheiligt ist, so kann eine Staatsgewalt ohne Furcht und Eifersucht den untergeordneten Systemen und Körpern frei einen großen Teil der Verhältnisse, die in der Gesellschaft entstehen, und ihre Erhaltung nach den Gesetzen überlassen, und jeder Stand, Stadt, Dorf, Gemeine usw. kann der Freiheit genießen, dasjenige, was in ihrem Bezirk liegt, selbst zu tun und auszuführen."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "tbj3fr8kxr",
+   "sents": [
+    "Wie die Gesetze hierüber nach und nach unmittelbar aus den Sitten selbst als geheiligte Herkommen hervorgegangen sind, so hat sich [die] Rechtsverfassung, die Einrichtungen der niedrigen Gerichtsbarkeit, die Rechte der Bürger hierin, die Rechte der Städteverwaltungen, die Einziehung der Abgaben, teils der allgemeinen, teils der zu den Bedürfnissen der Städte selbst notwendigen, und die gesetzmäßige Verwendung der letzteren, - alles hierher Gehörige hat sich aus eigenem Triebe zusammengetan und ist für sich selbst aufgewachsen, und seit es sich hervorgebracht, hat es sich auch erhalten."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "12qvzb3rra",
+   "sents": [
+    "Die so weitläufige Organisation der kirchlichen Anstalten ist ebensowenig durch die oberste Staatsgewalt gemacht worden, und der ganze Stand erhält, ersetzt sich mehr oder weniger in sich. - Die großen Summen, welche jährlich in einem großen Staat für die Armut verwendet werden, und die hierauf gehenden Einrichtungen von weitem Umfange, die durch alle Teile eines Landes durchgreifen, werden nicht durch Auflagen, die der Staat anzuordnen hätte, bestritten, noch auf seine Befehle die ganze Anstalt erhalten und geführt.",
+    "Die Masse von Besitz und Einkünften, die hierher gehört, beruht auf Stiftungen und Gaben einzelner, so wie die ganze Anstalt, ihre Verwaltung und Betätigung ohne Abhängigkeit von der höchsten Staatsgewalt [ist]; wie der größte Teil der inneren gesellschaftlichen Einrichtungen durch freies Tun der Bürger für jeden bestimmten Umfang von Bedürfnis sich gemacht hat und ihre Dauer und Leben sich mit eben dieser von keiner Eifersucht oder Ängstlichkeit der obersten Staatsgewalt gestörten Freiheit erhält, nur daß die Regierung teils sie schützt, teils das üppige Auswachsen eines solchen Teils, wodurch er andere notwendige [Teile] unterdrücken würde, beschränkt."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "18qned5zkp",
+   "sents": [
+    "In den neuen, zum Teil ausgeführten Theorien aber ist es das Grundvorurteil, daß ein Staat eine Maschine mit einer einzigen Feder ist, die allem übrigen unendlichen Räderwerk die Bewegung mitteilt; von der obersten Staatsgewalt sollen alle Einrichtungen, die das Wesen einer Gesellschaft mit sich bringt, ausgehen, reguliert, befohlen, beaufsichtigt, geleitet werden."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "zfcc4x1tr7",
+   "sents": [
+    "Die pedantische Sucht, alles Detail zu bestimmen, die unfreie Eifersucht auf eigenes Anordnen und Verwalten eines Standes, Korporation usw., diese unedle Mäkelei alles eigenen Tuns der Staatsbürger, das nicht auf die Staatsgewalt, sondern nur irgendeine allgemeine Beziehung hätte, ist in das Gewand von Vernunftgrundsätzen gekleidet worden, nach welchen kein Heller des gemeinen Aufwands, der in einem Lande von 20, 30 Millionen für Arme gemacht wird, [ausgegeben werden darf,] ohne [daß er] von der höchsten Regierung erst nicht [etwa] erlaubt, sondern befohlen, kontrolliert, besichtigt worden wäre.",
+    "In der Sorge für die Erziehung soll die Ernennung jedes Dorfschulmeisters, die Ausgabe jedes Pfennigs für eine Fensterscheibe der Dorfschule sowie der Dorfratsstube, die Ernennung jedes Torschreibers und Gerichtsschergen, jedes Dorfrichters ein unmittelbarer Ausfluß und Wirkung der obersten Regierung sein, im ganzen Staate jeder Bissen vom Boden, der ihn erzeugt, zum Munde in einer Linie geführt werden, welche durch Staat und Gesetz und Regierung untersucht, berechnet, berichtigt und befohlen ist."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "11i85yp10a",
+   "sents": [
+    "Es ist hier der Ort nicht, weitläufig auseinanderzusetzen, daß der Mittelpunkt als Staatsgewalt, die Regierung, [das,] was ihr nicht für ihre Bestimmung, die Gewalt zu organisieren und zu erhalten, [also] für ihre äußere und innere Sicherheit notwendig ist, der Freiheit der Bürger überlassen und daß ihr nichts so heilig sein müsse, als das freie Tun der Bürger in solchen Dingen gewähren zu lassen und zu schützen, ohne alle Rücksicht auf Nutzen; denn diese Freiheit ist an sich selbst heilig."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "15dzrp4qv0",
+   "sents": [
+    "Was aber den Nutzen betrifft - wenn es berechnet werden soll, was das eigene Verwalten ihrer Angelegenheiten durch die besonderen Körper, ihre Rechtspflege, ihr Ernennen zu den Ämtern, die hierbei nötig werden, usw. für einen Vorteil bringe -, so gibt es hier dreierlei Berechnungen: die eine, welche auf das Handgreifliche, das Geld geht, das die oberste Staatsgewalt hierdurch in die Hände bekommt, - die andere auf den Verstand und die Vortrefflichkeit, mit welcher in einer Maschine alles nach gleichförmigem Schritt, der klügsten Berechnung und den weisesten Zwecken geschehe, - die dritte aber auf die Lebendigkeit, den zufriedenen Geist und das freie und sich achtende Selbstgefühl, das aus der Teilnahme des eigenen Willens an den allgemeinen Angelegenheiten, soweit ihre Zweige für die oberste Staatsgewalt zufällig sind, entspringt."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "cctg1imvpc",
+   "sents": [
+    "Im ersten, im Handgreiflichen, wähnt sich der Staat, dessen Prinzip die allgemeine Maschinerie ist, ohne Bedenken im Vorteil gegen denjenigen, der den Rechten und dem eigenen Tun seiner Bürger das Detail einem großen Teil nach überläßt.",
+    "Es ist aber im allgemeinen zu bemerken, daß jener Staat, wenn er nicht schwerere Auflagen überhaupt macht, unmöglich den Vorteil haben kann.",
+    "Denn indem er alle Zweige der Verwaltung, der Rechtspflege usw. übernimmt, [müssen] ihm alle Kosten derselben zugleich zur Last fallen, welche, wenn das Ganze nach einer allgemeinen Hierarchie eingerichtet ist, ebenfalls durch regelmäßige Auflagen gedeckt werden müssen, dahingegen der Staat, der, was bei diesen Einrichtungen [erfordert wird], die nur auf das Zufällige und Einzelne [gehen], wie die Rechtspflege, Erziehungskosten, Beiträge zur Unterstützung der Armut usw., auch die Kosten diesen Einzelheiten überläßt, die dabei interessiert sind, diese Kosten ohne die Form von Auflagen bestritten werden sieht.",
+    "Wer den Richter und Sachwalter sowie einen Erzieher nötig hat oder nach seinem Antrieb die Armen bedenkt, bezahlt hier allein.",
+    "Es ist keine Auflage vorhanden, keiner bezahlt für ein Gericht, einen Sachwalter, Erzieher, Geistlichen, die er nicht braucht; so wie, wenn [jemand] für die niedrigeren obrigkeitlichen Ämter, des Gerichts, der Verwaltung von Städte- [und] Korporationenangelegenheiten, von den Mitgliedern selbst dazu gewählt wird, [der Gewählte] durch die Ehre, die ihm hierdurch widerfährt, bezahlt ist, von dem Staat aber, dem er leisten sollte, Bezahlung fordern muß, weil hier diese innere Ehre fehlt.",
+    "Beide Umstände, wenn auch in Beziehung auf den ersteren mehr Geld vom Volk ausgegeben werden sollte, was nicht zu glauben ist, bewirken: der erste den Unterschied, daß keiner für etwas ihm Unnötiges, für ein nicht allgemeines Staatsbedürfnis Geld ausgibt, der andere für alle eine wirkliche Ersparnis, beide, daß das Volk dort sich mit Vernunft und nach der Notwendigkeit, hier mit Zutrauen und Freiheit behandelt fühlt, - ein Umstand, der den Unterschied vornehmlich der zweiten und dritten Art der Berechnung ausmacht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/15.p12.json"
+}

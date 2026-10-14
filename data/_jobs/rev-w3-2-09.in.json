@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-09",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 10,
+   "de": "Die allgemeine Attraktion sagt nur dies, daß alles einen beständigen Unterschied zu Anderem hat.",
+   "en": "Universal attraction says only this, that everything has a constant difference from another.",
+   "zh": "普遍引力只说出这一点，即一切东西对别的东西都有一种恒常的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 11,
+   "de": "Der Verstand meint dabei ein allgemeines Gesetz gefunden zu haben, welches die allgemeine Wirklichkeit als solche ausdrücke; aber [er] hat in der Tat nur den Begriff des Gesetzes selbst gefunden, jedoch so, daß er zugleich dies damit aussagt: alle Wirklichkeit ist an ihr selbst gesetzmäßig.",
+   "en": "The understanding means thereby to have found a universal law that expresses universal actuality as such; but it has in fact found only the concept of the law itself, though in such a way that it at the same time declares this with it: all actuality is in itself lawful.",
+   "zh": "知性在这里意谓自己找到了一条表达普遍现实性本身的普遍规律；但它实际上只找到了规律自身的概念，不过它同时也就说出了这一点：一切现实性在自身都是合乎规律的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 42,
+   "si": 12,
+   "de": "Der Ausdruck der allgemeinen Attraktion hat darum insofern große Wichtigkeit, als er gegen das gedankenlose Vorstellen gerichtet ist, welchem alles in der Gestalt der Zufälligkeit sich darbietet und welchem die Bestimmtheit die Form der sinnlichen Selbständigkeit hat.",
+   "en": "The expression of universal attraction therefore has great importance insofar as it is directed against thoughtless representation, to which everything presents itself in the shape of contingency and to which determinacy has the form of sensuous self-subsistence.",
+   "zh": "因此，普遍引力这一说法之所以有很大的重要性，是因为它针对着无思想的表象，在这种表象看来，一切都以偶然性的形态呈现出来，而规定性则具有感性的独立性的形式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 0,
+   "de": "Es steht somit den bestimmten Gesetzen die allgemeine Attraktion oder der reine Begriff des Gesetzes gegenüber.",
+   "en": "Thus universal attraction, or the pure concept of the law, stands over against the determinate laws.",
+   "zh": "于是，与那些特定的规律相对立的，就是普遍引力，或者说规律的纯粹概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 1,
+   "de": "Insofern dieser reine Begriff als das Wesen oder als das wahre Innere betrachtet wird, gehört die Bestimmtheit des bestimmten Gesetzes selbst noch der Erscheinung oder vielmehr dem sinnlichen Sein an.",
+   "en": "Insofar as this pure concept is considered as the essence or as the true inner, the determinacy of the determinate law itself still belongs to appearance, or rather to sensuous being.",
+   "zh": "只要这个纯粹概念被看作本质、或者被看作真的内在，那么特定规律的规定性本身就还属于现象，或者毋宁说属于感性的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 2,
+   "de": "Allein der reine Begriff des Gesetzes geht nicht nur über das Gesetz, welches, selbst ein bestimmtes, anderen bestimmten Gesetzen gegenübersteht, sondern er geht auch über das Gesetz als solches hinaus.",
+   "en": "But the pure concept of the law goes not only beyond the law which, itself a determinate one, stands over against other determinate laws, but also beyond the law as such.",
+   "zh": "但规律的纯粹概念不仅超出了那个本身是特定的、并与别的特定规律相对立的规律，而且还超出了规律本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 3,
+   "de": "Die Bestimmtheit, von welcher die Rede war, ist eigentlich selbst nur verschwindendes Moment, welches hier nicht mehr als Wesenheit vorkommen kann; denn es ist nur das Gesetz als das Wahre vorhanden; aber der Begriff des Gesetzes ist gegen das Gesetz selbst gekehrt.",
+   "en": "The determinacy of which there was talk is properly itself only a vanishing moment, which here can no longer occur as essentiality; for only the law is present as the true; but the concept of the law is turned against the law itself.",
+   "zh": "刚才所说的那种规定性，其实本身只是正在消失的环节，它在这里再也不能作为本质性出现；因为这里只有规律作为真的东西而存在；但规律的概念却转而与规律本身相对。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 4,
+   "de": "An dem Gesetze nämlich ist der Unterschied selbst unmittelbar aufgefaßt und in das Allgemeine aufgenommen, damit aber ein Bestehen der Momente, deren Beziehung es ausdrückt, als gleichgültiger und ansichseiender Wesenheiten.",
+   "en": "For on the law the difference itself is immediately apprehended and taken up into the universal, but thereby a subsistence of the moments whose relation it expresses, as indifferent and in-themselves-existing essences.",
+   "zh": "因为在规律身上，差别本身直接被把握到并被纳入普遍者之中，但由此诸环节也就有了一种持存，即成为漠不相关的、自在存在着的本质，而规律所表达的正是这些环节的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 43,
+   "si": 5,
+   "de": "Diese Teile des Unterschieds am Gesetze sind aber zugleich selbst bestimmte Seiten; der reine Begriff des Gesetzes, als allgemeine Attraktion, muß in seiner wahren Bedeutung so aufgefaßt werden, daß in ihm als Absolut-Einfachem die Unterschiede, die an dem Gesetze als solchem vorhanden sind, selbst wieder in das Innere als einfache Einheit zurückgehen-, sie ist die innere Notwendigkeit des Gesetzes.",
+   "en": "But these parts of the difference on the law are at the same time themselves determinate sides; the pure concept of the law, as universal attraction, must be grasped in its true meaning in such a way that in it, as the absolutely simple, the differences that are present on the law as such again retire into the inner as simple unity — it is the inner necessity of the law.",
+   "zh": "但规律身上差别的这些部分，本身同时又是特定的方面；规律的纯粹概念作为普遍引力，必须按其真的含义这样来理解：在它这个绝对单纯者之中，规律本身所具有的那些差别又重新回到内在之中，成为单纯的统一——它就是规律的这种内在必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 0,
+   "de": "Das Gesetz ist dadurch auf eine gedoppelte Weise vorhanden, das eine Mal als Gesetz, an dem die Unterschiede als selbständige Momente ausgedrückt sind, das andere Mal in der Form des einfachen Insichzurückgegangenseins, welche wieder Kraft genannt werden kann, aber so, daß sie nicht die zurückgedrängte, sondern die Kraft überhaupt oder als der Begriff der Kraft ist, eine Abstraktion, welche die Unterschiede dessen, was attrahiert und [was] attrahiert wird, selbst in sich zieht.",
+   "en": "The law is thereby present in a doubled way: the one time as law on which the differences are expressed as independent moments, the other time in the form of simple having-retreated-into-itself, which can again be called force, but in such a way that it is not the force driven back but force in general, or as the concept of force — an abstraction that draws into itself the differences of what attracts and what is attracted.",
+   "zh": "规律由此就以双重方式存在，一方面作为规律，在它那里，诸差别被表达为独立的环节，另一方面则处于单纯地退回自身之中的形式里，这种形式又可以叫作力，但却是这样：它不是被逼退回去的力，而是力一般，或者说是作为力的概念——这是一个抽象，它把吸引的东西和被吸引的东西的差别本身都吸进自身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 1,
+   "de": "So ist z. B. die einfache Elektrizität die Kraft, der Ausdruck des Unterschieds aber fällt in das Gesetz, dieser Unterschied ist positive und negative Elektrizität.",
+   "en": "Thus e.g. simple electricity is the force, but the expression of the difference falls into the law: this difference is positive and negative electricity.",
+   "zh": "例如，单纯的电力就是力，而差别的表达则落进规律之中，这个差别就是正电和负电。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 2,
+   "de": "Bei der Bewegung des Falles ist die Kraft das Einfache, die Schwere, welche das Gesetz hat, daß die Größen der unterschiedenen Momente der Bewegung, der verflossenen Zeit und des durchlaufenen Raumes, sich wie Wurzel und Quadrat zueinander verhalten.",
+   "en": "In the motion of fall, the force is the simple [element], gravity, which has the law that the magnitudes of the distinguished moments of motion, the elapsed time and the traversed space, relate to each other as root and square.",
+   "zh": "在落体运动中，力是那个单纯的东西，即重力，重力具有这样的规律：运动的那些有区别的环节、即流逝的时间和经过的空间，它们的大小彼此的关系就如同根与平方。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 3,
+   "de": "Die Elektrizität selbst ist nicht der Unterschied an sich oder in ihrem Wesen das Doppelwesen von positiver und negativer Elektrizität; daher man zu sagen pflegt, sie habe das Gesetz, auf diese Weise zu sein, auch wohl, sie habe die Eigenschaft, so sich zu äußern.",
+   "en": "Electricity itself is not the difference in itself, or in its essence the double essence of positive and negative electricity; hence one is accustomed to say that it has the law of being in this way, or indeed that it has the property of expressing itself thus.",
+   "zh": "电本身并不是差别自在，或者说，电在它的本质中并不是正电和负电这种双重本质；所以人们习惯于说，电有以这种方式存在的规律，或者说，电有如此表现自己的属性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 4,
+   "de": "Diese Eigenschaft ist zwar wesentliche und einzige Eigenschaft dieser Kraft, oder sie ist ihr notwendig.",
+   "en": "This property is indeed the essential and only property of this force, or it is necessary to it.",
+   "zh": "这种属性诚然是这种力的本质的、唯一的属性，或者说，它是力必然具有的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 5,
+   "de": "Aber die Notwendigkeit ist hier ein leeres Wort; die Kraft muß eben, weil sie muß, so sich verdoppeln.",
+   "en": "But necessity is here an empty word; force must, precisely because it must, thus double itself.",
+   "zh": "但必然性在这里是一个空洞的词；力恰恰因为它必须，就这样把自己加倍。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 6,
+   "de": "Wenn freilich positive Elektrizität gesetzt ist, ist auch negative an sich notwendig; denn das Positive ist nur als Beziehung auf ein Negatives, oder das Positive ist an ihm selbst der Unterschied von sich selbst, wie ebenso das Negative.",
+   "en": "If, to be sure, positive electricity is posited, negative electricity is also in itself necessary; for the positive is only as relation to a negative, or the positive is in itself the difference from itself, just as the negative likewise is.",
+   "zh": "诚然，如果正电被设定，负电也就自在地是必然的；因为肯定的东西只有作为对一个否定东西的关系才存在，或者说，肯定东西在自身就是自己对自己的差别，否定东西同样如此。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 7,
+   "de": "Aber daß die Elektrizität als solche sich so teile, dies ist nicht an sich das Notwendige; sie als einfache Kraft ist gleichgültig gegen ihr Gesetz, als positive und negative zu sein, und wenn wir jenes ihren Begriff, dies aber ihr Sein nennen, so ist ihr Begriff gleichgültig gegen ihr Sein; sie hat nur diese Eigenschaft; das heißt eben, es ist ihr nicht an sich notwendig.",
+   "en": "But that electricity as such divides itself in this way, this is not in itself the necessary; as simple force it is indifferent to its law of being positive and negative, and if we call the former its concept and the latter its being, then its concept is indifferent to its being; it merely has this property; that is just to say, it is not necessary to it in itself.",
+   "zh": "但电作为电这样把自己分割开来，这自在地并不是必然的东西；电作为单纯的力，对它作为正电和负电存在这一规律是漠不相关的，而如果我们把前者叫作它的概念、把后者叫作它的存在，那么它的概念对它的存在就是漠不相关的；它只是具有这种属性；这也就是说，这对它来说并不是自在地必然的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 8,
+   "de": "– Diese Gleichgültigkeit erhält eine andere Gestalt, wenn gesagt wird, daß es zur Definition der Elektrizität gehört, als positive und negative zu sein, oder daß dies schlechthin ihr Begriff und Wesen ist.",
+   "en": "— This indifference receives another shape when it is said that it belongs to the definition of electricity to be positive and negative, or that this is absolutely its concept and essence.",
+   "zh": "——如果人们说，属于电的定义的就是作为正电和负电存在，或者说，这绝对是电的概念和本质，那么这种漠不相关性就采取了另一种形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 9,
+   "de": "Alsdann hieße ihr Sein ihre Existenz überhaupt; in jener Definition liegt aber nicht die Notwendigkeit ihrer Existenz; sie ist entweder, weil man sie findet, d.h. sie ist gar nicht notwendig; oder ihre Existenz ist durch andere Kräfte, d.h. ihre Notwendigkeit ist eine äußere.",
+   "en": "Then its being would be called its existence in general; but in that definition there does not lie the necessity of its existence; it either is because one finds it, i.e. it is not necessary at all; or its existence is through other forces, i.e. its necessity is an external one.",
+   "zh": "这样一来，它的存在就叫作它的一般存在；但在那个定义里并没有包含它存在的必然性；它要么因为人们发现它而存在，也就是说，它根本不是必然的；要么它的存在是通过其他力，也就是说，它的必然性是外在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 44,
+   "si": 10,
+   "de": "Damit aber, daß die Notwendigkeit in die Bestimmtheit des Seins durch Anderes gelegt wird, fallen wir wieder in die Vielheit der bestimmten Gesetze zurück, die wir soeben verließen, um das Gesetz als Gesetz zu betrachten; nur mit diesem ist sein Begriff als Begriff oder seine Notwendigkeit zu vergleichen, die sich aber in allen diesen Formen nur noch als ein leeres Wort gezeigt hat.",
+   "en": "But with this, that the necessity is placed in the determinacy of being through another, we fall back again into the multiplicity of determinate laws that we just left in order to consider the law as law; only with this latter is its concept as concept, or its necessity, to be compared, which however has shown itself in all these forms only as an empty word.",
+   "zh": "但只要必然性被放进通过他者而存在的规定性之中，我们就又退回到那些特定规律的多数性里去了，而我们刚刚离开这些规律，正是为了把规律作为规律来考察；只有规律本身，才是它作为概念的概念、或者说它的必然性所应当与之相比较的东西，而后者在所有这些形态中都只表明自己是一个空洞的词。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 0,
+   "de": "Noch auf andere als die angezeigte Weise ist die Gleichgültigkeit des Gesetzes und der Kraft oder des Begriffs und des Seins vorhanden.",
+   "en": "In yet another way than the one indicated, the indifference of law and force, or of concept and being, is present.",
+   "zh": "除了已经指出的那种方式之外，规律和力、或者说概念和存在的漠不相关还以另一种方式存在着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 1,
+   "de": "In dem Gesetze der Bewegung z.B. ist es notwendig, daß die Bewegung in Zeit und Raum sich teile, oder dann auch in Entfernung und Geschwindigkeit.",
+   "en": "In the law of motion, e.g., it is necessary that motion divide itself into time and space, or else also into distance and velocity.",
+   "zh": "例如在运动的规律中，运动必然要把自己划分为时间和空间，或者也划分为距离和速度。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 2,
+   "de": "Indem die Bewegung nur das Verhältnis jener Momente ist, so ist sie, das Allgemeine, hier wohl an sich selbst geteilt; aber nun drücken diese Teile, Zeit und Raum oder Entfernung und Geschwindigkeit, nicht an ihnen diesen Ursprung aus einem aus; sie sind gleichgültig gegeneinander; der Raum wird vorgestellt ohne die Zeit, die Zeit ohne den Raum und die Entfernung wenigstens ohne die Geschwindigkeit sein zu können, – so wie ihre Größen gleichgültig gegeneinander sind, indem sie sich nicht wie Positives und Negatives verhalten, hiermit nicht durch ihr Wesen aufeinander beziehen.",
+   "en": "Since motion is only the relation of those moments, it, the universal, is indeed here divided in itself; but these parts, time and space or distance and velocity, do not express in themselves this origin out of one; they are indifferent to one another; space is represented as being able to be without time, time without space, and distance at least without velocity, – just as their magnitudes are indifferent to one another, since they do not behave as positive and negative, and thus do not relate to one another through their essence.",
+   "zh": "既然运动只是那些环节的关系，那么运动，即普遍者，在这里诚然自在就被划分了；但这些部分，即时间和空间、或距离和速度，却并不在它们自身那里表达出这种从某一个东西中来的来源；它们彼此漠不相关；空间被表象为可以没有时间，时间被表象为可以没有空间，而距离至少可以没有速度，——正如它们的量彼此漠不相关，因为它们并不像肯定和否定那样相互对待，从而不是通过自己的本质而彼此相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 3,
+   "de": "Die Notwendigkeit der Teilung ist also hier wohl vorhanden, aber nicht der Teile als solcher füreinander.",
+   "en": "The necessity of division is therefore indeed present here, but not [the necessity] of the parts as such for one another.",
+   "zh": "所以在这里，划分的必然性诚然是存在着的，但诸部分作为这样的部分彼此相关的必然性却并不存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 4,
+   "de": "Darum ist aber auch Jene erste selbst nur eine vorgespiegelte, falsche Notwendigkeit; die Bewegung ist nämlich nicht selbst als Einfaches oder als reines Wesen vorgestellt, sondern schon als geteilt; Zeit und Raum sind ihre selbständigen Teile oder Wesen an ihnen selbst, oder Entfernung und Geschwindigkeit Weisen des Seins oder Vorstellens, deren eine wohl ohne die andere sein kann, und die Bewegung [ist] daher nur ihre oberflächliche Beziehung, nicht ihr Wesen.",
+   "en": "But therefore that first one too is itself only a delusive, false necessity; for motion is not itself represented as simple or as pure essence, but already as divided; time and space are its independent parts, or essences in themselves, or distance and velocity are modes of being or of representing, the one of which can indeed be without the other, and motion is therefore only their superficial relation, not their essence.",
+   "zh": "但因此，那第一种必然性本身也只是一种骗人的、虚假的必然性；因为运动本身并不是被表象为简单的东西或纯粹的本质，而是已经被表象为被划分了的；时间和空间是它独立的各部分，或者说在它们自身那里就是本质，或者距离和速度是存在或表象的方式，其中之一诚然可以没有另一个而存在，而运动因此只是它们的表面关系，不是它们的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 45,
+   "si": 5,
+   "de": "Als einfaches Wesen oder als Kraft vorgestellt, ist sie wohl die Schwere, welche aber diese Unterschiede überhaupt nicht in ihr enthält.",
+   "en": "Represented as simple essence or as force, it is indeed gravity, which however does not contain these differences in itself at all.",
+   "zh": "当运动被表象为简单的本质或表象为力时，它诚然就是重力，但重力根本不在自身中包含着这些差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 0,
+   "de": "Der Unterschied also ist in beiden Fällen kein Unterschied an sich selbst, entweder ist das Allgemeine, die Kraft, gleichgültig gegen die Teilung, welche im Gesetze ist, oder die Unterschiede, Teile des Gesetzes, sind es gegeneinander.",
+   "en": "The difference is therefore in both cases no difference in itself: either the universal, force, is indifferent to the division that is in the law, or the differences, the parts of the law, are indifferent to one another.",
+   "zh": "所以，差别在两种情况下都不是自在的差别：要么是普遍者、即力，对规律中的划分漠不相关，要么是那些差别、即规律的各个部分，彼此漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 1,
+   "de": "Der Verstand hat aber den Begriff dieses Unterschiedes an sich, eben darin, daß das Gesetz einesteils das Innere, Ansichseiende, aber in ihm zugleich Unterschiedene ist; daß dieser Unterschied hiermit innerer Unterschied sei, ist darin vorhanden, daß das Gesetz einfache Kraft oder als Begriff desselben ist, also ein Unterschied des Begriffes.",
+   "en": "But the understanding has the concept of this difference in itself, precisely in that the law is on the one hand the inner, the in-itself-existing, but is at the same time the differentiated in it; that this difference is hereby inner difference is present in this, that the law is simple force, or is as its concept, thus a difference of the concept.",
+   "zh": "但知性自在就具有这种差别的概念，恰恰在于：规律一方面是在内的东西、自在存在的东西，但同时在它之中又是被区别开的东西；而这种差别因此是内在的差别，这一点就存在于：规律是简单的力，或者说规律是作为力的概念，所以是一种概念的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 2,
+   "de": "Aber dieser innere Unterschied fällt nur erst noch in den Verstand und ist noch nicht an der Sache selbst gesetzt.",
+   "en": "But this inner difference still falls only in the understanding and is not yet posited on the matter itself.",
+   "zh": "但这种内在的差别还只是落在知性里，还没有被设定在事情本身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 3,
+   "de": "Es ist also nur die eigene Notwendigkeit, was der Verstand ausspricht; einen Unterschied, den er also nur so macht, daß er es zugleich ausdrückt, daß der Unterschied kein Unterschied der Sache selbst sei.",
+   "en": "It is therefore only its own necessity that the understanding expresses; a difference that it makes only in such a way that it at the same time expresses that the difference is no difference of the matter itself.",
+   "zh": "所以知性所说出的只是它自己的必然性；它造成一种差别，但它这样做时同时又说出了：这种差别并不是事情本身的差别。"
+  }
+ ]
+}

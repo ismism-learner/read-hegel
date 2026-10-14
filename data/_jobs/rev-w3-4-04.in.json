@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-04",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 5,
+   "de": "Diesem rastlosen, unruhigen Instinkte kann es nie an Material gebrechen; eine neue ausgezeichnete Gattung zu finden oder gar einen neuen Planeten, dem, ob er zwar ein Individuum ist, doch die Natur eines Allgemeinen zukommt, kann nur Glücklichen zuteil werden.",
+   "en": "This restless, uneasy instinct can never lack material; to find a new distinguished genus, or even a new planet, which, although it is an individual, still has the nature of a universal, can fall only to the fortunate.",
+   "zh": "这种不知疲倦、不得安宁的本能永远不会缺少材料；要发现一个新的出众的属，或者甚至发现一颗新的行星——它虽然是个体，却具有普遍之物的本性——，这种运气只能落到幸运者头上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 6,
+   "de": "Aber die Grenze dessen, was wie der Elephant, die Eiche, das Gold ausgezeichnet, was Gattung und Art ist, geht durch viele Stufen in die unendliche Besonderung der chaotischen Tiere und Pflanzen, der Gebirgsarten oder der durch Gewalt und Kunst erst darzustellenden Metalle, Erden usf. über.",
+   "en": "But the boundary of what, like the elephant, the oak, the gold, is distinguished, what is genus and species, passes through many stages over into the infinite particularization of the chaotic animals and plants, of the mountain kinds, or of the metals, earths, etc. that are first to be presented through violence and art.",
+   "zh": "但是，像大象、橡树、黄金那样出众的东西、是属和种的东西，其界限经过许多阶段，过渡到混沌的动物和植物、各种山岩、或者只有靠暴力和技艺才呈现出来的金属、泥土等等的无限特殊化之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 7,
+   "de": "In diesem Reiche der Unbestimmtheit des Allgemeinen, worin die Besonderung wieder der Vereinzelung sich nähert und in sie hie und da auch wieder ganz herabsteigt, ist ein unerschöpflicher Vorrat fürs Beobachten und Beschreiben aufgetan.",
+   "en": "In this realm of the indeterminacy of the universal, in which particularization again approaches singularization and here and there also descends wholly into it, an inexhaustible store is opened up for observing and describing.",
+   "zh": "在这普遍之物之无规定性的王国里，特殊化又重新靠近个别化，并且在这里那里又完全降入个别化之中，对观察和描述来说，这里展开了一份取之不尽的储备。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 18,
+   "si": 8,
+   "de": "Hier aber, wo ihm ein unübersehbares Feld sich eröffnet, an der Grenze des Allgemeinen kann es vielmehr statt eines unermeßlichen Reichtums nur die Schranke der Natur und seines eigenen Tuns gefunden haben; es kann nicht mehr wissen, ob das an sich zu sein Scheinende nicht eine Zufälligkeit ist; was das Gepräge eines verwirrten oder unreifen, schwachen und der elementarischen Unbestimmtheit kaum sich entwickelnden Gebildes an sich trägt, kann nicht darauf Anspruch machen, auch nur beschrieben zu werden.",
+   "en": "Here, however, where a boundless field opens up before it, at the boundary of the universal, it can rather, instead of an immeasurable wealth, have found only the limit of nature and of its own doing; it can no longer know whether what seems to be in itself is not an accident; what bears the stamp of a confused or immature, weak formation that has hardly developed out of elementary indeterminacy cannot claim even to be described.",
+   "zh": "但在这里，在普遍之物的边界上，当一片望不到边的田野向它展开时，它反倒可能不是发现无法度量的财富，而只是发现自然和它自己所作所为的界限；它再也无法知道，那显得自在存在的东西是不是一种偶然；凡是带有混乱的或未成熟的、软弱的、几乎还没有从元素式的无规定性中发展出来的形态的印记的东西，都不能要求哪怕只是被描述。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 0,
+   "de": "Wenn es diesem Suchen und Beschreiben nur um die Dinge zu tun zu sein scheint, so sehen wir es in der Tat nicht an dem sinnlichen Wahrnehmen fortlaufen; sondern das, woran die Dinge erkannt werden, ist ihm wichtiger als der übrige Umfang der sinnlichen Eigenschaften, welche das Ding selbst wohl nicht entbehren kann, aber deren das Bewußtsein sich entübrigt.",
+   "en": "If this seeking and describing seems to be concerned only with the things, we nevertheless see that in fact it does not run on along sensuous perceiving; rather, that by which the things are cognized is more important to it than the remaining range of sensuous properties, which the thing itself surely cannot do without, but which consciousness does without.",
+   "zh": "如果说这种寻找和描述看来只关涉到物，那么我们实际上看到，它并不是沿着感性知觉往前走的；相反，物凭以被认识到的东西，对它来说比感性属性的其余范围更重要，这些感性属性诚然是物自身少不了的东西，但意识却可以省掉它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 1,
+   "de": "Durch diese Unterscheidung in das Wesentliche und Unwesentliche erhebt sich der Begriff aus der sinnlichen Zerstreuung empor, und das Erkennen erklärt darin, daß es ihm wenigstens ebenso wesentlich um sich selbst als um die Dinge zu tun ist.",
+   "en": "Through this distinction into the essential and the inessential, the concept rises up out of sensuous dispersion, and cognition declares therein that it is at least as essential to it to be concerned with itself as with the things.",
+   "zh": "通过这种对本质之物和非本质之物的区分，概念从感性的分散中升了起来，而认识在其中声明：对它来说，至少同样本质地关涉到它自己，也关涉到物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 2,
+   "de": "Es gerät bei dieser gedoppelten Wesentlichkeit in ein Schwanken, ob das, was für das Erkennen das Wesentliche und Notwendige ist, es auch an den Dingen sei.",
+   "en": "In this doubled essentiality it falls into a wavering as to whether what is the essential and necessary for cognition is also so in the things.",
+   "zh": "在这种双重的本质性上，它陷入一种摇摆：对认识来说本质的和必然的东西，是否在物那里也是本质的和必然的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 3,
+   "de": "Einesteils sollen die Merkmale nur dem Erkennen dienen, wodurch es die Dinge voneinander unterscheide; aber andernteils [soll] nicht das Unwesentliche der Dinge erkannt werden, sondern das, wodurch sie selbst aus der allgemeinen Kontinuität des Seins überhaupt sich losreißen, sich von dem Anderen abscheiden und für sich sind.",
+   "en": "On the one hand, the marks are supposed to serve only cognition, whereby it distinguishes the things from one another; but on the other hand, it is not the inessential in the things that is to be cognized, but that whereby the things themselves tear themselves loose from the general continuity of being as such, separate themselves from the other and are for themselves.",
+   "zh": "一方面，标志只应当为认识服务，认识凭标志把物彼此区分开来；但另一方面，要被认识的不是物身上非本质的东西，而是物本身凭以从存在一般的普遍连续性中挣脱出来、从它者那里分离出来并自为地存在的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 4,
+   "de": "Die Merkmale sollen nicht nur wesentliche Beziehung auf das Erkennen haben, sondern auch die wesentlichen Bestimmtheiten der Dinge, und das künstliche System soll dem Systeme der Natur selbst gemäß sein und nur dieses ausdrücken.",
+   "en": "The marks are supposed to have not only an essential relation to cognition but also to be the essential determinacies of the things, and the artificial system is supposed to accord with the system of nature itself and only to express this.",
+   "zh": "标志不应当只具有对认识的本质关系，而且应当也是物的本质规定性，而人为的系统应当符合自然本身的系统，并且只表达这个系统。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 5,
+   "de": "Aus dem Begriff der Vernunft ist dies notwendig, und der Instinkt derselben – denn sie verhält sich nur als solcher in diesem Beobachten – hat auch in seinen Systemen diese Einheit erreicht, wo nämlich ihre Gegenstände selbst so beschaffen sind, daß sie eine Wesentlichkeit oder ein Fürsich-sein an ihnen haben und nicht nur Zufall dieses Augenblicks oder dieses Hier sind.",
+   "en": "From the concept of reason this is necessary, and the instinct of reason — for in this observing it behaves only as such — has also in its systems attained this unity, where namely its objects themselves are so constituted that they have an essentiality or a being-for-itself in them and are not merely the accident of this moment or of this here.",
+   "zh": "从理性的概念来看，这是必然的，而理性的本能——因为在这种观察中，它只是作为本能而行事——也在它的各种系统里达到了这种统一，即在其中它的对象本身就是这样构成的：它们在自身那里有一种本质性或者一种自为存在，而不只是这个瞬间或这个这里的偶然事情。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 6,
+   "de": "Die Unterscheidungsmerkmale der Tiere z.B. sind von den Klauen und Zähnen genommen; denn in der Tat unterscheidet nicht nur das Erkennen dadurch ein Tier von dem anderen, sondern das Tier scheidet sich dadurch selbst ab; durch diese Waffen erhält es sich für sich und gesondert von dem Allgemeinen.",
+   "en": "The distinguishing marks of animals, for example, are taken from claws and teeth; for in fact it is not only cognition that thereby distinguishes one animal from another, but the animal itself thereby separates itself off; through these weapons it maintains itself for itself and separated from the universal.",
+   "zh": "例如动物的区分标志取自爪和牙；因为实际上不只是认识凭这些把一个动物和另一个动物区分开来，而是动物自己凭这些把自己分离出来；凭这些武器，它为自己、并与普遍的东西分离开来而维持自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 7,
+   "de": "Die Pflanze dagegen kommt nicht zum Fürsichsein, sondern berührt nur die Grenze der Individualität; an dieser Grenze, wo sie den Schein der Entzweiung in Geschlechter aufzeigt, ist sie deswegen aufgenommen und unterschieden worden.",
+   "en": "The plant, by contrast, does not arrive at being-for-itself, but only touches the boundary of individuality; at this boundary, where it displays the semblance of a division into sexes, it has therefore been taken up and distinguished.",
+   "zh": "相反，植物并没有达到自为存在，而只是触及个体性的边界；在这个边界上，它显示出分裂为性别的假象，因此它才被纳入进来并被区分开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 8,
+   "de": "Was aber weiter hinuntersteht, kann sich nicht mehr selbst von anderem unterscheiden, sondern geht verloren, Indem es in den Gegensatz kommt.",
+   "en": "But what stands further down can no longer distinguish itself from another, but is lost as it enters into opposition.",
+   "zh": "但更下面的东西，再也不能自己把自己和别的东西区分开来，而是在进入对立时就消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 9,
+   "de": "Das ruhende Sein und das Sein im Verhältnisse kommt in Streit miteinander, das Ding ist in diesem etwas anderes als nach Jenem, da hingegen das Individuum dies ist, im Verhältnisse zu anderem sich zu erhalten.",
+   "en": "Resting being and being in relation come into strife with each other; the thing is in this something other than according to that, whereas the individual is this: to maintain itself in relation to another.",
+   "zh": "静止的存在和处在关系中的存在彼此陷入争执，物在这种关系中与按照那种存在时不同，与此相反，个体却是这样：在与他物的关系中维持自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 19,
+   "si": 10,
+   "de": "Was aber dies nicht vermag und chemischerweise ein anderes wird, als es empirischerweise ist, verwirrt das Erkennen und bringt es in denselben Streit, ob es sich an die eine und andere Seite halten soll, da das Ding selbst nichts Gleichbleibendes ist und sie an ihm auseinanderfallen.",
+   "en": "But what is not capable of this and in a chemical way becomes something other than it is in an empirical way confuses cognition and brings it into the same strife as to whether it should hold to the one side or the other, since the thing itself is nothing self-same and they fall apart in it.",
+   "zh": "但做不到这一点、并且以化学的方式成为不同于它在经验中的样子的东西，会使认识混乱，并把认识带入同样的争执：它究竟应当抓住这一面还是另一面，因为物本身不是某种保持不变的东西，而那两面在它身上互相分离。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 20,
+   "si": 0,
+   "de": "In solchen Systemen des allgemeinen Sichgleichbleibenden hat also dieses die Bedeutung, ebensowohl das Sidigleich-bleibende des Erkennens wie der Dinge selbst zu sein.",
+   "en": "In such systems of the generally self-same, this therefore has the meaning of being just as much the self-same of cognition as of the things themselves.",
+   "zh": "所以在普遍的自相同者的这类系统里，这种自相同者就具有这样的意义：它既是认识的自相同者，也是物自身的自相同者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 20,
+   "si": 1,
+   "de": "Allein diese Ausbreitung der gleichbleibenden Bestimmtheiten, deren Jede ruhig die Reihe ihres Fortgangs beschreibt und Raum erhält, um für sich zu gewähren, geht wesentlich ebensosehr in ihr Gegenteil über, in die Verwirrung dieser Bestimmtheiten; denn das Merkmal, die allgemeine Bestimmtheit, ist die Einheit des Entgegengesetzten, des Bestimmten und des an sich Allgemeinen; sie muß also in diesen Gegensatz auseinandertreten.",
+   "en": "But this spreading out of the self-same determinacies, each of which calmly describes the series of its progression and receives space in order to hold sway for itself, passes essentially just as much over into its opposite, into the confusion of these determinacies; for the mark, the universal determinacy, is the unity of the opposed, of the determinate and of the in-itself universal; it must therefore fall apart into this opposition.",
+   "zh": "但这些保持不变的规定性的这种铺展，其中每一个规定性都安静地描述着自己进展的序列、并获得空间以便自为地起作用，本质上同样也过渡到它的对立面，即过渡到这些规定性的混乱；因为标志、即普遍的规定性，是对立之物、被规定之物和自在的普遍之物的统一；所以它必然分裂为这种对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 20,
+   "si": 2,
+   "de": "Wenn nun die Bestimmtheit nach einer Seite das Allgemeine, worin sie ihr Wesen hat, besiegt, so erhält dieses dagegen auf der ändern Seite ebenso sich seine Herrschaft über sie, treibt die Bestimmtheit an ihre Grenze, vermischt da ihre Unterschiede und Wesentlichkeiten.",
+   "en": "If now the determinacy on one side defeats the universal in which it has its essence, then on the other side the universal likewise secures its dominion over it, drives the determinacy to its limit, and there mixes up its differences and essentialities.",
+   "zh": "现在，如果规定性在一方面战胜了它于其中拥有自己本质的普遍之物，那么普遍之物在另一方面同样保住了它对规定性的统治，把规定性驱赶到它的边界上，并在那里把它的差别和本质性搅在一起。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 20,
+   "si": 3,
+   "de": "Das Beobachten, welches sie ordentlich auseinanderhielt und an ihnen etwas Festes zu haben glaubte, sieht über ein Prinzip die anderen herübergreifen, Übergänge und Verwirrungen sich bilden, und in diesem das verbunden, was es zuerst für schlechthin getrennt nahm, und getrennt, was es zusammenrechnete; so daß dies Festhalten an dem ruhigen sich gleichbleibenden Sein sich hier gerade in seinen allgemeinsten Bestimmungen, z. B, was das Tier, die Pflanze für wesentliche Merkmale habe, mit Instanzen geneckt sehen muß, die ihm jede Bestimmung rauben, die Allgemeinheit, zu der es sich erhob, zum Verstummen bringen und es aufs gedankenlose Beobachten und Beschreiben zurücksetzen.",
+   "en": "Observing, which held them neatly apart and believed it had something firm in them, sees one principle reaching over into the others, transitions and confusions forming, and in this sees connected what it first took as absolutely separate, and separate what it counted together; so that this holding fast to the calm, self-same being must here see itself mocked, precisely in its most general determinacies, for example as to what essential marks the animal, the plant has, by instances that rob it of every determinacy, reduce the universality to which it had raised itself to silence, and set it back to thoughtless observing and describing.",
+   "zh": "观察曾经把它们整整齐齐地分开，并且相信在它们身上拥有某种牢固的东西，现在却看到一个原则伸到别的原则上去，看到过渡和混乱形成起来，看到它最初当作绝对分离的东西被联结起来，而它算作一体的东西被分离开来；以致这种对安静地自相同一的存在者的坚持，在这里恰恰在它最普遍的规定里，例如在动物、植物有什么本质标志这一规定里，不得不见到自己被一些实例戏弄，这些实例夺走它每一个规定，让它所升到的普遍性哑口无言，并把它退回到无思想的观察和描述上去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 21,
+   "si": 0,
+   "de": "Dieses sich auf das Einfache einschränkende oder die sinnliche Zerstreuung durch das Allgemeine beschränkende Beobachten findet also an seinem Gegenstande die Verwirrung seines Prinzips, weil das Bestimmte durch seine Natur sich in seinem Gegenteile verlieren muß; die Vernunft muß darum vielmehr von der trägen Bestimmtheit, die den Schein des Bleibens habe, zur Beobachtung derselben, wie sie in Wahrheit ist, nämlich sich auf ihr Gegenteil zu. beziehen, fortgehen.",
+   "en": "This observing, which restricts itself to the simple or restricts sensuous dispersion through the universal, thus finds in its object the confusion of its principle, because the determinate must by its nature lose itself in its opposite; reason must therefore go on rather from the inert determinacy, which has the semblance of permanence, to the observation of it as it truly is, namely as relating itself to its opposite.",
+   "zh": "这种把自己限制在简单之物上、或者凭普遍之物来限制感性分散的观察，于是在自己的对象上发现自己的原则的混乱，因为被规定的东西按其本性必然要在自己的对立面中消失；所以理性倒必须从那种具有持存假象的惰性规定性，前进到对规定性本身的观察，即观察它实际上是怎样的，也就是观察它与自己的对立面发生关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 21,
+   "si": 1,
+   "de": "Was wesentliche Merkmale genannt werden, sind ruhende Bestimmtheiten, welche so, wie sie als einfache sich ausdrücken und aufgefaßt werden, nicht das, was ihre Natur ausmacht, verschwindende Momente der sich in sich zurücknehmenden Bewegung zu sein, darstellen.",
+   "en": "What are called essential marks are resting determinacies which, just as they express themselves and are grasped as simple, do not present what constitutes their nature: to be vanishing moments of the movement that takes itself back into itself.",
+   "zh": "所谓本质标志，是些静止的规定性，它们照它们作为简单之物所表达、所被把握的样子，并不呈现出构成它们本性的东西：即作为那种把自己收回自身的运动的消失着的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 21,
+   "si": 2,
+   "de": "Indem jetzt der Vernunftinstinkt dazu kommt, die Bestimmtheit ihrer Natur gemäß, wesentlich nicht für sich zu sein, sondern in das Entgegengesetzte überzugehen, aufzusuchen, sucht er nach dem Gesetze und dem Begriffe desselben; zwar nach ihnen ebenso als seiender Wirklichkeit, aber diese wird ihm in der Tat verschwinden, und die Seiten des Gesetzes [werden ihm] zu reinen Momenten oder Abstraktionen werden, so daß das Gesetz in der Natur des Begriffes hervortritt, welcher das gleichgültige Bestehen der sinnlichen Wirklichkeit an sich vertilgt hat.",
+   "en": "Now that the instinct of reason comes to seek out the determinacy according to its nature, as essentially not being for itself but passing over into the opposite, it seeks after the law and the concept of this; to be sure, it seeks after them likewise as existent actuality, but this will in fact vanish for it, and the sides of the law will become for it pure moments or abstractions, so that the law emerges in the nature of the concept, which has in itself annihilated the indifferent subsistence of sensuous actuality.",
+   "zh": "现在，既然理性的本能进而要去寻找规定性按其本性即本质上并非自为地存在、而是过渡到对立面这一情况，它就去寻找这件事的规律和概念；诚然它同样把它们当作存在着的现实性来寻找，但这种现实性实际上会对它消失，而规律的各个方面会对它成为纯粹的环节或抽象，以致规律在概念的本性中显现出来，而概念已经在自身中消灭了感性现实性的漠不相关的持存。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 0,
+   "de": "Dem beobachtenden Bewußtsein ist die Wahrheit des Gesetzes in der Erfahrung als in der Weise, daß sinnliches Sein für es ist; nicht an und für sich selbst.",
+   "en": "For observing consciousness the truth of the law is in experience, namely in such a way that sensuous being is for it; not in and for itself.",
+   "zh": "对观察的意识来说，规律的真理在经验中，即存在于感性存在是为它而存在这种方式中；而不是自在自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 1,
+   "de": "Wenn aber das Gesetz nicht in dem Begriffe seine Wahrheit hat, so ist es etwas Zufälliges, nicht eine Notwendigkeit, oder in der Tat nicht ein Gesetz.",
+   "en": "But if the law does not have its truth in the concept, then it is something contingent, not a necessity, or in fact not a law.",
+   "zh": "但如果规律不在概念中拥有自己的真理，那么它就是某种偶然的东西，不是一种必然性，或者实际上就不是规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 2,
+   "de": "Aber daß es wesentlich als Begriff ist, widerstreitet nicht nur dem nicht, daß es für die Beobachtung vorhanden ist, sondern hat darum vielmehr notwendiges Dasein und ist für die Beobachtung.",
+   "en": "But that it essentially is as concept does not merely not contradict its being present for observation, but on that very account has necessary determinate being and is for observation.",
+   "zh": "但规律本质上作为概念而存在，这不仅不与它为观察而存在相矛盾，反而因此拥有必然的定在，并且是为观察而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 3,
+   "de": "Das Allgemeine im Sinne der Vernunflallgemeinheit ist auch allgemein in dem Sinne, den jener an ihm hat, daß es für das Bewußtsein sich als das Gegenwärtige und Wirkliche oder daß der Begriff sich in der Weise der Dingheit und des sinnlichen Seins darstellt, – aber ohne darum seine Natur zu verlieren und in das träge Bestehen oder die gleichgültige Aufeinanderfolge hinabgefallen zu sein.",
+   "en": "The universal in the sense of universal reason is also universal in the sense that this has for it, namely that for consciousness it presents itself as the present and actual, or that the concept presents itself in the manner of thinghood and of sensuous being — but without thereby losing its nature and having fallen down into inert subsistence or indifferent succession.",
+   "zh": "在理性的普遍性这一意义上的普遍之物，也在那种普遍之物于它身上所具有的意义上是普遍的，即它对意识表现为当前的和现实的，或者说，概念以物性和感性存在的方式呈现出来——但并不因此失去自己的本性，也没有堕入惰性的持存或漠不相关的相继之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 4,
+   "de": "Was allgemein gültig ist, ist auch allgemein geltend; was sein soll, ist in der Tat auch, und was nur sein soll, ohne zu sein, hat keine Wahrheit.",
+   "en": "What is universally valid is also universally in force; what is supposed to be is in fact also, and what is only supposed to be without being has no truth.",
+   "zh": "普遍有效的东西，也是普遍生效的；应当存在的东西，实际上也存在，而仅仅应当存在却没有存在的东西，没有真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 22,
+   "si": 5,
+   "de": "Hieran bleibt der Instinkt der Vernunft mit Recht seinerseits fest hängen und läßt sich nicht durch die Gedanken-dinge, die nur sein sollen und als Sollen Wahrheit haben sollen, ob sie schon in keiner Erfahrung angetroffen werden, – durch die Hypothesen sowenig als durch alle anderen Unsichtbarkeiten eines perennierenden Sollens irremachen; denn die Vernunft ist eben diese Gewißheit, Realität zu haben, und was nicht als ein Selbstwesen für das Bewußtsein ist, d.h. was nicht erscheint, ist für es gar nichts.",
+   "en": "On this the instinct of reason on its side rightly holds fast and does not let itself be led astray by the thought-things that are only supposed to be and are supposed to have truth as an ought, even though they are met with in no experience — no more by hypotheses than by all the other invisibilities of a perennial ought; for reason is precisely this certainty of having reality, and what is not for consciousness as a self-essence, that is, what does not appear, is for it nothing at all.",
+   "zh": "理性的本能在这方面有理由牢牢抓住这一点，并且不让那些仅仅应当存在、并且作为应当而应当拥有真理——尽管它们在任何经验中都遇不到——的思想之物把自己弄糊涂，不论是各种假设，还是某种长存的应当的一切其他看不见的东西；因为理性恰恰就是这种确定性：拥有实在性，而凡不是作为自身本质为意识而存在的东西，也就是凡不显现的东西，对意识来说就根本不算什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 23,
+   "si": 0,
+   "de": "Daß die Wahrheit des Gesetzes wesentlich Realität ist, wird zwar diesem bei dem Beobachten bleibenden Bewußtsein wieder zu einem Gegensatze gegen den Begriff und gegen das an sich Allgemeine; oder ein solches, wie sein Gesetz ist, ist ihm nicht ein Wesen der Vernunft; es meint darin etwas Fremdes zu erhalten.",
+   "en": "That the truth of the law is essentially reality becomes, to be sure, for this consciousness that remains with observing, again an opposition to the concept and to the in-itself universal; or such a thing as its law is, is not for it an essence of reason; in it, it means to get hold of something alien.",
+   "zh": "规律的真理本质上就是实在性，这一点虽然对那种停留在观察上的意识来说，又变成一种对概念、对自在的普遍之物的对立；或者说，像它的规律这样的东西，对它来说并不是理性的本质；它以为在这里得到的是某种陌生的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 23,
+   "si": 1,
+   "de": "Allein es widerlegt diese seine Meinung durch die Tat, in welcher es selbst seine Allgemeinheit nicht in dem Sinne nimmt, daß alle einzelnen sinnlichen Dinge ihm die Erscheinung des Gesetzes gezeigt haben mußten, um die Wahrheit desselben behaupten zu können.",
+   "en": "But it refutes this its opinion by the deed, in which it itself does not take its universality in the sense that all individual sensuous things must have shown it the appearance of the law in order for it to be able to assert the truth of the same.",
+   "zh": "但它的这种行为驳倒了它的这个看法，因为在行为中它自己并没有在这样一种意义上采用自己的普遍性，即所有单个的感性之物都必须向它显示出规律的现象，它才能断言规律的真理。"
+  }
+ ]
+}

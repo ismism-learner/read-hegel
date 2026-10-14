@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-01",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 0,
+   "de": "In den bisherigen Weisen der Gewißheit ist dem Bewußtsein das Wahre etwas anderes als es selbst.",
+   "en": "In the previous modes of certainty, the true is for consciousness something other than itself.",
+   "zh": "在以往的种种确定性方式里，真的东西对意识来说始终是某种不同于它自身的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 1,
+   "de": "Der Begriff dieses Wahren verschwindet aber in der Erfahrung von ihm; wie der Gegenstand unmittelbar an sich war, das Seiende der sinnlichen Gewißheit, das konkrete Ding der Wahrnehmung, die Kraft des Verstandes, so erweist er sich vielmehr, nicht in Wahrheit zu sein, sondern dies Ansich ergibt sich als eine Weise, wie er nur für ein Anderes ist; der Begriff von ihm hebt sich an dem wirklichen Gegenstande auf oder die erste unmittelbare Vorstellung in der Erfahrung, und die Gewißheit ging in der Wahrheit verloren.",
+   "en": "But the concept of this true vanishes in the experience of it; just as the object was immediately in itself — the existent of sense-certainty, the concrete thing of perception, the force of the understanding — so it proves rather not to be in truth, but this in-itself turns out to be a mode in which it is only for an other; the concept of it, or the first immediate representation in experience, is sublated on the actual object, and the certainty was lost in the truth.",
+   "zh": "但是，这个真的东西的概念在对它的经验中消失了；正如对象当初直接地是自在的，即感性确定性的存在者、知觉的具体之物、知性的力，它反倒表明自己并不真的存在，而这个自在却表明为它只对一个他者存在的一种方式；关于它的概念，或者说经验中那第一个直接的表象，在现实的对象上被扬弃了，而确定性则在真理中消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 2,
+   "de": "Nunmehr aber ist dies entstanden, was in diesen früheren Verhältnissen nicht zustande kam, nämlich eine Gewißheit, welche ihrer Wahrheit gleich ist; denn die Gewißheit ist sich selbst ihr Gegenstand, und das Bewußtsein ist sich selbst das Wahre.",
+   "en": "But now that has come to be which did not come about in these earlier relations, namely a certainty that is equal to its truth; for the certainty is itself its own object, and consciousness is itself the true.",
+   "zh": "但现在，那个在这些较早的关系中不曾出现的东西产生了，即一种与其真理相等的确定性；因为确定性自己就是自己的对象，而意识自己就是真的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 3,
+   "de": "Es ist darin zwar auch ein Anderssein; das Bewußtsein unterscheidet nämlich, aber ein solches, das für es zugleich ein nicht Unterschiedenes ist.",
+   "en": "In this there is indeed also an otherness; for consciousness does distinguish, but such an otherness as is at the same time an undifferentiated for it.",
+   "zh": "这里面固然也有一种他在；因为意识在作区分，但这种他在对它来说同时又不是有差别的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 4,
+   "de": "Nennen wir Begriff die Bewegung des Wissens, den Gegenstand aber das Wissen als ruhige Einheit oder als Ich, so sehen wir, daß nicht nur für uns, sondern für das Wissen selbst der Gegenstand dem Begriffe entspricht.",
+   "en": "If we call the movement of knowing the concept, and knowing as calm unity or as I the object, we see that not only for us but for knowing itself the object corresponds to the concept.",
+   "zh": "如果我们把知识的运动称为概念，而把知识作为静止的统一、或作为我，称为对象，那么我们就会看到，不仅对我们来说，而且对知识本身来说，对象都符合于概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 2,
+   "si": 5,
+   "de": "– Oder auf die andere Weise, den Begriff das genannt, was der Gegenstand an sich ist, den Gegenstand aber das, was er als Gegenstand oder für ein Anderes ist, so erhellt, daß das Ansichsein und das Für-ein-Anderes-Sein dasselbe ist; denn das Ansich ist das Bewußtsein; es ist aber ebenso dasjenige, für welches ein Anderes (das Ansich) ist; und es ist für es, daß das Ansich des Gegenstandes und das Sein desselben für ein Anderes dasselbe ist; Ich ist der Inhalt der Beziehung und das Beziehen selbst; es ist es selbst gegen ein Anderes, und greift zugleich über dies Andere über, das für es ebenso nur es selbst ist.",
+   "en": "— Or, put the other way, if what the object is in itself is called the concept, and what it is as object or for an other is called the object, then it is evident that being-in-itself and being-for-an-other are the same; for the in-itself is consciousness; but it is likewise that for which an other (the in-itself) is; and it is for it that the in-itself of the object and its being for an other are the same; I is the content of the relation and the relating itself; it is itself over against an other, and at the same time reaches beyond this other, which for it is likewise only itself.",
+   "zh": "——或者换一种说法：如果把概念称为对象自在所是的东西，而把对象称为它作为对象、或对一个他者而言所是的东西，那么就可以看出，自在存在与为他存在是同一个东西；因为自在就是意识；但它同样是那样一种东西：一个他者（即自在）对它来说存在着；而且对它来说，对象的自在与对象为一个他者而存在是同一个东西；我是关系的内容，也是关联活动本身；它面对一个他者而就是它自己，同时又越过这个他者，而这个他者对它来说同样只是它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 0,
+   "de": "Mit dem Selbstbewußtsein sind wir also nun in das einheimische Reich der Wahrheit eingetreten.",
+   "en": "With self-consciousness, then, we have now entered the native realm of truth.",
+   "zh": "于是，随着自我意识，我们现在已经进入了真理的故乡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 1,
+   "de": "Es ist zu sehen, wie die Gestalt des Selbstbewußtseins zunächst auftritt.",
+   "en": "It is to be seen how the shape of self-consciousness first appears.",
+   "zh": "我们要看看，自我意识的形态最初是怎样出现的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 2,
+   "de": "Betrachten wir diese neue Gestalt des Wissens, das Wissen von sich selbst, im Verhältnisse zu dem Vorhergehenden, dem Wissen von einem Anderen, so ist dies zwar verschwunden; aber seine Momente haben sich zugleich ebenso aufbewahrt, und der Verlust besteht darin, daß sie hier vorhanden sind, wie sie an sich sind.",
+   "en": "If we consider this new shape of knowing, the knowing of itself, in relation to the preceding one, the knowing of an other, then the latter has indeed vanished; but its moments have at the same time likewise been preserved, and the loss consists in this, that they are here present as they are in themselves.",
+   "zh": "如果我们把这种知识的新形态，即关于自身的知识，与先前的东西、即关于一个他者的知识联系起来考察，那么后者固然已经消失了；但它的各个环节同时也同样被保存了下来，而损失就在于：它们在这里正像它们自在所是的那样存在着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 3,
+   "de": "Das Sein der Meinung, die Einzelheit und die ihr entgegengesetzte Allgemeinheit der Wahrnehmung sowie das leere Innere des Verstandes sind nicht mehr als Wesen, sondern als Momente des Selbstbewußtseins, d.h. als Abstraktionen oder Unterschiede, welche für das Bewußtsein selbst zugleich nichtig oder keine Unterschiede und rein verschwindende Wesen sind.",
+   "en": "The being of meaning, the singularity and the universality of perception opposed to it, as well as the empty inner of the understanding, are no longer as essences, but as moments of self-consciousness, that is, as abstractions or differences which for consciousness itself are at the same time null, or no differences, and purely vanishing essences.",
+   "zh": "意谓的存在、知觉的单一性及其与之相对立的普遍性，以及知性的空洞内在，都不再作为本质，而是作为自我意识的环节，也就是说，作为一些抽象或差别，这些抽象或差别对意识本身来说同时是虚无的、或者说并不是差别，而是纯粹消逝着的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 4,
+   "de": "Es scheint also nur das Hauptmoment selbst verlorengegangen zu sein, nämlich das einfache selbständige Bestehen für das Bewußtsein.",
+   "en": "Thus it seems that only the main moment itself has been lost, namely the simple independent subsistence for consciousness.",
+   "zh": "于是看起来，只有那个主要环节本身丧失了，即那种对意识而言的单纯而独立的持存。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 5,
+   "de": "Aber in der Tat ist das Selbstbewußtsein die Reflexion aus dem Sein der sinnlichen und wahrgenommenen Welt und wesentlich die Rückkehr aus dem Anderssein.",
+   "en": "But in fact self-consciousness is the reflection out of the being of the sensuous and perceived world, and essentially the return out of otherness.",
+   "zh": "但事实上，自我意识是从感性的和被知觉的世界的存在中出来的反思，并且本质上是从他在中返回。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 6,
+   "de": "Es ist als Selbstbewußtsein Bewegung; aber indem es nur sich selbst als sich selbst von sich unterscheidet, so ist ihm der Unterschied unmittelbar als ein Anderssein aufgehoben; der Unterschied ist nicht, und es nur die bewegungslose Tautologie des: Ich bin Ich; indem ihm der Unterschied nicht auch die Gestalt des Seins hat, ist es nicht Selbstbewußtsein, Es ist hiermit für es das Anderssein als ein Sein oder als unterschiedenes Moment, aber es ist für es auch die Einheit seiner selbst mit diesem Unterschiede als zweites unterschiedenes Moment.",
+   "en": "As self-consciousness it is movement; but since it distinguishes only itself from itself as itself, the difference is immediately sublated for it as an otherness; the difference is not, and it is only the motionless tautology of: I am I; since the difference does not also have for it the shape of being, it is not self-consciousness; it is hereby for it the otherness as a being or as a distinguished moment, but it is for it also the unity of itself with this difference as a second distinguished moment.",
+   "zh": "作为自我意识，它是运动；但既然它只是把自身作为自身与自身区别开来，那么差别对它来说就直接作为他在而被扬弃了；差别不存在，而它只是“我是我”这一不动的同语反复；既然差别对它来说并不同时具有存在的形态，它就不是自我意识；因此，对它来说，他在就是作为一种存在、或作为一个有差别的环节，但它对它来说同时也是它自身与这个差别的统一，作为第二个有差别的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 7,
+   "de": "Mit jenem ersten Momente ist das Selbstbewußtsein als Bewußtsein und für es die ganze Ausbreitung der sinnlichen Welt erhalten, aber zugleich nur als auf das zweite Moment, die Einheit des Selbstbewußtseins mit sich selbst, bezogen; und sie ist hiermit für es ein Bestehen, welches aber nur Erscheinung oder Unterschied ist, der an sich kein Sein hat.",
+   "en": "With that first moment, self-consciousness as consciousness, and for it the whole expanse of the sensuous world, is preserved, but at the same time only as related to the second moment, the unity of self-consciousness with itself; and this expanse is hereby for it a subsistence which, however, is only appearance or difference that in itself has no being.",
+   "zh": "有了那第一个环节，自我意识作为意识，以及感性世界对它而言的整个展开，都保留下来了，但同时只是与第二个环节、即自我意识与自身的统一相关联；而它因此对它来说是一种持存，但这种持存只是现象或差别，而后者自在并没有存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 8,
+   "de": "Dieser Gegensatz seiner Erscheinung und seiner Wahrheit hat aber nur die Wahrheit, nämlich die Einheit des Selbstbewußtseins mit sich selbst, zu seinem Wesen; diese muß ihm wesentlich werden, d.h. es ist Begierde überhaupt.",
+   "en": "But this opposition of its appearance and its truth has as its essence only the truth, namely the unity of self-consciousness with itself; this must become essential to it, that is, it is desire in general.",
+   "zh": "但是，它的现象与它的真理之间的这个对立，只以真理、即自我意识与自身的统一为自己的本质；这个统一必须对它成为本质性的，也就是说，它就是一般的欲望。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 9,
+   "de": "Das Bewußtsein hat als Selbstbewußtsein nunmehr einen gedoppelten Gegenstand, den einen, den unmittelbaren, den Gegenstand der sinnlichen Gewißheit und des Wahrnehmens, der aber für es mit dem Charakter des Negativen bezeichnet ist, und den zweiten, nämlich sich selbst, welcher das wahre Wesen und zunächst nur erst im Gegensatze des ersten vorhanden ist.",
+   "en": "Consciousness as self-consciousness now has a doubled object: the one, the immediate, the object of sense-certainty and of perceiving, which is, however, marked for it with the character of the negative; and the second, namely itself, which is the true essence and to begin with is present only in opposition to the first.",
+   "zh": "意识作为自我意识现在有了一个双重的对象：一个是直接的对象，即感性确定性和知觉的对象，但它对意识来说带有否定的特征；另一个就是它自己，而它自己是真的本质，并且最初只是在对第一个对象的对立中才存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 3,
+   "si": 10,
+   "de": "Das Selbstbewußtsein stellt sich hierin als die Bewegung dar, worin dieser Gegensatz aufgehoben und ihm die Gleichheit seiner selbst mit sich wird.",
+   "en": "Self-consciousness presents itself herein as the movement in which this opposition is sublated and in which the equality of itself with itself comes to be for it.",
+   "zh": "自我意识在这里表现为这样一种运动：在这个运动中，这个对立被扬弃了，而它自身与自身的等同则对它产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 0,
+   "de": "Der Gegenstand, welcher für das Selbstbewußtsein das Negative ist, ist aber seinerseits für uns oder an sich ebenso in sich zurückgegangen als das Bewußtsein andererseits.",
+   "en": "But the object which is the negative for self-consciousness has for its part, for us or in itself, likewise withdrawn into itself, just as consciousness on the other hand has.",
+   "zh": "但是，那个对自我意识来说是否定物的对象，就它那一方面说，对我们或自在地也同样已经返回自身之内，正如意识在另一方面所做的那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 1,
+   "de": "Er ist durch diese Reflexion-in-sich Leben geworden.",
+   "en": "Through this reflection-into-itself it has become life.",
+   "zh": "它通过这种自身反思变成了生命。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 2,
+   "de": "Was das Selbstbewußtsein als seiend von sich unterscheidet, hat auch insofern, als es seiend gesetzt ist, nicht bloß die Weise der sinnlichen Gewißheit und der Wahrnehmung an ihm, sondern es ist in sich reflektiertes Sein, und der Gegenstand der unmittelbaren Begierde ist ein Lebendiges.",
+   "en": "What self-consciousness distinguishes from itself as existent has, precisely insofar as it is posited as existent, not merely the mode of sense-certainty and of perception about it, but is being reflected into itself, and the object of immediate desire is a living thing.",
+   "zh": "自我意识作为存在者而与自身区别开来的东西，恰恰就它是被设定为存在者而言，在它身上并不只具有感性确定性和知觉的方式，而是它是在自身中被反思的存在，而直接欲望的对象是一个有生命的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 3,
+   "de": "Denn das Ansich oder das allgemeine Resultat des Verhältnisses des Verstandes zu dem Innern der Dinge ist das Unterscheidendes nicht zu Unterscheidenden oder die Einheit des Unterschiedenen.",
+   "en": "For the in-itself, or the universal result of the relation of the understanding to the inner of things, is the distinguishing of what is not to be distinguished, or the unity of the distinguished.",
+   "zh": "因为自在、或者说知性与物的内在的关系的那个普遍结果，就是不可区分者的区分活动，或者说有差别者的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 4,
+   "de": "Diese Einheit aber ist ebensosehr, wie wir gesehen, ihr Abstoßen von sich selbst, und dieser Begriff entzweit sich in den Gegensatz des Selbstbewußtseins und des Lebens: Jenes die Einheit, für welche die unendliche Einheit der Unterschiede ist; dieses aber ist nur diese Einheit selbst, so daß sie nicht zugleich für sich selbst ist.",
+   "en": "But this unity is, as we have seen, just as much its repelling of itself from itself, and this concept divides itself into the opposition of self-consciousness and life: the former the unity for which the infinite unity of the differences is; the latter, however, is only this unity itself, so that it is not at the same time for itself.",
+   "zh": "但是，正如我们已经看到的，这个统一同样也是它从自身那里的排斥，而这个概念分裂为自我意识与生命的对立：前者是那种统一，诸差别的无限统一是为它而存在的；后者则只是这个统一本身，以至于它并不同时是自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 5,
+   "de": "So selbständig also das Bewußtsein, ebenso selbständig ist an sich sein Gegenstand.",
+   "en": "As independent, then, as consciousness is, so independent is its object in itself.",
+   "zh": "所以，意识有多独立，它的对象自在地也就有多独立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 4,
+   "si": 6,
+   "de": "Das Selbstbewußtsein, welches schlechthin für sich ist und seinen Gegenstand unmittelbar mit dem Charakter des Negativen bezeichnet oder zunächst Begierde ist, wird daher vielmehr die Erfahrung der Selbständigkeit desselben machen.",
+   "en": "Self-consciousness, which is absolutely for itself and marks its object immediately with the character of the negative, or is to begin with desire, will therefore rather make the experience of the independence of that object.",
+   "zh": "因此，那个绝对自为地存在、并且直接给自己的对象打上否定特征、或者说最初就是欲望的自我意识，反倒会取得关于对象独立性的经验。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 0,
+   "de": "Die Bestimmung des Lebens, wie sie sich aus dem Begriffe oder dem allgemeinen Resultate ergibt, mit welchem wir in diese Sphäre eintreten, ist hinreichend, es zu bezeichnen, ohne daß seine Natur weiter daraus zu entwickeln wäre; ihr Kreis beschließt sich in folgenden Momenten.",
+   "en": "The determination of life, as it results from the concept or the general result with which we enter this sphere, is sufficient to designate it, without its nature being further developed from it; its circle closes in the following moments.",
+   "zh": "生命的规定，即从我们借以进入这个领域的那个概念、或者说那个普遍结果中得出的规定，足以标示生命，而不必再由此展开它的本性；它的圆圈在下面这些环节中封闭起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 1,
+   "de": "Das Wesen ist die Unendlichkeit als das Aufgehobensein aller Unterschiede, die reine achsendrehende Bewegung, die Ruhe ihrer selbst als absolut unruhiger Unendlichkeit; die Selbständigkeit selbst, in welcher die Unterschiede der Bewegung aufgelöst sind; das einfache Wesen der Zelt, das in dieser Sichselbstgleichheit die gediegene Gestalt des Raumes hat.",
+   "en": "The essence is infinity as the sublatedness of all differences, the pure axis-turning movement, the rest of itself as absolutely unresting infinity; independence itself, in which the differences of the movement are dissolved; the simple essence of time, which in this self-equality has the solid shape of space.",
+   "zh": "本质是无限性，即一切差别的被扬弃状态，是纯粹绕轴旋转的运动，是它自身作为绝对不安宁的无限性的静止；是独立性本身，运动的诸差别在它之中消解了；是时间的单纯本质，而时间在这种自身等同中具有空间的坚实形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 2,
+   "de": "Die Unterschiede sind aber an diesem einfachen allgemeinen Medium ebensosehr als Unterschiede; denn diese allgemeine Flüssigkeit hat ihre negative Natur nur, indem sie ein Aufheben derselben ist; aber sie kann die Unterschiedenen nicht aufheben, wenn sie nicht ein Bestehen haben.",
+   "en": "But the differences are at this simple universal medium just as much as differences; for this universal fluidity has its negative nature only insofar as it is a sublating of them; but it cannot sublate the distinguished ones if they do not have a subsistence.",
+   "zh": "但是，这些差别在这个单纯的普遍介质上同样也是作为差别而存在的；因为这种普遍的流动性只有就它是这些差别的扬弃而言才具有自己的否定本性；但如果那些被区分者没有一种持存，它就不能扬弃它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 3,
+   "de": "Eben diese Flüssigkeit ist als die sichselbstgleiche Selbständigkeit selbst das Bestehen oder die Substanz derselben, worin sie also als unterschiedene Glieder und fürsichseiende Teile sind.",
+   "en": "This very fluidity, as the self-equal independence, is itself the subsistence or the substance of the latter, in which they are thus as distinguished members and parts existing for themselves.",
+   "zh": "正是这种流动性，作为自身等同的独立性，本身就是那些差别的持存、或者说它们的实体，而它们在其中因此就是作为有区分的肢体和自为存在的部分而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 4,
+   "de": "Das Sein hat nicht mehr die Bedeutung der Abstraktion des Seins noch ihre reine Wesenheit [die] der Abstraktion der Allgemeinheit; sondern ihr Sein ist eben jene einfache flüssige Substanz der reinen Bewegung In sich selbst.",
+   "en": "Being no longer has the meaning of the abstraction of being, nor their pure essentiality that of the abstraction of universality; rather their being is precisely that simple fluid substance of pure movement within itself.",
+   "zh": "存在不再具有存在的抽象这一含义，它们的纯粹本质性也不再具有普遍性抽象这一含义；相反，它们的存在正是那种纯粹在自身之内运动的、单纯而流动的实体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 5,
+   "si": 5,
+   "de": "Der Unterschied dieser Glieder gegeneinander aber als Unterschied besteht überhaupt in keiner anderen Bestimmtheit als der Bestimmtheit der Momente der Unendlichkeit oder der reinen Bewegung selbst.",
+   "en": "But the difference of these members from one another as difference consists in general in no other determinacy than the determinacy of the moments of infinity or of pure movement itself.",
+   "zh": "但是，这些肢体相互之间的差别作为差别，一般来说并不存在于别的任何规定性中，而只存在于无限性诸环节、或者说纯粹运动本身的规定性中。"
+  }
+ ]
+}

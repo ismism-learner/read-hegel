@@ -1,0 +1,2383 @@
+{
+ "title": "Hegel — Werke in zwanzig Bänden",
+ "subtitle": "德文《黑格尔全集》在线阅读",
+ "source": {
+  "edition": "G. W. F. Hegel: Werke in 20 Bänden. Hrsg. von Eva Moldenhauer und Karl Markus Michel. Frankfurt am Main: Suhrkamp, 1969 ff.",
+  "digital": "Digitalisierung: Hegel-Institut Berlin / Talpa-Verlag; Textkorpus über das MLCLASSIC-Archiv (marx-ebooks.github.io).",
+  "publicDomain": "Ergänzend: Deutsches Textarchiv (Erstausgaben von Phänomenologie 1807 und Wissenschaft der Logik 1812/13/16)."
+ },
+ "volumes": [
+  {
+   "id": "w1",
+   "dir": "1",
+   "bands": [
+    1
+   ],
+   "de": "Frühe Schriften",
+   "zh": "早期著作",
+   "years": "1793–1800",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Bern",
+     "a": "f0-h1-1",
+     "sent": 119
+    },
+    {
+     "i": 1,
+     "t": "I.",
+     "a": "f3-h4-1",
+     "sent": 155
+    },
+    {
+     "i": 2,
+     "t": "Über den Unterschied der Szene des Todes",
+     "a": "f9-h10-1",
+     "sent": 171
+    },
+    {
+     "i": 3,
+     "t": "6.",
+     "a": "f16-h17-1",
+     "sent": 109
+    },
+    {
+     "i": 4,
+     "t": "Was anwendbar in einer Gesellschaft ist, ist ungerecht in einem Staate",
+     "a": "f32-h33-1",
+     "sent": 88
+    },
+    {
+     "i": 5,
+     "t": "Streit der Kirche mit dem Staate",
+     "a": "f38-h39-1",
+     "sent": 109
+    },
+    {
+     "i": 6,
+     "t": "Welche Form die Moral in einer Kirche gewinnen muß",
+     "a": "f41-h42-1",
+     "sent": 95
+    },
+    {
+     "i": 7,
+     "t": "Unterschied zwischen griechischer Phantasie- und christlicher positiver Religion 59)",
+     "a": "f45-h46-1",
+     "sent": 190
+    },
+    {
+     "i": 8,
+     "t": "Eleusis 66)",
+     "a": "f48-h49-1",
+     "sent": 221
+    },
+    {
+     "i": 9,
+     "t": "Anmerkung zum 7. Brief (S. 138 f.)",
+     "a": "f57-h58-1",
+     "sent": 214
+    },
+    {
+     "i": 10,
+     "t": "[Grundkonzept zum Geist des Christentums]",
+     "a": "f62-h63-1",
+     "sent": 241
+    },
+    {
+     "i": 11,
+     "t": "[Der Geist des Christentums]",
+     "a": "f63-h64-1",
+     "sent": 436
+    },
+    {
+     "i": 12,
+     "t": "",
+     "a": "",
+     "sent": 130
+    },
+    {
+     "i": 13,
+     "t": "[Systemfragment von 1800] 126)",
+     "a": "f64-h65-1",
+     "sent": 200
+    },
+    {
+     "i": 14,
+     "t": "14.",
+     "a": "f78-h79-1",
+     "sent": 251
+    },
+    {
+     "i": 15,
+     "t": "I. Begriff des Staats",
+     "a": "f88-h89-1",
+     "sent": 118
+    },
+    {
+     "i": 16,
+     "t": "[3. Das Reichsgebiet]",
+     "a": "f91-h92-1",
+     "sent": 170
+    },
+    {
+     "i": 17,
+     "t": "[6. Die Macht der Stände]",
+     "a": "f94-h95-1",
+     "sent": 161
+    },
+    {
+     "i": 18,
+     "t": "[8. Die Bildung von Nationalstaaten]",
+     "a": "f96-h97-1",
+     "sent": 167
+    },
+    {
+     "i": 19,
+     "t": "[10. Staatsbürgerliche und ständische Freiheit]",
+     "a": "f98-h99-1",
+     "sent": 143
+    },
+    {
+     "i": 20,
+     "t": "II.",
+     "a": "f103-h104-2",
+     "sent": 191
+    },
+    {
+     "i": 21,
+     "t": "[Auszüge aus dem Tagebuch der Reise in die Berner Oberalpen] 188)",
+     "a": "f116-h117-1",
+     "sent": 61
+    }
+   ],
+   "chars": 1337519,
+   "plain": 1214755,
+   "sentences": 3740,
+   "navRoots": 4,
+   "terms": 16319
+  },
+  {
+   "id": "w2",
+   "dir": "2",
+   "bands": [
+    2
+   ],
+   "de": "Jenaer Schriften 1801–1807",
+   "zh": "耶拿时期著作",
+   "years": "1801–1807",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Differenz des Fichteschen und Schellingschen Systems der Philosophie (1801)",
+     "a": "f0-h1-1",
+     "sent": 172
+    },
+    {
+     "i": 1,
+     "t": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+     "a": "f5-h6-1",
+     "sent": 399
+    },
+    {
+     "i": 2,
+     "t": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+     "a": "f10-h11-1",
+     "sent": 296
+    },
+    {
+     "i": 3,
+     "t": "Rezensionen aus der Erlanger Literatur-Zeitung",
+     "a": "f12-h13-1",
+     "sent": 115
+    },
+    {
+     "i": 4,
+     "t": "[Krugs Entwurf eines neuen Organons der Philosophie] 95)",
+     "a": "f15-h16-1",
+     "sent": 177
+    },
+    {
+     "i": 5,
+     "t": "Notizenblatt. 108) Besonderer Zweck des Blatts",
+     "a": "f19-h20-1",
+     "sent": 298
+    },
+    {
+     "i": 6,
+     "t": "Notizenblatt. 128)",
+     "a": "f21-h22-1",
+     "sent": 135
+    },
+    {
+     "i": 7,
+     "t": "A. Kantische Philosophie",
+     "a": "f28-h29-1",
+     "sent": 141
+    },
+    {
+     "i": 8,
+     "t": "B. Jacobische Philosophie",
+     "a": "f29-h30-1",
+     "sent": 300
+    },
+    {
+     "i": 9,
+     "t": "C. Fichtesche Philosophie",
+     "a": "f30-h31-1",
+     "sent": 225
+    },
+    {
+     "i": 10,
+     "t": "Über die wissenschaftlichen Behandlungsarten des Naturrechts, seine Stelle in der praktischen Philosophie und sein Verhältnis zu den positiven Rechtswissenschaften 226)",
+     "a": "f31-h32-1",
+     "sent": 218
+    },
+    {
+     "i": 11,
+     "t": "[III]",
+     "a": "f34-h35-1",
+     "sent": 108
+    },
+    {
+     "i": 12,
+     "t": "[IV]",
+     "a": "f35-h36-1",
+     "sent": 110
+    },
+    {
+     "i": 13,
+     "t": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+     "a": "f37-h38-1",
+     "sent": 462
+    },
+    {
+     "i": 14,
+     "t": "Maximen des Journals der deutschen Literatur 260)",
+     "a": "f39-h40-1",
+     "sent": 114
+    }
+   ],
+   "chars": 1207125,
+   "plain": 1085776,
+   "sentences": 3270,
+   "navRoots": 4,
+   "terms": 12938
+  },
+  {
+   "id": "w3",
+   "dir": "3",
+   "bands": [
+    3
+   ],
+   "de": "Phänomenologie des Geistes",
+   "zh": "精神现象学",
+   "years": "1807",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Vorrede",
+     "a": "f0-h1-1",
+     "sent": 477
+    },
+    {
+     "i": 1,
+     "t": "Einleitung",
+     "a": "f1-h2-1",
+     "sent": 199
+    },
+    {
+     "i": 2,
+     "t": "II. Die Wahrnehmung oder das Ding und die Täuschung",
+     "a": "f3-h4-1",
+     "sent": 357
+    },
+    {
+     "i": 3,
+     "t": "B. Selbstbewußtsein",
+     "a": "f5-h6-1",
+     "sent": 335
+    },
+    {
+     "i": 4,
+     "t": "C. (AA) Vernunft",
+     "a": "f8-h9-1",
+     "sent": 374
+    },
+    {
+     "i": 5,
+     "t": "b. Die Beobachtung des Selbstbewußtseins in seiner Reinheit und seiner Beziehung auf äußere Wirklichkeit; logische und psychologische Gesetze",
+     "a": "f11-h12-1",
+     "sent": 273
+    },
+    {
+     "i": 6,
+     "t": "B. Die Verwirklichung des vernünftigen Selbstbewußtseins durch sich selbst",
+     "a": "f13-h14-1",
+     "sent": 241
+    },
+    {
+     "i": 7,
+     "t": "C. Die Individualität, welche sich an und für sich selbst reell ist",
+     "a": "f17-h18-1",
+     "sent": 196
+    },
+    {
+     "i": 8,
+     "t": "c. Gesetzprüfende Vernunft",
+     "a": "f20-h21-1",
+     "sent": 222
+    },
+    {
+     "i": 9,
+     "t": "b. Die sittliche Handlung. Das menschliche und göttliche Wissen, die Schuld und das Schicksal",
+     "a": "f24-h25-1",
+     "sent": 414
+    },
+    {
+     "i": 10,
+     "t": "b. Der Glaube und die reine Einsicht",
+     "a": "f29-h30-1",
+     "sent": 287
+    },
+    {
+     "i": 11,
+     "t": "b. Die Wahrheit der Aufklärung",
+     "a": "f32-h33-1",
+     "sent": 241
+    },
+    {
+     "i": 12,
+     "t": "b. Die Verstellung",
+     "a": "f36-h37-1",
+     "sent": 370
+    },
+    {
+     "i": 13,
+     "t": "(CC) Die Religion",
+     "a": "f38-h39-1",
+     "sent": 260
+    },
+    {
+     "i": 14,
+     "t": "b. Das lebendige Kunstwerk",
+     "a": "f45-h46-1",
+     "sent": 409
+    },
+    {
+     "i": 15,
+     "t": "(DD) Das absolute Wissen",
+     "a": "f48-h49-1",
+     "sent": 271
+    },
+    {
+     "i": 16,
+     "t": "Lektürehinweise",
+     "a": "f49-h50-2",
+     "sent": 33
+    }
+   ],
+   "chars": 1255033,
+   "plain": 1179609,
+   "sentences": 4959,
+   "navRoots": 10,
+   "terms": 9404
+  },
+  {
+   "id": "w4",
+   "dir": "4",
+   "bands": [
+    4
+   ],
+   "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+   "zh": "纽伦堡与海德堡时期著作",
+   "years": "1808–1817",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Nürnberger Schriften",
+     "a": "f0-h1-1",
+     "sent": 353
+    },
+    {
+     "i": 1,
+     "t": "Zweiter Abschnitt Physik",
+     "a": "f24-h25-1",
+     "sent": 314
+    },
+    {
+     "i": 2,
+     "t": "III. Der Staat (Realer Geist)",
+     "a": "f41-h42-1",
+     "sent": 387
+    },
+    {
+     "i": 3,
+     "t": "2. Dialektik der Kategorien des Wesens 26)",
+     "a": "f59-h60-1",
+     "sent": 354
+    },
+    {
+     "i": 4,
+     "t": "[Neuer Ansatz] Logik",
+     "a": "f76-h77-1",
+     "sent": 369
+    },
+    {
+     "i": 5,
+     "t": "C. Schlüsse der Relation",
+     "a": "f94-h95-1",
+     "sent": 388
+    },
+    {
+     "i": 6,
+     "t": "B. Ursache",
+     "a": "f115-h116-1",
+     "sent": 658
+    },
+    {
+     "i": 7,
+     "t": "Erster Abschnitt Rechtslehre",
+     "a": "f136-h137-1",
+     "sent": 427
+    },
+    {
+     "i": 8,
+     "t": "I. Pflichten gegen sich",
+     "a": "f140-h141-1",
+     "sent": 361
+    },
+    {
+     "i": 9,
+     "t": "Die geistige Religion",
+     "a": "f149-h150-1",
+     "sent": 276
+    },
+    {
+     "i": 10,
+     "t": "3. Rede zum Schuljahrabschluß am 14. September 1810 103)",
+     "a": "f156-h157-1",
+     "sent": 220
+    },
+    {
+     "i": 11,
+     "t": "5. Rede zum Schuljahrabschluß am 2. September 1813 105)",
+     "a": "f158-h159-1",
+     "sent": 231
+    },
+    {
+     "i": 12,
+     "t": "2. Bericht über das Gymnasialschuljahr 1811/12 110)",
+     "a": "f161-h162-1",
+     "sent": 192
+    },
+    {
+     "i": 13,
+     "t": "Heidelberger Schriften",
+     "a": "f167-h168-1",
+     "sent": 203
+    },
+    {
+     "i": 14,
+     "t": "2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816. XXXIII Abteilungen. 124)",
+     "a": "f168-h169-1",
+     "sent": 402
+    },
+    {
+     "i": 15,
+     "t": "",
+     "a": "",
+     "sent": 366
+    }
+   ],
+   "chars": 1139034,
+   "plain": 994760,
+   "sentences": 5501,
+   "navRoots": 2,
+   "terms": 13237
+  },
+  {
+   "id": "w5",
+   "dir": "5",
+   "bands": [
+    5,
+    6
+   ],
+   "de": "Wissenschaft der Logik",
+   "zh": "逻辑学（大逻辑）",
+   "years": "1812–1816",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Erster Teil Die objektive Logik",
+     "a": "f0-h1-1",
+     "sent": 299
+    },
+    {
+     "i": 1,
+     "t": "Allgemeine Einteilung der Logik",
+     "a": "f3-h4-1",
+     "sent": 192
+    },
+    {
+     "i": 2,
+     "t": "Erster Abschnitt Bestimmtheit (Qualität)",
+     "a": "f6-h7-1",
+     "sent": 246
+    },
+    {
+     "i": 3,
+     "t": "Anmerkung 4",
+     "a": "f9-h10-6",
+     "sent": 313
+    },
+    {
+     "i": 4,
+     "t": "c. Die Endlichkeit",
+     "a": "f20-h21-1",
+     "sent": 243
+    },
+    {
+     "i": 5,
+     "t": "Der Übergang",
+     "a": "f28-h29-1",
+     "sent": 207
+    },
+    {
+     "i": 6,
+     "t": "Anmerkung",
+     "a": "f37-h38-2",
+     "sent": 211
+    },
+    {
+     "i": 7,
+     "t": "Anmerkung 1",
+     "a": "f42-h43-3",
+     "sent": 271
+    },
+    {
+     "i": 8,
+     "t": "Anmerkung 2",
+     "a": "f46-h47-3",
+     "sent": 237
+    },
+    {
+     "i": 9,
+     "t": "Anmerkung 2",
+     "a": "f51-h52-3",
+     "sent": 394
+    },
+    {
+     "i": 10,
+     "t": "Anmerkung 2",
+     "a": "f54-h55-1",
+     "sent": 216
+    },
+    {
+     "i": 11,
+     "t": "Anmerkung 3",
+     "a": "f55-h56-1",
+     "sent": 167
+    },
+    {
+     "i": 12,
+     "t": "C. Potenzenverhältnis",
+     "a": "f59-h60-1",
+     "sent": 196
+    },
+    {
+     "i": 13,
+     "t": "Anmerkung",
+     "a": "f66-h67-2",
+     "sent": 206
+    },
+    {
+     "i": 14,
+     "t": "B. Knotenlinie von Maßverhältnissen",
+     "a": "f73-h74-1",
+     "sent": 210
+    },
+    {
+     "i": 15,
+     "t": "Erster Abschnitt Das Wesen als Reflexion in ihm selbst",
+     "a": "f79-h80-1",
+     "sent": 259
+    },
+    {
+     "i": 16,
+     "t": "Anmerkung 1",
+     "a": "f88-h89-2",
+     "sent": 261
+    },
+    {
+     "i": 17,
+     "t": "C. Der Widerspruch",
+     "a": "f92-h93-1",
+     "sent": 239
+    },
+    {
+     "i": 18,
+     "t": "b. Form und Materie",
+     "a": "f95-h96-1",
+     "sent": 247
+    },
+    {
+     "i": 19,
+     "t": "C. Die Bedingung",
+     "a": "f100-h101-1",
+     "sent": 241
+    },
+    {
+     "i": 20,
+     "t": "Anmerkung",
+     "a": "f107-h108-2",
+     "sent": 252
+    },
+    {
+     "i": 21,
+     "t": "C. Auflösung der Erscheinung",
+     "a": "f114-h115-1",
+     "sent": 243
+    },
+    {
+     "i": 22,
+     "t": "Dritter Abschnitt Die Wirklichkeit",
+     "a": "f122-h123-1",
+     "sent": 220
+    },
+    {
+     "i": 23,
+     "t": "B. Relative Notwendigkeit oder reale Wirklichkeit, Möglichkeit und Notwendigkeit",
+     "a": "f129-h130-1",
+     "sent": 271
+    },
+    {
+     "i": 24,
+     "t": "c. Wirkung und Gegenwirkung",
+     "a": "f136-h137-1",
+     "sent": 281
+    },
+    {
+     "i": 25,
+     "t": "Einteilung",
+     "a": "f140-h141-1",
+     "sent": 272
+    },
+    {
+     "i": 26,
+     "t": "C. Das Einzelne",
+     "a": "f145-h146-1",
+     "sent": 273
+    },
+    {
+     "i": 27,
+     "t": "c. Das unendliche Urteil",
+     "a": "f150-h151-1",
+     "sent": 216
+    },
+    {
+     "i": 28,
+     "t": "b. Das problematische Urteil",
+     "a": "f161-h162-1",
+     "sent": 203
+    },
+    {
+     "i": 29,
+     "t": "c. Die dritte Figur: E – A – B",
+     "a": "f167-h168-1",
+     "sent": 198
+    },
+    {
+     "i": 30,
+     "t": "a. Der kategorische Schluß",
+     "a": "f174-h175-1",
+     "sent": 211
+    },
+    {
+     "i": 31,
+     "t": "a. Der formale mechanische Prozeß",
+     "a": "f181-h182-1",
+     "sent": 237
+    },
+    {
+     "i": 32,
+     "t": "A. Der subjektive Zweck",
+     "a": "f191-h192-1",
+     "sent": 202
+    },
+    {
+     "i": 33,
+     "t": "Erstes Kapitel Das Leben",
+     "a": "f195-h196-1",
+     "sent": 226
+    },
+    {
+     "i": 34,
+     "t": "A. Die Idee des Wahren",
+     "a": "f200-h201-1",
+     "sent": 222
+    },
+    {
+     "i": 35,
+     "t": "3. Der Lehrsatz",
+     "a": "f205-h206-1",
+     "sent": 169
+    },
+    {
+     "i": 36,
+     "t": "Drittes Kapitel Die absolute Idee",
+     "a": "f207-h208-1",
+     "sent": 215
+    },
+    {
+     "i": 37,
+     "t": "Biographie",
+     "a": "f208-h209-1",
+     "sent": 159
+    }
+   ],
+   "chars": 2131416,
+   "plain": 1980337,
+   "sentences": 8925,
+   "navRoots": 15,
+   "terms": 11428
+  },
+  {
+   "id": "w7",
+   "dir": "7",
+   "bands": [
+    7
+   ],
+   "de": "Grundlinien der Philosophie des Rechts",
+   "zh": "法哲学原理",
+   "years": "1821",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Vorrede",
+     "a": "f0-h1-1",
+     "sent": 174
+    },
+    {
+     "i": 1,
+     "t": "§ 4",
+     "a": "",
+     "sent": 159
+    },
+    {
+     "i": 2,
+     "t": "Das abstrakte Recht",
+     "a": "f4-h5-1",
+     "sent": 190
+    },
+    {
+     "i": 3,
+     "t": "§ 67",
+     "a": "",
+     "sent": 169
+    },
+    {
+     "i": 4,
+     "t": "§ 101",
+     "a": "",
+     "sent": 174
+    },
+    {
+     "i": 5,
+     "t": "§ 133",
+     "a": "",
+     "sent": 158
+    },
+    {
+     "i": 6,
+     "t": "§ 149",
+     "a": "",
+     "sent": 145
+    },
+    {
+     "i": 7,
+     "t": "§ 186",
+     "a": "",
+     "sent": 154
+    },
+    {
+     "i": 8,
+     "t": "§ 220",
+     "a": "",
+     "sent": 139
+    },
+    {
+     "i": 9,
+     "t": "§ 261",
+     "a": "",
+     "sent": 142
+    },
+    {
+     "i": 10,
+     "t": "§ 274",
+     "a": "",
+     "sent": 152
+    },
+    {
+     "i": 11,
+     "t": "§ 302",
+     "a": "",
+     "sent": 151
+    },
+    {
+     "i": 12,
+     "t": "§ 334",
+     "a": "",
+     "sent": 67
+    }
+   ],
+   "chars": 598312,
+   "plain": 552147,
+   "sentences": 1974,
+   "navRoots": 14,
+   "terms": 7888
+  },
+  {
+   "id": "w10",
+   "dir": "10",
+   "bands": [
+    8,
+    9,
+    10
+   ],
+   "de": "Enzyklopädie der philosophischen Wissenschaften im Grundrisse",
+   "zh": "哲学科学全书纲要",
+   "years": "1830",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Vorrede zur ersten Ausgabe [1817]",
+     "a": "f0-h1-1",
+     "sent": 154
+    },
+    {
+     "i": 1,
+     "t": "Einleitung",
+     "a": "f3-h4-1",
+     "sent": 172
+    },
+    {
+     "i": 2,
+     "t": "Erster Teil. Die Wissenschaft der Logik",
+     "a": "f4-h5-1",
+     "sent": 360
+    },
+    {
+     "i": 3,
+     "t": "§ 25",
+     "a": "",
+     "sent": 239
+    },
+    {
+     "i": 4,
+     "t": "§ 39",
+     "a": "",
+     "sent": 194
+    },
+    {
+     "i": 5,
+     "t": "§ 50",
+     "a": "",
+     "sent": 178
+    },
+    {
+     "i": 6,
+     "t": "§ 64",
+     "a": "",
+     "sent": 185
+    },
+    {
+     "i": 7,
+     "t": "§ 82",
+     "a": "",
+     "sent": 206
+    },
+    {
+     "i": 8,
+     "t": "§ 92",
+     "a": "",
+     "sent": 203
+    },
+    {
+     "i": 9,
+     "t": "c. Der Grad",
+     "a": "f16-h17-1",
+     "sent": 189
+    },
+    {
+     "i": 10,
+     "t": "§ 113",
+     "a": "",
+     "sent": 177
+    },
+    {
+     "i": 11,
+     "t": "b. Die Existenz",
+     "a": "f22-h23-1",
+     "sent": 204
+    },
+    {
+     "i": 12,
+     "t": "§ 137",
+     "a": "",
+     "sent": 192
+    },
+    {
+     "i": 13,
+     "t": "§ 148",
+     "a": "",
+     "sent": 179
+    },
+    {
+     "i": 14,
+     "t": "§ 164",
+     "a": "",
+     "sent": 192
+    },
+    {
+     "i": 15,
+     "t": "§ 182",
+     "a": "",
+     "sent": 213
+    },
+    {
+     "i": 16,
+     "t": "§ 196",
+     "a": "",
+     "sent": 205
+    },
+    {
+     "i": 17,
+     "t": "§ 219",
+     "a": "",
+     "sent": 236
+    },
+    {
+     "i": 18,
+     "t": "Betrachtungsweisen der Natur",
+     "a": "f54-h55-1",
+     "sent": 226
+    },
+    {
+     "i": 19,
+     "t": "§ 249",
+     "a": "",
+     "sent": 210
+    },
+    {
+     "i": 20,
+     "t": "§ 259",
+     "a": "",
+     "sent": 284
+    },
+    {
+     "i": 21,
+     "t": "c. Der Fall",
+     "a": "f64-h65-1",
+     "sent": 406
+    },
+    {
+     "i": 22,
+     "t": "§ 271",
+     "a": "",
+     "sent": 242
+    },
+    {
+     "i": 23,
+     "t": "β. Die Körper des Gegensatzes",
+     "a": "f70-h71-1",
+     "sent": 312
+    },
+    {
+     "i": 24,
+     "t": "§ 287",
+     "a": "",
+     "sent": 263
+    },
+    {
+     "i": 25,
+     "t": "§ 299",
+     "a": "",
+     "sent": 241
+    },
+    {
+     "i": 26,
+     "t": "§ 305",
+     "a": "",
+     "sent": 422
+    },
+    {
+     "i": 27,
+     "t": "b. Die Besonderung des individuellen Körpers",
+     "a": "f84-h85-1",
+     "sent": 219
+    },
+    {
+     "i": 28,
+     "t": "§ 319",
+     "a": "",
+     "sent": 370
+    },
+    {
+     "i": 29,
+     "t": "β. Der Unterschied an der besonderten Körperlichkeit",
+     "a": "f86-h87-1",
+     "sent": 217
+    },
+    {
+     "i": 30,
+     "t": "§ 325",
+     "a": "",
+     "sent": 356
+    },
+    {
+     "i": 31,
+     "t": "2. Feuerprozeß",
+     "a": "f90-h91-1",
+     "sent": 218
+    },
+    {
+     "i": 32,
+     "t": "Dritte Abteilung. Organische Physik",
+     "a": "f94-h95-1",
+     "sent": 317
+    },
+    {
+     "i": 33,
+     "t": "§ 341",
+     "a": "",
+     "sent": 244
+    },
+    {
+     "i": 34,
+     "t": "§ 345",
+     "a": "",
+     "sent": 429
+    },
+    {
+     "i": 35,
+     "t": "§ 347",
+     "a": "",
+     "sent": 227
+    },
+    {
+     "i": 36,
+     "t": "§ 349",
+     "a": "",
+     "sent": 311
+    },
+    {
+     "i": 37,
+     "t": "§ 355",
+     "a": "",
+     "sent": 190
+    },
+    {
+     "i": 38,
+     "t": "§ 360",
+     "a": "",
+     "sent": 301
+    },
+    {
+     "i": 39,
+     "t": "§ 366",
+     "a": "",
+     "sent": 206
+    },
+    {
+     "i": 40,
+     "t": "β. Das Geschlechtsverhältnis",
+     "a": "f102-h103-1",
+     "sent": 240
+    },
+    {
+     "i": 41,
+     "t": "§ 374",
+     "a": "",
+     "sent": 209
+    },
+    {
+     "i": 42,
+     "t": "§ 382",
+     "a": "",
+     "sent": 265
+    },
+    {
+     "i": 43,
+     "t": "§ 390",
+     "a": "",
+     "sent": 285
+    },
+    {
+     "i": 44,
+     "t": "§ 395",
+     "a": "",
+     "sent": 328
+    },
+    {
+     "i": 45,
+     "t": "γ. Empfindung",
+     "a": "f113-h114-1",
+     "sent": 271
+    },
+    {
+     "i": 46,
+     "t": "§ 402",
+     "a": "",
+     "sent": 387
+    },
+    {
+     "i": 47,
+     "t": "β. Selbstgefühl",
+     "a": "f116-h117-1",
+     "sent": 245
+    },
+    {
+     "i": 48,
+     "t": "γ. Die Gewohnheit",
+     "a": "f117-h118-1",
+     "sent": 194
+    },
+    {
+     "i": 49,
+     "t": "§ 414",
+     "a": "",
+     "sent": 181
+    },
+    {
+     "i": 50,
+     "t": "β. Das anerkennende Selbstbewußtsein",
+     "a": "f125-h126-1",
+     "sent": 187
+    },
+    {
+     "i": 51,
+     "t": "§ 444",
+     "a": "",
+     "sent": 195
+    },
+    {
+     "i": 52,
+     "t": "§ 450",
+     "a": "",
+     "sent": 215
+    },
+    {
+     "i": 53,
+     "t": "§ 460",
+     "a": "",
+     "sent": 202
+    },
+    {
+     "i": 54,
+     "t": "§ 474",
+     "a": "",
+     "sent": 167
+    },
+    {
+     "i": 55,
+     "t": "§ 516",
+     "a": "",
+     "sent": 161
+    },
+    {
+     "i": 56,
+     "t": "§ 545",
+     "a": "",
+     "sent": 138
+    },
+    {
+     "i": 57,
+     "t": "§ 558",
+     "a": "",
+     "sent": 151
+    },
+    {
+     "i": 58,
+     "t": "§ 574",
+     "a": "",
+     "sent": 151
+    }
+   ],
+   "chars": 3398655,
+   "plain": 2990026,
+   "sentences": 14061,
+   "navRoots": 25,
+   "terms": 24000
+  },
+  {
+   "id": "w11",
+   "dir": "11",
+   "bands": [
+    11
+   ],
+   "de": "Berliner Schriften 1818–1831",
+   "zh": "柏林时期著作",
+   "years": "1818–1831",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Gutachten und Aufsätze",
+     "a": "f0-h1-1",
+     "sent": 174
+    },
+    {
+     "i": 1,
+     "t": "Vorrede zu Hinrichs' Religionsphilosophie 3)",
+     "a": "f2-h3-1",
+     "sent": 182
+    },
+    {
+     "i": 2,
+     "t": "Über eine Anklage wegen öffentlicher Verunglimpfung der katholischen Religion",
+     "a": "f3-h4-1",
+     "sent": 292
+    },
+    {
+     "i": 3,
+     "t": "Rezensionen aus den Jahrbüchern für wissenschaftliche Kritik",
+     "a": "f6-h7-1",
+     "sent": 559
+    },
+    {
+     "i": 4,
+     "t": "Solgers nachgelassene Schriften und Briefwechsel",
+     "a": "f8-h9-1",
+     "sent": 211
+    },
+    {
+     "i": 5,
+     "t": "Zweiter Artikel",
+     "a": "f9-h10-1",
+     "sent": 247
+    },
+    {
+     "i": 6,
+     "t": "Hamanns Schriften",
+     "a": "f10-h11-1",
+     "sent": 196
+    },
+    {
+     "i": 7,
+     "t": "Zweiter Artikel 83)",
+     "a": "f11-h12-1",
+     "sent": 344
+    },
+    {
+     "i": 8,
+     "t": "Aphorismen über Nichtwissen und absolutes Wissen im Verhältnisse zur christlichen Glaubenserkenntnis",
+     "a": "f12-h13-1",
+     "sent": 220
+    },
+    {
+     "i": 9,
+     "t": "1. Über die Hegelsche Lehre oder absolutes Wissen und moderner Pantheismus",
+     "a": "f13-h14-1",
+     "sent": 188
+    },
+    {
+     "i": 10,
+     "t": "Zweiter Artikel",
+     "a": "f14-h15-1",
+     "sent": 164
+    },
+    {
+     "i": 11,
+     "t": "Dritter Artikel",
+     "a": "f15-h16-1",
+     "sent": 170
+    },
+    {
+     "i": 12,
+     "t": "Der Idealrealismus. Erster Teil Auch unter dem besonderen Titel: Der Idealrealismus als Metaphysik in die Stelle des Idealismus und Realismus gesetzt",
+     "a": "f16-h17-1",
+     "sent": 217
+    },
+    {
+     "i": 13,
+     "t": "Fragmente, Notizen, Aphorismen",
+     "a": "f18-h19-1",
+     "sent": 218
+    },
+    {
+     "i": 14,
+     "t": "[Sechstes Bruchstück]",
+     "a": "f25-h26-1",
+     "sent": 284
+    },
+    {
+     "i": 15,
+     "t": "(42)",
+     "a": "f32-h33-22",
+     "sent": 35
+    }
+   ],
+   "chars": 1189979,
+   "plain": 1080385,
+   "sentences": 3701,
+   "navRoots": 3,
+   "terms": 17383
+  },
+  {
+   "id": "w12",
+   "dir": "12",
+   "bands": [
+    12
+   ],
+   "de": "Vorlesungen über die Philosophie der Geschichte",
+   "zh": "历史哲学讲演录",
+   "years": "1822–1831",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Einleitung",
+     "a": "f0-h1-1",
+     "sent": 671
+    },
+    {
+     "i": 1,
+     "t": "Geographische Grundlage der Weltgeschichte",
+     "a": "f1-h2-1",
+     "sent": 484
+    },
+    {
+     "i": 2,
+     "t": "Einteilung",
+     "a": "f2-h3-1",
+     "sent": 489
+    },
+    {
+     "i": 3,
+     "t": "Zweiter Abschnitt: Indien",
+     "a": "f5-h6-1",
+     "sent": 382
+    },
+    {
+     "i": 4,
+     "t": "Der Buddhismus 14)",
+     "a": "f6-h7-1",
+     "sent": 275
+    },
+    {
+     "i": 5,
+     "t": "Drittes Kapitel. Das persische Reich und seine Bestandteile",
+     "a": "f10-h11-1",
+     "sent": 428
+    },
+    {
+     "i": 6,
+     "t": "Übergang zur griechischen Welt",
+     "a": "f15-h16-1",
+     "sent": 249
+    },
+    {
+     "i": 7,
+     "t": "Zweiter Abschnitt: Die Gestaltungen der schönen Individualität",
+     "a": "f18-h19-1",
+     "sent": 249
+    },
+    {
+     "i": 8,
+     "t": "Sparta",
+     "a": "f23-h24-1",
+     "sent": 232
+    },
+    {
+     "i": 9,
+     "t": "Erster Abschnitt: Rom bis zum zweiten Punischen Kriege",
+     "a": "f28-h29-1",
+     "sent": 289
+    },
+    {
+     "i": 10,
+     "t": "Zweiter Abschnitt: Rom vom zweiten Punischen Kriege bis zum Kaisertum",
+     "a": "f30-h31-1",
+     "sent": 421
+    },
+    {
+     "i": 11,
+     "t": "Drittes Kapitel. Das byzantinische Reich",
+     "a": "f33-h34-1",
+     "sent": 309
+    },
+    {
+     "i": 12,
+     "t": "Drittes Kapitel. Das Reich Karls des Großen",
+     "a": "f37-h38-1",
+     "sent": 377
+    },
+    {
+     "i": 13,
+     "t": "Zweites Kapitel. Die Kreuzzüge",
+     "a": "f40-h41-1",
+     "sent": 248
+    },
+    {
+     "i": 14,
+     "t": "Dritter Abschnitt: Die neue Zeit",
+     "a": "f43-h44-1",
+     "sent": 290
+    },
+    {
+     "i": 15,
+     "t": "Drittes Kapitel. Die Aufklärung und Revolution",
+     "a": "f46-h47-1",
+     "sent": 314
+    },
+    {
+     "i": 16,
+     "t": "Anfang des zweiten Entwurfs der Einleitung: Die philosophische Weltgeschichte (1830)",
+     "a": "f48-h49-1",
+     "sent": 31
+    }
+   ],
+   "chars": 1155763,
+   "plain": 1084034,
+   "sentences": 5738,
+   "navRoots": 6,
+   "terms": 15779
+  },
+  {
+   "id": "w13",
+   "dir": "13",
+   "bands": [
+    13,
+    14,
+    15
+   ],
+   "de": "Vorlesungen über die Ästhetik",
+   "zh": "美学讲演录",
+   "years": "1820–1829",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Einleitung",
+     "a": "f0-h1-1",
+     "sent": 212
+    },
+    {
+     "i": 1,
+     "t": "III. Begriff des Kunstschönen",
+     "a": "f3-h4-1",
+     "sent": 195
+    },
+    {
+     "i": 2,
+     "t": "3. Zweck der Kunst",
+     "a": "f7-h8-1",
+     "sent": 189
+    },
+    {
+     "i": 3,
+     "t": "2. Schiller, Winckelmann, Schelling",
+     "a": "f10-h11-1",
+     "sent": 305
+    },
+    {
+     "i": 4,
+     "t": "Erster Teil. Die Idee des Kunstschönen oder das Ideal",
+     "a": "f13-h14-1",
+     "sent": 237
+    },
+    {
+     "i": 5,
+     "t": "2. Das Dasein der Idee",
+     "a": "f15-h16-1",
+     "sent": 240
+    },
+    {
+     "i": 6,
+     "t": "3. Betrachtungsweisen der natürlichen Lebendigkeit",
+     "a": "f20-h21-1",
+     "sent": 268
+    },
+    {
+     "i": 7,
+     "t": "3. Die Beschränktheit des unmittelbaren einzelnen Daseins",
+     "a": "f30-h31-1",
+     "sent": 253
+    },
+    {
+     "i": 8,
+     "t": "B. Die Bestimmtheit des Ideals",
+     "a": "f34-h35-1",
+     "sent": 186
+    },
+    {
+     "i": 9,
+     "t": "b. Gegenwärtige prosaische Zustände",
+     "a": "f41-h42-1",
+     "sent": 267
+    },
+    {
+     "i": 10,
+     "t": "3. Die Handlung",
+     "a": "f47-h48-1",
+     "sent": 247
+    },
+    {
+     "i": 11,
+     "t": "c. Der Charakter",
+     "a": "f50-h51-1",
+     "sent": 337
+    },
+    {
+     "i": 12,
+     "t": "3. Die Äußerlichkeit des idealen Kunstwerks im Verhältnis zum Publikum",
+     "a": "f54-h55-1",
+     "sent": 196
+    },
+    {
+     "i": 13,
+     "t": "a. Die Phantasie",
+     "a": "f57-h58-1",
+     "sent": 201
+    },
+    {
+     "i": 14,
+     "t": "Zweiter Teil. Entwicklung des Ideals zu den besonderen Formen des Kunstschönen",
+     "a": "f65-h66-1",
+     "sent": 192
+    },
+    {
+     "i": 15,
+     "t": "1. Die unbewußte Symbolik",
+     "a": "f68-h69-1",
+     "sent": 269
+    },
+    {
+     "i": 16,
+     "t": "3. Anschauung von Reinigung und Buße",
+     "a": "f79-h80-1",
+     "sent": 190
+    },
+    {
+     "i": 17,
+     "t": "A. Der Pantheismus der Kunst",
+     "a": "f85-h86-1",
+     "sent": 242
+    },
+    {
+     "i": 18,
+     "t": "2. Parabel, Sprichwort, Apolog",
+     "a": "f96-h97-1",
+     "sent": 193
+    },
+    {
+     "i": 19,
+     "t": "c. Das Gleichnis",
+     "a": "f106-h107-1",
+     "sent": 198
+    },
+    {
+     "i": 20,
+     "t": "1. Selbständigkeit des Klassischen als Durchdringung des Geistigen und seiner Naturgestalt",
+     "a": "f112-h113-1",
+     "sent": 217
+    },
+    {
+     "i": 21,
+     "t": "2. Der Kampf der alten und neuen Götter",
+     "a": "f121-h122-1",
+     "sent": 187
+    },
+    {
+     "i": 22,
+     "t": "c. Naturgrundlage der neuen Götter",
+     "a": "f128-h129-1",
+     "sent": 184
+    },
+    {
+     "i": 23,
+     "t": "3. Die einzelne Individualität der Götter",
+     "a": "f138-h139-1",
+     "sent": 183
+    },
+    {
+     "i": 24,
+     "t": "c. Auflösung der klassischen Kunst in ihrem eigenen Bereich",
+     "a": "f147-h148-1",
+     "sent": 164
+    },
+    {
+     "i": 25,
+     "t": "Einteilung",
+     "a": "f156-h157-1",
+     "sent": 179
+    },
+    {
+     "i": 26,
+     "t": "b. Die innere Buße und Bekehrung",
+     "a": "f168-h169-1",
+     "sent": 158
+    },
+    {
+     "i": 27,
+     "t": "c. Zufälligkeit der Liebe",
+     "a": "f178-h179-1",
+     "sent": 189
+    },
+    {
+     "i": 28,
+     "t": "2. Die Abenteuerlichkeit",
+     "a": "f188-h189-1",
+     "sent": 235
+    },
+    {
+     "i": 29,
+     "t": "Dritter Teil. Das System der einzelnen Künste",
+     "a": "f196-h197-1",
+     "sent": 207
+    },
+    {
+     "i": 30,
+     "t": "Erstes Kapitel: Die selbständige, symbolische Architektur",
+     "a": "f199-h200-1",
+     "sent": 201
+    },
+    {
+     "i": 31,
+     "t": "c. Übergang zur dienenden Baukunst",
+     "a": "f208-h209-1",
+     "sent": 205
+    },
+    {
+     "i": 32,
+     "t": "c. Der klassische Tempel als Ganzes",
+     "a": "f215-h216-1",
+     "sent": 219
+    },
+    {
+     "i": 33,
+     "t": "c. Die Verzierungsweise",
+     "a": "f225-h226-1",
+     "sent": 210
+    },
+    {
+     "i": 34,
+     "t": "a. Ausscheidung der Partikularität der Erscheinung",
+     "a": "f234-h235-1",
+     "sent": 204
+    },
+    {
+     "i": 35,
+     "t": "b. Stellung und Bewegung des Körpers",
+     "a": "f242-h243-1",
+     "sent": 182
+    },
+    {
+     "i": 36,
+     "t": "b. Unterschiede des Alters, Geschlechts, der Götter, Heroen, Menschen, Tiere",
+     "a": "f246-h247-1",
+     "sent": 207
+    },
+    {
+     "i": 37,
+     "t": "c. Edelsteine und Glas",
+     "a": "f256-h257-1",
+     "sent": 163
+    },
+    {
+     "i": 38,
+     "t": "Erstes Kapitel: Die Malerei",
+     "a": "f262-h263-1",
+     "sent": 166
+    },
+    {
+     "i": 39,
+     "t": "a. Der romantische Inhalt",
+     "a": "f268-h269-1",
+     "sent": 217
+    },
+    {
+     "i": 40,
+     "t": "b. Nähere Bestimmungen des sinnlichen Materials",
+     "a": "f269-h270-1",
+     "sent": 345
+    },
+    {
+     "i": 41,
+     "t": "3. Historische Entwicklung der Malerei",
+     "a": "f271-h272-1",
+     "sent": 148
+    },
+    {
+     "i": 42,
+     "t": "Zweites Kapitel: Die Musik",
+     "a": "f275-h276-1",
+     "sent": 192
+    },
+    {
+     "i": 43,
+     "t": "2. Besondere Bestimmtheit der musikalischen Ausdrucksmittel",
+     "a": "f280-h281-1",
+     "sent": 213
+    },
+    {
+     "i": 44,
+     "t": "c. Die Melodie",
+     "a": "f283-h284-1",
+     "sent": 219
+    },
+    {
+     "i": 45,
+     "t": "b. Die selbständige Musik",
+     "a": "f286-h287-1",
+     "sent": 174
+    },
+    {
+     "i": 46,
+     "t": "A. Das poetische Kunstwerk im Unterschiede des prosaischen",
+     "a": "f289-h290-1",
+     "sent": 204
+    },
+    {
+     "i": 47,
+     "t": "c. Das freie poetische Kunstwerk",
+     "a": "f296-h297-1",
+     "sent": 155
+    },
+    {
+     "i": 48,
+     "t": "3. Die Versifikation",
+     "a": "f307-h308-1",
+     "sent": 188
+    },
+    {
+     "i": 49,
+     "t": "c. Vereinigung von rhythmischer Versifikation und Reim",
+     "a": "f310-h311-1",
+     "sent": 161
+    },
+    {
+     "i": 50,
+     "t": "2. Besondere Bestimmungen des eigentlichen Epos",
+     "a": "f316-h317-1",
+     "sent": 275
+    },
+    {
+     "i": 51,
+     "t": "c. Das Epos als einheitsvolle Totalität",
+     "a": "f319-h320-1",
+     "sent": 167
+    },
+    {
+     "i": 52,
+     "t": "a. Das orientalische Epos",
+     "a": "f321-h322-1",
+     "sent": 134
+    },
+    {
+     "i": 53,
+     "t": "1. Allgemeiner Charakter der Lyrik",
+     "a": "f325-h326-1",
+     "sent": 178
+    },
+    {
+     "i": 54,
+     "t": "b. Das lyrische Kunstwerk",
+     "a": "f331-h332-1",
+     "sent": 178
+    },
+    {
+     "i": 55,
+     "t": "b. Die Lyrik der Griechen und Römer",
+     "a": "f335-h336-1",
+     "sent": 227
+    },
+    {
+     "i": 56,
+     "t": "c. Verhältnis des dramatischen Kunstwerks zum Publikum",
+     "a": "f341-h342-1",
+     "sent": 182
+    },
+    {
+     "i": 57,
+     "t": "3. Die Arten der dramatischen Poesie und deren historische Hauptmomente",
+     "a": "f346-h347-1",
+     "sent": 411
+    }
+   ],
+   "chars": 3252565,
+   "plain": 3047198,
+   "sentences": 12245,
+   "navRoots": 4,
+   "terms": 26621
+  },
+  {
+   "id": "w16",
+   "dir": "16",
+   "bands": [
+    16,
+    17
+   ],
+   "de": "Vorlesungen über die Philosophie der Religion",
+   "zh": "宗教哲学讲演录",
+   "years": "1821–1831",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Einleitung",
+     "a": "f0-h1-1",
+     "sent": 198
+    },
+    {
+     "i": 1,
+     "t": "2. Verhältnis der Religionsphilosophie zum System der Philosophie",
+     "a": "f3-h4-1",
+     "sent": 190
+    },
+    {
+     "i": 2,
+     "t": "B. Vorfragen",
+     "a": "f9-h10-1",
+     "sent": 239
+    },
+    {
+     "i": 3,
+     "t": "II. Das Urteil oder die bestimmte Religion",
+     "a": "f15-h16-1",
+     "sent": 247
+    },
+    {
+     "i": 4,
+     "t": "B. Das religiöse Verhältnis",
+     "a": "f19-h20-1",
+     "sent": 414
+    },
+    {
+     "i": 5,
+     "t": "2. Die Anschauung",
+     "a": "f23-h24-1",
+     "sent": 338
+    },
+    {
+     "i": 6,
+     "t": "b. Das vermittelte Wissen als Beobachtung und als Reflexion",
+     "a": "f29-h30-1",
+     "sent": 300
+    },
+    {
+     "i": 7,
+     "t": "c. Übergang zum spekulativen Begriff der Religion",
+     "a": "f33-h34-1",
+     "sent": 289
+    },
+    {
+     "i": 8,
+     "t": "II. Die Bestimmtheit und die besonderen Formen des Kultus",
+     "a": "f37-h38-1",
+     "sent": 266
+    },
+    {
+     "i": 9,
+     "t": "Übergang in den folgenden Abschnitt",
+     "a": "f39-h40-1",
+     "sent": 316
+    },
+    {
+     "i": 10,
+     "t": "1. Die Zauberei",
+     "a": "f42-h43-1",
+     "sent": 263
+    },
+    {
+     "i": 11,
+     "t": "3. Der Kultus in der Religion der Zauberei",
+     "a": "f44-h45-1",
+     "sent": 332
+    },
+    {
+     "i": 12,
+     "t": "c. Der Kultus",
+     "a": "f49-h50-1",
+     "sent": 281
+    },
+    {
+     "i": 13,
+     "t": "c. Der Kultus",
+     "a": "f52-h53-1",
+     "sent": 278
+    },
+    {
+     "i": 14,
+     "t": "c. Der Kultus",
+     "a": "f55-h56-1",
+     "sent": 229
+    },
+    {
+     "i": 15,
+     "t": "2. Die syrische Religion oder die Religion des Schmerzes",
+     "a": "f60-h61-1",
+     "sent": 264
+    },
+    {
+     "i": 16,
+     "t": "c. Der Kultus",
+     "a": "f64-h65-1",
+     "sent": 252
+    },
+    {
+     "i": 17,
+     "t": "1. Der Begriff des Einen",
+     "a": "f68-h69-1",
+     "sent": 368
+    },
+    {
+     "i": 18,
+     "t": "C. Einteilung",
+     "a": "f71-h72-1",
+     "sent": 418
+    },
+    {
+     "i": 19,
+     "t": "3. Der Kultus",
+     "a": "f77-h78-1",
+     "sent": 357
+    },
+    {
+     "i": 20,
+     "t": "b. Die gestaltlose Notwendigkeit",
+     "a": "f82-h83-1",
+     "sent": 295
+    },
+    {
+     "i": 21,
+     "t": "b. Der Kultus als Dienst",
+     "a": "f89-h90-1",
+     "sent": 278
+    },
+    {
+     "i": 22,
+     "t": "2. Diese Religion als die römische",
+     "a": "f92-h93-1",
+     "sent": 228
+    },
+    {
+     "i": 23,
+     "t": "Dritter Teil. Die absolute Religion",
+     "a": "f94-h95-1",
+     "sent": 331
+    },
+    {
+     "i": 24,
+     "t": "C. Einteilung",
+     "a": "f99-h100-1",
+     "sent": 331
+    },
+    {
+     "i": 25,
+     "t": "II. Die ewige Idee Gottes im Elemente des Bewußtseins und Vorstellens, oder die Differenz: Das Reich des Sohnes",
+     "a": "f104-h105-1",
+     "sent": 648
+    },
+    {
+     "i": 26,
+     "t": "III. Die Idee im Element der Gemeinde: Das Reich des Geistes",
+     "a": "f108-h109-1",
+     "sent": 328
+    },
+    {
+     "i": 27,
+     "t": "3. Die Realisierung des Geistigen zur allgemeinen Wirklichkeit",
+     "a": "f111-h112-1",
+     "sent": 216
+    },
+    {
+     "i": 28,
+     "t": "Zweite Vorlesung",
+     "a": "f113-h114-1",
+     "sent": 205
+    },
+    {
+     "i": 29,
+     "t": "Sechste Vorlesung",
+     "a": "f117-h118-1",
+     "sent": 183
+    },
+    {
+     "i": 30,
+     "t": "Zehnte Vorlesung",
+     "a": "f121-h122-1",
+     "sent": 241
+    },
+    {
+     "i": 31,
+     "t": "Elfte Vorlesung",
+     "a": "f123-h124-1",
+     "sent": 182
+    },
+    {
+     "i": 32,
+     "t": "Vierzehnte Vorlesung",
+     "a": "f126-h127-1",
+     "sent": 212
+    },
+    {
+     "i": 33,
+     "t": "Ausführung des teleologischen Beweises in den Vorlesungen über Religionsphilosophie vom Sommer 1831",
+     "a": "f129-h130-1",
+     "sent": 325
+    },
+    {
+     "i": 34,
+     "t": "Ausführung des ontologischen Beweises in den Vorlesungen über Religionsphilosophie vom Jahre 1831",
+     "a": "f131-h132-1",
+     "sent": 82
+    }
+   ],
+   "chars": 2057344,
+   "plain": 1881109,
+   "sentences": 9924,
+   "navRoots": 5,
+   "terms": 12935
+  },
+  {
+   "id": "w18",
+   "dir": "18",
+   "bands": [
+    18,
+    19,
+    20
+   ],
+   "de": "Vorlesungen über die Geschichte der Philosophie",
+   "zh": "哲学史讲演录",
+   "years": "1805–1831",
+   "chunks": [
+    {
+     "i": 0,
+     "t": "Einleitung [Heidelberger Niederschrift] 1)",
+     "a": "f0-h1-1",
+     "sent": 188
+    },
+    {
+     "i": 1,
+     "t": "c. Erklärungen über die Verschiedenheit der Philosophien",
+     "a": "f5-h6-1",
+     "sent": 294
+    },
+    {
+     "i": 2,
+     "t": "c. Nähere Vergleichung der Geschichte der Philosophie mit der Philosophie selbst",
+     "a": "f13-h14-1",
+     "sent": 247
+    },
+    {
+     "i": 3,
+     "t": "b. Verhältnis der Philosophie zur Religion",
+     "a": "f21-h22-1",
+     "sent": 384
+    },
+    {
+     "i": 4,
+     "t": "c. Abscheidung der Philosophie von der Populärphilosophie",
+     "a": "f22-h23-1",
+     "sent": 290
+    },
+    {
+     "i": 5,
+     "t": "3. Abhandlungsweise",
+     "a": "f29-h30-1",
+     "sent": 320
+    },
+    {
+     "i": 6,
+     "t": "2. Die Philosophie des Gotama und Kanade",
+     "a": "f34-h35-1",
+     "sent": 293
+    },
+    {
+     "i": 7,
+     "t": "Erstes Kapitel: Von Thales bis Anaxagoras",
+     "a": "f39-h40-1",
+     "sent": 282
+    },
+    {
+     "i": 8,
+     "t": "3. Anaximenes",
+     "a": "f43-h44-1",
+     "sent": 475
+    },
+    {
+     "i": 9,
+     "t": "2. Anwendung der Zahlen aufs Universum",
+     "a": "f46-h47-1",
+     "sent": 311
+    },
+    {
+     "i": 10,
+     "t": "2. Parmenides",
+     "a": "f50-h51-1",
+     "sent": 412
+    },
+    {
+     "i": 11,
+     "t": "D. Philosophie des Heraklit",
+     "a": "f53-h54-1",
+     "sent": 266
+    },
+    {
+     "i": 12,
+     "t": "E. Empedokles, Leukipp und Demokrit",
+     "a": "f57-h58-1",
+     "sent": 310
+    },
+    {
+     "i": 13,
+     "t": "F. Anaxagoras",
+     "a": "f60-h61-1",
+     "sent": 266
+    },
+    {
+     "i": 14,
+     "t": "3. Beziehung beider Seiten",
+     "a": "f63-h64-1",
+     "sent": 408
+    },
+    {
+     "i": 15,
+     "t": "1. Protagoras",
+     "a": "f66-h67-1",
+     "sent": 284
+    },
+    {
+     "i": 16,
+     "t": "1. Sokratische Methode",
+     "a": "f69-h70-1",
+     "sent": 434
+    },
+    {
+     "i": 17,
+     "t": "3. Schicksal des Sokrates",
+     "a": "f71-h72-1",
+     "sent": 304
+    },
+    {
+     "i": 18,
+     "t": "1. Die megarische Schule",
+     "a": "f73-h74-1",
+     "sent": 288
+    },
+    {
+     "i": 19,
+     "t": "b. Theodoros",
+     "a": "f79-h80-1",
+     "sent": 717
+    },
+    {
+     "i": 20,
+     "t": "1. Dialektik",
+     "a": "f88-h89-1",
+     "sent": 284
+    },
+    {
+     "i": 21,
+     "t": "2. Naturphilosophie",
+     "a": "f89-h90-1",
+     "sent": 544
+    },
+    {
+     "i": 22,
+     "t": "B. Philosophie des Aristoteles",
+     "a": "f91-h92-1",
+     "sent": 431
+    },
+    {
+     "i": 23,
+     "t": "2. Naturphilosophie",
+     "a": "f93-h94-1",
+     "sent": 358
+    },
+    {
+     "i": 24,
+     "t": "3. Philosophie des Geistes",
+     "a": "f94-h95-1",
+     "sent": 287
+    },
+    {
+     "i": 25,
+     "t": "b. Praktische Philosophie",
+     "a": "f96-h97-1",
+     "sent": 304
+    },
+    {
+     "i": 26,
+     "t": "Zweiter Abschnitt: Dogmatismus und Skeptizismus",
+     "a": "f100-h101-1",
+     "sent": 327
+    },
+    {
+     "i": 27,
+     "t": "3. Moral",
+     "a": "f104-h105-1",
+     "sent": 278
+    },
+    {
+     "i": 28,
+     "t": "1. Kanonik",
+     "a": "f106-h107-1",
+     "sent": 381
+    },
+    {
+     "i": 29,
+     "t": "C. Philosophie der Neuakademiker",
+     "a": "f110-h111-1",
+     "sent": 436
+    },
+    {
+     "i": 30,
+     "t": "1. Ältere Tropen",
+     "a": "f114-h115-1",
+     "sent": 314
+    },
+    {
+     "i": 31,
+     "t": "Dritter Abschnitt: Neuplatoniker",
+     "a": "f116-h117-1",
+     "sent": 255
+    },
+    {
+     "i": 32,
+     "t": "B. Kabbala und Gnostizismus",
+     "a": "f118-h119-1",
+     "sent": 448
+    },
+    {
+     "i": 33,
+     "t": "3. Porphyr und Jamblich",
+     "a": "f124-h125-1",
+     "sent": 275
+    },
+    {
+     "i": 34,
+     "t": "Zweiter Teil: Philosophie des Mittelalters",
+     "a": "f127-h128-1",
+     "sent": 239
+    },
+    {
+     "i": 35,
+     "t": "A. Philosophie der Medabberim",
+     "a": "f129-h130-1",
+     "sent": 366
+    },
+    {
+     "i": 36,
+     "t": "B. Allgemeine geschichtliche Gesichtspunkte",
+     "a": "f134-h135-1",
+     "sent": 236
+    },
+    {
+     "i": 37,
+     "t": "d. Buridan",
+     "a": "f149-h150-1",
+     "sent": 259
+    },
+    {
+     "i": 38,
+     "t": "A. Studium der Alten",
+     "a": "f160-h161-1",
+     "sent": 283
+    },
+    {
+     "i": 39,
+     "t": "4. Vanini",
+     "a": "f169-h170-1",
+     "sent": 350
+    },
+    {
+     "i": 40,
+     "t": "Erster Abschnitt: Bacon und Böhme",
+     "a": "f173-h174-1",
+     "sent": 469
+    },
+    {
+     "i": 41,
+     "t": "Zweiter Abschnitt: Periode des denkenden Verstandes",
+     "a": "f176-h177-1",
+     "sent": 406
+    },
+    {
+     "i": 42,
+     "t": "2. Spinoza",
+     "a": "f179-h180-1",
+     "sent": 492
+    },
+    {
+     "i": 43,
+     "t": "3. Malebranche",
+     "a": "f180-h181-1",
+     "sent": 318
+    },
+    {
+     "i": 44,
+     "t": "2. Hugo Grotius",
+     "a": "f182-h183-1",
+     "sent": 333
+    },
+    {
+     "i": 45,
+     "t": "2. Wolff",
+     "a": "f188-h189-1",
+     "sent": 262
+    },
+    {
+     "i": 46,
+     "t": "B. Schottische Philosophie",
+     "a": "f194-h195-1",
+     "sent": 229
+    },
+    {
+     "i": 47,
+     "t": "b. Helvetius",
+     "a": "f206-h207-1",
+     "sent": 264
+    },
+    {
+     "i": 48,
+     "t": "B. Kant",
+     "a": "f211-h212-1",
+     "sent": 654
+    },
+    {
+     "i": 49,
+     "t": "C. Fichte",
+     "a": "f212-h213-1",
+     "sent": 303
+    },
+    {
+     "i": 50,
+     "t": "2. Fichtes neu umgebildetes System",
+     "a": "f214-h215-1",
+     "sent": 420
+    },
+    {
+     "i": 51,
+     "t": "E. Resultat",
+     "a": "f221-h222-1",
+     "sent": 229
+    },
+    {
+     "i": 52,
+     "t": "II. Begriff der Philosophie",
+     "a": "f224-h225-1",
+     "sent": 209
+    },
+    {
+     "i": 53,
+     "t": "a. Folgen über Ansicht sowie über die Behandlung der Philosophie überhaupt 1389)",
+     "a": "f225-h226-1",
+     "sent": 63
+    }
+   ],
+   "chars": 3638475,
+   "plain": 3135573,
+   "sentences": 18079,
+   "navRoots": 6,
+   "terms": 23840
+  }
+ ]
+}

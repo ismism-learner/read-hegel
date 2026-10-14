@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>阅读 · 黑格尔全集</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/reader.css">
+</head>
+<body class="reader" data-pagemarks="on" data-layout="mono">
+
+<header class="topbar reader-bar">
+  <button class="btn sidebar-toggle" id="nav-toggle" title="目录 (m)">☰</button>
+  <a class="btn" href="index.html" title="返回书架">← 书架</a>
+  <select class="vol-select" id="vol-select" aria-label="选择卷次"></select>
+  <span class="crumb-now" id="crumb-now"></span>
+  <div class="spacer"></div>
+  <div class="seg" id="layout-seg" role="group" aria-label="版面">
+    <button class="btn" data-layout="mono" title="仅德文原文">原文</button>
+    <button class="btn" data-layout="bi" title="德文 + 中文">德·中</button>
+    <button class="btn" data-layout="tri" title="德文 + 英文 + 中文">德·英·中</button>
+  </div>
+  <button class="btn js-en-toggle" id="en-toggle" title="显示/隐藏英文栏">EN</button>
+  <div class="group">
+    <button class="btn" id="prev-chunk" title="上一节 (←)">‹</button>
+    <button class="btn" id="next-chunk" title="下一节 (→)">›</button>
+  </div>
+  <button class="btn" id="btn-mark" title="收藏本节 (b)">☆</button>
+  <button class="btn" id="btn-cite" title="复制引用">引用</button>
+  <div class="seg js-theme" role="group" aria-label="配色">
+    <button class="btn" data-theme="light" title="明亮">☀</button>
+    <button class="btn" data-theme="sepia" title="暖褐">◐</button>
+    <button class="btn" data-theme="dark" title="夜间">☾</button>
+  </div>
+  <div class="group">
+    <button class="btn js-font-dec" title="减小字号">A−</button>
+    <span class="badge js-val" style="min-width:2.6em;text-align:center"></span>
+    <button class="btn js-font-inc" title="增大字号">A+</button>
+  </div>
+  <button class="btn js-pagemarks" title="原书页码">¶</button>
+</header>
+
+<div class="reader">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar__head">
+      <div class="sidebar__tabs">
+        <button class="btn is-active" data-tab="toc">目录</button>
+        <button class="btn" data-tab="search">卷内检索</button>
+        <button class="btn" data-tab="marks">书签</button>
+      </div>
+      <label class="filter-field" id="toc-filter-wrap">
+        <span aria-hidden="true">⌕</span>
+        <input id="toc-filter" type="search" placeholder="筛选章节标题…" aria-label="筛选章节标题">
+      </label>
+    </div>
+    <div class="sidebar__body" id="sidebar-body"></div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <main class="doc" id="doc">
+    <div class="doc-inner">
+      <header class="doc-head">
+        <div class="bands" id="doc-bands"></div>
+        <h1 id="doc-title"></h1>
+        <div class="zh" id="doc-zh"></div>
+        <div class="crumbs" id="doc-crumbs"></div>
+        <div class="trans-stat" id="trans-stat"></div>
+      </header>
+      <article class="text" id="text" lang="de"></article>
+      <nav class="pager" id="pager"></nav>
+    </div>
+  </main>
+</div>
+
+<div class="progressline"><i id="progress-i"></i></div>
+
+<div class="sel-pop" id="sel-pop"></div>
+
+<script type="module" src="assets/reader.js"></script>
+</body>
+</html>

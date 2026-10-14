@@ -1,0 +1,70 @@
+{
+ "id": "w2-13-54",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1fe4r6b1ya",
+   "sents": [
+    "Das erste Subjektive im Studium der Wissenschaften ist Ehrlichkeit gegen sich selbst.",
+    "Zweifeln an allem ist leicht gedacht und gesagt, aber die Frage ist, ob es wahr ist?",
+    "Das leere Wort, wenn nicht die ganze Natur des Wesens sich verleugnet, ist eine Lüge, und es ist entsetzlich, was die Menschen sich selbst und andere belügen und überreden wollen."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "s6hngbxllx",
+   "sents": [
+    "Zum Studium einer Wissenschaft ist notwendig, sich nicht durch die Prinzipien abwendig machen zu lassen.",
+    "Sie sind allgemein und bedeuten nicht viel.",
+    "Wie es scheint, erst der hat ihre Bedeutung, der das Besondere hat.",
+    "Oft sind sie auch schlecht.",
+    "Sie sind das Bewußtsein über die Sache, und die Sache ist oft besser als das Bewußtsein.",
+    "Man studiere fort.",
+    "Zuerst ist das Bewußtsein trüb.",
+    "Nur nicht Schritt für Schritt begriffen und bewiesen haben wollen, sondern man wirft das Buch weg, liest wie zwischen Wachen und Schlafen fort, resigniert auf sein Bewußtsein, d. h. auf seine Einzelheit, was peinlich ist.",
+    "So habe ich Differentialrechnung und anderes studiert.",
+    "So von anderen gehört, die Kants Kritik der reinen Vernunft so studierten."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "3nnnv3tvh0",
+   "sents": [
+    "Originelle ganz wunderbare Werke in der Bildung gleichen einer Bombe, die in eine faule Stadt fällt, worin alles beim Bierkrug sitzt und höchst weise ist und nicht fühlt, daß ihr plattes Wohlsein eben das Krachen des Donners herbeigeführt."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "1e37cyo1d7",
+   "sents": [
+    "Am schädlichsten ist es, sich vor Irrtümern bewahren zu wollen.",
+    "Die Furcht, aktiv sich Irrtum zu schaffen, ist die Behaglichkeit und die Begleitung von absolut passivem Irrtum.",
+    "So hat der Stein keinen aktiven Irrtum, außer z. B. Kalk, wenn Scheidewasser auf ihn gegossen wird.",
+    "Da kommt er ganz aus sich.",
+    "Er gerät ordentlich auf Abwege, braust auf, kommt in eine andere Welt.",
+    "Es sind ihm böhmische Dörfer, er geht zugrunde.",
+    "So nicht der Mensch.",
+    "Er ist Substanz, erhält sich.",
+    "Diese Steinheit oder Steinigkeit oder Steinernheit (denn die deutsche Sprache macht schwer ein Substantiv, ein Ding, einen soliden Mann, einen zünftigen Bürger, der Frau und Kinder hat, zu einem Prädikat!), diese Strengflüssigkeit ist es, auf die man Verzicht tun muß.",
+    "Die Bildsamkeit, nicht das instinktmäßige non aridet, ist die Wahrheit.",
+    "Erst wenn man die Sache versteht, was nach dem Lernen kommt, steht man über ihr."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p54.json"
+}

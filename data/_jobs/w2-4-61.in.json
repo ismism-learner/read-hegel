@@ -1,0 +1,27 @@
+{
+ "id": "w2-4-61",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Krugs Entwurf eines neuen Organons der Philosophie] 95)",
+ "heading": "[Krugs Entwurf eines neuen Organons der Philosophie]95)",
+ "blocks": [
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "1td3t63p22",
+   "sents": [
+    "In diesem Ding nun ist das Bewußtsein, und dies Bewußtsein ist eine Kollektion von unendlich vielen Sachen.",
+    "Herr Krug zählt darunter einen Satz des Widerspruchs, einen gewissen praktischen Satz, nämlich das Sittengesetz, ferner einen Alexander, der ein großer Held, einen Cicero, der ein großer Redner gewesen, und unendliche viele dergleichen (S. 14), - lauter Sachen, die alle nicht in dem Satz Ich = Ich oder A = A enthalten seien und mannigfaltige Tatsachen des Bewußtseins heißen.",
+    "Diese unendlich mannigfaltigen Tatsachen des Bewußtseins liegen zwar alle im Ich, in das sie auf eine unbegreifliche Weise kommen, aber freilich wie ein Chaos ohne alle Einheit und Ordnung:"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/4.p61.json"
+}

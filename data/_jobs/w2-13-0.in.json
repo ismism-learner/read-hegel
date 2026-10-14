@@ -1,0 +1,86 @@
+{
+ "id": "w2-13-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "f0l42fnyss",
+   "text": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1q4yhau97h",
+   "sents": [
+    "[1804]"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "xj1jcs19kc",
+   "sents": [
+    "Was nun die erste Gestalt des Systems angeht, so können wir uns von ihr nur eine unzureichende Vorstellung aus einigen sibyllinischen Trümmern machen, die sie zurückgelassen hat.",
+    "Das Wahrscheinlichste ist, daß Hegel keinen dieser Versuche ganz zu Ende geführt hat, weil im Lauf der Arbeit die Unangemessenheit der Form der Vorstellung zu der des reinen Denkens zu groß ward.",
+    "Doch ist noch ein bedeutendes Fragment übrig, welches vom göttlichen Dreieck handelt.",
+    "Diese geometrisierende Vorstellungsweise war damals durch Franz Baader in seiner Schrift Über das Pythagoreische Quadrat oder die vier Weltgegenden, Tübingen 1798, wieder in Anregung gebracht.",
+    "Auch der Philosoph der romantischen Schule, Jakob Böhme, war mit seinem Ternan wieder zu Ehren gekommen.",
+    "Hegel ging in seiner Bildung auch durch diese Form hindurch.",
+    "Indem er sie aber mit wissenschaftlichem Ernst durchdringen, nicht bloß an ihr mit mystischer Spielerei sich ergötzen wollte, mußte er sie nach ihrer geometrischen Bestimmtheit, als gerade nach dem, was das Eigentümlichste darin sein sollte, zugrunde richten.",
+    "Es blieb demnach nichts übrig als der Begriff der sich dreifach von sich unterscheidenden Einheit.",
+    "Hegels dialektischer Geist hatte an einem einfachen Dreieck nicht genug.",
+    "Er konstruierte, das Leben der Idee auszudrücken, ein Dreieck von Dreiecken, welche er sich in der Weise durcheinander hindurchbewegen ließ, daß ein jedes nicht nur überhaupt einmal Extrem und einmal Mitte wurde, sondern daß es auch in sich mit jeder seiner Seiten diesen Prozeß durchmachen mußte.",
+    "Um aber in dieser Härte und Kraßheit der Anschauung doch auch wieder die ideelle Weichheit der Einheit, die"
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "ztntfp9zlo",
+   "sents": []
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "dlb8drg233",
+   "sents": [
+    "Flüssigkeit der als Triangel und Seiten vorgestellten Unterschiede zu erhalten, ging er konsequent zu der weiteren Barbarei fort, die Totalität als über den Dreiecken und ihrem Prozeß ruhendes Viereck auszudrücken.",
+    "Im Verfolg der Arbeit scheint er aber ermüdet zu sein; wenigstens bricht sie bei der Konstruktion des Tieres ab.",
+    "Das Interessante dieses Fragments besteht vorzüglich in dem energischen Konflikt der Hölzernheit der Form mit der Lebendigkeit der Dialektik des Inhalts.",
+    "Es mußte Hegel die Unmöglichkeit beweisen, das Wahrhafte in einer anderen als logischen Bestimmtheit für die Erkenntnis ohne Gewaltsamkeit und wüste Halbphantasie darzustellen."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "fnb35j1e9f",
+   "sents": [
+    "Insofern war diese Arbeit für Hegel vielleicht die furchtbarste und zugleich fruchtbarste Anstrengung.",
+    "Er hatte durch seine Arbeiten in Bern von der bittersten Empörung gegen die vielfachen Entstellungen des Christentums sich wieder bis zum Vertrauen zu ihm und seinen fundamentalen Vorstellungen durchgerungen.",
+    "Er wollte nun die Dreieinigkeit im Dreieck der Dreiecke begreifen.",
+    "Er wollte jetzt diejenige Vorstellung nicht als vernunftlos von sich weisen, in welcher der Glaube Jahrhunderte hindurch seinen höchsten Besitz verehrt hatte.",
+    "Das Bekanntwerden mit den deutschen Mystikern des Mittelalters und ihrer tiefsinnigen Sprache steigerte diese Richtung.",
+    "Schon am Ausgang der Schweizer Periode finden sich unter Hegels Papieren Exzerpte von Stellen aus Meister Eckart und Tauler, die er sich aus Literaturzeitungen abschrieb.",
+    "Indem er aber in die Gnosis sich einließ, drängte ihm sich der Begriff des Geistes als derjenige entgegen, der, weil er der Totalbegriff ist, im Grunde allem Vorstellen entflieht.",
+    "In der Sukzession der kirchlichen Vorstellungen sieht es zuerst so aus, als ob der Geist gegen Vater und Sohn, die ihn nach dem Ausdruck der Vorstellung hauchen, untergeordnet wäre.",
+    "Allein die Kirche selbst hat ausdrücklich dem Geist die gleiche Selbständigkeit und Ewigkeit wie den beiden anderen sogenannten Personen der Gottheit zuerkannt.",
+    "Der Geist erst ist die Einheit, ohne welche der Unterschied von Vater und Sohn sinnlos wäre oder, hätte er einen Sinn, zum Dualismus führen müßte.",
+    "Hegel hat sich daher, um die Gegenseitigkeit der Vermittlung der Personen darzustellen, in den seltsamsten Ausdrücken umhergeworfen.",
+    "Er bedient sich dabei auch der kirchlichen Form vom Reich des Vaters, Sohnes und Geistes, die er später in seiner Religionsphilosophie beibehielt.",
+    "Liebe wäre nach ihm für den Begriff Gottes ein angemessenerer, verständlicherer Ausdruck, aber Geist sei tiefer."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p0.json"
+}

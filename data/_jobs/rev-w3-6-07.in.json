@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-07",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 4,
+   "de": "Die Wirklichkeit ist nur die Einzelheit der Lust und des Genusses, das Allgemeine aber ihr entgegengesetzt, eine Notwendigkeit, welche nur die leere Gestalt desselben, eine nur negative Rückwirkung und inhaltloses Tun ist.",
+   "en": "Actuality is only the singleness of pleasure and enjoyment, but the universal is opposed to it, a necessity that is only the empty shape of the same, a merely negative counter-action and contentless doing.",
+   "zh": "现实性只是快乐和享受的个别性，而普遍的东西则与它相对立，是一种必然性，这种必然性只是普遍东西的空洞形态，只是一种否定的反作用和没有内容的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 5,
+   "de": "– Das andere Moment des Weltlaufs ist die Individualität, welche an und für sich Gesetz sein will und in dieser Einbildung die bestehende Ordnung stört; das allgemeine Gesetz erhält sich zwar gegen diesen Eigendünkel und tritt nicht mehr als ein dem Bewußtsein Entgegengesetztes und Leeres, nicht als eine tote Notwendigkeit auf, sondern als Notwendigkeit in dem Bewußtsein selbst.",
+   "en": "– The other moment of the course of the world is individuality, which wants to be law in and for itself and in this conceit disturbs the existing order; the universal law indeed maintains itself against this self-conceit and no longer appears as something opposed to consciousness and empty, not as a dead necessity, but as necessity in consciousness itself.",
+   "zh": "——世界进程的另一个环节就是个体性，它想要自在自为地成为法则，并在这种妄想中扰乱现存的秩序；那普遍的法则虽然在这种自负面前保持住自己，并且不再作为与意识相对立并且空洞的东西、不再作为一种死的必然性而出现，而是作为意识自身之中的必然性而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 6,
+   "de": "Aber wie es als die bewußte Beziehung der absolut widersprechenden Wirklichkeit existiert, ist es die Verrücktheit; wie es aber als gegenständliche Wirklichkeit ist, ist es die Verkehrtheit überhaupt.",
+   "en": "But as it exists as the conscious relation of absolutely contradictory actuality, it is madness; but as it is as objective actuality, it is inversion in general.",
+   "zh": "但就它作为绝对相互矛盾着的现实性的有意识的关系而存在而言，它就是疯狂；而就它作为对象性的现实性而存在而言，它就是一般的颠倒性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 44,
+   "si": 7,
+   "de": "Das Allgemeine stellt sich also wohl in beiden Seiten als die Macht ihrer Bewegung dar, aber die Existenz dieser Macht ist nur die allgemeine Verkehrung.",
+   "en": "The universal thus indeed presents itself in both sides as the power of their movement, but the existence of this power is only the universal inversion.",
+   "zh": "所以，普遍的东西虽然在双方那里都表现为它们运动的权力，但这种权力的存在却只是一般的颠倒。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 0,
+   "de": "Von der Tugend soll es nun seine wahrhafte Wirklichkeit erhalten durch das Aufheben der Individualität, des Prinzips der Verkehrung; ihr Zweck ist, hierdurch den verkehrten Weltlauf wieder zu verkehren und sein wahres Wesen hervorzubringen.",
+   "en": "It is now to receive its true actuality from virtue through the sublation of individuality, the principle of inversion; virtue's purpose is thereby to invert the inverted course of the world again and to bring forth its true essence.",
+   "zh": "现在，它应当通过扬弃个体性、即颠倒的原则，从德行那里获得自己真正的现实性；德行的目的就在于，由此把颠倒的世界进程重新颠倒过来，并把它真正的本质产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 1,
+   "de": "Dies wahre Wesen ist an dem Weltlaufe nur erst als sein Ansich, es ist noch nicht wirklich; und die Tugend glaubt es daher nur.",
+   "en": "This true essence is present in the course of the world only at first as its in-itself; it is not yet actual; and virtue therefore only believes it.",
+   "zh": "这个真正的本质在世界进程上还只是作为它的自在而存在，它还没有成为现实的；所以德行只是相信它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 2,
+   "de": "Diesen Glauben geht sie zum Schauen zu erheben, ohne aber der Früchte ihrer Arbeit und Aufopferung zu genießen.",
+   "en": "This belief virtue sets out to raise to intuition, without, however, enjoying the fruits of its labor and sacrifice.",
+   "zh": "德行要把这种信仰提升为直观，却并不享受自己劳动和牺牲的果实。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 3,
+   "de": "Denn insofern sie Individualität ist, ist sie das Tun des Kampfes, den sie mit dem Weltlaufe eingeht; ihr Zweck und wahres Wesen aber ist die Besiegung der Wirklichkeit des Weltlaufs; die dadurch bewirkte Existenz des Guten ist hiermit das Aufhören ihres Tuns oder des Bewußtseins der Individualität.",
+   "en": "For insofar as it is individuality, it is the doing of the struggle that it enters upon with the course of the world; but its purpose and true essence is the defeating of the actuality of the course of the world; the existence of the good thereby brought about is herewith the cessation of its doing, or of the consciousness of individuality.",
+   "zh": "因为，就它是个体性而言，它就是它同世界进程所进行的斗争的行动；但它的目的和真正的本质却是战胜世界进程的现实性；由此产生出来的善的存在，因此就是它的行动、或者说个体性的意识的停止。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 4,
+   "de": "– Wie dieser Kampf selbst bestanden werde, was die Tugend in ihm erfährt, ob durch die Aufopferung, welche sie über sich nimmt, der Weltlauf unterliege, die Tugend aber siege, – dies muß sich aus der Natur der lebendigen Waffen entscheiden, welche die Kämpfer führen.",
+   "en": "– How this struggle itself will be sustained, what virtue experiences in it, whether through the sacrifice it takes upon itself the course of the world succumbs and virtue triumphs, – this must be decided from the nature of the living weapons that the combatants wield.",
+   "zh": "——这场斗争本身将如何被经受、德行在其中经验到什么、是否通过它自己所承担的牺牲，世界进程就归于失败、而德行则取得胜利，——这一切都必须由战斗者们所使用的那活生生的武器的本性来决定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 5,
+   "de": "Denn die Waffen sind nichts anderes als das Wesen der Kämpfer selbst, das nur für sie beide gegenseitig hervortritt.",
+   "en": "For the weapons are nothing other than the essence of the combatants themselves, which emerges only for the two of them reciprocally.",
+   "zh": "因为武器不是别的，正是战斗者自己的本质，这本质只是为着他们双方才相互显露出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 45,
+   "si": 6,
+   "de": "Ihre Waffen haben sich hiermit schon aus dem ergeben, was an sich in diesem Kampfe vorhanden ist.",
+   "en": "Their weapons have herewith already resulted from what is present in itself in this struggle.",
+   "zh": "所以，它们的武器由此已经是从这场斗争中自在地现成存在的东西里自行得出来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 46,
+   "si": 0,
+   "de": "Das Allgemeine ist für das tugendhafte Bewußtsein im Glauben oder an sich wahrhaft, noch nicht eine wirkliche, sondern eine abstrakte Allgemeinheit; an diesem Bewußtsein selbst ist es als Zweck, an dem Weltlaufe als Inneres.",
+   "en": "For virtuous consciousness the universal is true in belief or in itself, not yet an actual but an abstract universality; in this consciousness itself it is as purpose, in the course of the world as inner.",
+   "zh": "对有德行的意识来说，普遍的东西在信仰中、或者说自在地就是真的，它还不是一种现实的普遍性，而是一种抽象的普遍性；在这种意识本身那里，它是作为目的，而在世界进程那里，则是作为内在的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 46,
+   "si": 1,
+   "de": "In eben dieser Bestimmung stellt das Allgemeine sich auch an der Tugend für den Weltlauf dar; denn sie will das Gute erst ausführen und gibt selbst es noch nicht für Wirklichkeit aus.",
+   "en": "In precisely this determination the universal also presents itself in virtue for the course of the world; for virtue wants first to carry out the good and does not itself yet declare it as actuality.",
+   "zh": "正是在这同一种规定性中，普遍的东西在德行那里也向世界进程呈现出来；因为德行还想要先实行那善的东西，它自己还没有把善的东西说成现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 46,
+   "si": 2,
+   "de": "Diese Bestimmtheit kann auch so betrachtet werden, daß das Gute, indem es in dem Kampf gegen den Weltlauf auftritt, damit sich darstellt als seiend für ein Anderes; als etwas, das nicht an und für sich selbst ist, denn sonst würde es nicht durch Bezwingung seines Gegenteils sich erst seine Wahrheit geben wollen.",
+   "en": "This determinacy can also be considered thus: that the good, in that it steps forth in the struggle against the course of the world, thereby presents itself as being for an other; as something that is not in and for itself, for otherwise it would not want to give itself its truth first through the mastering of its opposite.",
+   "zh": "这种规定性也可以这样来看：善的东西在它于反对世界进程的斗争中出现时，就由此把自己表现为为他存在的东西；作为某种并非自在自为地存在的东西，因为否则它就不会想要先通过制服自己的对立面才给自己以真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 46,
+   "si": 3,
+   "de": "Es ist nur erst für ein Anderes, heißt dasselbe, was vorher von ihm in der entgegengesetzten Betrachtung sich zeigte, nämlich es ist erst eine Abstraktion, welche nur in dem Verhältnisse, nicht an und für sich, Realität hat.",
+   "en": "'It is only at first for an other' means the same as what previously showed itself of it in the opposite consideration, namely it is at first an abstraction that has reality only in the relation, not in and for itself.",
+   "zh": "“它起初只是为他的”，这话的意思与先前在相反的考察中关于它所显示出来的东西是同一回事，即它起初只是一种抽象，这种抽象只有在关系中、而不是自在自为地才拥有实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 47,
+   "si": 0,
+   "de": "Das Gute oder Allgemeine, wie es also hier auftritt, ist dasjenige, was die Gaben, Fähigkeiten, Kräfte genannt wird.",
+   "en": "The good or universal, as it thus appears here, is that which is called the gifts, capacities, powers.",
+   "zh": "善或普遍，照它在这里出现的样子，就是被称为天赋、能力、力的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 47,
+   "si": 1,
+   "de": "Es ist eine Weise des Geistigen zu sein, worin es als ein Allgemeines vorgestellt wird, das zu seiner Belebung und Bewegung des Prinzips der Individualität bedarf und in dieser seine Wirklichkeit hat.",
+   "en": "It is a way of being of the spiritual, in which it is represented as a universal that requires the principle of individuality for its animation and movement and has its actuality in this principle.",
+   "zh": "它是精神之物的一种存在方式，在其中它被表象为一个普遍之物，这个普遍之物为了自己的活跃和运动需要个体性的原则，并且在这个原则中有自己的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 47,
+   "si": 2,
+   "de": "Von diesem Prinzip, insofern es am Bewußtsein der Tugend ist, wird dies Allgemeine gut angewendet, von ihm aber, insofern es am Weltlauf ist, mißbraucht, – ein passives Werkzeug, das von der Hand der freien Individualität regiert, gleichgültig gegen den Gebrauch, den sie von ihm macht, auch zur Hervorbringung einer Wirklichkeit mißbraucht werden kann, die seine Zerstörung ist; eine leblose, eigener Selbständigkeit entbehrende Materie, die so oder auch anders und selbst zu ihrem Verderben geformt werden kann.",
+   "en": "By this principle, insofar as it is on the consciousness of virtue, this universal is well applied, but by it, insofar as it is on the course of the world, it is misused — a passive tool which, governed by the hand of free individuality, indifferent to the use that individuality makes of it, can also be misused for the production of an actuality that is its destruction; a lifeless matter devoid of its own independence, which can be formed thus or otherwise and even to its own ruin.",
+   "zh": "从这一原则出发，就它落在德行的意识上而言，这个普遍得到很好的应用，但就它落在世界进程上而言，却被这一原则滥用——一个被动的工具，它由自由个体性的手支配着，对个体性拿它作什么用途漠不关心，也可以被滥用来产生一种现实性，而这种现实性就是它的毁灭；一种无生命的、缺少自身独立性的质料，它可以这样或那样被塑形，甚至被塑形到自身的败坏。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 0,
+   "de": "Indem dies Allgemeine dem Bewußtsein der Tugend wie dem Weltlaufe auf gleiche Weise zu Gebote steht, so ist nicht abzusehen, ob, so ausgerüstet, die Tugend das Laster besiegen werde.",
+   "en": "Since this universal stands at the disposal of the consciousness of virtue and of the course of the world in the same way, it cannot be seen whether, thus equipped, virtue will defeat vice.",
+   "zh": "既然这个普遍以同样的方式听凭德行的意识和世界进程支配，那就看不出，这样装备起来的德行是否会战胜恶习。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 1,
+   "de": "Die Waffen sind dieselben; sie sind diese Fähigkeiten und Kräfte.",
+   "en": "The weapons are the same; they are these capacities and powers.",
+   "zh": "武器是同一套；武器就是这些能力和力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 2,
+   "de": "Zwar hat die Tugend ihren Glauben an die ursprüngliche Einheit ihres Zwecks und des Wesens des Weltlaufs in den Hinterhalt gelegt, welche dem Feinde während des Kampfes in den Rücken fallen und an sich ihn vollbringen soll, so daß hierdurch in der Tat für den Ritter der Tugend sein eigenes Tun und Kämpfen eigentlich eine Spiegelfechterei ist, die er nicht für Ernst nehmen kann, weil er seine wahrhafte Stärke darein setzt, daß das Gute an und für sich selbst sei, d.h. sich selbst vollbringe, – eine Spiegelfechterei, die er auch nicht zum Ernste werden lassen darf.",
+   "en": "To be sure, virtue has placed its faith in the original unity of its purpose and of the essence of the course of the world in ambush, a faith that is to fall upon the enemy's back during the fight and accomplish it by itself, so that thereby in fact, for the knight of virtue, his own doing and fighting is properly a sham fight that he cannot take seriously, because he places his true strength in this, that the good is in and for itself, i.e. accomplishes itself — a sham fight that he likewise must not let become serious.",
+   "zh": "诚然，德行把自己对它的目的与世界进程的本质之原初统一的信仰放进了埋伏，这个信仰要在战斗期间从背后袭击敌人，并且凭自身完成这件事，所以这样一来，对德行的骑士来说，他自己的行动和战斗其实只是一场假打，他无法认真对待这场假打，因为他把自己的真正力量放在这一点上：善是自在自为的，也就是说，善自己完成自己——一场他也不能让它变成认真的假打。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 3,
+   "de": "Denn dasjenige, was er gegen den Feind kehrt und gegen sich gekehrt findet und dessen Abnutzung und Beschädigung er sowohl an ihm selbst als seinem Feinde daran wagt, soll nicht das Gute selbst sein; denn für dessen Bewahrung und Ausführung kämpft er; sondern was daran gewagt wird, sind nur die gleichgültigen Gaben und Fähigkeiten.",
+   "en": "For that which he turns against the enemy and finds turned against himself, and whose wear and damage he risks both in himself and in his enemy, is not supposed to be the good itself; for it is for its preservation and execution that he fights; rather, what is risked in this is only the indifferent gifts and capacities.",
+   "zh": "因为，他用来对准敌人、又发现被转过来对准自己的那种东西，他既在自己身上、也在敌人身上拿它的损耗和损伤去冒险，这种东西不该是善本身；因为他正是为善的保持和执行而战斗；所以在这里被拿去冒险的，只是那些无关紧要的天赋和能力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 4,
+   "de": "Allein diese sind in der Tat nichts anderes als eben dasjenige individualitätslose Allgemeine selbst, welches durch den Kampf erhalten und verwirklicht werden soll.",
+   "en": "But these are in fact nothing other than precisely that individuality-less universal itself, which is to be preserved and actualized through the struggle.",
+   "zh": "但这些东西实际上不是别的，正是那个无个体性的普遍本身，而这个普遍应当通过战斗得到保持和实现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 5,
+   "de": "– Es ist aber zugleich durch den Begriff des Kampfes selbst unmittelbar bereits verwirklicht, es ist das Ansich, das Allgemeine, und seine Verwirklichung heißt nur dieses, daß es zugleich für ein Anderes sei.",
+   "en": "— But at the same time, through the very concept of the struggle, it is immediately already actualized; it is the in-itself, the universal, and its actualization means only this, that it is at the same time for an other.",
+   "zh": "——但它同时通过战斗这个概念本身就已经直接地现实化了；它是自在，是普遍，而它的现实化只意味着这一点：它同时为一个他者而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 6,
+   "de": "Die beiden oben angegebenen Seiten, nach deren jeder es zu einer Abstraktion wurde, sind nicht mehr getrennt, sondern in und durch den Kampf ist das Gute auf beide Weisen zumal gesetzt.",
+   "en": "The two sides given above, according to each of which it became an abstraction, are no longer separated; rather, in and through the struggle the good is posited in both ways at once.",
+   "zh": "上面说到的两个方面——按照其中每一个方面，它都曾成为一种抽象——不再彼此分离，而是在战斗中并通过战斗，善同时以两种方式被设定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 7,
+   "de": "– Das tugendhafte Bewußtsein tritt aber in den Kampf gegen den Weltlauf als gegen ein dem Guten Entgegengesetztes; was er ihm hierin darbietet, ist das Allgemeine, nicht nur als abstraktes Allgemeines, sondern als ein von der Individualität belebtes und für ein Anderes seiendes oder das wirkliche Gute.",
+   "en": "— But the virtuous consciousness enters into struggle against the course of the world as against something opposed to the good; what the course of the world offers it in this is the universal, not only as abstract universal, but as one animated by individuality and being for an other, or the actual good.",
+   "zh": "——但德行的意识投入反对世界进程的战斗，把它当作与善相对立的东西；世界进程在这方面向它提供的东西是普遍，这普遍不仅是抽象的普遍，而且是被个体性赋予了生命、为一个他者而存在的普遍，或者说，是现实的善。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 8,
+   "de": "Wo also die Tugend den Weltlauf anfaßt, trifft sie immer auf solche Stellen, die die Existenz des Guten selbst sind, das in alle Erscheinungen des Weltlaufs, als das Ansich des Weltlaufs, unzertrennlich verschlungen ist und in der Wirklichkeit desselben auch sein Dasein hat; er ist also für sie unverwundbar.",
+   "en": "Wherever, then, virtue takes hold of the course of the world, it always comes upon such places as are the existence of the good itself, which, as the in-itself of the course of the world, is inseparably interwoven into all appearances of the course of the world and also has its determinate being in its actuality; the course of the world is therefore invulnerable for virtue.",
+   "zh": "所以，德行无论在哪里抓住世界进程，总会碰到这样一些地方，它们是善本身的存在，而这个善作为世界进程的自在，不可分割地交织在世界进程的一切现象之中，并且在世界进程的现实性中也有自己的定在；因此世界进程对德行来说是无法伤害的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 9,
+   "de": "Eben solche Existenzen des Guten und hiermit unverletzliche Verhältnisse sind alle Momente, welche von der Tugend selbst an ihr darangesetzt und aufgeopfert werden sollten.",
+   "en": "Precisely such existences of the good, and with them inviolable relations, are all the moments that virtue itself was supposed to risk and sacrifice in its own case.",
+   "zh": "德行本来应当在自己身上拿去冒险、拿去牺牲的一切环节，恰恰就是善的这样一些存在，因而也就是不可损伤的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 10,
+   "de": "Das Kämpfen kann daher nur ein Schwanken zwischen Bewahren und Aufopfern sein; oder vielmehr kann weder Aufopferung des Eigenen noch Verletzung des Fremden stattfinden.",
+   "en": "The fighting can therefore only be a wavering between preserving and sacrificing; or rather, neither a sacrifice of one's own nor an injury of the alien can take place.",
+   "zh": "因此战斗只能是在保持与牺牲之间摇摆；或者更确切地说，既不可能发生对自身东西的牺牲，也不可能发生对异己东西的损伤。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 48,
+   "si": 11,
+   "de": "Die Tugend gleicht nicht nur jenem Streiter, dem es im Kampfe allein darum zu tun ist, sein Schwert blank zu erhalten, sondern sie hat auch den Streit darum begonnen, die Waffen zu bewahren; und nicht nur kann sie die ihrigen nicht gebrauchen, sondern muß auch die des Feindes unverletzt erhalten und sie gegen sich selbst schützen, denn alle sind edle Teile des Guten, für welches sie in den Kampf ging.",
+   "en": "Virtue resembles not only that combatant who in the fight cares only about keeping his sword bright, but it has also begun the quarrel in order to preserve the weapons; and not only can it not use its own, but it must also keep the enemy's unharmed and protect them against itself, for they are all noble parts of the good for which it went into battle.",
+   "zh": "德行不仅像那位斗士——他在战斗中唯一操心的就是让自己的剑保持光亮——而且它开始这场争斗，也是为了保住武器；它不仅不能使用自己的武器，还必须让敌人的武器毫发无损，并保护它们不受自己的伤害，因为它们全都是善的高贵部分，而它正是为了善才投入战斗的。"
+  }
+ ]
+}

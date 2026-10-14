@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>b. Das synthetische Erkennen - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-203.html","collection":"hegel","title":"b. Das synthetische Erkennen","lang":"de","prev":{"file":"HE05-202.html","title":"a. Das analytische Erkennen"},"next":{"file":"HE05-204.html","title":"1. Die Definition"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-203.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 id="h203-1">b. Das synthetische Erkennen</h4>
+<p>Das analytische Erkennen ist die erste Prämisse des ganzen Schlusses, – die <i>unmittelbare</i> Beziehung des Begriffs auf das Objekt; die <i>Identität</i> ist daher die Bestimmung, welche es als die seinige erkennt, und es ist nur das <i>Auffassen</i> dessen, was <i>ist</i>. Das synthetische Erkennen geht auf das <i>Begreifen</i> dessen, was <i>ist</i>, d.h. [darauf], die Mannigfaltigkeit von Bestimmungen in ihrer Einheit zu fassen. Es ist daher die zweite Prämisse des Schlusses, in welchem das <i>Verschiedene</i> als solches bezogen wird. Sein Ziel ist deswegen die<i> Notwendigkeit</i> überhaupt. – Die Verschiedenen, welche verbunden sind, sind es teils in einem <i>Verhältnisse</i>, in solchem sind sie ebensowohl bezogen als gleichgültig und <i>selbständig</i> gegeneinander; teils aber sind sie im <i>Begriffe</i> verknüpft; dieser ist ihre einfache, aber bestimmte Einheit. Insofern nun das synthetische Erkennen zunächst von der <i>abstrakten Identität</i> zum <i>Verhältnisse</i> oder vom <i>Sein</i> zur <i>Reflexion</i> übergeht, so ist es nicht die absolute Reflexion des Begriffes, welche der Begriff in seinem Gegenstande erkennt; die Realität, welche er sich gibt, ist die nächste Stufe, nämlich die angegebene Identität der Verschiedenen als solcher, die daher zugleich noch <i>innere</i> und nur Notwendigkeit, nicht die subjektive, für sich selbst seiende, daher noch nicht der Begriff als solcher ist. Das synthetische Erkennen hat daher wohl auch die Begriffsbestimmungen zu seinem Inhalt, das Objekt wird in denselben gesetzt; aber sie stehen erst im <i>Verhältnisse</i> zueinander oder sind in <i>unmittelbarer</i> Einheit, aber damit eben nicht in derjenigen, wodurch der Begriff als Subjekt ist.</p>
+<p>Dies macht die Endlichkeit dieses Erkennens aus; weil diese reelle Seite der Idee in ihm noch die Identität als <i>innere</i> hat, so sind deren Bestimmungen sich noch als <i>äußerliche</i>, da sie nicht als Subjektivität ist, so fehlt dem Eigenen, das der Begriff in seinem Gegenstande hat, noch die <i>Einzelheit</i>, und es ist zwar nicht mehr die abstrakte, sondern die <i>bestimmte</i><a id="S511"></a> Form, also das <i>Besondere</i> des Begriffes, was ihm im Objekte entspricht, aber das <i>Einzelne</i> desselben ist noch ein <i>gegebener</i> Inhalt. Dies Erkennen verwandelt die objektive Welt daher zwar in Begriffe, aber gibt ihr nur die Form nach den Begriffsbestimmungen und muß das Objekt nach seiner <i>Einzelheit</i>, der bestimmten Bestimmtheit, <i>finden</i>; es ist noch nicht selbst bestimmend. Ebenso <i>findet</i> es Sätze und Gesetze und beweist deren <i>Notwendigkeit</i>, aber nicht als eine Notwendigkeit der Sache an und für sich selbst, d. i. aus dem Begriffe, sondern des Erkennens, das an den gegebenen Bestimmungen, den Unterschieden der Erscheinung fortgeht und <i>für sich</i> den Satz als Einheit und Verhältnis oder aus der <i>Erscheinung</i> deren Grund erkennt.</p>
+<p>Die näheren Momente des synthetischen Erkennens sind nun zu betrachten.<a id="S512"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-202.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">a. Das analytische Erkennen</span></a>
+              <a href="./HE05-204.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">1. Die Definition</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

@@ -1,0 +1,151 @@
+{
+ "id": "family-02",
+ "kind": "family-repair",
+ "instruction": "Fix ONLY the word-family rendering in the Chinese. Keep everything else identical; do not retranslate the sentence, do not polish it. Return the corrected Chinese sentence.",
+ "items": [
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 16,
+   "si": 0,
+   "de": "An diese Philosophie, welche die unleugbare Gewißheit in die Tatsachen des Bewußtseins setzt und genau wie der allergemeinste Kantianismus alle Vernunfterkenntnis (S. 21) auf die formale Einheit, welche in jene Tatsachen zu bringen ist, einschränkt, kann die Frage nicht gemacht werden, wie sie denn es begreife, daß der Mensch mit dieser unleugbaren Gewißheit, die er in dem ewigen stieren Wahrnehmen der Objekte findet, sich nicht befriedige, wie sie denn auch jenes Ordnen der Wahrnehmungen aus diesem Wahrnehmen begreifen wolle? wie der Mensch über die Bestialität einer solchen Existenz, welche, um mit Herrn Schulze zu reden, in dem Wahrnehmen des realen Seins der Dinge besteht, hinausgehe und zu einem Gedanken von dem komme, was Herr Schulze Metaphysik nennt, von einer Ergründung jenes realen Seins oder einer Ableitung dieses realen Seins und alles [dessen,] was dazu gehört, aus einem Urgrunde, um es begreiflich zu machen? - Diese Tatsachenphilosophie hat keine andere als die stumpfe Antwort, daß jenes Streben nach einer Erkenntnis, die über das reale, ganz gewisse Sein der Dinge hinausliegt, also sie für ungewiß erkennt, auch eine Tatsache des Bewußtseins sei; Herr Schulze sagt dies (I. Teil, S. 21) so: Vermöge einer ursprünglichen Einrichtung unseres Gemüts haben wir nämlich ein Verlangen, zu allem, was nach unserer Einsicht nur bedingterweise existiert, den letzten und unbedingten Grund aufzusuchen.",
+   "en": "To this philosophy, which places undeniable certainty in the facts of consciousness and, exactly like the most ordinary Kantianism, restricts all rational cognition (S. 21) to the formal unity that is to be brought into those facts, the question cannot be put how it then conceives that the human being does not satisfy himself with this undeniable certainty that he finds in the eternal staring perception of objects, how it then also means to conceive that ordering of perceptions out of this perceiving? how the human being goes beyond the bestiality of such an existence, which, to speak with Herr Schulze, consists in the perceiving of the real being of things, and comes to a thought of what Herr Schulze calls metaphysics, of a tracing of that real being to its grounds or a derivation of this real being and everything that belongs to it from a primal ground, in order to make it intelligible? - This facts-philosophy has no other than the dull answer that that striving after a cognition which lies beyond the real, wholly certain being of things, thus recognizing it as uncertain, is also a fact of consciousness; Herr Schulze says this (1st part, S. 21) thus: by virtue of an original arrangement of our mind we have namely a longing, for everything that according to our insight exists only conditionally, to seek out the last and unconditioned ground.",
+   "zh": "对这种哲学——它把不可否认的确定性放进意识的事实，并且完全像最平庸的康德主义那样，把一切理性认识（S. 21）限制在应当带进那些事实里去的形式统一性上——不能提出这样的问题：它怎么竟能理解，人凭着他在对客体永恒呆滞的知觉中找到的这种不可否认的确定性并不满足，它又怎么竟想从这种知觉出发去理解那种对知觉的整理？人怎么竟会超出这样一种存在的兽性——用舒尔策先生的话说，这种存在就在于知觉事物的实在存在——并达到关于舒尔策先生称之为形而上学的东西的思想，即对那种实在存在加以追究，或者把这种实在存在以及属于它的一切从一个原始根据推导出来，以便使它变得可以理解？——这种事实哲学只有一种迟钝的回答：那种超出事物的实在而完全确定的存在的认识追求，因而也就是把这种认识认作不确定的追求，同样也是意识的一个事实；舒尔策先生（第 1 部分 S. 21）是这样说的：凭借我们心情的一种原初安排，我们对一切按我们的洞见只是有条件地存在的东西，都有一种要找出其最后而无条件的根据的渴望。",
+   "family": "Begriff",
+   "root": "概念",
+   "member": "begreifen"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 16,
+   "si": 1,
+   "de": "Wenn aber jede Tatsache des Bewußtseins unmittelbare Gewißheit hat, so ist eine Einsicht, daß etwas nur bedingterweise existiere, unmöglich; denn bedingterweise existieren und für sich nichts Gewisses sein, ist gleichbedeutend. - Ebenso drückt sich der Verfasser S. 72 aus, wenn er von jenem bestialischen Anstieren der Welt und seiner unleugbaren Gewißheit den Übergang zum Problem der theoretischen Philosophie macht: obgleich das Sein von Dingen nach den Aussprüchen des Bewußtseins ganz gewiß ist, so befriedigt dies doch keineswegs die Vernunft (hier werden wir lernen, worin sie besteht), weil es sich bei existierenden Dingen, die wir kennen, nicht von selbst versteht, daß sie sind und daß sie das sind, was sie sind. - Was hat es denn aber nun für eine Bewandtnis mit jener unleugbaren Gewißheit der Tatsache in der unmittelbaren Erkenntnis des Seins der Dinge; bei der Wirklichkeit, S. 57, die wir den angeschauten Sachen beilegen, finden schlechterdings keine Grade statt, so daß eine Sache mehr von der Wirklichkeit besäße als die andere.",
+   "en": "But if every fact of consciousness has immediate certainty, then an insight that something exists only conditionally is impossible; for to exist conditionally and to be nothing certain for oneself are synonymous. - The author expresses himself similarly S. 72, when he makes the transition from that bestial staring at the world and its undeniable certainty to the problem of theoretical philosophy: although the being of things, according to the pronouncements of consciousness, is wholly certain, this by no means satisfies reason (here we shall learn what it consists in), because with existing things that we know it does not follow of itself that they are and that they are what they are.",
+   "zh": "但如果每一个意识的事实都具有直接的确定性，那么\"某物只是有条件地存在\"这一洞见就是不可能的；因为有条件地存在和自在地不是任何确定的东西，是同一个意思。——作者在 S. 72 也是这样表述的，当他把那种对世界的兽性呆视及其不可否认的确定性过渡到理论哲学的问题时说道：尽管按照意识的各种说法，事物的存在是完全确定的，但这根本不使理性满足（这里我们将认识到理性究竟是什么），因为对于我们所认识的现存事物来说，它们存在、并且它们就是它们所是的那个东西，并不是不言自明的。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "Wirklichkeit"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 22,
+   "si": 9,
+   "de": "Außer der angeführten Unterscheidung bringt Sextus noch einen schlechteren Grund bei, der auf ein Klatschen hinausgeht, daß nämlich Arkesilaos, wenn man dem, was man von ihm sage, Glauben beimessen dürfe, nur so für den Anlauf ein Pyrrhonier, in Wahrheit aber ein Dogmatiker gewesen sei; er habe nämlich das Aporematische nur gebraucht, um seine Schüler zu prüfen, ob sie Fähigkeit für die Platonischen Lehren haben, und deswegen sei er für einen Aporetiker gehalten worden; den fähig Befundenen aber habe er das Platonische gelehrt. - Wegen der schwierigen Seite des Skeptizismus, die für ihn in dem Verhältnisse zur Akademie lag, handelt Sextus sehr ausführlich von Platon und den Akademien.",
+   "en": "Besides the distinction adduced, Sextus brings in a still worse ground, which amounts to gossip, namely that Arcesilaus, if one may believe what is said of him, was a Pyrrhonian only for the start, but in truth a dogmatist; for he used the aporematic only in order to test his pupils, whether they have capacity for the Platonic doctrines, and for that reason he was held to be an aporetic; but to those found capable he taught the Platonic. - On account of the difficult side of scepticism, which for him lay in the relation to the Academy, Sextus treats Plato and the Academies very extensively.",
+   "zh": "除了已举出的那个区分，塞克斯都还搬出一条更糟的理由，它归结为嚼舌：阿尔克西拉乌斯——如果人们对他所说的可以相信的话——只是起步时算个皮浪派，实际上却是个独断论者；因为他用那种疑难的方式只是为了考验学生，看他们有没有能力接受柏拉图的学说，因此他就被当成一个疑难派；而对那些考出来有能力的人，他教的却是柏拉图的东西。——由于怀疑论棘手的一面在他看来就在于与学园派的关系，塞克斯都极为详尽地讨论了柏拉图和各个学园派。",
+   "family": "Wahrheit",
+   "root": "真",
+   "member": "Wahrheit"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 22,
+   "si": 11,
+   "de": "Es ist aber, sagt Herr Schulze, neuerlich schon von mehreren, besonders von Stäudlin bemerkt worden, daß der Geist, der die mittlere und neuere Akademie belebte, von dem Geiste, der die Skeptiker in ihren Untersuchungen leitete, gänzlich verschieden sei; die Anhänger jener waren wirklich nichts weiter als sophistische Schwätzer, die lediglich auf Trugschlüsse und Blendwerke ausgingen und die Philosophie sowie den ganzen Streit der Skeptiker mit den Dogmatikern, wie er damals geführt wurde, nur als Mittel ihres Hauptzwecks, nämlich die Kunst, andere zu bereden, zu glänzen und Aufsehen zu erregen, benutzten und für die Erforschung der Wahrheit um ihrer selbst willen gar keinen Sinn hatten. - Wenn auch eine solche Beschuldigung überhaupt nicht schon an und für sich so hohl und ekelhaft wäre, als sie es ist, so bliebe ja noch die ältere Akademie und Platon selbst übrig; es bleibt die Philosophie überhaupt übrig, welche kein Dogmatismus ist, auf welche Rücksicht zu nehmen gewesen wäre; aber mehr Rücksicht auf die Philosophie, als wir aus dieser Anmerkung anführten, haben wir nicht finden können.",
+   "en": "But, says Herr Schulze, it has recently already been remarked by several, especially by Stäudlin, that the spirit which animated the middle and newer Academy is wholly different from the spirit which guided the sceptics in their investigations; the adherents of the former were really nothing more than sophistical babblers, who aimed solely at fallacies and delusions and used philosophy, as well as the whole dispute of the sceptics with the dogmatists as it was conducted at the time, only as a means of their main purpose, namely the art of persuading others, of shining and of causing a sensation, and had no sense at all for the investigation of truth for its own sake. - Even if such an accusation were not already in and for itself as hollow and disgusting as it is, there would still remain the older Academy and Plato himself; there remains philosophy in general, which is no dogmatism, which would have had to be taken into account; but more regard for philosophy than we have cited from this note we have not been able to find.",
+   "zh": "可是，舒尔策先生说，近来已经有好些人，尤其是施托伊德林指出：使中期和新学园派活跃起来的那个精神，与在研究中引导怀疑论者的那个精神完全不同；前者的追随者其实不过是些诡辩的空谈家，一味追求谬误推论和障眼把戏，把哲学以及怀疑论者与独断论者之间当时所进行的那整场争论，只当作达成他们主要目的的手段，也就是当作说服别人、炫耀和引起轰动的本领来使用，对于为真理本身而研究真理则毫无感觉。——即便这样一种指控本身并不像它实际上那样空洞和恶心，那也还剩下了老学园派和柏拉图本人；还剩下了哲学本身，而哲学并不是什么独断论，本来是应当顾及它的；但我们没能找到比我们从这条注释里引出的更多的对哲学的顾及。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 39,
+   "si": 4,
+   "de": "I, 7 und sonst, besonders c. 24, wo sich Sextus so ausdrückt, daß man sich bei dem, was der Skeptiker sage - wie derjenige, der ausspricht πεϱιπατω ͂, in Wahrheit sage \"ich gehe\" - immer hinzudenken müsse: \"nach uns\" oder \"was mich betrifft\" oder \"wie es mir scheint\".",
+   "en": "I, 7 and elsewhere, especially c. 24, where Sextus expresses himself in such a way that with what the sceptic says — as the one who utters πεϱιπατω ͂ in truth says “I walk” — one must always think along: “according to us” or “as far as I am concerned” or “as it seems to me”.",
+   "zh": "I，7 以及其他各处，特别是第 24 章，在那里塞克斯都这样说：对于怀疑论者所说的话——就像说出 πεϱιπατω ͂ 的人实际上是在说“我走着”——人们必须始终同时想到：“按我们看来”，或者“就我而言”，或者“在我看来”。",
+   "family": "Wahrheit",
+   "root": "真",
+   "member": "Wahrheit"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 51,
+   "si": 4,
+   "de": "Einer Erklärung wäre die Identität nur fähig, insofern sie nicht eine, wie Herr Schulze das nennt, im täglichen Leben vorausgesetzte, sondern eine wirkliche, d. h. eine durchaus bestimmte und endliche, und also auch das Subjekt und das Objekt ein endliches ist; aber eine Erklärung dieser Endlichkeit, insofern sie wieder das Kausalverhältnis setzt, fällt außerhalb der Philosophie. - Herr Schulze sagt von dieser Übereinstimmung S. 70, ihre Möglichkeit sei eines der größten Rätsel der menschlichen Natur und in diesem Rätsel sei zugleich das Geheimnis der Möglichkeit einer Erkenntnis von Dingen a priori, d. h. noch ehe wir diese Dinge angeschaut haben. - Da lernen wir denn recht, was eine Erkenntnis a priori ist: draußen sind die Dinge; inwendig ist das Erkenntnisvermögen; wenn dieses erkennt, ohne die Dinge anzusehen, erkennt es a priori. - Um von diesen drei Seiten, 68-70, welche die wahre Quintessenz der Begriffe dieses neuesten Skeptizismus über Philosophie enthalten, nichts auszulassen, müssen wir noch bemerken, daß Herr Schulze darüber, worin das eigentlich Positive der Übereinstimmung der Vorstellungen mit ihren realen Objekten bestehe, sagt, daß sich das weiter nicht mit Worten beschreiben noch angeben lasse; jeder meiner Leser muß es vielmehr dadurch kennenzulernen suchen, daß er es dann, wenn er sich desselben (des Positiven) bewußt ist, beobachte und etwa zusieht, was er wahrgenommen und aufgefaßt habe, wenn er durch Vergleichung einer Vorstellung, die er sich in der Abwesenheit einer Sache von ihr machte, mit der Sache selbst, sobald sie von ihm angeschaut wird, findet, daß jene mit dieser vollkommen übereinstimmt und solche genau darstellt.",
+   "en": "Identity would be capable of an explanation only insofar as it is not one presupposed in daily life, as Mr. Schulze calls it, but a real one, i.e. a thoroughly determinate and finite one, and hence the subject and the object too are a finite one; but an explanation of this finitude, insofar as it again posits the causal relation, falls outside philosophy. — Mr. Schulze says of this agreement, on S. 70, that its possibility is one of the greatest riddles of human nature, and that in this riddle there lies at the same time the secret of the possibility of a cognition of things a priori, i.e. even before we have intuited these things. — There we properly learn what a cognition a priori is: outside are the things; within is the faculty of cognition; when this cognizes without looking at the things, it cognizes a priori. — In order to omit nothing from these three pages, 68-70, which contain the true quintessence of the concepts of this newest scepticism about philosophy, we must further remark that Mr. Schulze says, as to wherein the properly positive element of the agreement of representations with their real objects consists, that this cannot be further described or specified in words; each of my readers must rather seek to become acquainted with it by observing it when he is conscious of it (of the positive), and by looking, as it were, at what he has perceived and grasped when, by comparing a representation which he made of a thing in the absence of the thing with the thing itself as soon as it is intuited by him, he finds that the former completely agrees with the latter and exactly represents it.",
+   "zh": "同一性只有在下述情况下才能得到解释：它不是舒尔策先生所称的那种在日常生活中被设为前提的同一性，而是实在的同一性，即完全被规定了的、有限的同一性，因而主体和客体也是有限的；但对这种有限性的解释，由于它又重新设定因果关系，就落在哲学之外了。——舒尔策先生在 S. 70 谈到这种一致时说，它的可能性是人性最大的谜之一，而在这个谜里同时藏着一种先天地、即还在我们直观这些事物之前就对事物有所认识的秘密。——这一来我们才真正明白什么叫先天的认识：外面是事物；内里是认识能力；当认识能力不看事物就有所认识时，它就是先天地认识。——为了不错过这三页（68-70）中的任何东西，它们包含着这种最新怀疑论关于哲学的概念的真正精华，我们还必须指出，舒尔策先生在谈到表象与其实在对象的一致中真正肯定的东西究竟何在时说，这是无法进一步用言词描述或指明的；我的每一位读者倒必须设法去认识它，办法是：当他自己意识到它（那肯定的东西）时就去观察它，并且大约留意一下自己知觉到、把握到了什么，如果他把自己在某个事物不在场时对它所形成的表象与这个事物本身加以比较，一旦这个事物被他直观到，他就发现前者与后者完全一致，并且确切地把它描画了出来。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 66,
+   "si": 0,
+   "de": "Dasjenige aber, was Leibniz von der Wahrheit der angeborenen Begriffe und Einsichten der reinen Vernunft sagt, sei vollends noch grundloser, und man müsse sich wirklich wundern, wie hierbei der Mann, dem die Erfordernisse zu einem gültigen Beweise gar nicht unbekannt waren, sowenig Aufmerksamkeit auf die Vorschriften der Logik beweisen konnte. - Hier lernen wir vorerst, woran es Leibniz hat fehlen lassen, nämlich an Aufmerksamkeit auf die Logik; und Herr Schulze wundert sich wirklich darüber; woran es aber Leibniz nicht fehlte, sondern was er zu viel hatte, war Genie, wie wir unten noch finden werden; und darüber, daß ein Mensch Genie hat, wird man sich doch auch wirklich wundern müssen.",
+   "en": "But what Leibniz says about the truth of the innate concepts and insights of pure reason is, he says, altogether still more groundless, and one must really wonder how in this the man, to whom the requirements of a valid proof were not at all unknown, could show so little attention to the precepts of logic. - Here we learn first of all wherein Leibniz let something be lacking, namely attention to logic; and Herr Schulze really wonders at it; but wherein Leibniz was not lacking, but what he had in excess, was genius, as we shall still find below; and that a human being has genius is, after all, something one will really also have to wonder at.",
+   "zh": "可是莱布尼茨关于天赋概念和纯粹理性洞见之真理所说的话，据他说就更加毫无根据了，人们真该感到奇怪：一个对有效证明的要求绝非陌生的人，在这里怎么会对逻辑的规范表现出如此少的注意。——这里我们首先得知莱布尼茨欠缺的是什么，即对逻辑的注意；舒尔策先生对此确实感到奇怪；而莱布尼茨并不欠缺、反倒多出来的东西，是天才，这我们下面还会看到；至于一个人有天才，那人们倒也真该感到奇怪。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 67,
+   "si": 1,
+   "de": "Man sieht, der Herr Verfasser nimmt die angeborenen Begriffe in dem grellsten Sinne, der möglich ist; nach seiner Vorstellung wird ein Subjekt geboren mit einem Paket Wechsel im Kopfe, welche auf eine außerhalb jenes Kopfes existierende Welt gezogen sind - die Frage aber wäre, ob die Wechsel von dieser Bank akzeptiert werden, ob sie nicht falsch sind -, oder mit einem Haufen Lotterielose in der Seele, von denen man niemals erfahren wird, ob sie nicht lauter Nieten sind, weil kein Ziehen der Lotterie erfolgt, durch das sie realisiert würden.",
+   "en": "One sees, the author takes the innate concepts in the most glaring sense that is possible; on his view a subject is born with a bundle of bills of exchange in its head, drawn on a world existing outside that head - but the question would be whether the bills are accepted by this bank, whether they are not false -, or with a heap of lottery tickets in the soul, of which one will never learn whether they are not all blanks, because no drawing of the lottery takes place through which they would be realised.",
+   "zh": "人们看到，那位作者是在可能的最刺眼的意义上理解天赋概念的；按他的设想，一个主体生下来，脑袋里就带着一叠汇票，这些汇票是开给那个脑袋之外存在的世界的——可问题会是：这些汇票会不会被这家银行承兑，它们是不是假的——；或者灵魂里装着一堆彩票，人们永远不会知道它们是不是全是空票，因为从来不曾开奖把它们兑现。",
+   "family": "Vorstellung",
+   "root": "表象",
+   "member": "Vorstellung"
+  },
+  {
+   "vol": "w2",
+   "chunk": "5",
+   "bi": 71,
+   "si": 1,
+   "de": "Herr Schulze fordert, es müßte ja vorher erst dargetan werden, daß ein von Ewigkeit her existierender und gewisse Wahrheiten ununterbrochen denkender Verstand existiere, bevor man behaupten kann, daß es ewig und zu allen Zeiten gültige Wahrheiten gebe; ewige Wahrheiten seien solche, die nach unserer Einsicht jeder Verstand, der sich des Urteils bewußt ist, ebenso denken müsse, wie wir sie denken, und dies habe folglich keine Beziehung darauf, daß ein die Urteile wirklich denkender Verstand von Ewigkeit her existiert habe. - Auch hier faßt Herr Schulze die Existenz des göttlichen Verstandes wieder als eine empirische Existenz, die Ewigkeit als eine empirische Ewigkeit auf.",
+   "en": "Herr Schulze demands that it must first be shown beforehand that an understanding existing from eternity and thinking certain truths uninterruptedly exists, before one can assert that there are truths valid eternally and at all times; eternal truths are such that, according to our insight, every understanding that is conscious of the judgment must think them just as we think them, and this consequently has no relation to the fact that an understanding really thinking the judgments has existed from eternity. — Here too Herr Schulze again takes the existence of the divine understanding as an empirical existence, eternity as an empirical eternity.",
+   "zh": "舒尔策先生要求，必须先证明有一个从永恒以来就存在、并且不间断地思维着某些真理的知性存在，然后才能主张有永恒地、在一切时候都有效的真理；永恒真理是这样一些真理，按照我们的洞见，每一个意识到该判断的知性都必定像我们思维它们那样思维它们，因此这同一个真正思维着那些判断的知性从永恒以来就存在过，毫无关系。——在这里，舒尔策先生同样又把神圣知性的存在理解为一种经验的存在，把永恒理解为一种经验的永恒。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w2",
+   "chunk": "6",
+   "bi": 7,
+   "si": 11,
+   "de": "Daß, setzt Salat hinzu, eine solche Sophistik zur Befriedigung sowohl als zur Beschönigung der Leidenschaften in dieser empirischen Welt trefflich tauge, das versteht sich, - und das wissenschaftliche Urteil lautet dahin: das System dieser philosophierenden Schöngeister (darunter scheint nämlich dieser Schwätzer, der sich besonders einbildet, gut schreiben zu können, was, wie er sagt, bei einem Katholiken noch immer etwas Seltenes ist, samt und sonders alle zu begreifen, denen seine Fatuität nichts abgewinnen kann, das sie sich anzueignen vermöchte) ist übrigens bloßer Naturalismus, mit theoretischen (logischen und metaphysischen) Formeln künstlich eingefaßt und geschminkt mit den Farben der Ästhetik. - So urteilt über die wissenschaftliche Seite der neueren Philosophie dieser feine moralische Mann mit einem \"übrigens\" so im Vorbeigehen ab; den Hauptakzent legt der unwissende Dünkel aber auf die Befriedigung und Beschönigung der Leidenschaften in dieser empirischen Welt. - Mit einem Worte, seit die Geistlosigkeit und Gemeinheit sich gesunden Menschenverstand und Moralität zu nennen angemaßt hat, so setzt sie ihrer eigenen Nichtswürdigkeit und Unverschämtheit keine Grenzen mehr, und man kann nicht umhin, diese Moralitätshaut für das Schlechteste zu halten, worein sich noch die eitle Unwissenheit gehüllt hat.",
+   "en": "That, Salat adds, such a sophistry is excellently suited both to the satisfaction and to the whitewashing of the passions in this empirical world, is self-evident, - and the scientific judgement runs thus: the system of these philosophizing fine spirits (among which, namely, this babbler, who especially imagines he can write well, which, as he says, is still always something rare in a Catholic, seems to comprehend each and every one of those from whom his fatuity can gain nothing that it might appropriate) is, moreover, mere naturalism, artificially framed with theoretical (logical and metaphysical) formulas and painted over with the colours of aesthetics. - Thus does this fine moral man pass judgement, with an 'moreover' so in passing, on the scientific side of the newer philosophy; but the main accent the ignorant conceit lays on the satisfaction and whitewashing of the passions in this empirical world. - In a word, since spiritlessness and vulgarity have presumed to call themselves sound common sense and morality, they set no more limits to their own worthlessness and impudence, and one cannot help holding this skin of morality for the worst thing in which vain ignorance has ever yet wrapped itself.",
+   "zh": "萨拉特还补充说，这样一种智术极适合满足和粉饰这个经验世界里的激情，这是不言而喻的，——而科学的判断则是这样说的：这些从事哲学的美的精神的体系（这个饶舌的家伙似乎把所有那些人统统都算在里面：他的愚蠢从他们身上什么也捞不到，没有什么可供它据为己有；他尤其自负于自己写得一手好文章，按他的说法，这在一个天主教徒身上还算得上是稀罕事），此外只是自然主义，用理论的（逻辑的和形而上学的）公式人工地镶上边，再涂上美学的色彩。——这就是这位精致的道德人士用一个“此外”顺便对最新哲学的科学方面所作的判断；而那无知的狂妄把主要重音放在这个经验世界里激情的满足和粉饰上。——总之，自从无精神性和粗鄙僭称自己为健全常识和道德以来，它就再不给自己的卑劣和无耻设任何界限，而人们不得不把这张道德的皮看作虚荣的无知所披过的最坏的一件东西。",
+   "family": "Begriff",
+   "root": "概念",
+   "member": "begreifen"
+  },
+  {
+   "vol": "w2",
+   "chunk": "6",
+   "bi": 39,
+   "si": 2,
+   "de": "Aber soweit als sie wirklich sie vereinzelte, soweit würde sie nichts Schönes sein; aber als der reine Leib der inneren Schönheit hört das empirische Dasein selbst auf, ein Zeitliches und etwas Eigenes zu sein.",
+   "en": "But insofar as it really isolated it, to that extent it would be nothing beautiful; but as the pure body of inner beauty, empirical determinate being itself ceases to be something temporal and something of its own.",
+   "zh": "但就它真的把它个别化而言，它就不会是什么美的东西；不过，作为内在的美的纯粹身体，经验性的定在本身就停止再是时间性的东西和属于自己的东西。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 4,
+   "si": 6,
+   "de": "Denn statt mit der Sache sich zu befassen, ist solches Tun immer über sie hinaus; statt in ihr zu verweilen und sich in ihr zu vergessen, greift solches Wissen immer nach einem Anderen und bleibt vielmehr bei sich selbst, als daß es bei der Sache ist und sich ihr hingibt.",
+   "en": "For instead of occupying itself with the matter, such activity is always beyond it; instead of lingering in it and forgetting itself in it, such knowing always reaches for something else and stays rather with itself than with the matter, giving itself over to it.",
+   "zh": "因为这种做法不是在跟事情打交道，而总是跑到事情外面去；它不是留在事情里、把自己忘在事情里，而总是伸手去抓别的东西，始终待在自己那儿，而不是待在事情那儿、把自己交给事情。",
+   "family": "Wissen",
+   "root": "知",
+   "member": "Wissen"
+  }
+ ]
+}

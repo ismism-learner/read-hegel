@@ -1,0 +1,95 @@
+{
+ "id": "w1-20-70",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 20,
+ "chunkTitle": "II.",
+ "heading": "II.",
+ "blocks": [
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "17b1wgm1o0",
+   "sents": [
+    "Diese Lostrennung von der höchsten Staatsgewalt ist mit Absicht geschehen; aber die Konsequenz, Anarchie und Beraubung der Sicherheit, nicht gesehen worden; ungeschickt."
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "sqkosy8cj9",
+   "sents": [
+    "185) Vergrößerung der Staaten durch Erbschaften, besonders Verbindungen derselben mit auswärtigen.",
+    "Dieser Umstand ist der tiefste Streich für den Staat; es ist dadurch an der Verfassung, am Recht nichts verletzt; kein auswärtiger Fürst derer, die noch Deutschland ausmachen (mit den italienischen Lehen ists ein anderes), hat den Reichsverband aufgehoben.",
+    "Das Deutsche Reich hat sich alle seine Rechte reserviert.",
+    "Aber die Veränderung ist erstaunlich.",
+    "Das Verhältnis der Macht der Stände zum Staatswesen ist durchaus verändert, und so was heißt eine Revolution, die, ohne daß ein Jota an dem Staatsrecht geändert zu werden brauchte, dasselbe überschlichen und ganz umgestürzt hat.",
+    "Mit England ein anderes, denn die oberste Macht Englands und Hannovers sind nicht vereint, durch Trennung der Ministerien.",
+    "Der König könnte sie wohl vereinigen; er hat die höchste Staatsmacht, Krieg und Frieden zu schließen, Bündnisse zu machen, Verwaltung des Schatzes, Befehl über die Armeen in beiden.",
+    "Aber nur die Verwaltung des Schatzes, nicht die Bewilligung.",
+    "Übrigens unter Georg I. war beider Interesse vereint.",
+    "Wäre er glücklicher gewesen, so hätte er die Rolle Preußens an sich gerissen.",
+    "Aber Englands Interesse ist gegen Frankreich, also mit Österreich.",
+    "Dann wäre es gegen beide gewesen und hätte sich nicht erhalten.",
+    "[Die] Rolle [Preußens war] Gegenmacht gegen den Kaiser und Schutz für geringere; dadurch [setzte es] sich an die Stelle der kaiserlichen Macht in einem Teil von Deutschland."
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "7qfd7idu47",
+   "sents": [
+    "b) eine absichtlose Auflösung des Staats scheint von seiten der Völker die Religion gewesen zu sein; die Fürsten wußten, was sie taten, wie überall durchblickt, die Völker ehrlich und redlich für Religion, und ehrlicher- und redlicherweise dachten sie an andere nicht; nationale Feindschaften durch Krieg und Plünderungen und gegenseitige Feindseligkeiten zugleich erzeugt."
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "ok61pu2i4w",
+   "sents": [
+    "Diese Religionstrennung erstaunlich wichtig geworden; in anderen Ländern hat über die ungeheure Zerrüttung doch die Nationalität, der Staat gesiegt, in Deutschland zu ungeschickt, dies zu erhalten.",
+    "[Es blieb für] den Kaiser kein anderes Mittel als Reichsfürsten zu machen, weil er nicht mehr Stimmen gewann.",
+    "Blind oder absichtlich hat man den Staat zugrunde gehen gemacht.",
+    "Der Kaiser war nur katholisch, selbst eine Partei, nicht Staat wie in Frankreich, der österreichischen Monarchie; und so dann auch die Protestanten nur Partei.",
+    "Man sprach nicht von fremdem Einfluß; wenn sie wollten, konnten sie."
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "uhpqf41jlf",
+   "sents": [
+    "Anarchie gesetzlich gemacht durch Corpus Evangelicum, nicht etwa nur Religionssachen, auch Steuern und andere Sachen, so auch im Reichskammergericht und Reichshofrat itio in partes.",
+    "Offenbare Benutzung der Religion.",
+    "Weil politische Rechte an die Religion gebunden wurden, so haben sich beide Teile durch sie der Staatsmacht entrissen; denn die Trennung beider Teile hat das Band zerrissen."
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "wcbq251w9r",
+   "sents": [
+    "Daß nun ein Staat möglich ist, ist die Trennung der Religion und Politik notwendig; es ist für die höchste Gewalt nicht, eine Macht über Religion zu haben, Gott behüte, sondern gerade keine Macht über dieselbe, keine Rechte in Ansehung derselben; dann ist erst die höchste Gewalt zur Verteidigung des Inneren und Äußeren möglich."
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "iph1tw1y00",
+   "sents": [
+    "D. Zutrauen und Gehorsam gegen die höchste Gewalt notwendig unmöglich bei der Staatentrennung in Deutschland.",
+    "Dasjenige Volk, zu dem der Kaiser gehört, es sei nun Österreich oder Bayern oder Brandenburg, so wird seine und der ihn umgebenden [Völker] Sprache von anderen gar nicht einmal verstanden.",
+    "In dieser Rücksicht des Zutrauens ist die Verschiedenheit des Rechts eine erstaunliche Quelle von Entfernung; [wie sich der,] der weniger mit Abgaben gedrückt ist, der Freiere gegen den Leibeigenen überhebt, der andere Eifersucht und bald Haß [empfindet], durch die gegenseitigen Kriege vermehrt, noch mehr durch diesen Krieg.",
+    "Der Süddeutsche, geplündert, kann nicht ohne Neid auf die Ruhe des Norddeutschen sehen, nicht ohne Zorn, von seinen Mitdeutschen verlassen zu sein in solcher Not und Elend.",
+    "Der Norden sieht, daß er so gescheit, pfiffig und so glücklich ist, auf den Süddeutschen herab."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/20.p70.json"
+}

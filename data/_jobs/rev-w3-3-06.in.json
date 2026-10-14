@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-06",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 3,
+   "de": "Die Begierde hat sich das reine Negieren des Gegenstandes und dadurch das unvermischte Selbstgefühl vorbehalten.",
+   "en": "Desire has reserved for itself the pure negating of the object, and thereby the unmingled self-feeling.",
+   "zh": "欲望为自己保留了对象的纯粹否定，并由此保留了未掺杂的自我感。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 4,
+   "de": "Diese Befriedigung ist aber deswegen selbst nur ein Verschwinden, denn es fehlt ihr die gegenständliche Seite oder das Bestehen.",
+   "en": "But this satisfaction is for that reason itself only a vanishing, for it lacks the objective side, or subsistence.",
+   "zh": "但这种满足因此本身只是一种消逝，因为它缺少对象性的一面，或者说缺少持存。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 5,
+   "de": "Die Arbeit hingegen ist gehemmte Begierde, aufgehaltenes Verschwinden, oder sie bildet.",
+   "en": "Work, by contrast, is inhibited desire, arrested vanishing, or it forms.",
+   "zh": "劳动则相反，是被遏制的欲望，是被止住的消逝，或者说，它在塑造。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 6,
+   "de": "Die negative Beziehung auf den Gegenstand wird zur Form desselben und zu einem Bleibenden, weil eben dem Arbeitenden der Gegenstand Selbständigkeit hat.",
+   "en": "The negative relation to the object becomes the form of the object and something abiding, because precisely for the worker the object has independence.",
+   "zh": "对对象的否定关系变成了对象的形式，变成一种持存的东西，因为对劳动者来说，对象恰恰具有独立性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 7,
+   "de": "Diese negative Mitte oder das formierende Tun ist zugleich die Einzelheit oder das reine Fürsichsein des Bewußtseins, welches nun in der Arbeit außer es in das Element des Bleibens tritt; das arbeitende Bewußtsein kommt also hierdurch zur Anschauung des selbständigen Seins als seiner selbst.",
+   "en": "This negative middle, or the formative activity, is at the same time the singularity, or the pure being-for-itself, of consciousness, which now in work steps outside itself into the element of permanence; the working consciousness therefore comes thereby to the intuition of independent being as its own self.",
+   "zh": "这种否定的中项，或者说这种赋形的活动，同时就是意识的个别性，或者说意识的纯粹自为存在，而它现在在劳动中走出自身，进入持存的元素；所以，劳动着的意识由此就达到对独立存在的直观，把独立存在直观为它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 0,
+   "de": "Das Formieren hat aber nicht nur diese positive Bedeutung, daß das dienende Bewußtsein sich darin als reines Fürsichsein zum Seienden wird, sondern auch die negative gegen sein erstes Moment, die Furcht.",
+   "en": "But forming has not only this positive significance, that the serving consciousness therein becomes, as pure being-for-itself, something existing, but also the negative significance with respect to its first moment, fear.",
+   "zh": "但赋形不仅具有这种积极的意义，即奴隶意识在其中作为纯粹的自为存在而成为存在者，而且还具有针对它的第一个环节即恐惧的消极意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 1,
+   "de": "Denn in dem Bilden des Dinges wird Ihm die eigene Negativität, sein Fürsichsein, nur dadurch zum Gegenstande, daß es die entgegengesetzte seiende Form aufhebt.",
+   "en": "For in the forming of the thing, its own negativity, its being-for-itself, becomes an object for it only in that it sublates the opposed existing form.",
+   "zh": "因为在塑造物时，它自己的否定性、它的自为存在，只有通过它扬弃那对立的存在着的形式，才成为它的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 2,
+   "de": "Aber dies gegenständliche Negative ist gerade das fremde Wesen, vor welchem es gezittert hat.",
+   "en": "But this objective negative is precisely the alien essence before which it has trembled.",
+   "zh": "但这个对象性的否定者，恰恰就是它曾在其面前颤抖的那个陌生本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 3,
+   "de": "Nun aber zerstört es dies fremde Negative, setzt sich als ein solches in das Element des Bleibens und wird hierdurch für sich selbst ein Fürsichseiendes.",
+   "en": "Now, however, it destroys this alien negative, posits itself as such into the element of permanence, and thereby becomes for itself a being-for-itself.",
+   "zh": "但现在它摧毁了这个陌生的否定者，把自己作为这样一个否定者设定到持存的元素之中，并由此对自己来说成为一个自为存在者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 4,
+   "de": "Im Herrn ist ihm das Fürsichsein ein anderes oder nur für es, in der Furcht ist das Fürsichsein an ihm selbst, in dem Bilden wird das Fürsichsein als sein eigenes für es, und es kommt zum Bewußtsein, daß es selbst an und für sich ist.",
+   "en": "In the master, being-for-itself is for it an other, or only for it, in fear, being-for-itself is on it itself, in forming, being-for-itself becomes as its own for it, and it comes to the consciousness that it itself is in and for itself.",
+   "zh": "在主人那里，自为存在对它来说是一个他者，或者说只是为它而存在，在恐惧中，自为存在就在它自己身上，在塑造中，自为存在作为它自己的东西而对它存在，于是它达到这样的意识，即它自己就是自在自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 5,
+   "de": "Die Form wird dadurch, daß sie hinausgesetzt wird, ihm nicht ein Anderes als es; denn eben sie ist sein reines Fürsichsein, das ihm darin zur Wahrheit wird.",
+   "en": "Through being posited outside, the form does not become for it an other than it; for precisely it is its pure being-for-itself, which therein becomes truth for it.",
+   "zh": "形式由于被设置到外面，对它来说并不成为一个与它不同的他者，因为它恰恰就是它的纯粹自为存在，这自为存在在其中对它成为真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 6,
+   "de": "Es wird also durch dies Wiederfinden seiner durch sich selbst eigener Sinn, gerade in der Arbeit, worin es nur fremder Sinn zu sein schien.",
+   "en": "Thus through this finding-again of itself by itself it becomes its own sense, and precisely in the work, although it seemed therein to be only an alien sense.",
+   "zh": "所以，通过这种由自己重新找到自己，它成了它自己的意义，而且恰恰是在劳动中，尽管它在其中看来只是陌生的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 7,
+   "de": "– Es sind zu dieser Reflexion die beiden Momente der Furcht und des Dienstes überhaupt sowie des Bildens notwendig, und zugleich beide auf eine allgemeine Weise.",
+   "en": "– For this reflection, the two moments of fear and of service in general, as well as of forming, are necessary, and at the same time both in a universal manner.",
+   "zh": "——对于这种反思来说，恐惧和一般服务这两个环节以及塑造都是必要的，而且两者同时是以一种普遍的方式必要的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 8,
+   "de": "Ohne die Zucht des Dienstes und Gehorsams bleibt die Furcht beim Formellen stehen und verbreitet sich nicht über die bewußte Wirklichkeit des Daseins.",
+   "en": "Without the discipline of service and obedience, fear remains stuck at the formal and does not spread over the conscious actuality of determinate being.",
+   "zh": "没有服务和服从的管教，恐惧就停留在形式的东西上，不会扩展到定在的意识到的现实性之上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 9,
+   "de": "Ohne das Bilden bleibt die Furcht innerlich und stumm, und das Bewußtsein wird nicht für es selbst.",
+   "en": "Without forming, fear remains inward and mute, and consciousness does not become for itself.",
+   "zh": "没有塑造，恐惧就始终是内在的、沉默的，意识也不会成为为它自己的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 10,
+   "de": "Formiert das Bewußtsein ohne die erste absolute Furcht, so ist es nur ein eitler eigener Sinn; denn seine Form oder Negativität ist nicht die Negativität an sich; und sein Formieren kann ihm daher nicht das Bewußtsein seiner als des Wesens geben.",
+   "en": "If consciousness forms without the first absolute fear, it is only a vain sense of its own; for its form or negativity is not negativity in itself; and its forming can therefore not give it the consciousness of itself as the essence.",
+   "zh": "如果意识没有那最初的绝对恐惧就去塑造，那么它就只是一种虚浮的自己的意义；因为它的形式或否定性并不是自在的否定性；所以它的塑造不能给它关于自己作为本质的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 11,
+   "de": "Hat es nicht die absolute Furcht, sondern nur einige Angst ausgestanden, so ist das negative Wesen ihm ein Äußerliches geblieben, seine Substanz ist von ihm nicht durch und durch angesteckt.",
+   "en": "If it has endured not the absolute fear but only some anxiety, the negative essence has remained an external thing for it, its substance is not thoroughly infected by it.",
+   "zh": "如果它经受的不是绝对的恐惧，而只是一些害怕，那么否定性的本质对它来说就始终是一个外在的东西，它的实体并没有被它彻底浸染。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 12,
+   "de": "Indem nicht alle Erfüllungen seines natürlichen Bewußtseins wankend geworden, gehört es an sich noch bestimmtem Sein an; der eigene Sinn ist Eigensinn, eine Freiheit, welche noch innerhalb der Knechtschaft stehenbleibt.",
+   "en": "Since not all the fulfilments of its natural consciousness have become unstable, it still belongs in itself to determinate being; its own sense is self-will, a freedom that still remains within bondage.",
+   "zh": "由于它的自然意识的种种充实并没有全部动摇，它自在地仍属于特定的存在；自己的意义就是固执，是一种还停留在奴隶状态之内的自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 33,
+   "si": 13,
+   "de": "Sowenig ihm die reine Form zum Wesen werden kann, sowenig ist sie, als Ausbreitung über das Einzelne betrachtet, allgemeines Bilden, absoluter Begriff, sondern eine Geschicklichkeit, welche nur über einiges, nicht über die allgemeine Macht und das ganze gegenständliche Wesen mächtig ist.",
+   "en": "As little as the pure form can become its essence, so little is it, considered as extension over the singular, universal forming, absolute concept, but a skill that is powerful only over some things, not over the universal power and the whole objective essence.",
+   "zh": "正如纯粹形式不能成为它的本质，同样，如果就它扩展到个别东西之上来看，它也不是普遍的塑造、绝对的概念，而是一种技巧，这种技巧只对某些东西有掌控力，对普遍的权力和整个对象性的本质却没有这种掌控力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 0,
+   "de": "Dem selbständigen Selbstbewußtsein ist einesteils nur die reine Abstraktion des Ich sein Wesen, und andernteils, indem sie sich ausbildet und sich Unterschiede gibt, wird dies Unterscheiden ihm nicht zum gegenständlichen ansichseienden Wesen; dies Selbstbewußtsein wird also nicht ein in seiner Einfachheit sich wahrhaft unterscheidendes oder in dieser absoluten Unterscheidung sich gleichbleibendes Ich.",
+   "en": "For independent self-consciousness, on the one hand, only the pure abstraction of the 'I' is its essence, and on the other hand, in that it develops itself and gives itself differences, this distinguishing does not become for it an objective, in-itself-existing essence; this self-consciousness therefore does not become an 'I' that truly distinguishes itself in its simplicity, or remains equal to itself in this absolute distinction.",
+   "zh": "对独立的自我意识来说，一方面，只有自我的纯粹抽象是它的本质，另一方面，当它展开自身并给自己种种差别时，这种区分对它来说并不成为一种对象性的、自在存在着的本质；所以，这种自我意识不会成为一个在它的单纯性中真正区分自身、或者说在这种绝对区分中保持自身等同的自我。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 1,
+   "de": "Das in sich zurückgedrängte Bewußtsein hingegen wird sich im Formieren als Form der gebildeten Dinge zum Gegenstande, und an dem Herrn schaut es das Fürsichsein zugleich als Bewußtsein an.",
+   "en": "Consciousness driven back into itself, by contrast, becomes an object for itself in forming, as the form of the formed things, and in the master it intuits being-for-itself at the same time as consciousness.",
+   "zh": "被逼回自身之中的意识则相反，在赋形中作为被塑造的物的形式而成为自己的对象，并且在主人身上，它同时把自为存在直观为意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 2,
+   "de": "Aber dem dienenden Bewußtsein als solchem fallen diese beiden Momente – seiner selbst als selbständigen Gegenstandes und dieses Gegenstandes als eines Bewußtseins und hiermit seines eigenen Wesens – auseinander.",
+   "en": "But for the serving consciousness as such, these two moments – of itself as an independent object, and of this object as a consciousness and thereby of its own essence – fall apart.",
+   "zh": "但对奴隶意识本身来说，这两个环节——它自己作为独立的对象，以及这个对象作为意识并因此作为它自己的本质——却分裂开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 3,
+   "de": "Indem aber für uns oder an sich die Form und das Fürsichsein dasselbe ist und im Begriffe des selbständigen Bewußtseins das Ansichsein das Bewußtsein ist, so ist die Seite des Ansichseins oder der Dingheit, welche die Form in der Arbeit erhielt, keine andere Substanz als das Bewußtsein, und es ist uns eine neue Gestalt des Selbstbewußtseins geworden; ein Bewußtsein, welches sich als die Unendlichkeit oder reine Bewegung des Bewußtseins das Wesen ist; welches denkt oder freies Selbstbewußtsein ist.",
+   "en": "But since for us, or in itself, form and being-for-itself are the same, and in the concept of independent consciousness being-in-itself is consciousness, the side of being-in-itself, or of thinghood, which the form received in work, is no other substance than consciousness, and a new shape of self-consciousness has come to be for us; a consciousness that is its essence as the infinity or pure movement of consciousness; that thinks, or is free self-consciousness.",
+   "zh": "但是，既然对我们来说或自在地说，形式和自为存在是同一个东西，而且在独立意识的概念中，自在存在就是意识，那么，自在存在的一面，或者说形式在劳动中所获得的物性那一面，就不是什么不同于意识的实体，于是对我们来说就产生了一种自我意识的新形态；这是一种把意识的无限性或纯粹运动当作自己本质的意识；它在思，或者说，它就是自由的自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 4,
+   "de": "Denn nicht als abstraktes Ich, sondern als Ich, welches zugleich die Bedeutung des Ansichseins hat, sich Gegenstand sein oder zum gegenständlichen Wesen sich so verhalten, daß es die Bedeutung des Fürsichseins des Bewußtseins hat, für welches es ist, heißt denken.",
+   "en": "For to be an object to oneself, or to comport oneself toward the objective essence in such a way that it has the significance of the being-for-itself of the consciousness for which it is, not as abstract 'I' but as 'I' that at the same time has the significance of being-in-itself, this is called thinking.",
+   "zh": "因为，所谓思，就是不是作为抽象的自我，而是作为同时具有自在存在意义的自我而成为自己的对象，或者这样对待对象性的本质，即让它具有它为之而存在的那个意识的自为存在的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 5,
+   "de": "– Dem Denken bewegt sich der Gegenstand nicht in Vorstellungen oder Gestalten, sondern in Begriffen, d.h. in einem unterschiedenen Ansichsein, welches unmittelbar für das Bewußtsein kein unterschiedenes von ihm ist.",
+   "en": "– For thinking, the object does not move in representations or shapes, but in concepts, i.e. in a differentiated being-in-itself that immediately, for consciousness, is not a differentiated thing from it.",
+   "zh": "——对思来说，对象并不是在表象或形态中运动，而是在概念中运动，也就是说，在一种被区分开的自在存在中运动，而这种自在存在直接而言对意识并不是与意识不同的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 6,
+   "de": "Das Vorgestellte, Gestaltete, Seiende als solches hat die Form, etwas anderes zu sein als das Bewußtsein; ein Begriff aber ist zugleich ein Seiendes, und dieser Unterschied, insofern er an ihm selbst ist, ist sein bestimmter Inhalt, – aber darin, daß dieser Inhalt ein begriffener zugleich ist, bleibt es sich seiner Einheit mit diesem bestimmten und unterschiedenen Seienden unmittelbar bewußt, nicht wie bei der Vorstellung, worin es erst noch besonders sich zu erinnern hat, daß dies seine Vorstellung sei, sondern der Begriff ist mir unmittelbar mein Begriff.",
+   "en": "The represented, the formed, the existing as such has the form of being something other than consciousness; but a concept is at the same time an existing thing, and this difference, insofar as it is on it itself, is its determinate content, – but in that this content is at the same time a comprehended one, consciousness remains immediately aware of its unity with this determinate and differentiated existing thing, not as with representation, in which it must first still especially recollect that this is its representation, but the concept is immediately my concept.",
+   "zh": "被表象的东西、被塑形的东西、存在者本身，具有这样的形式：它是不同于意识的东西；但概念同时是一个存在者，而这种差别，就它自在而言，就是它的特定内容，——但是，由于这个内容同时是一个被概念把握的内容，它就直接意识到自己与这个特定的、被区分开的存在者的统一，而不像在表象那里，在表象中它还必须特别地回忆起这就是它的表象，相反，概念直接就是我的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 7,
+   "de": "Im Denken bin Ich frei, weil ich nicht in einem Anderen bin, sondern schlechthin bei mir selbst bleibe und der Gegenstand, der mir das Wesen ist, in ungetrennter Einheit mein Fürmichsein ist; und meine Bewegung in Begriffen ist eine Bewegung in mir selbst.",
+   "en": "In thinking I am free, because I am not in an other, but remain absolutely with myself, and the object that is the essence for me is, in undivided unity, my being-for-me; and my movement in concepts is a movement in myself.",
+   "zh": "在思中我是自由的，因为我不是在一个他者之中，而是绝对停留在我自己那里，并且那个对我而言是本质的对象，在不可分割的统一中就是我的为我存在；而我在概念中的运动，就是在自身之中的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 8,
+   "de": "– Es ist aber in dieser Bestimmung dieser Gestalt des Selbstbewußtseins wesentlich dies festzuhalten, daß sie denkendes Bewußtsein überhaupt oder ihr Gegenstand unmittelbare Einheit des Ansichseins und des Fürsichseins ist.",
+   "en": "– But in this determination of this shape of self-consciousness it is essential to hold fast to this, that it is thinking consciousness in general, or that its object is the immediate unity of being-in-itself and being-for-itself.",
+   "zh": "——不过，在自我意识这一形态的这个规定中，本质上必须紧紧抓住这一点，即它就是一般的思着的意识，或者说，它的对象是自在存在和自为存在的直接统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 35,
+   "si": 9,
+   "de": "Das sich gleichnamige Bewußtsein, das sich von sich selbst abstößt, wird sich ansichseiendes Element, aber es ist sich dies Element nur erst als allgemeines Wesen überhaupt, nicht als dies gegenständliche Wesen in der Entwicklung und Bewegung seines mannigfaltigen Seins.",
+   "en": "The consciousness that is same-named with itself, which repels itself from itself, becomes for itself an in-itself-existing element, but this element is for it only first as universal essence in general, not as this objective essence in the development and movement of its manifold being.",
+   "zh": "这个与自身同名的意识，把自身从自己那里排斥开，对它来说就成了自在存在着的元素，但这一元素对它来说还只是作为一般的普遍本质，而不是作为在其杂多的存在的展开和运动中的这个对象性的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 36,
+   "si": 0,
+   "de": "Diese Freiheit des Selbstbewußtseins hat bekanntlich, indem sie als ihrer bewußte Erscheinung in der Geschichte des Geistes aufgetreten ist, Stoizismus geheißen.",
+   "en": "This freedom of self-consciousness has, as is well known, been called Stoicism, in that it has appeared in the history of spirit as an appearance conscious of it.",
+   "zh": "自我意识的这种自由，众所周知，当它作为意识到了这种自由的现象而出现在精神的历史上时，就被称为斯多葛主义。"
+  }
+ ]
+}

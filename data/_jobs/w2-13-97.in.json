@@ -1,0 +1,92 @@
+{
+ "id": "w2-13-97",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "9azouk1fsr",
+   "sents": [
+    "Die Zeit scheint ungünstig für die Philosophie, weil es darum mit so vieler Mühe zu tun zu sein scheint, daß nur der Gedanke an das Übersinnliche zustande komme, der erste rohe Anfang; aber er soll im Allerbekanntesten, z. B. Obst, aufgezeigt werden; nicht Sinn für die Religion überhaupt."
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "2n9osaya7x",
+   "sents": [
+    "Im Cid heißt's:"
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "1h5fppnave",
+   "sents": [
+    "Aber welcher Überwundne Klaget über Unrecht nicht."
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "15kjeh218y",
+   "sents": [
+    "Die Philosophie regiert die Vorstellungen, und diese regieren die Welt.",
+    "Durch das Bewußtsein greift der Geist in die Herrschaft der Welt ein.",
+    "Dies ist sein unendliches Werkzeug, weiter hinaus Bajonette, Kanonen, Leiber.",
+    "Aber ihr Panier und die Seele ihres Feldherrn ist der Geist.",
+    "Nicht Bajonette, nicht das Geld, nicht einzelne Kniffe und Pfiffe sind das Herrschende.",
+    "Dies muß auch sein, wie die Uhr Räder hat, aber ihre Seele ist die Zeit und der die Materie ihrem Gesetz unterwerfende Geist.",
+    "Eine Iliade wird nicht zusammengewürfelt, so auch nicht ein großes Werk aus Bajonetten und Kanonen, sondern der Compositeur ist der Geist."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "hmz6xn1dh7",
+   "sents": [
+    "Einheit und Unterschied klingt arm und dürftig z. B. gegen die Pracht der Sonne, gegen Osten und Westen, daß jedes Ding seinen Osten und Westen in sich habe.",
+    "Aber den Armen wird das Evangelium gepredigt, und sie werden Gott schauen."
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "315mjix27a",
+   "sents": [
+    "Naturphilosophie.",
+    "Es wird noch geraume Zeit vergehen, ehe es ganz ohne Flunkern darin abgeht. - Geständnis hiervon oder dreistes Behaupten und Beharren dagegen. - Das Absolute: in der Nacht sind alle Kühe schwarz. -Das absolute Erkennen [ist] der große Besen, der alles wegfegt, qui fait la maison nette."
+   ]
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "7dbyhaueix",
+   "sents": [
+    "Unterwalden: Hirtenleben.",
+    "Kein Fortschreiten der Geistesbildung.",
+    "Nahrung des Hanges zur Trägheit.",
+    "Die Religionslehrer abhängig vom Volk, das sie wählt und ihren Unterhalt in seiner Macht hat.",
+    "Diese Abhängigkeit macht sie intrigant.",
+    "Sie schmeicheln der ungebildeten Menge, drängen sich in die Familiengeheimnisse, unterhalten Parteien und erwerben sich eine ausgebreitete Herrschaft über die Gemüter bei Landgemeinden.",
+    "Sie durften keinen Gebrauch von dieser Herrschaft machen, unwissenden und beschränkten Menschen etwas, das vom Gewohnten abweicht, zu empfehlen; keine nützlichen Schulanstalten, nur Rohheit, Verwilderung.",
+    "Es ist Interesse der Politik der reicheren Familien, um ihren Einfluß und Ämter zu erhalten, jene Verwilderung zu lassen. - Die Freiheit der ungebildeten Masse wird Armut, Schwermut.",
+    "Die Kirchen nicht von Betern, die Straßen nicht von Pilgern, die Gräber nicht von Knienden leer.",
+    "Dabei aber Verschlimmerung der Sitten, Schadenfreude über Verlust der beneideten Reichen und Verleumdung, Treulosigkeit und Undankbarkeit.",
+    "Üble Wirtschaft und Schlemmerei bei aller Armut; kleinlicher, bettelhafter Eigennutz.",
+    "Bei Mangel des Ackerbaues, bei Verfall der Waldungen, bei Fehlen des Kunstfleißes doch Zunahme des Luxus."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p97.json"
+}

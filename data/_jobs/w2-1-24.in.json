@@ -1,0 +1,104 @@
+{
+ "id": "w2-1-24",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Darstellung des Fichteschen Systems",
+ "blocks": [
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "l7x9oeikf6",
+   "sents": [
+    "Der reine Dogmatismus, der ein Dogmatismus der Philosophie ist, bleibt auch seiner Tendenz nach in der Entgegensetzung immanent; das Verhältnis der Kausalität, in seiner vollständigeren Form als Wechselwirkung, die Einwirkung des Intellektuellen auf das Sinnliche oder des Sinnlichen auf das Intellektuelle ist in ihm als Grundprinzip herrschend.",
+    "Im konsequenten Realismus und Idealismus spielt es nur eine untergeordnete Rolle, wenn es auch zu herrschen scheint und in jenem das Subjekt als Produkt des Objekts, in diesem das Objekt als Produkt des Subjekts gesetzt wird; das Kausalitätsverhältnis ist aber dem Wesen nach aufgehoben, indem das Produzieren ein absolutes Produzieren, das Produkt ein absolutes Produkt ist, d. h. indem das Produkt keinen Bestand hat als nur im Produzieren, nicht gesetzt ist als ein Selbständiges, vor und unabhängig von dem Produzieren Bestehendes, wie im reinen Kausalitätsverhältnis, dem formellen Prinzip des Dogmatismus der Fall ist.",
+    "In diesem ist es ein durch A Gesetztes, und zugleich auch nicht durch A Gesetztes, A also absolut nur Subjekt, und A = A drückt nur die Verstandesidentität aus. Wenn auch die Philosophie in ihrem transzendentalen Geschäfte sich des Kausalverhältnisses bedient, so ist B, das dem Subjekt entgegengesetzt erscheint, seinem Entgegengesetztsein nach eine bloße Möglichkeit und bleibt absolut eine Möglichkeit, d. h. es ist nur Akzidenz; und das wahre Verhältnis der Spekulation, das Substantialitätsverhältnis ist unter dem Schein des Kausalverhältnisses das transzendentale Prinzip. Formell läßt sich dies auch so ausdrücken: Der wahre Dogmatismus anerkennt beide Grundsätze A = A und A = B, aber sie bleiben in ihrer Antinomie, unsynthesiert nebeneinander; er erkennt nicht, daß hierin eine Antinomie liegt, und darum auch nicht die Notwendigkeit, das Bestehen der Entgegengesetzten aufzuheben; der Übergang von einem zum andern durch Kausalitätsverhältnis ist die einzige ihm mögliche unvollständige Synthesis. Ungeachtet nun die Transzendentalphilosophie diesen scharfen Unterschied von dem Dogmatismus hat, so ist sie insofern, als sie sich zum System konstruiert, fähig, in ihn überzugehen, wenn sie nämlich - insofern nichts ist als die absolute Identität und in ihr alle Differenz und das Bestehen Entgegengesetzter sich aufhebt - kein reelles Kausalverhältnis gelten läßt, aber - insofern die Erscheinung zugleich bestehen und hiermit ein anderes Verhältnis des Absoluten zur Erscheinung als das der Vernichtung der letzteren vorhanden sein soll - das Kausalitätsverhältnis einführt, die Erscheinung zu einem Botmäßigen macht und also die transzendentale Anschauung nur subjektiv, nicht objektiv, oder die Identität nicht in die Erscheinung setzt. A = A und A = B bleiben beide unbedingt; es soll nur A = A gelten; d. h. aber, ihre Identität ist nicht in ihrer wahren Synthese, die kein bloßes Sollen ist, dargestellt. So ist im Fichteschen System Ich = Ich das Absolute. Die Totalität der Vernunft führt den zweiten Satz herbei, der ein Nicht-Ich setzt; es ist nicht nur in dieser Antinomie des Setzens beider Vollständigkeit vorhanden, sondern auch ihre Synthese wird postuliert. Aber in dieser bleibt die Entgegensetzung; es sollen nicht beide, Ich wie Nicht-Ich, vernichtet werden, sondern der eine Satz soll bestehen, der eine höher an Rang sein als der andere. Die Spekulation des Systems fordert die Aufhebung der Entgegengesetzten, aber das System selbst hebt sie nicht auf; die absolute Synthesis, zu welcher dieses gelangt, ist nicht Ich = Ich, sondern Ich soll gleich Ich sein. Das Absolute ist für den transzendentalen Gesichtspunkt, aber nicht für den der Erscheinung konstruiert; beide widersprechen sich noch. Weil die Identität nicht zugleich in die Erscheinung gesetzt worden oder die Identität nicht auch vollkommen in die Objektivität übergegangen ist, so ist die Transzendentalität selbst ein Entgegengesetztes, das Subjektive, und man kann auch sagen, die Erscheinung ist nicht vollständig vernichtet worden."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "bk3tjk1lyx",
+   "sents": [
+    "Es soll in der folgenden Darstellung des Fichteschen Systems versucht werden, zu zeigen, daß das reine Bewußtsein, die im System als absolut aufgestellte Identität des Subjekts und Objekts, eine subjektive Identität des Subjekts und Objekts ist.",
+    "Die Darstellung wird den Gang nehmen, Ich, das Prinzip des Systems, als subjektives Subjekt-Objekt zu erweisen, sowohl unmittelbar als an der Art der Deduktion der Natur und besonders an den Verhältnissen der Identität in den besonderen Wissenschaften der Moral und des Naturrechts und dem Verhältnis des ganzen Systems zum Ästhetischen."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "1pvvob5118",
+   "sents": [
+    "Es erhellt schon aus dem Obigen, daß in dieser Darstellung zunächst von dieser Philosophie als System die Rede ist und nicht, insofern es die gründlichste und tiefste Spekulation, ein echtes Philosophieren und durch die Zeit, in welcher sie erscheint und in der auch die Kantische Philosophie die Vernunft nicht zu dem abhanden gekommenen Begriff echter Spekulation hatte erregen können, um so merkwürdiger ist."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "h",
+   "hash": "uu1dlqajon",
+   "text": "Darstellung des Fichteschen Systems"
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1y13atq1tw",
+   "sents": [
+    "Die Grundlage des Fichteschen Systems ist intellektuelle Anschauung, reines Denken seiner selbst, reines Selbstbewußtsein Ich = Ich, Ich bin10) ; das Absolute ist Subjekt-Objekt, und Ich ist diese Identität des Subjekts und Objekts."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "1de6pb5m6w",
+   "sents": [
+    "Im gemeinen Bewußtsein kommt Ich in Entgegensetzung vor; die Philosophie hat diese Entgegensetzung gegen ein Objekt zu erklären; sie erklären heißt, ihre Bedingtheit durch ein Anderes aufzeigen und also sie als Erscheinung erweisen.",
+    "Wenn vom empirischen Bewußtsein erwiesen wird, daß es im reinen Bewußtsein vollständig begründet und nicht bloß durch dasselbe bedingt ist, so ist damit ihre Entgegensetzung aufgehoben, wenn anders die Erklärung vollständig, d. h. wenn nicht bloß eine teilweise Identität des reinen und empirischen Bewußtseins aufgezeigt ist.",
+    "Die Identität ist nur eine teilweise, wenn dem empirischen Bewußtsein eine Seite übrigbliebe, von welcher es durch das reine nicht bestimmt, sondern unbedingt wäre; und weil nur reines und empirisches Bewußtsein als die Glieder des höchsten Gegensatzes auftreten, so würde das reine Bewußtsein selbst bestimmt und bedingt sein vom empirischen, insofern dieses unbedingt wäre.",
+    "Das Verhältnis würde auf diese Art ein Wechselverhältnis sein, welches gegenseitiges Bestimmen und Bestimmtsein in sich faßt, aber eine absolute Entgegensetzung der in Wechselwirkung Stehenden und also die Unmöglichkeit, die Entzweiung in absoluter Identität zu heben, voraussetzt."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1v3m32g54k",
+   "sents": [
+    "Dem Philosophen entsteht dies reine Selbstbewußtsein dadurch, daß er in seinem Denken von allem Fremdartigen abstrahiert, was nicht Ich ist, und nur die Beziehung des Subjekts und Objekts festhält.",
+    "In der empirischen Anschauung sind sich Subjekt und Objekt entgegengesetzt; der Philosoph faßt die Tätigkeit des Anschauens auf, er schaut das Anschauen an und begreift es hierdurch als eine Identität.",
+    "Dies Anschauen des Anschauens ist einerseits philosophische Reflexion und der gemeinen Reflexion sowie dem empirischen Bewußtsein überhaupt entgegengesetzt, das sich nicht über sich selbst und seine Entgegensetzungen erhebt; - andererseits ist diese transzendentale Anschauung zugleich der Gegenstand der philosophischen Reflexion, das Absolute, die ursprüngliche Identität.",
+    "Der Philosoph hat sich in die Freiheit und auf den Standpunkt des Absoluten erhoben."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "1bbcar819e",
+   "sents": [
+    "Seine Aufgabe ist nunmehr die, die scheinbare Entgegensetzung des transzendentalen Bewußtseins und des empirischen aufzuheben.",
+    "Im allgemeinen geschieht dies dadurch, daß das letztere aus dem ersteren deduziert wird.",
+    "Notwendig kann diese Deduktion nicht ein Übergang in ein Fremdes sein; die Transzendentalphilosophie geht allein dahin, das empirische Bewußtsein nicht aus einem außerhalb desselben befindlichen, sondern aus einem immanenten Prinzip, als eine tätige Emanation oder Selbstproduktion des Prinzips zu konstruieren.",
+    "Im empirischen Bewußtsein kann so wenig etwas vorkommen, was nicht aus dem reinen Selbstbewußtsein konstruiert wird, als das reine Bewußtsein ein vom empirischen dem Wesen nach Verschiedenes ist.",
+    "Die Form beider ist gerade darin verschieden, daß dasjenige, was im empirischen Bewußtsein als Objekt, entgegengesetzt dem Subjekt erscheint, in der Anschauung dieses empirischen Anschauens als identisch gesetzt und hierdurch das empirische Bewußtsein durch dasjenige vervollständigt wird, was sein Wesen ausmacht, worüber es aber kein Bewußtsein hat."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "13kgy6lbep",
+   "sents": [
+    "Die Aufgabe kann auch so aufgedrückt werden: durch die Philosophie soll reines Bewußtsein als Begriff aufgehoben werden.",
+    "In der Entgegensetzung gegen das empirische Bewußtsein erscheint die intellektuelle Anschauung, das reine Denken seiner selbst, als Begriff, nämlich als Abstraktion von allem Mannigfaltigen, aller Ungleichheit des Subjekts und Objekts.",
+    "Sie ist zwar lauter Tätigkeit, Tun, Anschauen, sie ist nur vorhanden in der freien Selbsttätigkeit, die sie hervorbringt; dieser Akt, der sich von allem Empirischen, Mannigfaltigen, Entgegengesetzten losreißt und sich zur Einheit des Denkens, Ich = Ich, Identität des Subjekts und Objekts erhebt, hat aber eine Entgegensetzung an anderen Akten; er ist insofern fähig, als ein Begriff bestimmt zu werden, und hat mit den ihm entgegengesetzten eine gemeinschaftliche höhere Sphäre, die des Denkens überhaupt.",
+    "Es gibt außer dem Denken seiner selbst noch anderes Denken, außer dem Selbstbewußtsein noch mannigfaltiges empirisches Bewußtsein, außer Ich als Objekt noch mannigfaltige Objekte des Bewußtseins.",
+    "Der Akt des Selbstbewußtseins unterscheidet sich bestimmt von anderem Bewußtsein dadurch, daß sein Objekt gleich sei dem Subjekt; Ich = Ich ist insofern einer unendlichen objektiven Welt entgegengesetzt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p24.json"
+}

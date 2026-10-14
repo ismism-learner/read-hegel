@@ -1,0 +1,34 @@
+{
+ "id": "w1-9-68",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "heading": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "blocks": [
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "vf9lwh1uti",
+   "sents": [
+    "Die Hoffnung der Römer, der Fanatismus werde unter ihrer gemäßigten Herrschaft sich mildern, schlug fehl, er erglühte noch einmal und begrub sich unter seiner Zerstörung."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "1862auj31w",
+   "sents": [
+    "Das große Trauerspiel des jüdischen Volks ist kein griechisches Trauerspiel, es kann nicht Furcht noch Mitleiden erwecken, denn beide entspringen nur aus dem Schicksal des notwendigen Fehltritts eines schönen Wesens; jenes kann nur Abscheu erwecken.",
+    "Das Schicksal des jüdischen Volkes ist das Schicksal Machest, der aus der Natur selbst trat, sich an fremde Wesen hing und so in ihrem Dienste alles Heilige der menschlichen Natur zertreten und ermorden, von seinen Göttern (denn es waren Objekte, er war Knecht) endlich verlassen und an seinem Glauben selbst zerschmettert werden mußte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/9.p68.json"
+}

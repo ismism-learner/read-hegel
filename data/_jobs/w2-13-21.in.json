@@ -1,0 +1,87 @@
+{
+ "id": "w2-13-21",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1aw8bn01tt",
+   "sents": [
+    "Die älteren Deutschen waren eigentlich ein lustiges Volk.",
+    "Aus dem würdigen Ulysses, dessen Leben eine Ernsthaftigkeit ist, haben sie einen albernen Eulenspiegel, aus der göttlichen Kirke, an dieser als Nemesis auftretend, ein Schwein gemacht.",
+    "Die Neueren tun mehr oder minder dasselbe, nur mit größerer Ernsthaftigkeit.",
+    "Sonst war das Volk die Ironie über jene göttlichen Wesen, jetzt aber sind diese die Ironie über die ernsthaften Behandler und Begreifer."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1q1hfos10y",
+   "sents": [
+    "Wie es eine dichterische Genieperiode gegeben hat, so scheint gegenwärtig die philosophische Genieperiode zu sein.",
+    "Etwas Kohlenstoff, Sauerstoff, Stickstoff und Wasserstoff zusammengeknetet und in ein von anderen mit Polarität usw. beschriebenes Papier gesteckt, mit einem hölzernen Zopf der Eitelkeit etc. Raketen in die Luft geschossen, meinen sie, das Empyreum darzustellen.",
+    "So Görres, Wagner255) u. a. Die roheste Empirie mit Formalismus von Stoffen und Polen, verbrämt mit vernunftlosen Analogien und besoffenen Gedankenblitzen."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "86ffv2ht1w",
+   "sents": [
+    "Die Bauersfrau lebt im Kreise ihrer Liese, was ihre beste Kuh ist, dann der Schwarzen, der Scheckin usw.; auch des Märtens, ihres Buben, auch der Urschel, ihres Mädchens usf.",
+    "So familiäre Dinge sind dem Philosophen die Unendlichkeit, das Erkennen, die Bewegung, die sinnlichen Gesetze usf.",
+    "Und wie der Bauersfrau ihr verstorbener Bruder und Ohm, so dem Philosophen Platon, Spinoza usf.",
+    "Eins hat soviel Wirklichkeit als das andere, diese aber haben die Ewigkeit voraus."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1njv6ehups",
+   "sents": [
+    "Bei den Trebern sind die Menschen bereits in der Wissenschaft.",
+    "Von da ist's nicht mehr weit zum pater peccavi."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "13vdneeiur",
+   "sents": [
+    "Ob bloß die deutschen Frauen von den Französinnen sich Gesetze geben lassen? - Auch die deutschen Herren, sagen Sie dagegen, Madame, und berufen sich auf die Reichsdeputationsgeschichte. - Sie kennen die Geschichte nicht?",
+    "Oh, die muß ich Ihnen erzählen.",
+    "Das Deutsche Reich ist von den Franzosen versichert, daß es Krieg mit ihnen führe.",
+    "Es hat zwar keine Hand an den Waffen, ein paar Spießbürger ausgenommen, die für nichts zu rechnen sind.",
+    "Aber die Franzosen haben es versichert, und da diese es versicherten, hat man sich also ausplündern lassen müssen.",
+    "Alsdann hat das Deutsche Reich aus den Zeitungen erfahren - wir lasen sie bei Tafel, und Sie können denken, welche Freude es verursachte, daß dies von ihm gesagt wurde -, daß es Frieden gemacht hatte.",
+    "Damit es aber wisse, auf welche Weise der Frieden sei - die Franzosen sind höfliche Leute -, so schickten sie eigens einen Gesandten nach Deutschland, es ihm zu sagen.",
+    "Der nahm sich, daß man nicht zweifeln könne, noch einen dazu.",
+    "Die Deutschen als redliche Leute - aus zweier Zeugen Mund wird die Wahrheit kund - glaubten es natürlich, als diese es versicherten.",
+    "Auch sie sind höflich und bedankten sich stattlich dafür."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "2nd50ne7n0",
+   "sents": [
+    "Wenn das Absolute ausgleitet und aus dem Boden, wo es herumspaziert, ins Wasser fällt, so wird es ein Fisch, ein Organisches, Lebendiges.",
+    "Wenn es nun ebenso ausgleitet und ins reine Denken fällt - denn auch das reine Denken soll nicht sein Boden sein -, so soll es, dahineinplumpend, etwas Schlechtes, Endliches werden, von dem man sich eigentlich schämen muß zu sprechen, wenn's nicht amtshalber geschähe und weil einmal nicht zu leugnen ist, daß eine Logik da sei.",
+    "Das Wasser ist ein so kaltes, schlechtes Element, und es ist dem Leben doch so wohl darin.",
+    "Soll denn das Denken ein viel schlechteres Element sein?",
+    "Soll das Absolute sich so gar schlecht darin befinden und sich auch schlecht darin aufführen?"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p21.json"
+}

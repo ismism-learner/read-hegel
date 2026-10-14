@@ -1,0 +1,85 @@
+{
+ "id": "w2-13-104",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 104,
+   "k": "p",
+   "hash": "tvhr4l1e6b",
+   "sents": [
+    "Cid:"
+   ]
+  },
+  {
+   "bi": 105,
+   "k": "p",
+   "hash": "w3ktlt16dy",
+   "sents": [
+    "Das Geheimnis ist der Weiber Macht auf unsre Männerherzen.",
+    "Das Geheimnis steckt in ihnen Tief verborgen, Gott dem Herrn, Glaub' ich, selber unerforschlich.",
+    "Wenn an jenem großen Tage, Der einst aufsucht alle Fehle, Gott der Weiber Herzen sichtet, Findet er entweder alle Sträflich oder gleich unschuldig: So verflochten ist ihr Herz."
+   ]
+  },
+  {
+   "bi": 106,
+   "k": "p",
+   "hash": "19kyoub1qs",
+   "sents": [
+    "In Luzern sind die runden Hüte über 18 Zoll im Durchschnitt als landesverderblicher Luxus verboten worden!"
+   ]
+  },
+  {
+   "bi": 107,
+   "k": "p",
+   "hash": "1i84kdi1e9",
+   "sents": [
+    "Im Philosophieren gibts nichts zum Vorstellen.",
+    "Hier und da ein Bild.",
+    "An das halten sich die Menschen.",
+    "Tabula rasa von Aristoteles zufälligerweise, zur Notdurft gebraucht.",
+    "Soviel weiß jeder vom Aristoteles.",
+    "Es drückt von seinem Begriff der Seele nicht das Wesentliche aus."
+   ]
+  },
+  {
+   "bi": 108,
+   "k": "p",
+   "hash": "9ip5nz1c3z",
+   "sents": [
+    "Ludens Geschichte des Hugo Grotius, 231: Man verbreitete damals das Gerücht, der König (Gustaf Adolf nach der Schlacht bei Lützen) lebe noch; er habe seinen Tod aus guten Gründen ausgesprengt.",
+    "Diese homines acuti, sagt Grotius, nos velut crassos, qui mortuum mortuum credimus, irrident. Hoc est Germaniae acumen",
+    ".257) - Ebenso wenn der Philosoph einen Staat oder dgl. beurteilt, daß er tot sei, so heißt es, er lebt ja noch, Reichstag usw. Hoc est Germaniae acumen!"
+   ]
+  },
+  {
+   "bi": 109,
+   "k": "p",
+   "hash": "1jhwjvyha6",
+   "sents": [
+    "Die Gottheit wird im Kunstwerk, im schlechten wie im vorzüglichen, angebetet.",
+    "Die Schauer der Gottheit, die Vernichtung des Einzelnen, durchdringen die Versammlung.",
+    "Aber bald atmet sie auf, blickt um sich in lebendige Wesen, wacht zum Gefühl des Lebens auf.",
+    "Sie erkennen sich als Leben, tönen sich es einander zu, ergreifen die Hände, fühlen sich und gehen in Bewegung, Tanz über.",
+    "Das Jauchzen muß zur Harmonie, zur Mannigfaltigkeit der Bilder und Gedanken sich verwandeln.",
+    "Das Maß durch den Takt wird zur Zurückhaltung des Subjektiven, des Willkürlichen.",
+    "Die Individuen werden zu Gliedern der objektiven Einheit.",
+    "Sie schlägt, wie Kybele, die große Mutter der Götter, selbst die Pauken, sonst wirkt sie in stiller unbewußter Kraft.",
+    "So genießt sich die Gottheit ihrer selbst, und der Mensch hat sich mit ihr identifiziert.",
+    "Übersprungen ist dieser Genuß im Essen der Gottheit, aber es drückt tief den unendlichen Schmerz, das völlige Zerbrechen des Innersten aus.",
+    "Gott opfert sich auf, gibt sich zur Vernichtung hin.",
+    "Gott selbst ist tot; die höchste Verzweiflung der völligen Gottverlassenheit."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p104.json"
+}

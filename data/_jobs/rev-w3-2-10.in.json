@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-10",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 4,
+   "de": "Diese Notwendigkeit, die nur im Worte liegt, ist hiermit die Hererzählung der Momente, die den Kreis derselben ausmachen; sie werden zwar unterschieden, ihr Unterschied aber [wird] zugleich, kein Unterschied der Sache selbst zu sein, ausgedrückt und daher selbst sogleich wieder aufgehoben; diese Bewegung heißt Erklären.",
+   "en": "This necessity, which lies only in the word, is hereby the recounting of the moments that constitute their circle; they are indeed distinguished, but their difference is at the same time expressed as being no difference of the matter itself, and is therefore itself immediately sublated again; this movement is called explaining.",
+   "zh": "这种只存在于词句中的必然性，因此就是对那些构成其圆圈的环节的复述；它们诚然被区别开来，但它们的差别同时又被表述为并非事情本身的差别，因此本身又立刻被扬弃了；这种运动叫做解释。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 5,
+   "de": "Es wird also ein Gesetz ausgesprochen, von diesem wird sein an sich Allgemeines, oder der Grund, als die Kraft unterschieden; aber von diesem Unterschiede wird gesagt, daß er keiner, sondern vielmehr der Grund ganz so beschaffen sei wie das Gesetz.",
+   "en": "A law is therefore pronounced; from this, its in-itself universal, or the ground, is distinguished as force; but of this difference it is said that it is none, but rather that the ground is constituted quite as the law is.",
+   "zh": "于是一个规律被说出来，从规律中，它的自在的普遍者、或者说根据，被作为力区分出来；但关于这一差别，人们又说它并不是差别，而是说根据的性状完全和规律一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 6,
+   "de": "Die einzelne Begebenheit des Blitzes z.B. wird als Allgemeines aufgefaßt und dies Allgemeine als das Gesetz der Elektrizität ausgesprochen: die Erklärung faßt alsdann das Gesetz in die Kraft zusammen, als das Wesen des Gesetzes.",
+   "en": "The single occurrence of lightning, e.g., is grasped as universal, and this universal is pronounced as the law of electricity; explanation then gathers the law together into force, as the essence of the law.",
+   "zh": "例如，闪电这一单个事件被把握为普遍者，而这普遍者被说成电的规律；解释随后又把规律总括为力，作为规律的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 7,
+   "de": "Diese Kraft ist dann 50 beschaffen, daß, wenn sie sich äußert, entgegengesetzte Elektrizitäten hervortreten, die wieder ineinander verschwinden, d.h. die Kraft ist gerade so beschaffen wie das Gesetz; es wird gesagt, daß beide gar nicht unterschieden seien.",
+   "en": "This force is then (50) so constituted that, when it expresses itself, opposed electricities come forth which again vanish into one another, i.e. the force is constituted just as the law is; it is said that the two are not distinguished at all.",
+   "zh": "这时力就（50）具有这样的性状：当它表现出来时，会出现相反的两种电，它们又彼此消失，也就是说，力的性状恰恰和规律一样；人们说，两者根本不曾被区别开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 46,
+   "si": 8,
+   "de": "Die Unterschiede sind die reine allgemeine Äußerung oder das Gesetz und die reine Kraft; beide haben aber denselben Inhalt, dieselbe Beschaffenheit; der Unterschied als Unterschied des Inhalts, d.h. der Sache, wird also auch wieder zurückgenommen.",
+   "en": "The differences are pure universal expression, or the law, and pure force; but both have the same content, the same constitution; the difference as difference of content, i.e. of the matter, is therefore likewise taken back again.",
+   "zh": "这些差别就是纯粹普遍的表现、即规律，和纯粹的力；但两者有相同的内容、相同的性状；差别作为内容、即事情的区别，因此也重新被收回。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 0,
+   "de": "In dieser tautologischen Bewegung beharrt, wie sich ergibt, der Verstand bei der ruhigen Einheit seines Gegenstandes, und die Bewegung fällt nur in ihn selbst, nicht in den Gegenstand; sie ist ein Erklären, das nicht nur nichts erklärt, sondern so klar ist, daß es, indem es Anstalten macht, etwas Unterschiedenes von dem schon Gesagten zu sagen, vielmehr nichts sagt, sondern nur dasselbe wiederholt.",
+   "en": "In this tautological movement, as results, the understanding persists in the calm unity of its object, and the movement falls only in it itself, not in the object; it is an explaining that not only explains nothing, but is so clear that, while it makes preparations to say something different from what has already been said, it rather says nothing, but only repeats the same.",
+   "zh": "在这种同语反复的运动中，正如已经得出的结果那样，知性坚持着它对象的平静统一，而运动只落在知性自己身上，不落在对象上；这是一种解释，它不仅什么也没有解释，而且清楚到这样的地步：当它准备说出某种与已经说过的不同的东西时，它反而什么也没有说，只是把同一个东西重复一遍。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 1,
+   "de": "An der Sache selbst entsteht durch diese Bewegung nichts Neues, sondern sie kommt [nur] als Bewegung des Verstandes in Betracht.",
+   "en": "On the matter itself nothing new arises through this movement; rather, it comes into consideration only as movement of the understanding.",
+   "zh": "在事情本身上，通过这种运动并没有产生什么新东西，这种运动只作为知性的运动而被考虑。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 2,
+   "de": "In ihr aber erkennen wir nun eben dasjenige, was an dem Gesetze vermißt wurde, nämlich den absoluten Wechsel selbst; denn diese Bewegung, wenn wir sie näher betrachten, ist unmittelbar das Gegenteil ihrer selbst.",
+   "en": "But in it we now cognize precisely that which was found lacking in the law, namely absolute exchange itself; for this movement, if we consider it more closely, is immediately the opposite of itself.",
+   "zh": "但在这种运动中，我们现在恰恰认识到规律那里所缺少的东西，即绝对的变换本身；因为这种运动，如果我们更仔细地考察它，就直接是它自己的反面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 3,
+   "de": "Sie setzt nämlich einen Unterschied, welcher nicht nur für uns kein Unterschied ist, sondern welchen sie selbst als Unterschied aufhebt.",
+   "en": "For it posits a difference which is not only no difference for us, but which it itself sublates as difference.",
+   "zh": "因为它设定一种差别，这种差别不仅对我们来说不是差别，而且它自己就把这种差别作为差别加以扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 4,
+   "de": "Es ist dies derselbe Wechsel, der sich als das Spiel der Kräfte darstellte; es war in ihm der Unterschied des Sollizitierenden und Sollizitierten, der sich äußernden und der in sich zurückgedrängten Kraft; aber es waren Unterschiede, die in Wahrheit keine waren und sich darum auch unmittelbar wieder aufhoben.",
+   "en": "This is the same exchange that presented itself as the play of forces; in it there was the difference of the soliciting and the solicited, of the expressing and the force driven back into itself; but they were differences that in truth were none, and therefore also immediately sublated themselves again.",
+   "zh": "这就是曾表现为力的游戏的那种同一个变换；在它之中曾有推动者与被推动者、表现着的力与被逼回自身之中的力的差别；但这些差别实际上并不是差别，因此也立刻又扬弃了自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 5,
+   "de": "Es ist nicht nur die bloße Einheit vorhanden, so daß kein Unterschied gesetzt wäre, sondern es ist diese Bewegung, daß allerdings ein Unterschied gemacht, aber, weil er keiner ist, wieder aufgehoben wird.",
+   "en": "There is present not merely the bare unity, so that no difference would be posited, but it is this movement: that a difference is indeed made, but, because it is none, is sublated again.",
+   "zh": "这里存在的不仅是单纯统一，以致没有设定任何差别，而是这样一种运动：诚然造成了一种差别，但因为它并不是差别，所以又被扬弃了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 47,
+   "si": 6,
+   "de": "– Mit dem Erklären also ist der Wandel und Wechsel, der vorhin außer dem Innern nur an der Erscheinung war, in das Übersinnliche selbst eingedrungen; unser Bewußtsein ist aber aus dem Innern als Gegenstande auf die andere Seite in den Verstand herübergegangen und hat in ihm den Wechsel.",
+   "en": "– With explaining, therefore, the change and exchange that previously was only on the appearance, outside the inner, has penetrated into the supersensuous itself; but our consciousness has passed over from the inner as object to the other side, into the understanding, and has the exchange in it.",
+   "zh": "——因此，随着解释，先前只在现象上、在内在东西之外的变化和变换，已经渗入到超感性之物本身之中；但我们的意识却从作为对象的内在东西转到了另一侧，进入知性，并在知性中拥有这种变换。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 0,
+   "de": "Dieser Wechsel ist so noch nicht ein Wechsel der Sache selbst, sondern stellt sich vielmehr eben dadurch als reiner Wechsel dar, daß der Inhalt der Momente des Wechsels derselbe bleibt.",
+   "en": "This exchange is thus not yet an exchange of the matter itself, but presents itself rather, precisely thereby, as pure exchange, that the content of the moments of the exchange remains the same.",
+   "zh": "这种变换这样还不是事情本身的变换，而毋宁说恰恰由于变换诸环节的内容保持同一，它才表现为纯粹的变换。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 1,
+   "de": "Indem aber der Begriff als Begriff des Verstandes dasselbe ist, was das Innere der Dinge, so wird dieser Wechsel als Gesetz des Innern für ihn.",
+   "en": "But since the concept, as concept of the understanding, is the same as what the inner of things is, this exchange becomes for it the law of the inner.",
+   "zh": "但既然概念作为知性的概念和物的内在东西是同一个东西，这种变换对知性来说就成了内在东西的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 2,
+   "de": "Er erfährt also, daß es Gesetz der Erscheinung selbst ist, daß Unterschiede werden, die keine Unterschiede sind, oder daß das Gleichnamige sich von sich selbst abstößt; und ebenso, daß die Unterschiede nur solche sind, die in Wahrheit keine sind und sich aufheben; oder daß das Ungleichnamige sich anzieht.",
+   "en": "It therefore experiences that it is the law of appearance itself that differences arise which are no differences, or that the like-named repels itself from itself; and likewise that the differences are only such as in truth are none and sublate themselves; or that the unlike-named attracts itself.",
+   "zh": "所以它经验到：现象本身的规律就是有一些差别产生出来，而这些差别并不是差别，或者说同名者把自己从自身排斥开；它同样经验到：这些差别只是这样的差别，即它们实际上并不是差别、并且扬弃自己；或者说不同名者吸引自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 3,
+   "de": "– Ein zweites Gesetz, dessen Inhalt demjenigen, was vorher Gesetz genannt wurde, nämlich dem beständigen sich gleichbleibenden Unterschiede entgegengesetzt ist; denn dies neue drückt vielmehr das Ungleichwerden des Gleichen und das Gleichwerden des Ungleichen aus.",
+   "en": "– A second law, whose content is opposed to what was previously called law, namely to the constant difference remaining equal to itself; for this new one expresses rather the becoming-unequal of the equal and the becoming-equal of the unequal.",
+   "zh": "——第二种规律，它的内容与先前被称为规律的那个东西、即持续地保持自身同一的差别相对立；因为这条新的规律毋宁说表达的是相同者的变得不相同和不相同者的变得相同。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 4,
+   "de": "Der Begriff mutet der Gedankenlosigkeit zu, beide Gesetze zusammenzubringen und ihrer Entgegensetzung bewußt zu werden,",
+   "en": "The concept demands of thoughtlessness to bring both laws together and to become conscious of their opposition,",
+   "zh": "概念要求无思想性把两种规律结合起来，并意识到它们的对立，"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 5,
+   "de": "– Gesetz ist das zweite freilich auch oder ein inneres sichselbstgleiches Sein, aber eine Sichselbstgleichheit vielmehr der Ungleichheit, eine Beständigkeit der Unbeständigkeit.",
+   "en": "– The second is of course also law, or an inner being equal to itself, but rather a self-equality of inequality, a constancy of inconstancy.",
+   "zh": "——第二种诚然也是规律，或者说是一种内在的自身相同存在，但毋宁说是一种不相同者的自身相同性，一种不恒定的恒定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 6,
+   "de": "– An dem Spiele der Kräfte ergab sich dieses Gesetz als eben dieses absolute Übergehen und als reiner Wechsel; das Gleichnamige, die Kraft, zersetzt sich in einen Gegensatz, der zunächst als ein selbständiger Unterschied erscheint, aber welcher sich in der Tat keiner zu sein erweist; denn es ist das Gleichnamige, was sich von sich selbst abstößt, und dies Abgestoßene zieht sich daher wesentlich an, denn es ist dasselbe; der gemachte Unterschied, da er keiner ist, hebt sich also wieder auf.",
+   "en": "– In the play of forces this law resulted as precisely this absolute passing-over and as pure exchange; the like-named, force, decomposes itself into an opposition that at first appears as an independent difference, but which in fact proves to be none; for it is the like-named that repels itself from itself, and this repelled [element] therefore essentially attracts itself, for it is the same; the difference that has been made, since it is none, therefore sublates itself again.",
+   "zh": "——在力的游戏中，这条规律表明自己恰恰就是这种绝对的过渡和纯粹的变换；同名者、即力，分解为一种对立，这种对立起初显得是一种独立的差别，但它在事实上表明自己并不是差别；因为正是同名者把自己从自身排斥开，而这被排斥者因此本质上吸引自己，因为它就是同一个东西；所以被造成的差别，既然并不是差别，就重新扬弃了自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 48,
+   "si": 7,
+   "de": "Er stellt sich hiermit als Unterschied der Sache selbst oder als absoluter Unterschied dar, und dieser Unterschied der Sache ist also nichts anderes als das Gleichnamige, das sich von sich abgestoßen hat und daher nur einen Gegensatz setzt, der keiner ist.",
+   "en": "It hereby presents itself as difference of the matter itself or as absolute difference, and this difference of the matter is therefore nothing other than the like-named that has repelled itself from itself and therefore posits only an opposition that is none.",
+   "zh": "它由此表现为事情本身的差别，或者说表现为绝对的差别，而事情的这一差别因此无非就是同名者，即那个把自己从自身排斥开、因此只设定了一种并非对立的对立的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 49,
+   "si": 0,
+   "de": "Durch dies Prinzip wird das erste Übersinnliche, das ruhige Reich der Gesetze, das unmittelbare Abbild der wahrgenommenen Welt in sein Gegenteil umgekehrt; das Gesetz war überhaupt das sich Gleichbleibende, wie seine Unterschiede; jetzt aber ist gesetzt, daß beides vielmehr das Gegenteil seiner selbst ist; das sich Gleiche stößt sich vielmehr von sich ab, und das sich Ungleiche setzt sich vielmehr als das sich Gleiche, In der Tat ist nur mit dieser Bestimmung der Unterschied der innere oder Unterschied an sich selbst, indem das Gleiche sich ungleich, das Ungleiche sich gleich ist.",
+   "en": "Through this principle the first supersensuous [world], the calm realm of laws, the immediate copy of the perceived world, is inverted into its opposite; the law was on the whole the self-same, as were its differences; but now it is posited that both are rather the opposite of themselves; the like repels itself rather from itself, and the unlike posits itself rather as the like, in fact only with this determination is difference the inner difference, or difference in itself, in that the like is unlike [to itself], the unlike is like [itself].",
+   "zh": "通过这条原则，第一个超感性之物，即诸规律的宁静王国，即被知觉到的世界的直接摹本，就被翻转成了它的反面；规律本来整个说来是自身保持同一的东西，它的诸差别也是如此；但现在却被设定为：两者毋宁说都是它自己的反面；自身同一的东西毋宁说把自己从自身排斥开，而自身不等同的东西则毋宁说把自己设定为自身同一的东西，事实上，只有通过这个规定，差别才是内在的差别或自在的差别，因为等同的东西对自己来说是不等同的，不等同的东西对自己来说是等同的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 49,
+   "si": 1,
+   "de": "– Diese zweite übersinnliche Welt ist auf diese Weise die verkehrte Welt, und zwar, indem eine Seite schon an der ersten übersinnlichen Welt vorhanden ist, die verkehrte dieser ersten.",
+   "en": "– This second supersensuous world is in this way the inverted world, and indeed, since one side is already present on the first supersensuous world, [it is] the inverted [side] of this first one.",
+   "zh": "——这第二个超感性世界以这种方式就是颠倒的世界，而且是这样：一个方面已经存在于第一个超感性世界上，它就是这第一个超感性世界的颠倒面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 49,
+   "si": 2,
+   "de": "Das Innere ist damit als Erscheinung vollendet.",
+   "en": "The inner is thereby completed as appearance.",
+   "zh": "内在的东西由此就作为现象而完成了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 49,
+   "si": 3,
+   "de": "Denn die erste übersinnliche Welt war nur die unmittelbare Erhebung der wahrgenommenen Welt in das allgemeine Element; sie hatte ihr notwendiges Gegenbild an dieser, welche noch für sich das Prinzip des Wechsels und der Veränderung behielt; das erste Reich der Gesetze entbehrte dessen, erhält es aber als verkehrte Welt.",
+   "en": "For the first supersensuous world was only the immediate elevation of the perceived world into the universal element; it had its necessary counterpart in this [perceived world], which still retained for itself the principle of exchange and alteration; the first realm of laws lacked this, but receives it as the inverted world.",
+   "zh": "因为第一个超感性世界只是把被知觉到的世界直接提升到普遍要素之中；它在这个世界上有自己的必然的反面图像，而这个被知觉到的世界还自为地保留着变换和变化的原则；第一个规律王国缺少这个原则，但它作为颠倒的世界却获得了它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 0,
+   "de": "Nach dem Gesetze dieser verkehrten Welt ist also das Gleichnamige der ersten das Ungleiche seiner selbst, und das Ungleiche derselben ist ebenso ihm selbst ungleich, oder es wird sich gleich.",
+   "en": "According to the law of this inverted world, therefore, the like-named of the first is the unlike of itself, and the unlike of the first is likewise unlike to itself, or it becomes like itself.",
+   "zh": "所以，按照这个颠倒的世界的规律，第一个世界的同名者就是它自己的不等同者，而第一个世界的不同名者也同样对自己来说是不等同的，或者说它变得与自身等同。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 1,
+   "de": "An bestimmten Momenten wird dies sich so ergeben, daß, was im Gesetze der ersten süß, in diesem verkehrten Ansich sauer, was in jenem schwarz, in diesem weiß ist.",
+   "en": "In determinate moments this will turn out such that what in the law of the first is sweet is sour in this inverted in-itself, what in the former is black is white in this one.",
+   "zh": "在一些特定的环节上，这就会表明为：在第一个世界的规律中甜的，在这个颠倒的自在中就是酸的，在第一个世界中黑的，在这个世界中就是白的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 2,
+   "de": "Was im Gesetze der ersteren am Magnete Nordpol, ist in seinem anderen übersinnlichen Ansich (in der Erde nämlich) Südpol; was aber dort Südpol, ist hier Nordpol.",
+   "en": "What in the law of the former is the north pole on the magnet is the south pole in its other supersensuous in-itself (namely in the earth); but what is south pole there is north pole here.",
+   "zh": "在第一个世界的规律中在磁体上是北极的东西，在它另一个超感性的自在中（也就是在地球中）就是南极；而那里是南极的东西，这里就是北极。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 3,
+   "de": "Ebenso was im ersten Gesetze der Elektrizität Sauerstoffpol ist, wird in seinem anderen übersinnlichen Wesen Wasserstoffpol; und umgekehrt, was dort der Wasserstoffpol ist, wird hier der Sauerstoffpol.",
+   "en": "Likewise, what in the first law of electricity is the oxygen pole becomes the hydrogen pole in its other supersensuous essence; and conversely, what is the hydrogen pole there becomes the oxygen pole here.",
+   "zh": "同样，在电的第一个规律中是氧极的东西，在它另一个超感性的本质中就成为氢极；反过来，在那里是氢极的东西，在这里就成为氧极。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 4,
+   "de": "In einer anderen Sphäre ist nach dem unmittelbaren Gesetze Rache an dem Feinde die höchste Befriedigung der verletzten Individualität.",
+   "en": "In another sphere, according to the immediate law, revenge on the enemy is the highest satisfaction of the injured individuality.",
+   "zh": "在另一个领域里，按照直接的规律，对敌人的复仇就是受了伤害的个体性的最高满足。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 5,
+   "de": "Dieses Gesetz aber, dem, der mich nicht als Selbstwesen behandelt, mich als Wesen gegen ihn zu zeigen und ihn vielmehr als Wesen aufzuheben, verkehrt sich durch das Prinzip der anderen Welt in das entgegengesetzte, die Wiederherstellung meiner als des Wesens durch das Aufheben des fremden Wesens in Selbstzerstörung.",
+   "en": "But this law, namely to show myself as an essential being over against him who does not treat me as a self-existent being, and rather to sublate him as an essential being, is inverted by the principle of the other world into the opposite, namely: the restoration of myself as the essential being through the sublation of the alien essential being, [turns] into self-destruction.",
+   "zh": "但这条规律，即面对那个不把我当作自为存在者来对待的人，要把自己显示为本质，并且毋宁说把他作为本质加以扬弃，通过另一个世界的原则就转变成相反的东西，即：通过扬弃那个异己的本质而把我作为本质加以恢复，转化为自我毁灭。"
+  }
+ ]
+}

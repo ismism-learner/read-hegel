@@ -1,0 +1,29 @@
+{
+ "id": "w2-12-7",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 12,
+ "chunkTitle": "[IV]",
+ "heading": "[IV]",
+ "blocks": [
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "8t8ti58r5g",
+   "sents": [
+    "Indem so eine Bestimmtheit, welche von dem Meinen der positiven Wissenschaft festgehalten wird, das gerade Gegenteil ihrer selbst ist, so ist für die beiden Parteien, deren jede sich an die eine der entgegengesetzten Bestimmtheiten hält, gleich möglich, die andere zu widerlegen, welche Möglichkeit des Widerlegens darin besteht, daß von jeder Bestimmtheit gezeigt wird, sie sei gar nicht denkbar und gar nichts ohne Beziehung auf die ihr entgegengesetzte; aber dadurch, daß sie nur ist und nur Bedeutung in Beziehung auf diese hat, kann und muß unmittelbar diese entgegengesetzte ebenso vorhanden sein und aufgezeigt werden.",
+    "Daß + A keinen Sinn hat ohne Beziehung auf ein - A, daraus ist zu erweisen, daß mit + A unmittelbar - A ist, was der Gegner alsdann so faßt, daß vielmehr - A hier vorhanden sei als + A; aber seinem - A kann ebendies erwidert werden.",
+    "Oft wird sich aber auch diese Mühe nicht gegeben und z. B. von der sinnlichen Triebfedern entgegengesetzten Freiheit, welche um dieser Entgegensetzung willen ebensowenig eine wahre Freiheit ist, nicht gezeigt, daß alles, was als Äußerung dieser Freiheit erklärt werden wolle, eigentlich als Wirkung der sinnlichen Triebfedern erklärt werden müsse, was sich sehr gut tun läßt, aber nicht mehr, als sich im Gegenteil wieder zeigen läßt, daß, was als Wirkung der sinnlichen Triebfeder erfahren werden solle, eigentlich als Wirkung der Freiheit erfahren werden müsse, sondern es wird von der Freiheit geradezu abstrahiert und behauptet, daß sie gar nicht hierher gehöre, weil sie etwas Inneres, noch mehr etwas Moralisches und gar etwas Metaphysisches sei, aber dabei nicht bedacht, daß die andere Bestimmtheit, bei welcher stehengeblieben wird, nämlich der Zwang und die sinnliche Triebfeder, durch die er gesetzt sein soll als etwas Äußerliches, gar keine Bedeutung hat ohne das entgegengesetzte Innere oder die Freiheit und daß diese schlechterdings von dem Zwang nicht abzutrennen ist.",
+    "Die Handlung, welche ein Verbrechen ist, von der Seite angesehen, daß dadurch, der angedrohten Strafe und der sinnlichen Triebfeder, welche das Gesetz durch diese Drohung aufstellt, zuwider, etwas Bestimmtes gewollt wird, so heißt dies Bestimmte etwas Sinnliches, und man wird sagen, daß es ein sinnlicher Reiz sei, von dem das Verbrechen abstamme; aber von der Seite, daß die Handlung ein Wollen ist, und die Möglichkeit in ihr, von der sinnlichen Triebfeder des Gesetzes zu abstrahieren, so erscheint sie als frei, und keine Ansicht, weder jene Bestimmtheit noch diese Möglichkeit kann weggelassen werden, sondern eins ist schlechthin an das andere geknüpft, und damit kann unmittelbar jedes aus seinem Gegenteil hergeleitet werden.",
+    "Aber die Logik des Meinens meint, wenn eine Bestimmtheit, ein Entgegengesetztes gesetzt sei, daß von der anderen, entgegengesetzten Bestimmtheit wirklich abstrahiert und derselben entbehrt werden könne, so wie auch jene Logik vermöge der Art ihres Grundsatzes des Widerspruches gar nicht begreifen kann, daß in solchen Bestimmtheiten das Gegenteil einer jeden ganz gleichgültig für die Bestimmung der Anschauung und in diesem Abstrahieren und negativen Wesen das Gegenteil seinem Gegenteil völlig gleich ist, noch weniger, daß beide zusammen wie die Freiheit, welche der Sinnlichkeit gegenüber ist, und die Sinnlichkeit und der Zwang schlechthin nichts Reelles, sondern bloße Gedankendinge und Wesen der Einbildung sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/12.p7.json"
+}

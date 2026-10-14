@@ -1,0 +1,23 @@
+{
+ "id": "w2-1-27",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Darstellung des Fichteschen Systems",
+ "blocks": [
+  {
+   "bi": 27,
+   "k": "h",
+   "hash": "uu1dlqajon",
+   "text": "Darstellung des Fichteschen Systems"
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p27.json"
+}

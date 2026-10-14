@@ -1,0 +1,113 @@
+{
+ "id": "w1-14-50",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "14.",
+ "heading": "[Einleitung]",
+ "blocks": [
+  {
+   "bi": 50,
+   "k": "h",
+   "hash": "1k80cnr1p5",
+   "text": "[Einleitung]"
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "xjgvw2g6yk",
+   "sents": [
+    "Deutschland ist kein Staat mehr.",
+    "Die älteren Staatsrechtslehrer, welchen bei der Behandlung des deutschen Staatsrechts die Idee einer Wissenschaft vorschwebte und welche also darauf ausgingen, von der deutschen Verfassung einen Begriff festzusetzen, konnten über diesen Begriff nicht einig werden, bis die neueren es aufgaben, ihn zu finden, und das Staatsrecht nicht mehr als eine Wissenschaft, sondern als eine Beschreibung von dem, was empirischerweise, ohne einer vernünftigen Idee sich anzupassen, vorhanden ist, behandeln und dem deutschen Staate nichts mehr als den Namen eines Reichs oder eines Staatskörpers geben zu können glauben."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "10gatwwt01",
+   "sents": [
+    "Es ist kein Streit mehr darüber, unter welchen Begriff die deutsche Verfassung falle.",
+    "Was nicht mehr begriffen werden kann, ist nicht mehr.",
+    "Sollte Deutschland ein Staat sein, so könnte man diesen Zustand der Auflösung des Staats nicht anders als mit einem auswärtigen Staatsrechtsgelehrten Anarchie nennen, wenn nicht die Teile sich wieder zu Staaten konstituiert hätten, denen weniger ein noch bestehendes als vielmehr die Erinnerung eines ehemaligen Bandes noch einen Schein von Vereinigung läßt, so wie die herabgefallenen Früchte noch ihrem Baume angehört zu haben daran erkannt werden, daß [sie] unter seiner Krone liegen; aber [weder] die Stelle unter ihm noch sein Schatten, der sie berührt, retten sie nicht vor Fäulnis und der Macht der Elemente, denen sie jetzt gehören."
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "141zbq8675",
+   "sents": [
+    "Die Gesundheit eines Staats offenbart sich im allgemeinen nicht sowohl in der Ruhe des Friedens als in der Bewegung des Kriegs; jene ist der Zustand des Genusses und der Tätigkeit in Absonderung, die Regierung eine weise Hausväterlichkeit, die nur Gewöhnliches an die Beherrschten fordert; im Kriege aber zeigt sich die Kraft des Zusammenhangs aller mit dem Ganzen, wieviel von ihnen fordern zu können er sich eingerichtet hat, und wieviel das taugt, was aus eigenem Triebe und Gemüte für ihn sie tun mögen."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "dm46fs1x0h",
+   "sents": [
+    "So hat in dem Krieg mit der französischen Republik Deutschland an sich die Erfahrung gemacht, wie es kein Staat mehr ist, und ist seines politischen Zustandes sowohl in dem Kriege selbst als an dem Frieden innegeworden, der diesen Krieg endigte und dessen handgreifliche Resultate sind: der Verlust einiger der schönsten deutschen Länder, einiger Millionen seiner Bewohner, eine Schuldenlast auf der südlichen Hälfte stärker als auf der nördlichen, welche das Elend des Kriegs noch weit hinein in den Frieden verlängert, und daß außer denen, welche unter die Herrschaft der Eroberer und zugleich fremder Gesetze und Sitten gekommen sind, noch viele Staaten dasjenige verlieren werden, was ihr höchstes Gut ist, - eigene Staaten zu sein."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1q3ozp8sbw",
+   "sents": [
+    "Welches aber die inneren Ursachen, der Geist dieser Resultate sei, wie sie nur seine äußeren und notwendigen Erscheinungen, zu einer solchen Überlegung ist der Friede geschickt, so wie diese Überlegung an sich eines jeden würdig ist, der sich nicht demjenigen, was geschieht, hingibt, sondern die Begebenheit und ihre Notwendigkeit erkennt und sich durch eine solche Erkenntnis von denjenigen unterscheidet, welche nur die Willkür und den Zufall um ihrer Eitelkeit willen sehen, durch die sie sich überreden, daß sie alles, was geschehen ist, klüger und glücklicher geführt haben würden; eine solche Erkenntnis ist für die meisten nur, weil sie sich damit und mit dem verständigen Urteilen über die einzelnen Dinge, das aus ihr folgt, [brüsten können,] von Wichtigkeit, nicht um aus der Erfahrung zu lernen, wie für einen künftigen Fall besser zu handeln sei.",
+    "Denn derjenigen, die in diesen großen Begebenheiten so handeln, daß sie dieselben leiten könnten, sind sehr wenige; die anderen aber haben den Begebenheiten mit Verstand und Einsicht in ihre Notwendigkeit zu dienen.",
+    "Aus der Erfahrung der Fehler aber, welche der Ausbruch der inneren Schwäche und Unklugheit ist, lernen nicht sowohl diejenigen, welche sie begangen haben - sondern diese verstärken vielmehr nur ihre Gewohnheit, sie zu begehen -, als die anderen sie kennenlernen und durch diese Einsicht sich in den Stand setzen, Nutzen daraus zu ziehen, - welche, wenn sie dies zu tun überhaupt fähig [und] dazu in der äußeren Lage sind, durch beides eine Einsicht besitzen, die der Gedanke eines Privatmanns entbehren kann."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "k5hs2b1d2l",
+   "sents": [
+    "Die Gedanken, welche diese Schrift enthält, können bei ihrer öffentlichen Äußerung keinen anderen Zweck noch Wirkung haben, als das Verstehen dessen, was ist, und damit die ruhigere Ansicht sowie ein in der wirklichen Berührung und in Worten gemäßigtes Ertragen derselben zu befördern.",
+    "Denn nicht das, was ist, macht uns ungestüm und leidend, sondern daß es nicht ist, wie es sein soll; erkennen wir aber, daß es ist, wie es sein muß, d. h. nicht nach Willkür und Zufall, so erkennen wir auch, daß es so sein soll.",
+    "Es ist aber schwer für die Menschen überhaupt, sich zu der Gewohnheit zu erheben, daß sie die Notwendigkeit zu erkennen und zu denken suchen.",
+    "Denn zwischen die Begebenheiten und das freie Auffassen derselben stellen sie eine Menge von Begriffen und Zwecken hinein und verlangen, daß das, was geschieht, diesen gemäß sein soll.",
+    "Und wenn [es] ohne Zweifel meist anders ist, so überheben sie sich ihrer Begriffe, als ob in diesen die Notwendigkeit, in demjenigen aber, was geschieht, nur der Zufall herrschte, weil ihre Begriffe ebenso beschränkt als ihre Ansicht der Dinge ist, die sie nur als einzelne Begebenheiten, nicht als ein System derselben, das von einem Geist regiert wird, auffassen; und sie mögen sonst durch sie leiden oder auch nur sie ihren Begriffen widersprechend finden, so finden sie darin, daß sie ihre Begriffe behaupten, das Recht, das Geschehene bitter zu tadeln."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "t6tjfs1406",
+   "sents": [
+    "Vor allem hat wohl die fortgehende Zeit die Deutschen mit dieser Untugend behaftet.",
+    "In ewigem Widerspruch zwischen dem, was sie fordern, und dem, was nicht nach ihrer Forderung geschieht, erscheinen sie nicht bloß tadelsüchtig, sondern, wenn sie bloß von ihren Begriffen sprechen, unwahr und unredlich, weil sie in ihre Begriffe von dem Recht und den Pflichten die Notwendigkeit setzen, aber nichts nach dieser Notwendigkeit geschieht und sie selbst so sehr hieran gewöhnt sind, teils daß ihre Worte den Taten immer widersprechen, teils daß sie aus den Begebenheiten ganz etwas anderes zu machen suchen, als sie wirklich sind, und die Erklärung derselben nach gewissen Begriffen zu drehen."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "gfworfqad2",
+   "sents": [
+    "Es würde aber derjenige, der das, was in Deutschland zu geschehen pflegt, nach den Begriffen dessen, was geschehen soll, nämlich nach den Staatsgesetzen, kennenlernen wollte, aufs höchste irren.",
+    "Denn die Auflösung des Staats erkennt sich vorzüglich daran, wenn alles anders geht als die Gesetze.",
+    "Ebenso würde er sich irren, wenn die Form146) , welche von diesen Gesetzen genommen wird, ihm in Wahrheit der Grund und die Ursache derselben schiene.",
+    "Denn eben um ihrer Begriffe willen erscheinen die Deutschen so unredlich, nichts zu gestehen, wie es ist, noch es für nicht mehr und weniger zu geben, als in der Kraft der Sache wirklich liegt.",
+    "Sie bleiben ihren Begriffen, dem Rechte und den Gesetzen getreu, aber die Begebenheiten pflegen nicht damit übereinzustimmen, und so strebt diejenige Seite, die den Vorteil dabei hat, durch Worte mit Gewalt der Begriffe beides einander anzupassen.",
+    "Der Begriff aber, der die übrigen in sich schließt, ist, daß Deutschland überhaupt noch jetzt ein Staat sei, weil es ehemals ein Staat gewesen und noch die Formen, aus denen das Belebende derselben entflohen ist, vorhanden sind."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "py1rhi1elg",
+   "sents": [
+    "Die Organisation dieses Körpers, welche die deutsche Staatsverfassung heißt, hatte sich in einem ganz anderen Leben gebildet, als nachher und jetzt in ihm wohnt; die Gerechtigkeit und Gewalt, die Weisheit und die Tapferkeit verflossener Zeiten, die Ehre und das Blut, das Wohlsein und die Not längst verwester Geschlechter und mit ihnen untergegangener Sitten und Verhältnisse ist in den Formen dieses Körpers ausgedrückt.",
+    "Der Verlauf der Zeit aber und der in ihr sich entwickelnden Bildung hat das Schicksal jener Zeit und das Leben der jetzigen voneinander abgeschnitten.",
+    "Das Gebäude, worin jenes Schicksal hauste, wird von dem Schicksal des jetzigen Geschlechts nicht mehr getragen und steht ohne Anteil und Notwendigkeit für dessen Interesse und seine Tätigkeit isoliert von dem Geiste der Welt.",
+    "Wenn diese Gesetze ihr altes Leben verloren haben, so hat sich die jetzige Lebendigkeit nicht in Gesetze zu fassen gewußt; jede ist ihren eigenen Weg gegangen, hat sich für sich festgesetzt, und das Ganze [ist] zerfallen, der Staat ist nicht mehr."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/14.p50.json"
+}

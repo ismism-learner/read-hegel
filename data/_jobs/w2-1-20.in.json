@@ -1,0 +1,70 @@
+{
+ "id": "w2-1-20",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "mn8eai1uyx",
+   "sents": [
+    "Weil aber diese Beziehung des Beschränkten auf das Absolute ein Mannigfaltiges ist, da die Beschränkten es sind, so muß das Philosophieren darauf ausgehen, diese Mannigfaltigkeit als solche in Beziehung zu setzen.",
+    "Es muß das Bedürfnis entstehen, eine Totalität des Wissens, ein System der Wissenschaft zu produzieren.",
+    "Hierdurch erst befreit sich die Mannigfaltigkeit jener Beziehungen von der Zufälligkeit, indem sie ihre Stellen im Zusammenhang der objektiven Totalität des Wissens erhalten und ihre objektive Vollständigkeit zustande gebracht wird.",
+    "Das Philosophieren, das sich nicht zum System konstruiert, ist eine beständige Flucht vor den Beschränkungen, - mehr ein Ringen der Vernunft nach Freiheit als reines Selbsterkennen derselben, das seiner sicher und über sich klar geworden ist.",
+    "Die freie Vernunft und ihre Tat ist eins, und ihre Tätigkeit ein reines Darstellen ihrer selbst."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "5kxdc6n36c",
+   "sents": [
+    "In dieser Selbstproduktion der Vernunft gestaltet sich das Absolute in eine objektive Totalität, die ein Ganzes in sich selbst getragen und vollendet ist, keinen Grund außer sich hat, sondern durch sich selbst in ihrem Anfang, Mittel und Ende begründet ist.",
+    "Ein solches Ganzes erscheint als eine Organisation von Sätzen und Anschauungen.",
+    "Jede Synthese der Vernunft und die ihr korrespondierende Anschauung, die beide in der Spekulation vereinigt sind, ist als Identität des Bewußten und Bewußtlosen für sich im Absoluten und unendlich; zugleich aber ist sie endlich und beschränkt, insofern sie in der objektiven Totalität gesetzt ist und andere außer sich hat.",
+    "Die unentzweiteste Identität - objektiv die Materie, subjektiv das Fühlen (Selbstbewußtsein) - ist zugleich eine unendlich entgegengesetzte, eine durchaus relative Identität; die Vernunft, das Vermögen (insofern der objektiven) Totalität vervollständigt sie durch ihr Entgegengesetztes und produziert durch die Synthese beider eine neue Identität, die selbst wieder vor der Vernunft eine mangelhafte ist, die ebenso sich wieder ergänzt.",
+    "Am reinsten gibt sich die weder synthetisch noch analytisch zu nennende Methode des Systems, wenn sie als eine Entwicklung der Vernunft selbst erscheint, welche die Emanation ihrer Erscheinung als eine Duplizität nicht in sich immer wieder zurückruft - hiermit vernichtete sie dieselbe nur -, sondern sich in ihr zu einer durch jene Duplizität bedingten Identität konstruiert, diese relative Identität wieder sich entgegensetzt, so daß das System bis zur vollendeten objektiven Totalität fortgeht, sie mit der entgegenstehenden subjektiven zur unendlichen Weltanschauung vereinigt, deren Expansion sich damit zugleich in die reichste und einfachste Identität kontrahiert hat."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "784tt8litw",
+   "sents": [
+    "Es ist möglich, daß eine echte Spekulation sich in ihrem System nicht vollkommen ausspricht oder daß die Philosophie des Systems und das System selbst nicht zusammenfallen, daß ein System aufs bestimmteste die Tendenz, alle Entgegensetzungen zu vernichten, ausdrückt und für sich nicht zur vollständigsten Identität durchdringt.",
+    "Die Unterscheidung dieser beiden Rücksichten wird besonders in Beurteilung philosophischer Systeme wichtig.",
+    "Wenn in einem System sich das zum Grunde liegende Bedürfnis nicht vollkommen gestaltet hat und ein Bedingtes, nur in der Entgegensetzung Bestehendes zum Absoluten erhoben hat, so wird es als System Dogmatismus; aber die wahre Spekulation kann sich in den verschiedensten sich gegenseitig als Dogmatismen und Geistesverirrungen verschreienden Philosophien finden.",
+    "Die Geschichte der Philosophie hat allein Wert und Interesse, wenn sie diesen Gesichtspunkt festhält.",
+    "Sonst gibt sie nicht die Geschichte der in unendlich mannigfaltigen Formen sich darstellenden ewigen und einen Vernunft, sondern nichts als eine Erzählung zufälliger Begebenheiten des menschlichen Geistes und sinnloser Meinungen, die der Vernunft aufgebürdet werden, da sie doch allein demjenigen zur Last fallen, der das Vernünftige in ihnen nicht erkannt und sie deswegen verkehrt hat."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1423fxo1h0",
+   "sents": [
+    "Eine echte Spekulation, die aber nicht zu ihrer vollständigen Selbstkonstruktion im System durchdringt, geht notwendig von der absoluten Identität aus; die Entzweiung derselben in Subjektives und Objektives ist eine Produktion des Absoluten.",
+    "Das Grundprinzip ist also völlig transzendental, und von seinem Standpunkt aus gibt es keine absolute Entgegensetzung des Subjektiven und Objektiven.",
+    "Aber somit ist die Erscheinung des Absoluten eine Entgegensetzung; das Absolute ist nicht in seiner Erscheinung; beide sind selbst entgegengesetzt.",
+    "Die Erscheinung ist nicht Identität.",
+    "Diese Entgegensetzung kann nicht transzendental aufgehoben werden, d h. nicht so, daß es an sich keine Entgegensetzung gebe; hiermit ist die Erscheinung nur vernichtet, und die Erscheinung soll doch gleichfalls sein; es würde behauptet, daß das Absolute in seiner Erscheinung aus sich herausgegangen wäre.",
+    "Das Absolute muß sich also in der Erscheinung selbst setzen, d. h. diese nicht vernichten, sondern zur Identität konstruieren.",
+    "Eine falsche Identität ist das Kausalverhältnis zwischen dem Absoluten und seiner Erscheinung; denn diesem Verhältnis liegt die absolute Entgegensetzung zum Grunde.",
+    "In ihm bestehen beide Entgegengesetzte, aber in verschiedenem Rang; die Vereinigung ist gewaltsam, das eine bekommt das andere unter sich; das eine herrscht, das andere wird botmäßig.",
+    "Die Einheit ist in einer nur relativen Identität erzwungen, die Identität, die eine absolute sein soll, ist eine unvollständige.",
+    "Das System ist zu einem Dogmatismus - zu einem Realismus, der die Objektivität, oder zu einem Idealismus, der die Subjektivität absolut setzt - wider seine Philosophie geworden, wenn beide (was bei jenem zweideutiger ist als bei diesem) aus wahrer Spekulation hervorgegangen sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p20.json"
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>c. Die Unendlichkeit des Quantums - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-053.html","collection":"hegel","title":"c. Die Unendlichkeit des Quantums","lang":"de","prev":{"file":"HE05-052.html","title":"b. Der quantitative unendliche Progreß"},"next":{"file":"HE05-054.html","title":"Anmerkung 1"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-053.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 id="h53-1">c. Die Unendlichkeit des Quantums</h4>
+<p>1. Das <i>unendliche Quantum</i> als <i>Unendlichgroßes</i> oder <i>Unendlichkleines</i> ist selbst an sich der unendliche Progreß; es ist Quantum als ein Großes oder Kleines und ist zugleich Nichtsein des Quantums. Das Unendlichgroße und Unendlichkleine sind daher Bilder der Vorstellung, die bei näherer Betrachtung sich als nichtiger Nebel und Schatten zeigen. Im unendlichen Progreß aber ist dieser Widerspruch expliziert vorhanden und damit das, was die Natur des Quantums ist, das als intensive Große seine Realität erreicht hat und in seinem <i>Dasein</i> nun <i>gesetzt</i> [ist], wie es in seinem <i>Begriffe</i> ist. Diese Identität ist es, die zu betrachten ist.</p>
+<p>Das Quantum als Grad ist einfach, auf sich bezogen und als an ihm selbst bestimmt. Indem durch diese Einfachheit das Anderssein und die Bestimmtheit an ihm aufgehoben ist, ist diese ihm äußerlich; es hat seine Bestimmtheit außer ihm. Dies sein Außersichsein ist zunächst das <i>abstrakte Nichtsein</i><a id="S276"></a> des Quantums überhaupt, die schlechte Unendlichkeit. Aber ferner ist dies Nichtsein auch ein Großes; das Quantum kontinuiert sich in sein Nichtsein, denn es hat eben seine Bestimmtheit in seiner Äußerlichkeit; diese seine Äußerlichkeit ist daher ebensosehr selbst Quantum; jenes sein Nichtsein, die Unendlichkeit, wird so begrenzt, d.h. dies Jenseits wird aufgehoben, dieses ist selbst als Quantum bestimmt, das hiermit in seiner Negation bei sich selbst ist.</p>
+<p>Dies ist aber das, was das Quantum als solches <i>an sich</i> ist. Denn es ist eben <i>es selbst durch</i> sein Äußerlichsein; die Äußerlichkeit macht das aus, wodurch es Quantum, bei sich selbst ist. Es ist also im unendlichen Progresse der <i>Begriff</i> des Quantums <i>gesetzt</i>.</p>
+<p>Nehmen wir ihn zunächst in seinen abstrakten Bestimmungen, wie sie vorliegen, <i>so ist in ihm das Aufheben des Quantums, aber ebensosehr seines Jenseits, also die Negation des Quantums sowohl als die Negation dieser Negation vorhanden</i>. Seine Wahrheit ist ihre Einheit, worin sie, aber als Momente, sind. – Sie ist die Auflösung des Widerspruchs, dessen Ausdruck er ist, und ihr nächster Sinn somit die <i>Wiederherstellung des Begriffs der Größe</i>, daß sie gleichgültige oder äußerliche Grenze ist. Im unendlichen Progresse als solchem pflegt nur darauf reflektiert zu werden, daß jedes Quantum, es sei noch so groß oder klein, verschwinden, daß über dasselbe muß hinausgegangen werden können, aber nicht darauf, daß dies sein Aufheben, das Jenseits, das schlecht Unendliche selbst auch verschwindet.</p>
+<p>Schon das <i>erste</i> Aufheben, die Negation der Qualität überhaupt, wodurch das Quantum gesetzt wird, ist <i>an sich</i> das Aufheben der Negation – das Quantum ist aufgehobene qualitative Grenze, somit aufgehobene Negation –, aber es ist zugleich nur <i>an sich</i> dies; gesetzt ist es als ein Dasein, und dann ist seine Negation als das Unendliche fixiert, als das Jenseits des Quantums, welches als ein Diesseits steht, als ein <i>Unmittelbares</i>; so ist das Unendliche nur als <i>erste</i> Negation bestimmt, und so erscheint es im unendlichen Progresse. Es<a id="S277"></a> ist gezeigt worden, daß aber in diesem mehr vorhanden ist, die Negation der Negation oder das, was das Unendliche in Wahrheit ist. Es ist dies vorhin so angesehen worden, daß der <i>Begriff</i> des Quantums damit wiederhergestellt ist; diese Wiederherstellung heißt zunächst, daß sein Dasein seine nähere Bestimmung erhalten hat; es ist nämlich das nach <i>seinem Begriff bestimmte Quantum</i> entstanden, was verschieden ist von dem <i>unmittelbaren Quantum</i>; die<i> Äußerlichkeit</i> ist nun das Gegenteil ihrer selbst, als Moment der <i>Größe</i> selbst gesetzt, – das Quantum so, daß es vermittels seines Nichtseins, der Unendlichkeit, in einem anderen Quantum seine <i>Bestimmtheit</i> habe, d. i. <i>qualitativ</i> das ist, was es ist. Jedoch gehört diese Vergleichung des <i>Begriffs</i> des Quantums mit seinem Dasein mehr unserer Reflexion, einem Verhältnis, das hier noch nicht vorhanden ist, an. Die zunächstliegende Bestimmung ist, daß das Quantum zur <i>Qualität</i> zurückgekehrt, nunmehr qualitativ bestimmt ist. Denn seine Eigentümlichkeit, Qualität, ist die Äußerlichkeit, Gleichgültigkeit der Bestimmtheit; und es ist nun gesetzt, als in seiner Äußerlichkeit vielmehr es selbst zu sein, darin sich auf sich selbst zu beziehen, in einfacher Einheit mit sich, d. i. <i>qualitativ</i> bestimmt zu sein. – Dies Qualitative ist noch näher bestimmt, nämlich als Fürsichsein; denn die Beziehung auf sich selbst, zu der es gekommen, ist aus der Vermittlung, der Negation der Negation, hervorgegangen. Das Quantum hat die Unendlichkeit, das Fürsichbestimmtsein nicht mehr außer ihm, sondern an ihm selbst.</p>
+<p>Das Unendliche, welches im unendlichen Progresse nur die leere Bedeutung eines Nichtseins, eines unerreichten, aber gesuchten Jenseits hat, ist in der Tat nichts anderes als die <i>Qualität</i>. Das Quantum geht als gleichgültige Grenze über sich hinaus ins Unendliche; es sucht damit nichts anderes als das Fürsichbestimmtsein, das qualitative Moment, das aber so nur ein Sollen ist. Seine Gleichgültigkeit gegen die Grenze, damit sein Mangel an fürsichseiender Bestimmtheit und sein Hinausgehen über sich ist, was das Quantum zum Quantum<a id="S278"></a> macht; jenes sein Hinausgehen soll negiert werden und im Unendlichen sich seine absolute Bestimmtheit finden.</p>
+<p>Ganz überhaupt: das Quantum ist die aufgehobene Qualität; aber das Quantum ist unendlich, geht über sich hinaus, es ist die Negation seiner; dies sein Hinausgehen ist also <i>an sich</i> die Negation der negierten Qualität, die Wiederherstellung derselben; und gesetzt ist dies, daß die Äußerlichkeit, welche als Jenseits erschien, als das <i>eigene Moment des</i> Quantums bestimmt ist.</p>
+<p>Das Quantum ist hiermit gesetzt als von sich repelliert, womit also zwei Quanta sind, die jedoch aufgehoben, nur als Momente <i>einer Einheit</i> sind, und diese Einheit ist die Bestimmtheit des Quantums. – Dieses so in seiner Äußerlichkeit als gleichgültige Grenze<i> auf sich bezogen</i>, hiermit qualitativ gesetzt, ist das<i> quantitative Verhältnis</i>. – Im Verhältnisse ist das Quantum sich äußerlich, von sich selbst verschieden; diese seine Äußerlichkeit ist die Beziehung eines Quantums auf ein anderes Quantum, deren jedes nur gilt in dieser seiner Beziehung auf sein Anderes; und diese Beziehung macht die Bestimmtheit des Quantums aus, das als solche Einheit ist. Es hat darin nicht eine gleichgültige, sondern qualitative Bestimmung, ist in dieser seiner Äußerlichkeit in sich zurückgekehrt, ist in derselben das, was es ist.<a id="S279"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-052.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">b. Der quantitative unendliche Progreß</span></a>
+              <a href="./HE05-054.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">Anmerkung 1</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

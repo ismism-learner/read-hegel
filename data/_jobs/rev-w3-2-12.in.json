@@ -1,0 +1,252 @@
+{
+ "id": "rev-w3-2-12",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 8,
+   "de": "Aber indem sie die Abstraktion, nur das eine der Entgegengesetzten ist, so ist es schon gesagt, daß sie das Entzweien ist; denn ist die Einheit ein Negatives, ein Entgegengesetztes, so ist sie eben gesetzt als das, welches die Entgegensetzung an ihm hat.",
+   "en": "But since it is the abstraction, only the one of the opposed, it is thereby already said that it is the diremption; for if the unity is a negative, an opposed, then it is precisely posited as that which has the opposition on it.",
+   "zh": "但是，既然它是抽象、是对立双方中的一方，那么就已经说了：它就是分裂；因为如果统一是一个否定者、一个对立者，那它恰恰被设定为在自己身上具有对立的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 9,
+   "de": "Die Unterschiede von Entzweiung und Sichselbstgleichwerden sind darum ebenso nur diese Bewegung des Sich-Aufhebens-, denn indem das Sichselbstgleiche, welches sich erst entzweien oder zu seinem Gegenteile werden soll, eine Abstraktion oder schon selbst ein Entzweites ist, so Ist sein Entzweien hiermit ein Aufheben dessen, was es ist, und also das Aufheben seines Entzweitseins.",
+   "en": "The differences of diremption and of becoming-self-same are therefore likewise only this movement of self-sublating; for since the self-same, which is first supposed to dirempt itself or become its opposite, is an abstraction or is already itself a dirempted term, its dirempting is hereby a sublating of what it is, and thus the sublating of its being-dirempted.",
+   "zh": "分裂与成为自身等同之间的那些差别，因此同样只是这种自我扬弃的运动；因为那个据说首先要分裂自己、或者要变成自己的对立面的自身等同者，是一种抽象，或者本身已经就是一个分裂开来的东西，所以它在这里的分裂就是扬弃它所是的东西，也就是扬弃它的分裂状态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 10,
+   "de": "Das Sichselbstgleichwerden ist ebenso ein Entzweien; was sich selbst gleich wird, tritt damit der Entzweiung gegenüber; d.h. es stellt selbst sich damit auf die Seite, oder es wird vielmehr ein Entzweites.",
+   "en": "Becoming-self-same is likewise a diremption; what becomes equal to itself thereby steps over against the diremption; that is, it thereby places itself on the side, or rather it becomes a dirempted term.",
+   "zh": "成为自身等同同样是一种分裂；自己变得与自己等同的东西，因此就站到了分裂的对面；也就是说，它因此把自己摆到了一边，或者说，它毋宁说变成了一个分裂开来的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 0,
+   "de": "Die Unendlichkeit oder diese absolute Unruhe des reinen Sichselbstbewegens, daß, was auf irgendeine Weise, z.B. als Sein, bestimmt ist, vielmehr das Gegenteil dieser Bestimmtheit ist, ist zwar schon die Seele alles Bisherigen gewesen, aber im Innern erst ist sie selbst frei hervorgetreten.",
+   "en": "Infinity, or this absolute unrest of pure self-movement, that what is determined in some way, for example as being, is rather the opposite of this determinacy, has indeed already been the soul of everything so far, but only in the inner has it itself freely come forth.",
+   "zh": "无限性，或者说纯粹自我运动的那种绝对不安宁，即凡以某种方式——例如作为存在——被规定的东西，毋宁说是这种规定性的对立面，它虽然早已是此前一切东西的灵魂，但只有在内在中它本身才自由地显露出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 1,
+   "de": "Die Erscheinung oder das Spiel der Kräfte stellt sie selbst schon dar, aber als Erklären tritt sie zunächst frei hervor; und indem sie endlich für das Bewußtsein Gegenstand ist, als das, was sie ist, so ist das Bewußtsein Selbstbewußtsein.",
+   "en": "Appearance, or the play of forces, already exhibits it itself, but it first comes forth freely as explaining; and since it is finally object for consciousness as what it is, consciousness is self-consciousness.",
+   "zh": "现象，或者说力的游戏，已经把它本身呈现出来了，但它是作为解释才首先自由地显露出来；而由于它最终作为它所是的东西成为意识的对象，意识就是自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 2,
+   "de": "Das Erklären des Verstandes macht zunächst nur die Beschreibung dessen, was das Selbstbewußtsein ist.",
+   "en": "The explaining of the understanding initially makes only the description of what self-consciousness is.",
+   "zh": "知性的解释首先只是对自我意识之所是的东西的描述。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 3,
+   "de": "Er hebt die im Gesetze vorhandenen, schon rein gewordenen, aber noch gleichgültigen Unterschiede auf und setzt sie in einer Einheit, der Kraft.",
+   "en": "It sublates the differences present in the law, which have already become pure but are still indifferent, and posits them in a unity, that of force.",
+   "zh": "它扬弃规律中存在着的那些已经变得纯粹、但仍然漠不相关的差别，并把它们设定在一种统一中，即力之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 4,
+   "de": "Dies Gleichwerden ist aber ebenso unmittelbar ein Entzweien, denn er hebt die Unterschiede nur dadurch auf und setzt dadurch das Eins der Kraft, daß er einen neuen Unterschied macht, von Gesetz und Kraft, der aber zugleich kein Unterschied ist; und hierzu, daß dieser Unterschied ebenso kein Unterschied ist, geht er selbst darin fort, daß er diesen Unterschied wieder aufhebt, indem er die Kraft ebenso beschaffen sein läßt als das Gesetz.",
+   "en": "This becoming-equal is however just as immediately a diremption, for it sublates the differences and thereby posits the One of force only by making a new difference, that of law and force, which however is at the same time no difference; and toward this, that this difference is likewise no difference, it itself proceeds further by again sublating this difference, in that it lets force be constituted just as the law.",
+   "zh": "但这种成为等同同样直接就是一种分裂，因为它只有通过造成一种新的差别、即规律和力的差别，才扬弃那些差别，并由此设定力的那个“一”，而这种差别同时又不是差别；而且为了达到这种差别同样不是差别，它本身又在这上面继续前进，重新扬弃这种差别，因为它让力在性状上也和规律一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 5,
+   "de": "– Diese Bewegung oder Notwendigkeit ist aber so noch Notwendigkeit und Bewegung des Verstandes, oder sie als solche ist nicht sein Gegenstand, sondern er hat in ihr positive und negative Elektrizität, Entfernung, Geschwindigkeit, Anziehungskraft und tausend andere Dinge zu Gegenständen, welche den Inhalt der Momente der Bewegung ausmachen.",
+   "en": "– But this movement or necessity is thus still the necessity and movement of the understanding, or as such it is not its object; rather, in it, it has positive and negative electricity, distance, velocity, attractive force and a thousand other things as objects, which make up the content of the moments of the movement.",
+   "zh": "——但这种运动或必然性这样还仍然是知性的必然性和运动，或者说，它作为这样的东西并不是知性的对象；毋宁说，知性在这种运动中有正电和负电、距离、速度、吸引力和千百种别的物作为对象，这些东西构成了运动的诸环节的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 55,
+   "si": 6,
+   "de": "In dem Erklären ist eben darum so viele Selbstbefriedigung, weil das Bewußtsein dabei, [um] es so auszudrücken, in unmittelbarem Selbstgespräche mit sich, nur sich selbst genießt, dabei zwar etwas anderes zu treiben scheint, aber in der Tat sich nur mit sich selbst herumtreibt.",
+   "en": "In explaining there is therefore so much self-satisfaction, because consciousness in it, to put it this way, in immediate soliloquy with itself, enjoys only itself; it indeed seems thereby to be pursuing something else, but in fact only goes round in circles with itself.",
+   "zh": "解释中之所以有如此多的自我满足，正是因为意识在这里——不妨这样说——处于与自己的直接自言自语之中，只享受它自己；它在这里虽然看起来在忙别的事情，但事实上只是在和自己兜圈子。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 0,
+   "de": "In dem entgegengesetzten Gesetze als der Verkehrung des ersten Gesetzes oder in dem inneren Unterschiede wird zwar die Unendlichkeit selbst Gegenstand des Verstandes, aber er verfehlt sie als solche wieder, indem er den Unterschied an sich, das Sichselbstabstoßen des Gleichnamigen und die Ungleichen, die sich anziehen, wieder an zwei Welten oder an zwei substantielle Elemente verteilt; die Bewegung, wie sie in der Erfahrung ist, ist ihm hier ein Geschehen, und das Gleichnamige und das Ungleiche [sind] Prädikate, deren Wesen ein seiendes Substrat ist.",
+   "en": "In the opposed law as the inversion of the first law, or in inner difference, infinity itself indeed becomes object of the understanding, but it again misses it as such, in that it again distributes the difference in itself, the self-repulsion of the like-named and the unequal that attract one another, over two worlds or over two substantial elements; the movement as it is in experience is here for it an occurrence, and the like-named and the unequal are predicates whose essence is a subsisting substrate.",
+   "zh": "在对立着的规律中，即作为第一条规律的颠倒，或者在内在差别中，无限性本身虽然成了知性的对象，但知性又错过了作为这样的无限性，因为它把自在的差别、同名者的自我排斥和相互吸引的不等同者，又重新分配到两个世界或两种实体性元素上；运动，正如它在经验中存在的那样，在这里对知性来说是一种发生，而同名者和不等同者则是谓词，它们的本质是一个存在着的基底。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 1,
+   "de": "Dasselbe, was ihm in sinnlicher Hülle Gegenstand ist, ist es uns in seiner wesentlichen Gestalt, als reiner Begriff.",
+   "en": "The same content that is an object for it in a sensuous covering is an object for us in its essential shape, as pure concept.",
+   "zh": "同一个东西，在感性外壳中对知性来说是对象，对我们来说则在其本质的形态中、作为纯粹概念是对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 2,
+   "de": "Dies Auffassen des Unterschiedes, wie er in Wahrheit ist, oder das Auffassen der Unendlichkeit als solcher ist für uns oder an sich.",
+   "en": "This apprehending of difference as it is in truth, or the apprehending of infinity as such, is for us, or in itself.",
+   "zh": "这种对差别如其在真理中所是的把握，或者说对无限性本身的把握，是对我们来说的，或者说自在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 3,
+   "de": "Die Exposition ihres Begriffs gehört der Wissenschaft an; das Bewußtsein aber, wie es ihn unmittelbar hat, tritt wieder als eigene Form oder neue Gestalt des Bewußtseins auf, welche in dem Vorhergehenden ihr Wesen nicht erkennt, sondern es für etwas ganz anderes ansieht.",
+   "en": "The exposition of its concept belongs to science; but consciousness, as it immediately has it, again appears as a form of its own or a new shape of consciousness, which does not recognize its essence in what precedes, but regards it as something wholly other.",
+   "zh": "对它的概念的阐明属于科学；但意识，正如它直接拥有这个概念那样，又作为意识自己的形式或意识的新的形态出现，这种形态在先前的东西中认不出自己的本质，反而把它看成完全另一个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 4,
+   "de": "– Indem ihm dieser Begriff der Unendlichkeit Gegenstand ist, ist es also Bewußtsein des Unterschiedes als eines unmittelbar ebensosehr Aufgehobenen; es ist für sich selbst, es ist Unterscheidendes Ununterschiedenen oder Selbstbewußtsein.",
+   "en": "– Since this concept of infinity is object for it, it is thus consciousness of difference as of something immediately just as much sublated; it is for itself, it is the distinguishing of the undistinguished, or self-consciousness.",
+   "zh": "——由于无限性的这个概念对意识来说是对象，所以它就是关于差别的意识，是把差别看作直接同样被扬弃了的东西的意识；它是自为的，它是区分着无差别者的东西，或者说，它是自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 5,
+   "de": "Ich unterscheide mich von mir selbst, und es ist darin unmittelbar für mich, daß dies Unterschiedene nicht unterschieden ist.",
+   "en": "I distinguish myself from myself, and it is therein immediately for me that this distinguished element is not distinguished.",
+   "zh": "我把我自己与我自身区分开来，而在这里面直接地对我而言的是：这个有差别的东西并没有被区分开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 6,
+   "de": "Ich, das Gleichnamige, stoße mich von mir selbst ab; aber dies Unterschiedene, Ungleich-Gesetzte ist unmittelbar, indem es unterschieden ist, kein Unterschied für mich.",
+   "en": "I, the like-named, repel myself from myself; but this distinguished, unequally posited element is immediately, in that it is distinguished, no difference for me.",
+   "zh": "我，这个同名者，把我从我自己那里排斥开；但这个被区别开来的、被设定为不等同的东西，在它被区别开来的同时，直接对我而言并不是差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 7,
+   "de": "Das Bewußtsein eines Anderen, eines Gegenstandes überhaupt, ist zwar selbst notwendig Selbstbewußtsein, Reflektiertsein in sich, Bewußtsein seiner selbst in seinem Anderssein.",
+   "en": "The consciousness of an other, of an object in general, is indeed itself necessarily self-consciousness, being-reflected into itself, consciousness of itself in its otherness.",
+   "zh": "对一个他者、一般地对一个对象的意识，本身虽然必然就是自我意识，是在自身中的被反思状态，是在自己的他在中对自己的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 8,
+   "de": "Der notwendige Fortgang von den bisherigen Gestalten des Bewußtseins, welchen ihr Wahres ein Ding, ein Anderes war als sie selbst, drückt eben dies aus, daß nicht allein das Bewußtsein vom Dinge nur für ein Selbstbewußtsein möglich ist, sondern daß dies allein die Wahrheit jener Gestalten ist.",
+   "en": "The necessary progression from the previous shapes of consciousness, for which their true element was a thing, an other than themselves, expresses precisely this: that not only is consciousness of the thing possible only for a self-consciousness, but that this alone is the truth of those shapes.",
+   "zh": "从意识此前的那些形态出发的必然进展——对这些形态来说，它们的真的东西是一个物，一个与它们自己不同的东西——恰恰表达出这一点：不仅对物的意识只有对一个自我意识来说才是可能的，而且只有这一点才是那些形态的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 9,
+   "de": "Aber für uns nur ist diese Wahrheit vorhanden, noch nicht für das Bewußtsein.",
+   "en": "But only for us is this truth present, not yet for consciousness.",
+   "zh": "但这种真理只是对我们来说才存在，还不是对意识来说的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 56,
+   "si": 10,
+   "de": "Das Selbstbewußtsein ist erst für sich geworden, noch nicht als Einheit mit dem Bewußtsein überhaupt.",
+   "en": "Self-consciousness has only just become for itself, not yet as unity with consciousness in general.",
+   "zh": "自我意识才刚刚成为自为的，还没有成为与一般意识的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 0,
+   "de": "Wir sehen, daß im Innern der Erscheinung der Verstand in Wahrheit nicht etwas anderes als die Erscheinung selbst, aber nicht wie sie als Spiel der Kräfte ist, sondern dasselbe in seinen absolut-allgemeinen Momenten und deren Bewegung, und in der Tat nur sich selbst erfährt.",
+   "en": "We see that in the inner of appearance the understanding in truth experiences nothing other than appearance itself, but not as it is the play of forces, but rather the same in its absolutely universal moments and their movement, and in fact experiences only itself.",
+   "zh": "我们看到，在现象的内部，知性在真理中经验到的不是某种不同于现象本身的东西，但不是经验作为力的游戏的那个现象，而是经验同一个现象在它那些绝对普遍的环节及其运动之中，而且事实上经验到的只是它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 1,
+   "de": "Erhoben über die Wahrnehmung stellt sich das Bewußtsein mit dem Übersinnlichen durch die Mitte der Erscheinung zusammengeschlossen dar, durch welche es in diesen Hintergrund schaut.",
+   "en": "Raised above perception, consciousness presents itself as connected with the supersensuous through the middle of appearance, through which it looks into this background.",
+   "zh": "意识被提升到知觉之上，就通过现象的中间把自己表现为与超感性之物联结在一起，并透过这个中间向这一背景里观望。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 2,
+   "de": "Die beiden Extreme, das eine des reinen Innern, das andere des in dies reine Innere schauenden Innern, sind nun zusammengefallen, und wie sie als Extreme, so ist auch die Mitte, als etwas anderes als sie, verschwunden.",
+   "en": "The two extremes, the one of the pure inner, the other of the inner that looks into this pure inner, have now collapsed together, and as they as extremes, so too has the middle, as something other than they, vanished.",
+   "zh": "这两个极端，一个是纯粹内在之物的极端，另一个是向这个纯粹内在之物观望的内在之物的极端，现在已经合在一起了；而正如它们作为极端已经消失，中间作为不同于它们的东西也同样消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 3,
+   "de": "Dieser Vorhang ist also vor dem Innern weggezogen und das Schauen des Innern in das Innere vorhanden; das Schauen des ununterschiedenen Gleichnamigen, welches sich selbst abstößt, als unterschiedenes Inneres setzt, aber für welches ebenso unmittelbar die Ununterschiedenheit beider ist, das Selbstbewußtsein.",
+   "en": "This curtain is therefore drawn away from before the inner, and the looking of the inner into the inner is present; the looking of the undifferentiated like-named, which repels itself, posits itself as a differentiated inner, but for which the undifferentiatedness of both is equally immediate, self-consciousness.",
+   "zh": "所以这块帷幕已经从内在之物前面拉开，而内在之物向内在之物的观望已经存在；这种观望就是那无差别的、同名之物的观望，它把自己推开，把自己设定为一个有差别的内在之物，但对它来说，两者的无差别同样是直接的，这就是自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 4,
+   "de": "Es zeigt sich, daß hinter dem sogenannten Vorhange, welcher das Innere verdecken soll, nichts zu sehen ist, wenn wir nicht selbst dahintergehen, ebensosehr damit gesehen werde, als daß etwas dahinter sei, das gesehen werden kann.",
+   "en": "It shows itself that behind the so-called curtain, which is supposed to cover the inner, nothing is to be seen, unless we ourselves go behind it, just as much in order that it be seen, as that something is behind it that can be seen.",
+   "zh": "这就表明，在所谓帷幕后面，即那块本该遮住内在之物的帷幕后面，没有什么可看的，除非我们自己走到后面去，而这同样是既为了让它被看见，也是为了后面有某种可以被看见的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 57,
+   "si": 5,
+   "de": "Aber es ergibt sich zugleich, daß nicht ohne alle Umstände geradezu dahintergegangen werden könne; denn dies Wissen, was die Wahrheit der Vorstellung der Erscheinung und ihres Innern ist, ist selbst nur Resultat einer umständlichen Bewegung, wodurch die Weisen des Bewußtseins, [das] Meinen, Wahrnehmen und der Verstand verschwinden; und es wird sich ebenso ergeben, daß das Erkennen dessen, was das Bewußtsein weiß, indem es sich selbst weiß, noch weiterer Umstände bedarf, deren Auseinanderlegung das Folgende ist.",
+   "en": "But at the same time it follows that one cannot go behind it straight away without any ado at all; for this knowing, which is the truth of the representation of appearance and of its inner, is itself only the result of an elaborate movement, through which the ways of consciousness, meaning, perceiving and the understanding, disappear; and it will likewise follow that the cognition of what consciousness knows in knowing itself requires still further ado, the exposition of which is what follows.",
+   "zh": "但同时也可以看出，人们不能毫无周折地径直走到帷幕后面去；因为这种知识，即现象及其内在之物的表象的真理，本身只是一种周折的运动的结果，通过这种运动，意识的各种方式，即意谓、知觉和知性，都消失了；而且同样会得出，认识意识在认识自己时所知道的东西，还需要更多的周折，而对它们的展开就是下文。"
+  }
+ ]
+}

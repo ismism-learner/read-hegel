@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2. Quellen - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/18/HE18-029.html","collection":"hegel","title":"2. Quellen","lang":"de","prev":{"file":"HE18-028.html","title":"C. Einteilung, Quellen, Abhandlungsweise der Geschichte der Philosophie"},"next":{"file":"HE18-030.html","title":"3. Abhandlungsweise"},"volPath":"/docs/HEGEL/18/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/18/">Werke 18</a><span class="crumb-sep">/</span><span class="crumb current">HE18-029.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h4 class="h6e3" id="h29-1"> 2. Quellen </h4> <p>Die Quellen sind hier anderer Art als in der politischen Geschichte. Dort sind die Geschichtsschreiber die Quellen, welche wieder die Taten und Reden der Individuen selbst zu ihren Quellen haben; die nicht ursprünglichen Geschichtsschreiber haben freilich aus der zweiten Hand geschöpft. Die Geschichtsschreiber haben die Taten schon in Geschichte, in die Form der Vorstellung gebracht. Der Name Geschichte hat diesen Doppelsinn, daß er einerseits die Taten und Begebenheiten selbst, andererseits sie, insofern sie durch die Vorstellung für die Vorstellung gebildet sind, bezeichnet. Bei der Geschichte der Philosophie sind nicht die Geschichtsschreiber Quelle, sondern die Taten selbst liegen uns vor; das sind die philosophischen Werke selbst; es sind dies die wahrhaften Quellen. Will man Geschichte der Philosophie ernstlich studieren, so muß man an diese Quellen selbst gehen. Diese Werke sind jedoch ein zu großer Reichtum, um <a id="S18-132"></a> sich bei der Geschichte allein daran zu halten. Bei vielen Philosophen ist es inzwischen unumgänglich notwendig, sich an die Schriftsteller selbst zu halten. In manchen Zeiträumen aber, von denen uns die Quellen nicht erhalten sind, z. B. die der älteren griechischen Philosophie, müssen wir uns dann freilich an Geschichtsschreiber, andere Schriftsteller halten. Auch andere Perioden gibt es, wo es wünschenswert ist, daß andere die Werke der Philosophen derselben gelesen haben und uns Auszüge davon geben. Mehrere Scholastiker haben Werke von 16, 24 und 26 Folianten hinterlassen; da muß man sich denn an die Arbeit anderer halten. Viele philosophische Werke sind auch selten, schwer zu bekommen. Manche Philosophen sind meist historisch und literarisch; so können wir uns auf Sammlungen beschränken, worin sie enthalten. Die merkwürdigsten Werke über die Geschichte der Philosophie sind nun aber folgende, wobei ich fürs Nähere auf den Auszug aus Tennemanns <i>Geschichte der Philosophie</i> von A. Wendt verweise, da ich nicht vollständige Literatur geben will: </p>
+<p>1) Eine der ersten Geschichten der Philosophie, die nur als Versuch merkwürdig ist, ist <i>The</i> <i>history</i> <i>of</i> <i>Philosophy</i> <i>by</i> <i>Thomas</i> <i>Stanley</i> (London 1655; ed. III., 1701, übersetzt ins Lateinische von Godofr. Olearius, Leipzig 1711). Diese Geschichte wird nicht mehr viel gebraucht, enthält nur die alten philosophischen Schulen als Sekten, als ob's keine neuen gegeben hätte. Es liegt die gewöhnliche Vorstellung damaliger Zeit zugrunde, daß es nur alte Philosophien gibt und die Zeit der Philosophie mit dem Christentum abgelaufen ist, als ob die Philosophie Sache der Heiden sei und die Wahrheit sich nur finden lasse im Christentum. Es wird Unterschied zwischen Wahrheit gemacht, wie sie aus natürlicher Vernunft geschöpft wird (alte Philosophien), und geoffenbarter Wahrheit (in der christlichen Religion); so gebe es in dieser keine Philosophie mehr. Zur Zeit des Wiederauflebens der Wissenschaften gab es noch keine eigentümlichen Philosophien. Zu Stanleys Zeiten allerdings; aber eigene <a id="S18-133"></a> Philosophien waren noch zu jung, als daß die alten Herren solchen Respekt vor ihnen gehabt hätten, um sie als etwas Eigenes gelten zu lassen. </p>
+<p>2) Johann Jakob Brucker, <i>Historia</i> <i>critica</i> <i>philosophiae</i>, Leipzig 1742-1744, vier Teile oder fünf Bände; 2. unveränderte, aber mit einem Anhang vermehrte Auflage 1766 - 1767, vier Teile in sechs Quartanten (der vierte Teil hat zwei Bände, und der sechste Band ist das Supplement). Das ist weitschichtige Kompilation, die nicht rein aus den Quellen geschöpft, sondern mit Reflexionen nach der damaligen Mode vermischt ist; die Darstellung ist im höchsten Grade unrein (siehe oben S. 62 f.). Diese Art zu verfahren ist durchaus unhistorisch; nirgends ist jedoch mehr historisch zu verfahren als in der Geschichte der Philosophie. Dieses Werk ist so ein großer Ballast. Ein Auszug daraus ist: Johann Jakob Brucker, <i>Institutiones</i> <i>historiae</i> <i>philosophicae</i>, <i>usui</i> <i>academicae</i> <i>iuventutis</i> <i>adornatae</i>, Leipzig 1747; zweite Ausgabe, Leipzig 1756; die dritte, von Born besorgt, Leipzig 1790. </p>
+<p>3) Dietrich Tiedemann, <i>Geist</i> <i>der</i> <i>spekulativen</i> <i>Philosophie</i>, Marburg 1791-1797, 7 Bde. Die politische Geschichte hat er dabei weitläufig, aber geistlos abgehandelt; die Sprache ist steif und geziert. Das Ganze ist ein trauriges Beispiel, wie ein gelehrter Professor sich sein ganzes Leben mit dem Studium der spekulativen Philosophie beschäftigen kann und doch gar keine Ahnung von Spekulation hat. (Seine <i>Argumenta<sup><a href="#N_49_" id="X_49_">49)</a></sup></i> zum Zweibrücker Platon sind in derselben Manier.) Er macht Auszüge aus den Philosophen, solange sie räsonierend bleiben; wenn es aber ans Spekulative kommt, pflegt er böse zu werden, bricht ab und erklärt alles für leere Subtilitäten: wir wüßten es besser. Sein Verdienst ist, aus seltenen Büchern des Mittelalters, aus kabbalistischen und mystischen Werken des Mittelalters schätzbare Auszüge geliefert zu haben. </p>
+<p>4) Johann Gottlieb Buhle, <i>Lehrbuch</i> <i>der</i> <i>Geschichte</i> <i>der</i> <a id="S18-134"></a> <i>Philosophie</i> <i>und</i> <i>einer</i> <i>kritischen</i> <i>Literatur</i> <i>derselben</i>, Göttingen 1796-1804; 8 Teile. Die alte Philosophie ist unverhältnismäßig kurz behandelt; je weiter Buhle hineinkam, desto ausführlicher wurde er. Er hat viele gute Auszüge aus seltenen Werken, z. B. des Giordano Bruno, die sich auf der Göttinger Bibliothek befinden. </p>
+<p>5) Wilhelm Gottlieb Tennemann, <i>Geschichte</i> <i>der</i> <i>Philosophie</i>, Leipzig 1798-1819, 11 Teile. (Der achte Teil, die scholastische Philosophie, enthält zwei Bände.) Die Philosophien sind ausführlich beschrieben und die der neueren Zeit besser bearbeitet als die alten. Die Philosophien der modernen Zeit sind auch leichter darzustellen, weil man nur einen Auszug zu machen, geradezu zu übersetzen braucht; die Gedanken liegen uns näher. Bei den alten Philosophen ist es anders, sie stehen auf einem anderen Standpunkt des Begriffs; deshalb sind sie schwerer zu fassen. Man verkehrt so leicht das Alte in etwas, das uns geläufiger ist; dies ist Tennemann begegnet, hier ist er fast unbrauchbar. Beim Aristoteles z. B. ist der Mißverstand so groß, daß Tennemann ihm gerade das Gegenteil unterschiebt; durch die Annahme des Gegenteils von dem, was Tennemann für aristotelisch angibt, bekommt man eine richtigere Anschauung von aristotelischer Philosophie. Dabei ist Tennemann so aufrichtig, die Stelle aus dem Aristoteles unter den Text zu setzen, so daß Original und Übersetzung sich oft widersprechen. Tennemann meint, es sei wesentlich, daß der Geschichtsschreiber keine Philosophie habe. Er rühmt sich, kein System zu haben; im Grunde hat er aber doch eins - er ist kritischer Philosoph. Er lobt die Philosophen, ihr Studium, ihr Genie; das Ende vom Liede ist aber, daß sie alle getadelt werden, den einen Mangel gehabt zu haben, noch nicht Kantische Philosophen zu sein, noch nicht die Quelle der Erkenntnis untersucht zu haben, wovon das Resultat gewesen wäre, daß die Wahrheit nicht erkannt werden könnte. </p>
+<p>Von <i>Kompendien</i> sind drei anzuführen: 1. Friedrich Ast, <i>Grundriß</i> <i>einer</i> <i>Geschichte</i> <i>der</i> <i>Philosophie</i>, Landshut 1807; <a id="S18-135"></a> 2. Auflage 1825. Es ist in einem besseren Geist geschrieben, meist Schellingsche Philosophie, nur etwas verworren. Er hat auf etwas formelle Weise ideale und reale Philosophie unterschieden. 2) Professor [A.] <i>Wendts</i> (zu Göttingen) Auszug aus Tennemann (5. Ausgabe, Leipzig 1829). Man wundert sich, was da alles als Philosophie aufgeführt wird, ohne Unterschied, ob es von Bedeutung sei oder nicht. Es ist nichts leichter, als nach einem Prinzip zu greifen; man denkt, damit etwas Neues, Tiefes geleistet zu haben. Solche sogenannte neue Philosophien wachsen wie Pilze aus der Erde hervor. 3) [Th. A.] <i>Rixner</i>, <i>Handbuch</i> <i>der</i> <i>Geschichte</i> <i>der</i> <i>Philosophie</i>, 3 Bde., Sulzbach 1822-1823 (2. verb. Aufl. 1829), ist am meisten zu empfehlen; jedoch will ich nicht behaupten, daß es allen Anforderungen an eine Geschichte der Philosophie entspricht. Manche Seiten sind nicht zu loben; besonders zweckmäßig aber sind die Anhänge zu jedem Bande, in denen die Hauptoriginalstellen gegeben sind. Chrestomathien, vornehmlich aus den alten Philosophen, sind Bedürfnis; von den Philosophen vor Platon sind der Stellen nicht sehr viel. </p>
+<aside class="fn">
+<p class="fni"><a href="#X_49_" id="N_49_">49)</a> <i class="qua">Argumenta dialogorum Platonis, Zweibrücken 1786</i></p>
+</aside>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE18-028.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">C. Einteilung, Quellen, Abhandlungsweise der Geschichte der Philosophie</span></a>
+              <a href="./HE18-030.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">3. Abhandlungsweise</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

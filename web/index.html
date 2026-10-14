@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>黑格尔全集 · 德文原版 Werke — 阅读与检索</title>
+<meta name="description" content="G. W. F. Hegel: Werke in zwanzig Bänden — 德文原版全文阅读与检索。">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/library.css">
+</head>
+<body data-pagemarks="on">
+
+<header class="topbar">
+  <a class="topbar__brand" href="index.html">黑格尔全集 <small>Werke in zwanzig Bänden</small></a>
+  <div class="spacer"></div>
+  <div class="seg js-theme" role="group" aria-label="配色">
+    <button class="btn" data-theme="light" title="明亮">明亮</button>
+    <button class="btn" data-theme="sepia" title="暖褐">暖褐</button>
+    <button class="btn" data-theme="dark" title="夜间">夜间</button>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <p class="hero__kicker">G. W. F. Hegel · 1770–1831</p>
+    <h1>Werke <em>in zwanzig Bänden</em><br>德文《黑格尔全集》</h1>
+    <p class="hero__sub">
+      依据 <b>Suhrkamp</b> 二十卷本（Moldenhauer / Michel 编）德文原版全文：原版第 1–20 卷，
+      整理为 <b id="stat-vols">–</b> 个书目条目、约 <b id="stat-chars">–</b>字符德文正文。
+      按原书卷次与章节层级编排，保留原书页码锚点，可全文检索、可深链引用。
+    </p>
+
+    <form class="searchbar" id="search-form" role="search" autocomplete="off">
+      <label class="field">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+        <input id="q" type="search" placeholder="全文检索，如 Begriff、Sittlichkeit、Entfremdung …" aria-label="全文检索">
+      </label>
+      <button class="btn btn--solid" type="submit">检索</button>
+    </form>
+
+    <div class="hero__meta">
+      <span>按 <kbd>/</kbd> 聚焦检索框</span>
+      <span>多个词用空格分隔（须同时出现）</span>
+      <span>检索范围：全部 <b id="stat-vols2">–</b> 卷正文</span>
+      <span>双语对照：德 → 英 → 中逐句对齐，悬停整句联动</span>
+    </div>
+  </section>
+
+  <section id="results" hidden aria-live="polite"></section>
+
+  <section id="library-section">
+    <h2 class="section-title">书目 <small>Bibliothek</small></h2>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <section class="about" id="about">
+    <h2>关于文本与来源</h2>
+    <p>
+      本页文本为德文原版《黑格尔全集》二十卷本（Werke in 20 Bänden，Suhrkamp 版）的数字化语料，
+      按原书卷次、章节层级与页码重新编排，供个人研读使用。页码锚点沿用原书（如 <code>Werke 8, S. 192</code>），
+      悬停页边数字即可引用。
+    </p>
+    <ul>
+      <li><b>版本</b>：G. W. F. Hegel: Werke in 20 Bänden. Herausgegeben von Eva Moldenhauer und Karl Markus Michel. Frankfurt am Main: Suhrkamp, 1969 ff.</li>
+      <li><b>数字化</b>：Hegel-Institut Berlin / Talpa-Verlag（2012）德文 HTML 文本，经 MLCLASSIC 档案（marx-ebooks.github.io）镜像获得。</li>
+      <li><b>公共领域对照本</b>：<i>Phänomenologie des Geistes</i>（1807）与 <i>Wissenschaft der Logik</i>（1812/1813/1816）初版可利用 Deutsches Textarchiv（deutschestextarchiv.de）的 TEI 全文校勘。</li>
+      <li><b>范围</b>：第 1–20 卷（第 6 卷并入第 5 卷目录，第 8–10、13–15、16–17、18–20 卷分别合并呈现）。</li>
+    </ul>
+    <p class="note">
+      Suhrkamp 版正文仍受版权保护；本页为本地个人研读用途的整理版本，请勿再分发。若需公版文本，请以上述 Deutsches Textarchiv 初版为准。
+    </p>
+  </section>
+
+</main>
+
+<script type="module" src="assets/library.js"></script>
+</body>
+</html>

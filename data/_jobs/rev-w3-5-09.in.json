@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-09",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 46,
+   "si": 2,
+   "de": "Er an sich selbst nur ist die Notwendigkeit dieser Beziehung; die Beobachtung rückt ihm daher näher auf den Leib und vergleicht seine wollende und tuende Wirklichkeit mit seiner in sich reflektierten und betrachtenden Wirklichkeit, die selbst gegenständlich ist.",
+   "en": "It in itself alone is the necessity of this relation; observation therefore presses closer upon its body and compares its willing and acting actuality with its actuality reflected into itself and contemplating, which is itself objective.",
+   "zh": "精神自在地只是这种关系的必然性；所以观察更加逼近它的身体，把它的意愿着的和行动着的现实性与它在自身中反思着的、观看着的现实性相比较，后者本身是对象性的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 46,
+   "si": 3,
+   "de": "Dieses Äußere, obzwar eine Sprache des Individuums, die es an ihm selbst hat, ist zugleich als Zeichen etwas Gleichgültiges gegen den Inhalt, den es bezeichnen sollte, so wie das, welches sich das Zeichen setzt, gleichgültig gegen dieses.",
+   "en": "This outer, although a language of the individual that it has on itself, is at the same time, as a sign, something indifferent to the content it was supposed to designate, just as that which posits the sign for itself is indifferent to this [sign].",
+   "zh": "这个外在，虽然是个体在自己身上拥有的一种语言，但作为符号同时是某种对它所应标示的内容无关紧要的东西，正如为自己设定符号的那个东西对这个符号也无关紧要一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 0,
+   "de": "Von dieser wandelbaren Sprache geht darum die Beobachtung endlich zum festen Sein zurück und spricht ihrem Begriffe nach aus, daß die Äußerlichkeit nicht als Organ, auch nicht als Sprache und Zeichen, sondern als totes Ding die äußere und unmittelbare Wirklichkeit des Geistes sei.",
+   "en": "From this changeable language, therefore, observation finally goes back to firm being and, according to its concept, declares that externality is the outer and immediate actuality of spirit, not as organ, nor as language and sign, but as dead thing.",
+   "zh": "所以，从这种变化不定的语言出发，观察最终回到固定的存在，并且按照自己的概念说出：外在性不是作为器官，也不是作为语言和符号，而是作为死物，才是精神的外在的、直接的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 1,
+   "de": "Was von der allerersten Beobachtung der unorganischen Natur aufgehoben wurde, daß nämlich der Begriff als Ding vorhanden sein sollte, stellt diese letzte Weise so her, daß sie die Wirklichkeit des Geistes selbst zu einem Dinge macht oder, umgekehrt ausgedrückt, dem toten Sein die Bedeutung des Geistes gibt.",
+   "en": "What was sublated by the very first observation of inorganic nature, namely that the concept should be present as a thing, this last mode produces in such a way that it makes the actuality of spirit itself into a thing or, expressed conversely, gives to dead being the meaning of spirit.",
+   "zh": "最初对无机的自然的观察所扬弃的东西，即概念应当作为物而现成存在，这最后一种方式却这样把它造了出来：它把精神自己的现实性弄成一个物，或者反过来说，赋予死存在以精神的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 2,
+   "de": "– Die Beobachtung ist damit dazu gekommen, es auszusprechen, was unser Begriff von ihr war, daß nämlich die Gewißheit der Vernunft sich selbst als gegenständliche Wirklichkeit sucht.",
+   "en": "– Observation has thereby come to state what our concept of it was, namely that the certainty of reason seeks itself as objective actuality.",
+   "zh": "——观察由此已经进到说出我们关于它的概念本来是什么：理性的确定性把自身当作对象性的现实性来寻求。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 3,
+   "de": "– Man meint zwar dabei wohl nicht, daß der Geist, der von einem Schädel vorgestellt wird, als Ding ausgesprochen werde; es soll kein Materialismus, wie man es nennt, in diesem Gedanken liegen, sondern der Geist vielmehr noch etwas anderes als diese[r] Knochen sein; aber er ist, heißt selbst nichts anderes als: er ist ein Ding.",
+   "en": "– To be sure, one does not mean by this that the spirit that is represented by a skull is stated as a thing; no materialism, as it is called, is to lie in this thought, but rather the spirit is to be still something other than this bone; but \"it is\" means itself nothing other than: it is a thing.",
+   "zh": "——当然，人们在这里大概并不是说，由头颅所表象的精神被说成是一个物；这个思想里不应当有人们所称的唯物论，相反，精神毋宁还应当是不同于这块骨头的某种东西；但“它是”本身的意思不外是：它是一个物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 4,
+   "de": "Wenn das Sein als solches oder Dingsein von dem Geiste prädiziert wird, so ist darum der wahrhafte Ausdruck hiervon, daß er ein solches wie ein Knochen ist.",
+   "en": "If being as such, or being-a-thing, is predicated of spirit, then the true expression of this is that it is something like a bone.",
+   "zh": "如果存在本身、或者说物的存在被用来述说精神，那么这件事的真正的表达就是：它是某种像一块骨头一样的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 5,
+   "de": "Es muß daher für höchst wichtig angesehen werden, daß der wahre Ausdruck davon, daß vom Geiste rein gesagt wird, er ist, sich gefunden hat.",
+   "en": "It must therefore be regarded as most important that the true expression of this — that of spirit it is purely said: it is — has been found.",
+   "zh": "因此必须把这一点看作极其重要：对于纯粹说出精神“它是”这件事，真正的表达已经被找到了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 47,
+   "si": 6,
+   "de": "Wenn sonst vom Geiste gesagt wird, er ist, hat ein Sein, ist ein Ding, eine einzelne Wirklichkeit, so wird damit nicht etwas gemeint, das man sehen oder in die Hand nehmen, stoßen usf. kann, aber gesagt wird ein solches; und was in Wahrheit gesagt wird, drückt sich hiermit so aus, daß das Sein des Geistes ein Knochen ist.",
+   "en": "If otherwise of spirit it is said that it is, has a being, is a thing, a single actuality, then nothing is meant thereby that one could see or take in the hand, push, and so on, but such a thing is said; and what is said in truth expresses itself hereby thus, that the being of spirit is a bone.",
+   "zh": "如果平常说精神是、有一种存在、是一个物、是一个单个的现实性，那么借此意谓的并不是人们能够看见、拿在手里、推一推等等的某种东西，可是说出的却是这样一种东西；而真正被说出的东西由此就表达为：精神的存在是一块骨头。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 0,
+   "de": "Dies Resultat hat nun eine gedoppelte Bedeutung: einmal seine wahre, insofern es eine Ergänzung des Resultats der vorhergehenden Bewegung des Selbstbewußtseins ist.",
+   "en": "This result now has a double meaning: on the one hand its true [meaning], insofar as it is a complement of the result of the preceding movement of self-consciousness.",
+   "zh": "这个结果现在有双重意义：一方面是它真正的意义，就它是前面自我意识运动的结果的补充而言。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 1,
+   "de": "Das unglückliche Selbstbewußtsein entäußerte sich seiner Selbständigkeit und rang sein Fürsichsein zum Dinge heraus.",
+   "en": "The unhappy self-consciousness externalized its independence and wrested its being-for-itself out into a thing.",
+   "zh": "苦恼的自我意识外化了自己的独立性，把自己的自为存在挣扎成了一个物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 2,
+   "de": "Es kehrte dadurch aus dem Selbstbewußtsein in das Bewußtsein zurück, d.h. in das Bewußtsein, für welches der Gegenstand ein Sein, ein Ding ist; – aber dies, was Ding ist, ist das Selbstbewußtsein; es ist also die Einheit des Ich und des Seins, die Kategorie.",
+   "en": "It thereby returned from self-consciousness back into consciousness, that is, into the consciousness for which the object is a being, a thing; – but this, which is thing, is self-consciousness; it is therefore the unity of the I and of being, the category.",
+   "zh": "它由此从自我意识回到了意识，也就是回到那样一种意识：对它来说对象是一个存在、一个物；——但这个作为物的东西就是自我意识；所以它就是自我与存在的统一，即范畴。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 3,
+   "de": "Indem der Gegenstand für das Bewußtsein so bestimmt ist, hat es Vernunft.",
+   "en": "Since the object is thus determined for consciousness, it has reason.",
+   "zh": "对象既然对意识如此被规定，意识就有了理性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 4,
+   "de": "Das Bewußtsein sowie das Selbstbewußtsein ist an sich eigentlich Vernunft; aber nur von dem Bewußtsein, dem der Gegenstand als die Kategorie sich bestimmt hat, kann gesagt werden, daß es Vernunft habe; – hiervon aber ist noch das Wissen, was Vernunft ist, unterschieden.",
+   "en": "Consciousness as well as self-consciousness is in itself properly reason; but only of the consciousness for which the object has determined itself as the category can it be said that it has reason; – but from this, the knowing of what reason is, is still distinguished.",
+   "zh": "意识和自我意识自在地本来都是理性；但只有对那样一种意识，即对象在它那里已把自己规定为范畴的意识，才能说它有理性；——不过，知道理性是什么，与这一点还是有区别的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 5,
+   "de": "– Die Kategorie, welche die unmittelbare Einheit des Seins und des Seinen ist, muß beide Formen durchlaufen, und das beobachtende Bewußtsein ist eben dieses, dem sie sich in der Form des Seins darstellt.",
+   "en": "– The category, which is the immediate unity of being and of what is its own, must run through both forms, and the observing consciousness is precisely the one for which it presents itself in the form of being.",
+   "zh": "——范畴是存在与自己的东西的直接统一，它必须经历两种形式，而观察的意识正是那样一种意识：范畴在它面前以存在的形式呈现出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 6,
+   "de": "In seinem Resultate spricht das Bewußtsein dasjenige, dessen bewußtlose Gewißheit es ist, als Satz aus, – den Satz, der im Begriffe der Vernunft liegt.",
+   "en": "In its result, consciousness states as proposition that of which it is the unconscious certainty, – the proposition that lies in the concept of reason.",
+   "zh": "在自己的结果里，意识把它无意识地确信的东西作为一个命题说出来，——即那个包含在理性的概念里的命题。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 7,
+   "de": "Er ist das unendliche Urteil, daß das Selbst ein Ding ist, – ein Urteil, das sich selbst aufhebt.",
+   "en": "It is the infinite judgment that the self is a thing, – a judgment that sublates itself.",
+   "zh": "它就是那个无限的判断：自我是一个物，——一个自己扬弃自己的判断。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 8,
+   "de": "– Durch dieses Resultat ist also bestimmt zur Kategorie dies hinzugekommen, daß sie dieser sich aufhebende Gegensatz ist.",
+   "en": "– Through this result, then, there has definitely been added to the category this, that it is this self-sublating opposition.",
+   "zh": "——所以，通过这个结果，明确地给范畴添上了这样一点：它是这个自己扬弃自己的对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 9,
+   "de": "Die reine Kategorie, welche in der Form des Seins oder der Unmittelbarkeit für das Bewußtsein ist, ist der noch unvermittelte, nur vorhandene Gegenstand, und das Bewußtsein ein ebenso unvermitteltes Verhalten.",
+   "en": "The pure category, which is for consciousness in the form of being or of immediacy, is the still unmediated, merely present object, and consciousness a likewise unmediated comportment.",
+   "zh": "纯粹范畴以存在或直接性的形式对意识存在，它就是那个还没有被中介的、仅仅现成的对象，而意识则是一种同样没有被中介的态度。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 10,
+   "de": "Das Moment jenes unendlichen Urteils ist der Obergang der Unmittelbarkeit in die Vermittlung oder Negativität.",
+   "en": "The moment of that infinite judgment is the transition of immediacy into mediation or negativity.",
+   "zh": "那个无限判断的环节，就是直接性向中介或否定性的过渡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 11,
+   "de": "Der vorhandene Gegenstand ist daher als ein negativer bestimmt, das Bewußtsein aber als Selbstbewußtsein gegen ihn, oder die Kategorie, welche die Form des Seins im Beobachten durchlaufen hat, ist jetzt in der Form des Fürsichseins gesetzt; das Bewußtsein will sich nicht mehr unmittelbar finden, sondern durch seine Tätigkeit sich selbst hervorbringen.",
+   "en": "The present object is therefore determined as a negative one, but consciousness as self-consciousness over against it, or the category, which has run through the form of being in observing, is now posited in the form of being-for-itself; consciousness no longer wants to find itself immediately, but to bring itself forth through its own activity.",
+   "zh": "所以现成的对象被规定为一个否定的东西，而意识则被规定为面对它的自我意识；或者说，范畴在观察中经历了存在的形式，现在被设定在自为存在的形式里；意识不再想直接地发现自己，而是想通过自己的活动把自己产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 48,
+   "si": 12,
+   "de": "Es selbst ist sich der Zweck seines Tuns, wie es ihm im Beobachten nur um die Dinge zu tun war.",
+   "en": "It is itself to itself the purpose of its doing, just as in observing it was only concerned with things.",
+   "zh": "它自己对它来说就是它行动的目的，正如在观察中它只关乎物一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 49,
+   "si": 0,
+   "de": "Die andere Bedeutung des Resultats ist die schon betrachtete des begrifflosen Beobachtens.",
+   "en": "The other meaning of the result is the one already considered, of concept-less observation.",
+   "zh": "这个结果的另一重意义，就是已经考察过的那种无概念的观察的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 49,
+   "si": 1,
+   "de": "Dieses weiß sich nicht anders zu fassen und auszusprechen, als daß es unbefangen den Knochen, wie er sich als sinnliches Ding findet, das seine Gegenständlichkeit für das Bewußtsein nicht zugleich verliert, für die Wirklichkeit des Selbstbewußtseins aussagt.",
+   "en": "This knows how to grasp and state itself only as: it ingenuously declares the bone, as it is found as a sensuous thing, which does not at the same time lose its objectivity for consciousness, to be the actuality of self-consciousness.",
+   "zh": "这种观察不知道自己还能怎样把握和说出自己，只能是不带成见地把骨头——就像它作为感性之物被发现的那样，并不同时失去自己对于意识的对象性——说成自我意识的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 49,
+   "si": 2,
+   "de": "Es hat aber auch darüber, daß es dies sagt, keine Klarheit des Bewußtseins und faßt seinen Satz nicht in der Bestimmtheit seines Subjekts und Prädikats und der Beziehung derselben, noch weniger in dem Sinne des unendlichen, sich selbst auflösenden Urteils und des Begriffs.",
+   "en": "But it also has no clarity of consciousness about its saying this, and does not grasp its proposition in the determinacy of its subject and predicate and their relation, still less in the sense of the infinite, self-dissolving judgment and of the concept.",
+   "zh": "但它对于自己说出这一点也没有意识的清晰性，并没有在自己的主体和谓词的规定性以及二者的关系中去把握自己的命题，更不用说在无限的、自我消解的判断和概念的意义上去把握了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 49,
+   "si": 3,
+   "de": "– Es verbirgt sich vielmehr aus einem tiefer liegenden Selbstbewußtsein des Geistes, das hier als eine natürliche Honettetät erscheint, die Schmählichkeit des begrifflosen nackten Gedankens, für die Wirklichkeit des Selbstbewußtseins einen Knochen zu nehmen, und übertüncht ihn durch die Gedankenlosigkeit selbst, mancherlei Verhältnisse von Ursache und Wirkung, von Zeichen, Organ usw., die hier keinen Sinn haben, einzumischen und durch Unterscheidungen, die von ihnen hergenommen sind, das Grelle des Satzes zu verstecken.",
+   "en": "– Rather, out of a deeper-lying self-consciousness of spirit, which here appears as a natural honesty, it hides from itself the shamefulness of the concept-less naked thought of taking a bone for the actuality of self-consciousness, and glosses it over through thoughtlessness itself, by mixing in manifold relations of cause and effect, of sign, organ, and so on, which have no sense here, and by distinctions taken from them, in order to conceal the garishness of the proposition.",
+   "zh": "——它毋宁是出于精神的一种更深处的自我意识——这种自我意识在这里表现为一种天生的老实——而对自己掩盖了那种无概念的赤裸思想的可耻：把一块骨头当作自我意识的现实性；并且它靠无思想性本身来粉饰这一点：把原因与结果、符号、器官等等各种各样在这里毫无意义的关联混进来，又靠从这些关联中取来的种种区分，来掩盖命题的刺眼之处。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 0,
+   "de": "Gehirnfibern u. dgl., als das Sein des Geistes betrachtet, sind schon eine gedachte, nur hypothetische, – nicht daseiende, nicht gefühlte, gesehene, nicht die wahre Wirklichkeit; wenn sie da sind, wenn sie gesehen werden, sind sie tote Gegenstände und gelten dann nicht mehr für das Sein des Geistes.",
+   "en": "Brain fibers and the like, considered as the being of spirit, are already something thought, merely hypothetical, – not present, not felt, not seen, not the true actuality; if they are present, if they are seen, they are dead objects and then no longer count as the being of spirit.",
+   "zh": "脑纤维之类的东西，被看作精神的存在时，已经是一种被设想出来的、仅仅是假设的东西，——不是定在着的，不是被感觉到的、被看见的，不是真正的现实性；如果它们定在着，如果它们被看见，它们就是死的对象，这时就不再算作精神的存在了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 1,
+   "de": "Aber die eigentliche Gegenständlichkeit muß eine unmittelbare, sinnliche sein, so daß der Geist in dieser als toten – denn der Knochen ist das Tote, insofern es am Lebendigen selbst ist – als wirklich gesetzt wird.",
+   "en": "But the proper objectivity must be an immediate, sensuous one, so that spirit is posited in this as dead – for the bone is the dead [element] insofar as it is on the living itself – as actual.",
+   "zh": "但真正的对象性必须是一种直接的、感性的对象性，以致精神在这种作为死东西的对象性中——因为骨头就是死的东西，就它是在活的东西本身上而言——被设定为现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 2,
+   "de": "– Der Begriff dieser Vorstellung ist, daß die Vernunft sich alle Dingheit, auch die rein gegenständliche, selbst ist; sie ist aber dies im Begriffe, oder der Begriff nur ist ihre Wahrheit, und je reiner der Begriff selbst ist, zu einer desto alberneren Vorstellung sinkt er herab, wenn sein Inhalt nicht als Begriff, sondern als Vorstellung ist, – wenn das sich selbst aufhebende Urteil nicht mit dem Bewußtsein dieser seiner Unendlichkeit genommen wird, sondern als ein bleibender Satz, und dessen Subjekt und Prädikat jedes für sich gelten, das Selbst als Selbst, das Ding als Ding fixiert und doch eins das andere sein soll.",
+   "en": "– The concept of this representation is that reason is itself all thinghood, even the purely objective; but it is this in the concept, or only the concept is its truth, and the purer the concept itself is, the more foolish a representation it sinks down to, when its content is not as concept but as representation, – when the self-sublating judgment is not taken with the consciousness of this its infinity, but as a persisting proposition, and its subject and predicate each count for themselves, the self fixed as self, the thing as thing, and yet the one is supposed to be the other.",
+   "zh": "——这种表象的概念是：理性自己就是一切物性，也包括纯粹对象性的物性；但理性是在概念中才是这样，或者说，只有概念才是它的真理；而概念本身越是纯粹，当它的内容不是作为概念、而是作为表象而存在时，它就越是沉沦为一种更加荒唐的表象，——当那个自己扬弃自己的判断不是带着对它这种无限性的意识被看待，而是被看成一个持存的命题，并且它的主体和谓词各自单独有效，自我被固定为自我，物被固定为物，却应当一个是另一个的时候。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 3,
+   "de": "– Die Vernunft, wesentlich der Begriff, ist unmittelbar in sich selbst und ihr Gegenteil entzweit, ein Gegensatz, der eben darum ebenso unmittelbar aufgehoben ist.",
+   "en": "– Reason, essentially the concept, is immediately divided within itself into itself and its opposite, an opposition that is precisely therefore just as immediately sublated.",
+   "zh": "——理性本质上就是概念，它直接地就在自身中分裂为自身和它的对立面，而这个对立正因如此也就同样直接地被扬弃了。"
+  }
+ ]
+}

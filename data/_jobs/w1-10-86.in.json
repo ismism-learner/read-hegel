@@ -1,0 +1,167 @@
+{
+ "id": "w1-10-86",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "[Grundkonzept zum Geist des Christentums]",
+ "heading": "[Grundkonzept zum Geist des Christentums]",
+ "blocks": [
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "1yficux1i7",
+   "sents": [
+    "V. 21-26: Das Gesetz gegen Totschlag wird durch den höheren Genius der Versöhnlichkeit erfüllt und zugleich für ihn aufgehoben; für ihn gibt es kein solches Gebot."
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "1ks0c8z2mi",
+   "sents": [
+    "V. 27-30: Erfüllt wird das höhere Gesetz gegen den Ehebruch durch die Heiligkeit der Liebe und durch die Fähigkeit, wenn eine der vielen Seiten des Menschen sich einläßt, sich zu seiner Ganzheit zu erheben."
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "gcpytf13l8",
+   "sents": [
+    "V. 31-32: Ehescheidung; Aufhebung der Liebe, seiner Freundschaft gegen ein Weib, in der sie noch ist, macht sie sich selbst ungetreu werden und sündigen, und die Beobachtung der rechtlichen Pflichten und Dezenz ist eine elende Beschönigung, eine neue Härte bei dieser Verletzung ihrer Liebe."
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "9d8taq1ene",
+   "sents": [
+    "V. 33-37: bist du wahrhaftig, so brauchst du den Zusammenhang zwischen deiner Rede und der Tat oder Gedanken nicht an ein Fremdes zu knüpfen, in die Hand eines Fremden zu legen, ihn als Herrn dieses Zusammenhangs zu erklären - du selbst bist über alle fremde Macht erhaben.",
+    "Das Gesetz, nicht falsch zu schwören, Gott aber zur Macht über sein Wort zu machen, ist durch die Wahrhaftigkeit erfüllt, und zugleich ist sie darüber erhaben."
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "60yagli8vm",
+   "sents": [
+    "V. 38-42: Gerechtigkeit - gänzliche Erhebung über die Sphäre des Rechts oder Unrechts durch Aufhebung allen Eigentums."
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "1706r142mb",
+   "sents": [
+    "V. 43 ff.: Zusammenfassung des Ganzen."
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "1u867w6ivx",
+   "sents": [
+    "6, 1-4: Almosen nicht vor den Leuten, nicht vor dir selbst."
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "1x5move1f6",
+   "sents": [
+    "V. 5-15: Gebet; auch hier sei nur das Beten rein; mischet nichts Fremdes ein, gesehen zu werden; sondern betet in eurem Kämmerlein, und ein solches einsames und einzelnes Gebet ist das Vaterunser.",
+    "Es ist nicht das Gebet eines Volks zu seinem Gotte, sondern das Gebet eines Isolierten, Unsicheren, Ungewissen.",
+    "Dein Reich komme, dein Name werde geheiligt; der Wunsch eines Einzelnen und ein Volk kann nicht wünschen: dein Wille geschehe, ein Volk von Ehre und Stolz tut seinen eigenen Willen und weiß von keinem anderen als einem feindlichen - der Einzelne kann den Willen Gottes und den allgemeinen entgegengesetzt sehen.",
+    "Gib uns heute unser usw. - eine Bitte der stillen Einfalt, die im Munde eines Volks nicht paßte, das sich seiner Herrschaft über die Nahrungsmittel bewußt ist oder unmöglich nur den Gedanken an die Speise eines Tages haben kann, sondern wohl um Gedeihen des Ganzen, um freundliche Natur beten kann; beten ist nicht bitten; vergib uns - auch ein Gebet des Einzelnen; Nationen sind Getrennte Abgesonderte, es ist nicht gedenkbar, wie sie einer anderen Nation verzeihen sollen; es könnte nicht durch eine Vereinigung, sondern durch das Gefühl der Gleichheit oder des Übergewichts der Macht, Furcht geschehen. - Das Bewußtsein eigener Sünden, diese Reflexion kann sie nur durch Schmerz erhalten; denn sie kann ihren Willen nicht unter einem Gesetz anerkennen.",
+    "Aber der Einzelne kann beten, soviel Liebe ich habe, soviel möge ich erfahren."
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "9wzft51ts0",
+   "sents": [
+    "V. 16-18: Fasten; wie beim Beten und Almosengeben nichts Fremdes einmischen."
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1e52jh1qq7",
+   "sents": [
+    "V. 20-34: sich nicht zerstreuen und das Ganze nicht in Sorgen und Abhängigkeit verlieren; solche partiellen Dinge, Bedürfnisse, Reichtum, Nahrung, Kleidung bringen Bestimmtheit in den Menschen, die ihn objektiv des reinen Lebens unfähig machen."
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "14salph2h9",
+   "sents": [
+    "7, 1-5: richten über andere, sie einer Regel unterwerfen im Urteil, die Tyrannei in Gedanken."
+   ]
+  },
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "1dyeqfu1tm",
+   "sents": [
+    "V. 7-12: die Vereinigung der Menschen in Bitten und Geben."
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "tv404rm7kt",
+   "sents": [
+    "V. 13 ff.: allgemeines Bild des vollendeten Menschen."
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "1thddx51mn",
+   "sents": [
+    "Matth.",
+    "12, 31 f.: Wer den Menschen lästert, der lästert das Einzelne, den Besonderen; wer aber den heiligen Geist lästert, lästert die Natur und ist unfähig, Sündenvergebung zu erlangen; denn er ist unfähig, mit dem Ganzen sich zu vereinigen; er bleibt isoliert und ausgeschlossen; eine solche Sünde kommt aus der Fülle des Herzens und zeigt seine Zerstörung, seine Zerrüttung; seine Unheiligkeit ist des Heiligen unfähig, das er gelästert hat; und das Heilige, nach Trennung und Vereinigung betrachtet, ist die Liebe.",
+    "Ein Zeichen könnte euch etwa erschüttern - aber der ausgetriebene Geist kommt mit sieben anderen zurück, und der Mensch wird zerrütteter als vorher."
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "ztntfp9zlo",
+   "sents": []
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "eoi6qy1xoc",
+   "sents": [
+    "Zu C. Religion."
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "1mf2pag153",
+   "sents": [
+    "Matth.",
+    "18, 1-10: Der größte ἐν τη ͂ͅ βασιλείᾳ τω ͂ν σὐϱανω ͂ν [ist,] der den Kindern am nächsten kommt; ihre Engel (V. 10) im Himmel sehen beständig das Angesicht des Vaters, der im Himmel ist.",
+    "Unter den Engeln der Kinder können keine objektiven Wesen verstanden werden, denn auch von den Engeln der anderen Menschen (um in diesem Ton zu sprechen) müßte gedacht werden, daß sie Gott anschauen.",
+    "Ihre unentwickelte Einigkeit, das Bewußtlose, ihr Sein und Leben in Gott, in einer Gestalt vorgestellt; dann ist auch diese wieder substantialisiert, isoliert, ihre Beziehung auf Gott eine ewige Anschauung desselben.",
+    "Um den Geist, das Göttliche außer der Form dieser Beschränkung und die Gemeinschaft dieses beschränkten Lebendigen zu bezeichnen, setzt Platon das reine Leben und das Beschränkte in eine Verschiedenheit der Zeit, er läßt die reinen Geister vorhin ganz in der Anschauung des Göttlichen gelebt haben und sie im Erdenleben dieselben sein, nur mit verdunkeltem Bewußtsein jenes Himmlischen.",
+    "Auf eine andere Art bezeichnet Jesus die Natur, das Göttliche des Kindes-Geistes als Engel, die immer im Anschauen Gottes leben; auch in dieser Form sind sie nicht als Gott, sondern als Söhne Gottes, als Besondere dargestellt.",
+    "Die Entgegensetzung des Anschauenden gegen das Angeschaute, daß sie entgegengesetzt sind, ein Subjekt und ein Objekt, fällt in der Anschauung selbst weg - ihre Verschiedenheit ist nur die Möglichkeit der Trennung; ein Mensch, der die Sonne immer anschaute, wäre nur ein Gefühl des Lichts, das Gefühl als Wesen.",
+    "Der ganz in der Anschauung eines anderen Menschen lebte, wäre dieser andere selbst, nur mit der Möglichkeit eines Anderseins.",
+    "Unmittelbar ist damit in Verbindung gesetzt, - denn ὁ υἱὸς ἀνϑϱώπου ἡ ͂λϑε σω ͂σαι τὸ ἀπολωλός [18, 11] - das Gebot, sich zu versöhnen, Entzweiung aufzuheben und einig zu werden; diese Einigkeit ist das Anschauen Gottes, das Werden wie Kinder.",
+    "Wenn der Beleidiger nicht auf die Gemeine hört, so sei er als Heide und Zöllner; wer sich absondert, die versuchte Vereinigung verschmäht, fest dagegen hält ..."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/10.p86.json"
+}

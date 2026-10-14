@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-11",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 6,
+   "de": "Wenn nun diese Verkehrung, welche in der Strafe des Verbrechens dargestellt wird, zum Gesetze gemacht ist, so ist auch sie wieder nur das Gesetz der einen Welt, welche eine verkehrte übersinnliche Welt sich gegenüberstehen hat, in welcher das, was in Jener verachtet ist, zu Ehren, was in jener in Ehren steht, in Verachtung kommt.",
+   "en": "If now this inversion, which is displayed in the punishment of crime, is made into a law, then it too is again only the law of the one world, which has an inverted supersensuous world standing over against it, in which what is despised in the former comes to honour, what stands in honour in the former comes into contempt.",
+   "zh": "如果现在这种颠倒——它在对犯罪的惩罚中被展示出来——被弄成了规律，那么它又只是一个世界的规律，这个世界有一个颠倒的超感性世界与自己相对而立，在这个颠倒的世界里，在前一个世界中被蔑视的东西受到尊敬，在前一个世界中受尊敬的东西则遭到蔑视。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 50,
+   "si": 7,
+   "de": "Die nach dem Gesetze der ersten den Menschen schändende und vertilgende Strafe verwandelt sich in ihrer verkehrten Welt in die sein Wesen erhaltende und ihn zu Ehren bringende Begnadigung.",
+   "en": "The punishment that, according to the law of the first, dishonours and destroys the human being transforms itself in its inverted world into the pardon that preserves his essence and brings him honour.",
+   "zh": "按照第一个世界的规律，那种侮辱人、消灭人的惩罚，在它颠倒的世界里就转变成保持人的本质、给人带来荣誉的赦免。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 0,
+   "de": "Oberflächlich angesehen ist diese verkehrte Welt so das Gegenteil der ersten, daß sie dieselbe außer ihr hat und jene erste als eine verkehrte Wirklichkeit von sich abstößt, daß die eine die Erscheinung, die andere aber das Ansich, die eine sie ist, wie sie für ein Anderes, die andere dagegen, wie sie für sich ist; so daß, um die vorigen Beispiele zu gebrauchen, was süß schmeckt, eigentlich oder innerlich am Dinge sauer, oder was am wirklichen Magnete der Erscheinung Nordpol ist, am inneren oder wesentlichen Sein Südpol wäre; was an der erscheinenden Elektrizität als Sauerstoffpol sich darstellt, an der nichterscheinenden Wasserstoffpol wäre.",
+   "en": "Superficially regarded, this inverted world is thus the opposite of the first, in that it has the latter outside itself and repels that first world from itself as an inverted actuality, [in] that the one is appearance, the other however the in-itself, the one is as it is for another, the other on the contrary as it is for itself; so that, to use the previous examples, what tastes sweet would be actually or inwardly sour on the thing, or what on the actual magnet of appearance is the north pole would be the south pole in the inner or essential being; what presents itself on appearing electricity as oxygen pole would be the hydrogen pole on the non-appearing [electricity].",
+   "zh": "表面看来，这个颠倒的世界就是第一个世界的反面，以致它把第一个世界放在自己之外，并把那第一个世界作为颠倒的现实性从自己这里排斥开，以致一个是现象，另一个则是自在，一个就是它为另一个他者而存在的样子，另一个则相反，是它自为地存在的样子；所以，用前面的例子来说，尝起来甜的东西，在物上本来或内在地就是酸的，或者，在现象的现实的磁体上是北极的东西，在内在的或本质的存在上就是南极；在显现着的电上表现为氧极的东西，在非显现的电上就是氢极。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 1,
+   "de": "Oder eine Handlung, die in der Erscheinung Verbrechen ist, sollte im Innern eigentlich gut sein (eine schlechte Handlung eine gute Absicht haben) können, die Strafe nur in der Erscheinung Strafe, an sich oder in einer anderen Welt aber Wohltat für den Verbrecher sein.",
+   "en": "Or an action that in appearance is crime should be able to be actually good in the inner (a bad action have a good intention), the punishment be punishment only in appearance, but in itself or in another world a benefit for the criminal.",
+   "zh": "或者，一个在现象中是犯罪的行为，应当能够在内心里本来是好的（一个坏的行为有一个好的意图），惩罚应当只是在现象中是惩罚，而自在或在另一个世界中则是对犯罪者的善行。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 2,
+   "de": "Allein solche Gegensätze von Innerem und Äußerem, von Erscheinung und Übersinnlichem, als von zweierlei Wirklichkeiten, sind hier nicht mehr vorhanden.",
+   "en": "But such oppositions of inner and outer, of appearance and supersensuous, as of two kinds of actuality, are no longer present here.",
+   "zh": "但是，内在的东西与外在的东西、现象与超感性之物这样一些对立，作为两种现实性的对立，在这里已经不再存在了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 3,
+   "de": "Die abgestoßenen Unterschiede verteilen sich nicht von neuem an zwei solche Substanzen, welche sie trügen und ihnen ein getrenntes Bestehen verliehen, wodurch der Verstand aus dem Innern heraus wieder auf seine vorige Stelle zurückfiele.",
+   "en": "The repelled differences do not distribute themselves anew over two such substances, which would carry them and lend them a separate subsistence, whereby the understanding would fall back out of the inner again onto its former place.",
+   "zh": "这些被排斥开的差别不再重新分配到两个这样的实体上，这些实体会承载它们，并赋予它们一种分离的持存，而这样一来，知性就会从内在的东西里出来，重新落回它先前的位置。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 4,
+   "de": "Die eine Seite oder Substanz wäre wieder die Welt der Wahrnehmung, worin das eine der beiden Gesetze sein Wesen triebe, und ihr gegenüber eine innere Welt, gerade eine solche sinnliche Welt wie die erste, aber in der Vorstellung, sie könnte nicht als sinnliche Welt aufgezeigt, nicht gesehen, gehört, geschmeckt werden, und doch würde sie vorgestellt als eine solche sinnliche Welt.",
+   "en": "The one side or substance would again be the world of perception, in which the one of the two laws would pursue its essence, and over against it an inner world, precisely such a sensuous world as the first, but in representation; it could not be exhibited as sensuous world, not seen, heard, tasted, and yet it would be represented as such a sensuous world.",
+   "zh": "一个方面或实体又会是知觉的世界，两条规律中的一条在其中施展它的本质，而与它相对的则是一个内在的世界，恰恰是一个和第一个世界一样的感性世界，不过是在表象中，它不能作为感性世界被指认出来，不能看见、听见、尝到，然而它却会被表象为一个这样的感性世界。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 5,
+   "de": "Aber in der Tat, wenn das eine Gesetzte ein Wahrgenommenes ist und sein Ansich als das Verkehrte desselben, ebenso ein sinnlich Vorgestelltes, so ist das Saure, was das Ansich des süßen Dinges wäre, ein so wirkliches Ding wie es, ein saures Ding; das Schwarze, welches das Ansich des Weißen wäre, ist das wirkliche Schwarze; der Nordpol, welcher das Ansich des Südpols ist, ist der an demselben Magnete vorhandene Nordpol; der Sauerstoffpol, der das Ansich des Wasserstoffpols ist, der vorhandene Sauerstoffpol derselben Säule.",
+   "en": "But in fact, if the one posited [element] is a perceived [one] and its in-itself, as the inverted of it, likewise a sensuously represented [one], then the sour, which would be the in-itself of the sweet thing, is a thing just as actual as it, a sour thing; the black, which would be the in-itself of the white, is the actual black; the north pole, which is the in-itself of the south pole, is the north pole present on the same magnet; the oxygen pole, which is the in-itself of the hydrogen pole, the present oxygen pole of the same column.",
+   "zh": "但事实上，如果这一个被设定的东西是一个被知觉到的东西，而它的自在作为它的颠倒面同样是一个感性地被表象的东西，那么，本该是甜的物的自在的那种酸，就是一个和它一样现实的物，一个酸的物；本该是白的物的自在的那种黑，就是现实的黑；是南极的自在的那种北极，就是在同一个磁体上现成的北极；是氢极的自在的那种氧极，就是同一根柱体上现成的氧极。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 6,
+   "de": "Das wirkliche Verbrechen aber hat seine Verkehrung und sein Ansich als Möglichkeit in der Absicht als solcher, aber nicht in einer guten; denn die Wahrheit der Absicht Ist nur die Tat selbst.",
+   "en": "But the actual crime has its inversion and its in-itself as possibility in the intention as such, but not in a good one; for the truth of the intention is only the deed itself.",
+   "zh": "但现实的犯罪，它的颠倒和它的自在是作为可能性而存在于意图本身之中，而不是存在于一个好的意图中；因为意图的真理只是行为本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 7,
+   "de": "Das Verbrechen seinem Inhalte nach aber hat seine Reflexion-in-sich oder seine Verkehrung an der wirklichen Strafe; diese ist die Aussöhnung des Gesetzes mit der ihm im Verbrechen entgegengesetzten Wirklichkeit.",
+   "en": "But the crime according to its content has its reflection-into-itself or its inversion in the actual punishment; this is the reconciliation of the law with the actuality opposed to it in the crime.",
+   "zh": "但犯罪按其内容来说，它的自身反思或它的颠倒则是在现实的惩罚上；这种惩罚就是规律与在犯罪中与它相对立的现实性的和解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 51,
+   "si": 8,
+   "de": "Die wirkliche Strafe endlich hat so ihre verkehrte Wirklichkeit an ihr, daß sie eine solche Verwirklichung des Gesetzes ist, wodurch die Tätigkeit, die es als Strafe hat, sich selbst aufhebt, es aus tätigem wieder ruhiges und geltendes Gesetz wird und die Bewegung der Individualität gegen es und seiner gegen sie erloschen ist.",
+   "en": "The actual punishment, finally, has its inverted actuality on itself in this way, that it is such a realization of the law whereby the activity that it has as punishment sublates itself, it becomes from active again a calm and valid law, and the movement of individuality against it and of it against individuality is extinguished.",
+   "zh": "最后，现实的惩罚在自身身上有这样一种颠倒的现实性，即它是规律的一种这样的实现，通过这种实现，它作为惩罚所具有的活动性自己扬弃自己，它从活动着的规律又变成宁静的、有效的规律，而个体性反对它、它反对个体性的运动也就熄灭了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 0,
+   "de": "Aus der Vorstellung also der Verkehrung, die das Wesen der einen Seite der übersinnlichen Welt ausmacht, ist die sinnliche Vorstellung von der Befestigung der Unterschiede in einem verschiedenen Elemente des Bestehens zu entfernen, und dieser absolute Begriff des Unterschiedes [ist] als innerer Unterschied, Abstoßen des Gleichnamigen als Gleichnamigen von sich selbst und Gleichsein des Ungleichen als Ungleichen rein darzustellen und aufzufassen.",
+   "en": "From the representation of the inversion, therefore, which constitutes the essence of the one side of the supersensuous world, the sensuous representation of the fixing of the differences in a different element of subsistence is to be removed, and this absolute concept of difference [is] to be purely exhibited and comprehended as inner difference, repulsion of the like-named as like-named from itself, and being-like of the unlike as unlike.",
+   "zh": "所以，要从颠倒这一表象——颠倒构成超感性世界一个方面的本质——中去除那种感性的表象，即认为诸差别固定在一个不同的持存要素之中；而这个差别的绝对概念，作为内在的差别，即同名者作为同名者把自己从自身排斥开、不等同者作为不等同者与自身相同一，则要纯粹地展示出来并加以把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 1,
+   "de": "Es ist der reine Wechsel oder die Entgegensetzung in sich selbst, der Widerspruch zu denken.",
+   "en": "It is pure exchange or the opposition within itself, the contradiction, that is to be thought.",
+   "zh": "要思考的是纯粹的变换，或自身之中的对立，即矛盾。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 2,
+   "de": "Denn in dem Unterschiede, der ein innerer ist, ist das Entgegengesetzte nicht nur Eines von Zweien – sonst wäre es ein Seiendes und nicht ein Entgegengesetztes –, sondern es ist das Entgegengesetzte eines Entgegengesetzten, oder das Andere ist in ihm unmittelbar selbst vorhanden.",
+   "en": "For in difference, which is an inner one, the opposed is not merely one of two – otherwise it would be a being and not an opposed –, but it is the opposed of an opposed, or the other is immediately present in it itself.",
+   "zh": "因为在内在的差别中，对立的东西不仅仅是两者之一——否则它就会是一个存在者，而不是一个对立的东西——，它毋宁说是一个对立东西的对立东西，或者说，他者直接就在它本身之中现成存在着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 3,
+   "de": "Ich stelle wohl das Gegenteil hierher und dorthin das Andere, wovon es das Gegenteil ist; also das Gegenteil auf eine Seite, an und für sich ohne das Andere.",
+   "en": "I do indeed place the opposite here and the other, of which it is the opposite, there; thus the opposite on one side, in and for itself without the other.",
+   "zh": "我固然把对立面放在这一边，而把它是其对立面的那个他者放在那一边；也就是说，把对立面放在一边，自在自为地、没有那个他者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 4,
+   "de": "Eben darum aber. indem ich hier das Gegenteil an und für sich habe, ist es das Gegenteil seiner selbst, oder es hat in der Tat das Andere unmittelbar an ihm selbst.",
+   "en": "But precisely for that reason, in that I have the opposite here in and for itself, it is the opposite of itself, or it in fact has the other immediately on itself.",
+   "zh": "但正因为如此，当我把对立面在这里自在自为地拥有时，它就是它自己的对立面，或者说，它事实上直接就在自己身上拥有那个他者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 5,
+   "de": "– So hat die übersinnliche Welt, welche die verkehrte ist, über die andere zugleich übergegriffen und [hat] sie an sich selbst; sie ist für sich die verkehrte, d.h. die verkehrte ihrer selbst; sie ist sie selbst und ihre entgegengesetzte in einer Einheit.",
+   "en": "– Thus the supersensuous world, which is the inverted one, has at the same time reached beyond the other and [has] it on itself; it is for itself the inverted, i.e. the inverted of itself; it is itself and its opposite in one unity.",
+   "zh": "——这样，那个颠倒的超感性世界同时也就越过了另一个世界，并把它拥有在自身之上；它自为地就是那个颠倒的东西，也就是说，是它自身的颠倒；它在同一个统一中既是它自己，又是它的对立面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 52,
+   "si": 6,
+   "de": "Nur so ist sie der Unterschied als innerer oder Unterschied an sich selbst oder ist als Unendlichkeit.",
+   "en": "Only thus is it difference as inner, or difference in itself, or is as infinity.",
+   "zh": "只有这样，它才是作为内在差别的差别，或自在的差别，或者说，才是作为无限性而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 53,
+   "si": 0,
+   "de": "Durch die Unendlichkeit sehen wir das Gesetz zur Notwendigkeit an ihm selbst vollendet und alle Momente der Erscheinung in das Innere aufgenommen.",
+   "en": "Through infinity we see the law completed to necessity in itself, and all moments of appearance taken up into the inner.",
+   "zh": "通过无限性，我们看到规律在它自身那里完成为必然性，而现象的一切环节都被收进内在之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 53,
+   "si": 1,
+   "de": "Das Einfache des Gesetzes ist die Unendlichkeit, heißt nach dem, was sich ergeben hat, α) es ist ein Sichselbstgleiches, welches aber der Unterschied an sich ist; oder es ist Gleichnamiges, welches sich von sich selbst abstößt oder sich entzweit.",
+   "en": "That the simple element of the law is infinity means, according to what has resulted: α) it is a self-same that is however the difference in itself; or it is the like-named that repels itself from itself, or dirempts itself.",
+   "zh": "规律的单纯者就是无限性，按照已经得出的结果，这意思是说：α) 它是一个自身等同者，但它自在地就是差别；或者说，它是同名的东西，它把自己从自身排斥开，或者说它自己分裂自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 53,
+   "si": 2,
+   "de": "Dasjenige, was die einfache Kraft genannt wurde, verdoppelt sich selbst und ist durch ihre Unendlichkeit das Gesetz. β) Das Entzweite, welches die in dem Gesetze vorgestellten Teile ausmacht, stellt sich als Bestehendes dar; und [werden] sie ohne den Begriff des inneren Unterschiedes betrachtet, [so] ist der Raum und die Zeit oder die Entfernung und die Geschwindigkeit, welche als Momente der Schwere auftreten, sowohl gleichgültig und ohne Notwendigkeit füreinander als für die Schwere selbst, so wie diese einfache Schwere gegen sie oder die einfache Elektrizität gegen das Positive und Negative [gleichgültig] ist. γ) Durch den Begriff des inneren Unterschiedes aber ist dies Ungleiche und Gleichgültige, Raum und Zeit usf. ein Unterschied, welcher kein Unterschied ist oder nur ein Unterschied des Gleichnamigen, und sein Wesen die Einheit; sie sind als Positives und Negatives gegeneinander begeistet, und ihr Sein ist dieses vielmehr, sich als Nichtsein zu setzen und in der Einheit aufzuheben.",
+   "en": "That which was called simple force doubles itself and is, through its infinity, the law. β) The dirempted element that makes up the parts represented in the law presents itself as something subsisting; and if they are considered without the concept of inner difference, then space and time, or distance and velocity, which appear as moments of gravity, are indifferent and without necessity for one another as much as for gravity itself, just as this simple gravity is indifferent toward them, or simple electricity toward the positive and the negative. γ) Through the concept of inner difference, however, this unequal and indifferent element, space and time and so on, is a difference that is no difference, or only a difference of the like-named, and its essence is unity; as positive and negative they are inspirited against one another, and their being is rather this: to posit themselves as non-being and to sublate themselves in the unity.",
+   "zh": "那个曾被叫做单纯的力的东西，自己把自己加倍，并且通过自己的无限性而是规律。β) 分裂开来的东西，即构成规律中被表象的那些部分的东西，表现为持存着的东西；而如果人们不带内在差别的概念来考察它们，那么空间和时间，或者说距离和速度——它们作为重力的环节出现——就既彼此漠不相关、也没有必然性，对重力本身也同样如此，正如这种单纯的重力对它们漠不相关，或者说单纯的电对正和负漠不相关一样。γ) 但通过内在差别的概念，这种不等同的、漠不相关的东西，空间和时间等等，就是一种并非差别的差别，或者说只是同名者的差别，而它的本质是统一；它们作为正和负而彼此被赋予了精神，它们的存在毋宁说是这样：把自己设定为非存在，并在统一中扬弃自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 53,
+   "si": 3,
+   "de": "Es bestehen beide Unterschiedene, sie sind an sich, sie sind an sich als Entgegengesetzte, d.h. das Entgegengesetzte ihrer selbst, sie haben ihr Anderes an ihnen und sind nur eine Einheit.",
+   "en": "Both differents subsist, they are in themselves, they are in themselves as opposed, that is, the opposite of themselves; they have their other on them and are only one unity.",
+   "zh": "两个有差别的东西都持存着，它们自在地存在，它们自在地作为对立者存在，也就是说，是它们自己的对立面，它们在自身身上有它们的他者，并且只是一个统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 0,
+   "de": "Diese einfache Unendlichkeit oder der absolute Begriff ist das einfache Wesen des Lebens, die Seele der Welt, das allgemeine Blut zu nennen, welches allgegenwärtig durch keinen Unterschied getrübt noch unterbrochen wird, das vielmehr selbst alle Unterschiede ist, so wie ihr Aufgehobensein, also in sich pulsiert, ohne sich zu bewegen, in sich erzittert, ohne unruhig zu sein.",
+   "en": "This simple infinity, or the absolute concept, is to be called the simple essence of life, the soul of the world, the universal blood, which, omnipresent, is clouded or interrupted by no difference, but is rather itself all differences as well as their sublatedness, and thus pulses within itself without moving, trembles within itself without being restless.",
+   "zh": "这种单纯的无限性，或者说绝对的概念，可以叫做生命的单纯本质、世界的灵魂、普遍的血液，它无所不在，既不被任何差别弄浑浊，也不被任何差别打断，毋宁说它本身就是一切差别，同时也是这些差别的被扬弃状态，所以它在自身中搏动而不运动，在自身中颤动而不安宁。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 1,
+   "de": "Sie ist sichselbstgleich, denn die Unterschiede sind tautologisch; es sind Unterschiede, die keine sind.",
+   "en": "It is self-same, for the differences are tautological; they are differences that are none.",
+   "zh": "它是自身等同的，因为这些差别是同语反复的；它们是并不成其为差别的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 2,
+   "de": "Dieses sichselbstgleiche Wesen bezieht sich daher nur auf sich selbst; auf sich selbst: so ist dies ein Anderes, worauf die Beziehung geht, und das Beziehen auf sich selbst ist vielmehr das Entzweien, oder eben Jene Sichselbstgleichheit ist innerer Unterschied.",
+   "en": "This self-same essence therefore relates only to itself; to itself: thus this is an other to which the relation goes, and the relating to itself is rather the diremption, or precisely that self-sameness is inner difference.",
+   "zh": "所以这种自身等同的本质只与自身相关；与自身相关：这样一来，这就是一个他者，关系所指向的就是这个他者，而与自身相关毋宁说是分裂，或者说，那种自身等同恰恰就是内在差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 3,
+   "de": "Diese Entzweiten sind somit an und für sich selbst, jedes ein Gegenteil – eines Anderen; so ist darin schon das Andere mit ihm zugleich ausgesprochen.",
+   "en": "These dirempted terms are thus in and for themselves, each an opposite – of an other; thus the other is already at the same time expressed along with it.",
+   "zh": "这些分裂开来的东西因此是自在自为的，每一个都是一个对立面——一个他者的对立面；这样一来，他者就已经同时与它一起被说出了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 4,
+   "de": "Oder es ist nicht das Gegenteil eines Anderen, sondern nur das reine Gegenteil, so ist es also an ihm selbst das Gegenteil seiner.",
+   "en": "Or it is not the opposite of an other, but only the pure opposite, then it is thus in itself the opposite of itself.",
+   "zh": "或者说，它不是某个他者的对立面，而只是纯粹的对立面，那么它就在它自身那里是它自己的对立面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 5,
+   "de": "Oder es ist überhaupt nicht ein Gegenteil, sondern rein für sich, ein reines sichselbstgleiches Wesen, das keinen Unterschied an ihm hat: so brauchen wir nicht zu fragen, noch weniger das Gequäle mit solcher Frage für die Philosophie anzusehen oder gar sie ihr für unbeantwortlich zu halten, – wie aus diesem reinen Wesen, wie aus ihm heraus der Unterschied oder das Anderssein komme; denn es ist schon die Entzweiung geschehen, der Unterschied ist aus dem Sichselbstgleichen ausgeschlossen und ihm zur Seite gestellt worden; was das Sichselbstgleiche sein sollte, ist also schon eins der Entzweiten viel mehr, als daß es das absolute Wesen wäre.",
+   "en": "Or it is not an opposite at all, but purely for itself, a pure self-same essence that has no difference on it: then we need not ask, still less regard the tormenting of ourselves with such a question as a matter for philosophy or even hold it to be unanswerable by philosophy – how the difference or otherness comes from this pure essence, how it comes out of it; for the diremption has already happened, difference has been excluded from the self-same and placed at its side; what was supposed to be the self-same is thus already one of the dirempted terms, rather than being the absolute essence.",
+   "zh": "或者说，它根本不是对立面，而是纯粹自为的、一个纯粹的自身等同的本质，它在自己身上没有任何差别：那么我们就不必去问，更不应该把这种问题上的折腾看成哲学要管的事，甚至不应该认为它对哲学来说是无法回答的——即差别或他在究竟是怎样从这个纯粹的本质中、怎样从它里面出来的；因为分裂已经发生了，差别已经被从自身等同者那里排除出去，并且被摆到它旁边；那个本该是自身等同者的东西，因此已经就是分裂开来的东西之一，而不是那绝对的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 6,
+   "de": "Das Sichselbstgleiche entzweit sich, heißt darum ebensosehr: es hebt sich als schon Entzweites, es hebt sich als Anderssein auf.",
+   "en": "The self-same dirempts itself therefore means just as much: it sublates itself as already dirempted, it sublates itself as otherness.",
+   "zh": "自身等同者分裂自己，因此同样意味着：它把自己作为已经分裂了的东西来扬弃，它把自己作为他在来扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 54,
+   "si": 7,
+   "de": "Die Einheit, von welcher gesagt zu werden pflegt, daß der Unterschied nicht aus ihr herauskommen könne, ist in der Tat selbst nur das eine Moment der Entzweiung; sie ist die Abstraktion der Einfachheit, welche dem Unterschiede gegenüber ist.",
+   "en": "The unity of which it is customary to say that difference cannot come out of it is in fact itself only the one moment of the diremption; it is the abstraction of simplicity, which is over against difference.",
+   "zh": "人们惯于说差别不可能从其中出来的那个统一，事实上本身只是分裂的一个环节；它是单纯性的抽象，这个抽象处在差别的对面。"
+  }
+ ]
+}

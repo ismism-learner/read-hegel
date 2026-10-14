@@ -1,0 +1,101 @@
+{
+ "id": "w2-13-13",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "111gl8ie9w",
+   "sents": [
+    "Böttiger253) spricht vom Sagenklitterer Pausanias, von der blasenden Fama mit den Trompetenbacken; beides ist aber er selber."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1hcxghf1yj",
+   "sents": [
+    "Eine ganze Reihe Lokrer erhängte sich um spröder Knaben willen.",
+    "Die griechische Knabenliebe ist noch wenig begriffen.",
+    "Es liegt eine edle Verschmähung des Weibes darin und deutet darauf, daß ein Gott neu geboren werden sollte.254)"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1i9h2fsm9f",
+   "sents": [
+    "Eine Partei ist dann, wenn sie in sich zerfällt.",
+    "So der Protestantismus, dessen Differenzen jetzt in Unionsversuchen zusammenfallen sollen; - ein Beweis, daß er nicht mehr ist.",
+    "Denn im Zerfallen konstituiert sich die innere Differenz als Realität.",
+    "Bei der Entstehung des Protestantismus hatten alle Schismen des Katholizismus aufgehört. - Jetzt wird die Wahrheit der christlichen Religion immer bewiesen, man weiß nicht, für wen; denn wir haben doch nicht mit den Türken zu tun."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "3b87dwmg5i",
+   "sents": [
+    "\"Eine Tabakspfeife ins Gesicht oder in die Physiognomie stecken.\"",
+    "Ist dies nicht Poesie?",
+    "Das ganz Individuelle, worauf die Pfeife geht und worin sie erscheint, wird hier ganz objektiv als nichts Subjektives gesetzt, das noch etwas hinter sich hätte, wie eine Zeichnung auf einer Wand, -und ebenso die Hand, die Pfeife damit zu verbinden.",
+    "Ich habe jenen Ausdruck von ganz prosaischen Kaufleuten gehört."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1aywzc9yjk",
+   "sents": [
+    "Was heißt jetzt nicht Wissenschaft!",
+    "\"Der Terrassierer oder das Ganze der Terrassierkunst.\"",
+    "So Torfbau, Schornsteinbau, Rindviehzucht usw. als Wissenschaft."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1fr2sm0pyt",
+   "sents": [
+    "\"Ein unterworfen gewesener Knabe.\"",
+    "Sommers Novellen S. 391.",
+    "Ist das nicht das participium aoristi der Griechen?"
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "19gn5hl1qv",
+   "sents": [
+    "Erfahrung.",
+    "Der Schatten, den das Kerzenlicht projiziert, von dem Tageslicht des Morgens erleuchtet, wird blau; der Schatten, den Tageslicht wirft (der schwächer ist, und um welchen aufkommen zu lassen man sich vom Licht entfernen muß), vom Kerzenlicht erhellt, wird rot. - Der Schatten, vom Kerzenlicht geworfen, ganz nahe an das Licht gehalten, schimmert gegen das Grünliche hin."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "17bomgh9uf",
+   "sents": [
+    "Zur historischen Logik.",
+    "Es wird versichert, daß wir urteilen: das Gold ist gelb.",
+    "Diese Versicherung ist wahrscheinlich.",
+    "Aber nicht ebenso wahrscheinlich ist, daß wir schließen: alle Menschen sind sterblich: Cajus ist ein Mensch; also ist er sterblich.",
+    "Ich wenigstens habe nie so plattes Zeug gedacht.",
+    "Es soll im Innern vorgehen, ohne daß wir Bewußtsein darüber haben.",
+    "Freilich, im Innern geht viel vor, z. B. Harnbereitung und ein noch Schlimmeres, aber wenn es äußerlich wird, halten wir die Nase zu.",
+    "Ebenso bei solchem Schließen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p13.json"
+}

@@ -1,0 +1,15 @@
+JSON.stringify({
+  title: document.getElementById('doc-title').innerText,
+  crumb: document.getElementById('crumb-now').innerText,
+  tocNodes: document.querySelectorAll('#sidebar-body a.node').length,
+  current: document.querySelector('#sidebar-body a.node.current')?.innerText || null,
+  openLis: document.querySelectorAll('#sidebar-body li.open').length,
+  marks: document.querySelectorAll('mark.hl').length,
+  pageMarks: document.querySelectorAll('.pg').length,
+  footnotes: document.querySelectorAll('.footnotes .fni').length,
+  textChars: document.getElementById('text').innerText.length,
+  pager: document.querySelectorAll('#pager a').length,
+  progress: document.getElementById('progress-i').style.width,
+  imgs: document.querySelectorAll('#text img').length,
+  imgOk: [...document.querySelectorAll('#text img')].every((i) => i.complete && i.naturalWidth > 0),
+})

@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-03",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 7,
+   "de": "Indem er die Negation an sich selbst ist und darin zugleich selbständig ist, ist er Bewußtsein.",
+   "en": "In that it is the negation on itself and therein is at the same time independent, it is consciousness.",
+   "zh": "既然它是在自身身上的否定，并且同时在其中是独立的，它就是意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 8,
+   "de": "An dem Leben, welches der Gegenstand der Begierde ist, ist die Negation entweder an einem Anderen, nämlich an der Begierde, oder als Bestimmtheit gegen eine andere gleichgültige Gestalt oder als seine unorganische allgemeine Natur.",
+   "en": "On life, which is the object of desire, the negation is either on an other, namely on desire, or as determinacy against another indifferent shape, or as its inorganic universal nature.",
+   "zh": "在生命身上，也就是在欲望的对象身上，否定要么是在一个他者身上，也就是在欲望身上，要么是作为规定性而针对另一个漠不相关的形态，要么是作为它那种无机的普遍自然。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 9,
+   "de": "Diese allgemeine selbständige Natur aber, an der die Negation als absolute ist, ist die Gattung als solche oder als Selbstbewußtsein.",
+   "en": "But this universal independent nature, on which the negation is as absolute, is the genus as such, or as self-consciousness.",
+   "zh": "但这种普遍的、独立的自然，也就是否定作为绝对的东西而存在于其上的那种自然，就是类本身，或者说就是作为自我意识的类。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 11,
+   "si": 10,
+   "de": "Das Selbstbewußtsein erreicht seine Befriedigung nur in einem anderen Selbstbewußtsein.",
+   "en": "Self-consciousness attains its satisfaction only in another self-consciousness.",
+   "zh": "自我意识只有在另一个自我意识中才达到自己的满足。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 12,
+   "si": 0,
+   "de": "In diesen drei Momenten ist erst der Begriff des Selbstbewußtseins vollendet: a) reines ununterschiedenes Ich ist sein erster unmittelbarer Gegenstand, b) Diese Unmittelbarkeit ist aber selbst absolute Vermittlung, sie ist nur als Aufheben des selbständigen Gegenstandes, oder sie ist Begierde.",
+   "en": "In these three moments the concept of self-consciousness is first completed: a) pure, undifferentiated I is its first immediate object, b) but this immediacy is itself absolute mediation, it is only as the sublating of the independent object, or it is desire.",
+   "zh": "在这三个环节里，自我意识的概念才第一次完成：a) 纯粹而无差别的我是它第一个直接的对象，b) 但这种直接性本身却是绝对的中介，它只作为对独立对象的扬弃而存在，或者说，它就是欲望。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 12,
+   "si": 1,
+   "de": "Die Befriedigung der Begierde ist zwar die Reflexion des Selbstbewußtseins in sich selbst oder die zur Wahrheit gewordene Gewißheit, c) Aber die Wahrheit derselben ist vielmehr die gedoppelte Reflexion, die Verdopplung des Selbstbewußtseins.",
+   "en": "The satisfaction of desire is indeed the reflection of self-consciousness into itself, or the certainty that has become truth, c) but its truth is rather the doubled reflection, the doubling of self-consciousness.",
+   "zh": "欲望的满足虽然是自我意识在自身中的反思，或者是变成了真理的确定性，c) 但它的真理却毋宁是双重的反思，是自我意识的双重化。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 12,
+   "si": 2,
+   "de": "Es ist ein Gegenstand für das Bewußtsein, welcher an sich selbst sein Anderssein oder den Unterschied als einen nichtigen setzt und darin selbständig ist.",
+   "en": "It is an object for consciousness which in itself posits its otherness, or the difference, as something null, and therein is independent.",
+   "zh": "它是意识的一个对象，这个对象在自身那里把自己的他在、或把差别设定为虚无的东西，并因此在自身中是独立的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 12,
+   "si": 3,
+   "de": "Die unterschiedene, nur lebendige Gestalt hebt wohl im Prozesse des Lebens selbst auch ihre Selbständigkeit auf, aber sie hört mit ihrem Unterschiede auf, zu sein, was sie ist; der Gegenstand des Selbstbewußtseins ist aber ebenso selbständig in dieser Negativität seiner selbst; und damit ist er für sich selbst Gattung, allgemeine Flüssigkeit in der Eigenheit seiner Absonderung; er ist lebendiges Selbstbewußtsein.",
+   "en": "The differentiated, merely living shape does indeed also sublate its independence in the process of life, but with its difference it ceases to be what it is; the object of self-consciousness, however, is just as independent in this negativity of itself; and thereby it is for itself genus, universal fluidity in the peculiarity of its separation; it is living self-consciousness.",
+   "zh": "有差别的、仅仅活着的形态，在生命的过程中确实也扬弃了自己的独立性，但它随着自己的差别就不再是它之所是；而自我意识的对象在这种自身的否定性中同样是独立的；因此它对自己来说就是类，是在其分离的独特性中普遍的流动性；它就是活着的自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 0,
+   "de": "Es ist ein Selbstbewußtsein für ein Selbstbewußtsein.",
+   "en": "It is a self-consciousness for a self-consciousness.",
+   "zh": "它是为一个自我意识而存在的自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 1,
+   "de": "Erst hierdurch ist es in der Tat; denn erst hierin wird für es die Einheit seiner selbst in seinem Anderssein; ich, das der Gegenstand seines Begriffs ist, ist in der Tat nicht Gegenstand; der Gegenstand der Begierde aber ist nur selbständig, denn er ist die allgemeine unvertilgbare Substanz, das flüssige sichselbstgleiche Wesen.",
+   "en": "Only through this is it in fact; for only herein does the unity of itself in its otherness come to be for it; the I, which is the object of its concept, is in fact not an object; the object of desire, however, is only independent, for it is the universal, indelible substance, the fluid, self-same essence.",
+   "zh": "只有通过这一点，它才事实上存在；因为只有在这里，它自身在它的他在中的统一才对它产生出来；我，作为它的概念的对象，事实上并不是对象；但欲望的对象却只是独立的，因为它是普遍的、不可消灭的实体，是流动的、自身等同的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 2,
+   "de": "Indem ein Selbstbewußtsein der Gegenstand ist, ist er ebensowohl Ich wie Gegenstand.",
+   "en": "Insofar as a self-consciousness is the object, it is just as much I as object.",
+   "zh": "由于一个自我意识是对象，它同样既是我，也是对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 3,
+   "de": "– Hiermit ist schon der Begriff des Geistes für uns vorhanden.",
+   "en": "— With this, the concept of spirit is already present for us.",
+   "zh": "——在这里，精神的概念对我们来说已经存在了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 4,
+   "de": "Was für das Bewußtsein weiter wird, ist die Erfahrung, was der Geist ist, diese absolute Substanz, welche in der vollkommenen Freiheit und Selbständigkeit ihres Gegensatzes, nämlich verschiedener für sich seiender Selbstbewußtsein[e], die Einheit derselben ist; Ich, das Wir, und Wir, das Ich ist.",
+   "en": "What further comes to be for consciousness is the experience of what spirit is, this absolute substance, which in the perfect freedom and independence of its opposition, namely of different self-consciousnesses that are for themselves, is the unity of these; I that is We, and We that is I.",
+   "zh": "对意识来说接下来产生出来的东西，是经验，即精神是什么的经验：这个绝对的实体，在它的对立面、即各个自为存在的自我意识的完全自由和独立性中，是它们的统一；Ich, das Wir, und Wir, das Ich ist。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 13,
+   "si": 5,
+   "de": "Das Bewußtsein hat erst in dem Selbstbewußtsein, als dem Begriffe des Geistes, seinen Wendungspunkt, auf dem es aus dem farbigen Scheine des sinnlichen Diesseits und aus der leeren Nacht des übersinnlichen Jenseits in den geistigen Tag der Gegenwart einschreitet.",
+   "en": "Consciousness has its turning point only in self-consciousness, as the concept of spirit, the point at which it steps out of the colourful semblance of the sensuous here-and-now and out of the empty night of the supersensuous beyond into the spiritual day of the present.",
+   "zh": "意识只有在自我意识中、作为精神的概念，才有它的转折点，在这一点上，它从感性此岸的多彩假象中、从超感性彼岸的空虚黑夜中，踏入当下的精神的白昼。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 15,
+   "si": 0,
+   "de": "Das Selbstbewußtsein ist an und für sich, indem und dadurch, daß es für ein Anderes an und für sich ist; d.h. es ist nur als ein Anerkanntes.",
+   "en": "Self-consciousness is in and for itself insofar as and through the fact that it is in and for itself for another; that is, it is only as something recognized.",
+   "zh": "自我意识是自在自为的，只要并且通过这一点，即它是为一个他者而自在自为的；也就是说，它只作为被承认者而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 15,
+   "si": 1,
+   "de": "Der Begriff dieser seiner Einheit in seiner Verdopplung, der sich im Selbstbewußtsein realisierenden Unendlichkeit, ist eine vielseitige und vieldeutige Verschränkung, so daß die Momente derselben teils genau auseinandergehalten, teils in dieser Unterscheidung zugleich auch als nicht unterschieden oder immer in ihrer entgegengesetzten Bedeutung genommen und erkannt werden müssen.",
+   "en": "The concept of this its unity in its doubling, of the infinity that realizes itself in self-consciousness, is a many-sided and ambiguous intertwining, so that its moments must in part be kept precisely apart, and in part, in this distinction, must at the same time be taken and cognized as not distinguished, or always in their opposite meaning.",
+   "zh": "这种统一在它的双重化中的概念，也就是在自我意识中实现自身的无限性，是一种多方面的、多义的交织，以至于它的这些环节一部分必须被精确地彼此分开，一部分又必须在这种区分中同时被看作、被认识到是没有区分的，或者始终是在它们相反的含义中被把握的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 15,
+   "si": 2,
+   "de": "Die Doppelsinnigkeit des Unterschiedenen liegt in dem Wesen des Selbstbewußtseins, unendlich oder unmittelbar das Gegenteil der Bestimmtheit, in der es gesetzt ist, zu sein.",
+   "en": "The double meaning of the differentiated lies in the essence of self-consciousness: to be, infinitely or immediately, the opposite of the determinacy in which it is posited.",
+   "zh": "被区分开的东西的双重含义在于自我意识的本质：无限地或者直接地成为它所被设定于其中的那种规定性的反面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 15,
+   "si": 3,
+   "de": "Die Auseinanderlegung des Begriffs dieser geistigen Einheit in ihrer Verdopplung stellt uns die Bewegung des Anerkennens dar.",
+   "en": "The unfolding of the concept of this spiritual unity in its doubling presents to us the movement of recognition.",
+   "zh": "把这种精神的统一在它的双重化中的概念展开，就向我们呈现出承认的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 16,
+   "si": 0,
+   "de": "Es ist für das Selbstbewußtsein ein anderes Selbstbewußtsein; es ist außer sich gekommen.",
+   "en": "There is for self-consciousness another self-consciousness; it has come outside itself.",
+   "zh": "对自我意识来说，出现了另一个自我意识；它已经走到自身之外了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 16,
+   "si": 1,
+   "de": "Dies hat die gedoppelte Bedeutung: erstlich, es hat sich selbst verloren, denn es findet sich als ein anderes Wesen; zweitens, es hat damit das Andere aufgehoben, denn es sieht auch nicht das Andere als Wesen, sondern sich selbst im Anderen.",
+   "en": "This has a double meaning: first, it has lost itself, for it finds itself as another essence; secondly, it has thereby sublated the other, for it does not see the other as essence either, but itself in the other.",
+   "zh": "这有双重的含义：第一，它失去了自己，因为它发现自己是一个其他的本质；第二，它由此扬弃了他者，因为它也不把他者看作本质，而是在他者中看到自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 17,
+   "si": 0,
+   "de": "Es muß dies sein Anderssein aufheben; dies ist das Aufheben des ersten Doppelsinnes und darum selbst ein zweiter Doppelsinn; erstlich, es muß darauf gehen, das andere selbständige Wesen aufzuheben, um dadurch seiner als des Wesens gewiß zu werden; zweitens geht es hiermit darauf, sich selbst aufzuheben, denn dies Andere ist es selbst.",
+   "en": "It must sublate this its otherness; this is the sublating of the first double meaning and therefore itself a second double meaning; first, it must aim at sublating the other independent essence, in order thereby to become certain of itself as of the essence; secondly, it thereby aims at sublating itself, for this other is itself.",
+   "zh": "它必须扬弃自己的这个他在；这是对第一种双重含义的扬弃，因此本身又是第二种双重含义；第一，它必须致力于扬弃那另一个独立的本质，以便由此确信自己是本质；第二，它由此致力于扬弃自己，因为这个他者就是它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 18,
+   "si": 0,
+   "de": "Dies doppelsinnige Aufheben seines doppelsinnigen Andersseins ist ebenso eine doppelsinnige Rückkehr in sich selbst, denn erstlich erhält es durch das Aufheben sich selbst zurück, denn es wird sich wieder gleich durch das Aufheben seines Andersseins; zweitens aber gibt es das andere Selbstbewußtsein ihm wieder ebenso zurück, denn es war sich im Anderen, es hebt dies sein Sein im Anderen auf, entläßt also das Andere wieder frei.",
+   "en": "This double-meaning sublating of its double-meaning otherness is likewise a double-meaning return into itself, for first, through the sublating it gets itself back, for it becomes equal to itself again through the sublating of its otherness; secondly, however, it likewise gives the other self-consciousness back to it again, for it was itself in the other, it sublates this its being in the other, and thus releases the other again, letting it be free.",
+   "zh": "对它那双重含义的他在的这种双重含义的扬弃，同样是向自身的一种双重含义的返回，因为第一，它通过这种扬弃重新获得自己，因为它通过对自己的他在的扬弃重新变得与自身相等；第二，它同样也把另一个自我意识重新还给了它，因为它在那个他者中曾是自己，它扬弃了它在那个他者中的这种存在，于是又把他者释放出来，让它重新自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 19,
+   "si": 0,
+   "de": "Diese Bewegung des Selbstbewußtseins in der Beziehung auf ein anderes Selbstbewußtsein ist aber auf diese Weise vorgestellt worden als das Tun des Einen; aber dieses Tun des Einen hat selbst die gedoppelte Bedeutung, ebensowohl sein Tun als das Tun des Anderen zu sein; denn das Andere ist ebenso selbständig, in sich beschlossen, und es ist nichts in ihm, was nicht durch es selbst ist.",
+   "en": "This movement of self-consciousness in its relation to another self-consciousness has, however, in this way been represented as the doing of the one; but this doing of the one has itself the double meaning of being just as much its doing as the doing of the other; for the other is just as independent, self-contained, and there is nothing in it that is not through itself.",
+   "zh": "自我意识在它与另一个自我意识的关系中的这种运动，却是以这种方式被表象的，即它是一方所做的；但这一方所做的本身就有双重的含义，即它同样是一方所做的、也是另一方所做的；因为另一方同样独立、自身封闭，在它之中没有什么东西不是通过它自己而来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 19,
+   "si": 1,
+   "de": "Das erste hat den Gegenstand nicht vor sich, wie er nur für die Begierde zunächst ist, sondern einen für sich seienden selbständigen, über welchen es darum nichts für sich vermag, wenn er nicht an sich selbst dies tut, was es an ihm tut.",
+   "en": "The first does not have before it the object as it is at first only for desire, but a self-subsistent, independent one, over which it therefore can do nothing for itself unless the object itself does to itself what the first does to it.",
+   "zh": "前者面前的对象并不是它在欲望那里最初所是的那样，而是一个自为存在的、独立的对象，因此，如果这个对象不在自身中做前者对它所做的这件事，前者对它就不能为自己做出任何事。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 19,
+   "si": 2,
+   "de": "Die Bewegung ist also schlechthin die gedoppelte beider Selbstbewußtsein[e].",
+   "en": "The movement is therefore absolutely the doubled movement of both self-consciousnesses.",
+   "zh": "所以这运动绝对地是双方自我意识的双重运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 19,
+   "si": 3,
+   "de": "Jedes sieht das Andere dasselbe tun, was es tut; jedes tut selbst, was es an das Andere fordert, und tut darum, was es tut, auch nur insofern, als das Andere dasselbe tut; das einseitige Tun wäre unnütz; weil, was geschehen soll, nur durch beide zustande kommen kann.",
+   "en": "Each sees the other do the same as it does; each itself does what it demands of the other, and therefore does what it does only insofar as the other does the same; one-sided doing would be useless, because what is to happen can come about only through both.",
+   "zh": "每一方都看到另一方做和自己所做的相同的事；每一方自己都在做它要求另一方做的事，因此它做它所做的事，也仅仅是由于另一方做同样的事；单方面的行动会是无用的，因为应当发生的事只能通过双方才能实现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 20,
+   "si": 0,
+   "de": "Das Tun ist also nicht nur insofern doppelsinnig, als es ein Tun ebensowohl gegen sich als gegen das Andere, sondern auch insofern, als es ungetrennt ebensowohl das Tun des Einen als des Anderen ist.",
+   "en": "The doing is therefore double-meaning not only insofar as it is a doing directed just as much against itself as against the other, but also insofar as it is, inseparably, just as much the doing of the one as of the other.",
+   "zh": "所以，这种行动不仅就它同样既是针对自己、也是针对他者的行动而言是双重含义的，而且就它不可分割地同样既是一方的行动、也是另一方的行动而言，也是双重含义的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 0,
+   "de": "In dieser Bewegung sehen wir sich den Prozeß wiederholen, der sich als Spiel der Kräfte darstellte, aber im Bewußtsein.",
+   "en": "In this movement we see the process repeat itself that presented itself as the play of forces, but in consciousness.",
+   "zh": "在这个运动里，我们看到那个曾表现为力的游戏的过程又重复了一遍，不过是在意识中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 1,
+   "de": "Was in jenem für uns war, ist hier für die Extreme selbst.",
+   "en": "What was in that case for us is here for the extremes themselves.",
+   "zh": "在那里面为我们而存在的东西，在这里是为两个极端本身而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 2,
+   "de": "Die Mitte ist das Selbstbewußtsein, welches sich in die Extreme zersetzt; und jedes Extrem ist diese Austauschung seiner Bestimmtheit und absoluter Übergang in das entgegengesetzte.",
+   "en": "The middle is self-consciousness, which decomposes itself into the extremes; and each extreme is this exchange of its determinacy and absolute transition into the opposite.",
+   "zh": "中项是自我意识，它把自己分解为两个极端；而每一个极端都是它的规定性的这种交换，是向对立面的绝对过渡。"
+  }
+ ]
+}

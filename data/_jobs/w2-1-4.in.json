@@ -1,0 +1,94 @@
+{
+ "id": "w2-1-4",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "blocks": [
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "nqboho160e",
+   "sents": [
+    "In A = A, als dem Satze der Identität, wird reflektiert auf das Bezogensein, und dies Beziehen, dies Einssein, die Gleichheit ist in dieser reinen Identität enthalten; es wird von aller Ungleichheit abstrahiert.",
+    "A = A, der Ausdruck des absoluten Denkens oder der Vernunft, hat für die formale, in verständigen Sätzen sprechende Reflexion nur die Bedeutung der Verstandesidentität, der reinen Einheit, d. h. einer solchen, worin von der Entgegensetzung abstrahiert ist."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "3wet6jibou",
+   "sents": [
+    "Aber die Vernunft findet sich in dieser Einseitigkeit der abstrakten Einheit nicht ausgedrückt; sie postuliert auch das Setzen desjenigen, wovon in der reinen Gleichheit abstrahiert wurde, das Setzen des Entgegengesetzten, der Ungleichheit; das eine A ist Subjekt, das andere Objekt, und der Ausdruck für ihre Differenz ist A nicht = A, oder A = B. Dieser Satz widerspricht dem vorigen geradezu; in ihm ist abstrahiert von der reinen Identität und die Nicht-Identität, die reine Form des Nichtdenkens8) gesetzt, wie der erste die Form des reinen Denkens [setzt], das ein Anderes ist als das absolute Denken, die Vernunft.",
+    "Nur weil auch das Nichtdenken gedacht, A nicht = A durchs Denken gesetzt wird, kann er überhaupt gesetzt werden; in A nicht = A oder A = B ist die Identität, das Beziehen, das = des ersten Satzes ebenfalls, aber nur subjektiv, d. h. nur insofern das Nichtdenken durchs Denken gesetzt ist.",
+    "Aber dies Gesetztsein des Nichtdenkens fürs Denken ist dem Nichtdenken durchaus zufällig, eine bloße für den zweiten Satz, von der, um seine Materie rein zu haben, abstrahiert werden muß."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "zck4fsxw90",
+   "sents": [
+    "Der zweite Satz ist sonst unter der subalternen Form des Satzes des Grundes ausgesprochen worden; oder vielmehr er ist erst in diese höchst subalterne Bedeutung dadurch herabgezogen worden, daß man ihn zum Satze der Kausalität gemacht hat.",
+    "A hat einen Grund, heißt: dem A kommt ein Sein zu, das nicht ein Sein des A ist, A ist ein Gesetztsein, das nicht das Gesetztsein des A ist; also A nicht = A, A = B. Wird davon abstrahiert, daß A ein Gesetztes ist, wie abstrahiert werden muß, um den zweiten Satz rein zu haben, so drückt er überhaupt ein Nichtgesetztsein des A aus.",
+    "A als Gesetztes und als Nichtgesetztes zugleich zu setzen, ist schon die Synthese des ersten und zweiten Satzes."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1sxvfng5wo",
+   "sents": [
+    "Beide Sätze sind Sätze des Widerspruchs, nur im verkehrten Sinne.",
+    "Der erste, der der Identität, sagt aus, daß der Widerspruch = 0 ist; der zweite, insofern er auf den ersten bezogen wird, daß der Widerspruch ebenso notwendig ist als der Nichtwiderspruch.",
+    "Beide sind, als Sätze, für sich Gesetzte von gleicher Potenz.",
+    "Insofern der zweite so ausgesprochen wird, daß der erste zugleich auf ihn bezogen ist, so ist er der höchstmögliche Ausdruck der Vernunft durch den Verstand; diese Beziehung beider ist der Ausdruck der Antinomie, und als Antinomie, als Ausdruck der absoluten Identität ist es gleichgültig, A = B oder A = A zu setzen, wenn nämlich A = B und A = A als Beziehung beider Sätze genommen wird.",
+    "A = A enthält die Differenz des A als Subjekts und A als Objekts zugleich mit der Identität, so wie A = B die Identität des A und B mit der Differenz beider."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "cm5vf613pb",
+   "sents": [
+    "Das Denken ist, als unendliche Wiederholbarkeit des A als A, eine Abstraktion, der erste Satz als Tätigkeit ausgedrückt.",
+    "Nun fehlt aber der zweite Satz, das Nichtdenken; notwendig muß zu ihm als der Bedingung des ersten übergegangen und auch dieses, die Materie, gesetzt werden.",
+    "Hiermit sind die Entgegengesetzten vollständig, und der Übergang ist eine gewisse Art von Beziehung beider aufeinander, welche eine Anwendung des Denkens heißt und eine höchst unvollständige Synthese ist.",
+    "Aber auch diese schwache Synthese ist selbst gegen die Voraussetzung des Denkens als Setzens des A als A ins Unendliche fort; denn in der Anwendung wird A zugleich als Nicht-A gesetzt und das Denken in seinem absoluten Bestehen als ein unendliches Wiederholen des A als A aufgehoben. - Das dem Denken Entgegengesetzte ist durch seine Beziehung aufs Denken bestimmt als ein Gedachtes = A. Weil aber ein solches Denken, Setzen = A, bedingt durch eine Abstraktion und also ein Entgegengesetztes ist, so hat auch das Gedachte, außerdem daß es Gedachtes = A ist, noch andere Bestimmungen = B, die vom bloßen Bestimmtsein durchs reine Denken ganz unabhängig sind, und diese sind dem Denken bloß gegeben.",
+    "Es muß also für das Denken, als Prinzip des analytischen Philosophierens, einen absoluten Stoff geben, wovon weiter unten die Rede sein wird.",
+    "Die Grundlage dieser absoluten Entgegensetzung läßt dem formalen Geschäfte, worin die berühmte Erfindung, die Philosophie auf Logik zurückzuführen9) , beruht, keine andere immanente Synthese als die der Verstandesidentität, A ins Unendliche zu wiederholen.",
+    "Aber selbst zur Wiederholung braucht sie eines B, C usw., in denen das wiederholte A gesetzt werden kann; diese B, C, D usw. sind um der Wiederholbarkeit des A willen ein Mannigfaltiges, sich Entgegengesetztes - jedes hat durch A nicht gesetzte, besondere Bestimmungen -, d. h. ein absolut mannigfaltiger Stoff, dessen B, C, D usw. sich mit dem A fügen muß, wie es kann; eine solche Ungereimtheit des Fügens kommt an die Stelle einer ursprünglichen Identität.",
+    "Der Grundfehler kann so vorgestellt werden, daß in formaler Rücksicht auf die Antinomie des A = A und des A = B nicht reflektiert ist.",
+    "Einem solchen analytischen Wesen liegt das Bewußtsein nicht zum Grunde, daß die rein formale Erscheinung des Absoluten der Widerspruch ist, - ein Bewußtsein, das nur entstehen kann, wenn die Spekulation von der Vernunft und dem A = A als absoluter Identität des Subjekts und Objekts ausgeht."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "l7x9oeikf6",
+   "sents": [
+    "Der reine Dogmatismus, der ein Dogmatismus der Philosophie ist, bleibt auch seiner Tendenz nach in der Entgegensetzung immanent; das Verhältnis der Kausalität, in seiner vollständigeren Form als Wechselwirkung, die Einwirkung des Intellektuellen auf das Sinnliche oder des Sinnlichen auf das Intellektuelle ist in ihm als Grundprinzip herrschend.",
+    "Im konsequenten Realismus und Idealismus spielt es nur eine untergeordnete Rolle, wenn es auch zu herrschen scheint und in jenem das Subjekt als Produkt des Objekts, in diesem das Objekt als Produkt des Subjekts gesetzt wird; das Kausalitätsverhältnis ist aber dem Wesen nach aufgehoben, indem das Produzieren ein absolutes Produzieren, das Produkt ein absolutes Produkt ist, d. h. indem das Produkt keinen Bestand hat als nur im Produzieren, nicht gesetzt ist als ein Selbständiges, vor und unabhängig von dem Produzieren Bestehendes, wie im reinen Kausalitätsverhältnis, dem formellen Prinzip des Dogmatismus der Fall ist.",
+    "In diesem ist es ein durch A Gesetztes, und zugleich auch nicht durch A Gesetztes, A also absolut nur Subjekt, und A = A drückt nur die Verstandesidentität aus.",
+    "Wenn auch die Philosophie in ihrem transzendentalen Geschäfte sich des Kausalverhältnisses bedient, so ist B, das dem Subjekt entgegengesetzt erscheint, seinem Entgegengesetztsein nach eine bloße Möglichkeit und bleibt absolut eine Möglichkeit, d. h. es ist nur Akzidenz; und das wahre Verhältnis der Spekulation, das Substantialitätsverhältnis ist unter dem Schein des Kausalverhältnisses das transzendentale Prinzip.",
+    "Formell läßt sich dies auch so ausdrücken: Der wahre Dogmatismus anerkennt beide Grundsätze A = A und A = B, aber sie bleiben in ihrer Antinomie, unsynthesiert nebeneinander; er erkennt nicht, daß hierin eine Antinomie liegt, und darum auch nicht die Notwendigkeit, das Bestehen der Entgegengesetzten aufzuheben; der Übergang von einem zum andern durch Kausalitätsverhältnis ist die einzige ihm mögliche unvollständige Synthesis.",
+    "Ungeachtet nun die Transzendentalphilosophie diesen scharfen Unterschied von dem Dogmatismus hat, so ist sie insofern, als sie sich zum System konstruiert, fähig, in ihn überzugehen, wenn sie nämlich - insofern nichts ist als die absolute Identität und in ihr alle Differenz und das Bestehen Entgegengesetzter sich aufhebt - kein reelles Kausalverhältnis gelten läßt, aber - insofern die Erscheinung zugleich bestehen und hiermit ein anderes Verhältnis des Absoluten zur Erscheinung als das der Vernichtung der letzteren vorhanden sein soll - das Kausalitätsverhältnis einführt, die Erscheinung zu einem Botmäßigen macht und also die transzendentale Anschauung nur subjektiv, nicht objektiv, oder die Identität nicht in die Erscheinung setzt.",
+    "A = A und A = B bleiben beide unbedingt; es soll nur A = A gelten; d. h. aber, ihre Identität ist nicht in ihrer wahren Synthese, die kein bloßes Sollen ist, dargestellt.",
+    "So ist im Fichteschen System Ich = Ich das Absolute.",
+    "Die Totalität der Vernunft führt den zweiten Satz herbei, der ein Nicht-Ich setzt; es ist nicht nur in dieser Antinomie des Setzens beider Vollständigkeit vorhanden, sondern auch ihre Synthese wird postuliert.",
+    "Aber in dieser bleibt die Entgegensetzung; es sollen nicht beide, Ich wie Nicht-Ich, vernichtet werden, sondern der eine Satz soll bestehen, der eine höher an Rang sein als der andere.",
+    "Die Spekulation des Systems fordert die Aufhebung der Entgegengesetzten, aber das System selbst hebt sie nicht auf; die absolute Synthesis, zu welcher dieses gelangt, ist nicht Ich = Ich, sondern Ich soll gleich Ich sein.",
+    "Das Absolute ist für den transzendentalen Gesichtspunkt, aber nicht für den der Erscheinung konstruiert; beide widersprechen sich noch.",
+    "Weil die Identität nicht zugleich in die Erscheinung gesetzt worden oder die Identität nicht auch vollkommen in die Objektivität übergegangen ist, so ist die Transzendentalität selbst ein Entgegengesetztes, das Subjektive, und man kann auch sagen, die Erscheinung ist nicht vollständig vernichtet worden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p4.json"
+}

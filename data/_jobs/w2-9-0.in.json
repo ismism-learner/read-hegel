@@ -1,0 +1,86 @@
+{
+ "id": "w2-9-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "C. Fichtesche Philosophie",
+ "heading": "C. Fichtesche Philosophie",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "mwm15e1nhi",
+   "text": "C. Fichtesche Philosophie"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1x9q8a7136",
+   "sents": [
+    "In der Kantischen Philosophie ist das Denken, das Unendliche, die Form des Objektiven das Erste.",
+    "Der absolute Gegensatz desselben gegen das Besondere, Endliche, das Sein ist im erkennenden Subjekt, aber bewußtlos oder nicht zugleich objektiv für dasselbe; oder man kann auch sagen, die absolute Identität, in welcher der Gegensatz aufgehoben ist ist rein objektiv, ein bloßer Gedanke, - beides ist gleichbedeutend, denn beides, diese Form absoluter Objektivität, das Jenseits der Identität für das Erkennen, und das Subjektive, das Erkennen, wohinein der absolute Gegensatz verlegt wird, kommen nicht zusammen.",
+    "In der Jacobischen Philosophie ist das Bewußtsein über denselben das Erste, und der Gegensatz, der im Erkennen ist, flieht ebenso, um ihn aufgelöst sich vorzustellen, zu seinem Gegenteil, einem Jenseits des Erkennens.",
+    "Aber es ist eine Mitte zwischen diesem Übergang zu absolut Entgegengesetzten vorhanden; aber diese Mitte ist selbst ein Subjektives, ein Sehnen und ein Schmerz.",
+    "Dieses Sehnen ist in der Fichteschen Philosophie mit der Kantischen Objektivität synthesiert, aber nicht daß die beiden entgegengesetzten Formen sich in einer wahrhaften Identität und Indifferenz auslöschten und die absolute Mitte hervorträte, sondern jene Jacobische subjektive Vereinigung in der Lebendigkeit des Individuums ist selbst nur in objektive Form aufgenommen.",
+    "In der Kantischen Philosophie zeigt sich wegen des Widerspruchs der leeren Allgemeinheit zur lebendigen Besonderheit nicht der mindeste Kummer; im Theoretischen wird er absolut behauptet, und im Praktischen, dessen Begriff es mit sich bringt, ihn aufzuheben, tritt ein Formalismus von Rechtswissenschaft und Moral ohne Lebendigkeit sowie ohne Wahrheit auf.",
+    "Die Jacobische Philosophie hat das Identischsein des Allgemeinen und Besonderen in der, aber subjektiven Individualität; eine solche Vereinigung kann deswegen nur ein Kummer und Sehnen, und die Besonderheit muß ein Permanentes, Geheiligtes und Absolutes sein.",
+    "Bei Fichte ist diese Subjektivität des Sehnens selbst zum Unendlichen gemacht, ein Gedachtes, absolute Forderung, und die Forderung ist der Kulminationspunkt des Systems: Ich soll gleich Nicht-Ich sein; aber es ist kein Indifferenzpunkt in ihm zu erkennen."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1kbekrm1uo",
+   "sents": [
+    "Es ist oben erinnert worden, wie das System sich zur negativen Seite des Absoluten, der Unendlichkeit, Ich als absolutem Denken erhebt, und insofern ist es reiner Idealismus, der aber, weil jene negative Seite selbst als das absolut Positive gesetzt wird, formell wird und einen Realismus sich gegenüberstehen hat.",
+    "Dadurch, daß er die Gegensätze nur im Unendlichen gleichzusetzen [vermag], d. h. das abstrahierende Denken, die reine Tätigkeit dem Sein entgegengesetzt zum Absoluten macht, vernichtet er sie nicht wahrhaftig, sondern diese intellektuelle Anschauung ist etwas Formelles, so wie der Idealismus, und dem Denken gegenüber tritt die Realität, jener Identität der intellektuellen Anschauung [gegenüber] der Gegensatz auf, und alle Identität ist die relative des Kausalzusammenhangs in einem Bestimmen des einen durch das andere."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "iebrw695hg",
+   "sents": [
+    "Nach der Aufgabe der Philosophie, wie sie durch die Lockesche und Humesche Kultur bestimmt worden ist, soll vom Standpunkt des Subjekts die Welt berechnet und nunmehr erklärt werden; in diese zu erklärende Welt wird eben diese Entgegensetzung hineingetragen, die zwischen ihr und dem Subjekt stattfindet: sie trennt sich in eine ideelle und reelle Seite, so daß das Ideelle in dem relativen Gegensatz gegen das Reelle das eine Mal die reine, von der Realität abstrahierende Identität oder der reine Begriff wird, das andere Mal aber die auf die Realität bezogene, Raum, Zeit, Kategorien, die Idealität des Reellen ist.",
+    "Das Objektive oder Allgemeine des Reellen besteht nun allein in demjenigen, was in der Scheidung der Welt die ideelle Seite ist, so daß der Idealismus, der auf die Erklärung der objektiven Welt ausgeht, unmittelbar, indem er Objektivität als das Ideelle erkannt hat, sie auch aus dem Prinzip des Ideellen, des Ich, des Allgemeinen, was im Gegensatz gegen die Welt überhaupt das Subjekt ist, abgeleitet und hiermit das Anundfürsichsein des Objektiven aufgehoben hat.",
+    "Dieser kritische Idealismus, den Fichte in, schärferem Umriß heraushob, ist, wie von selbst erhellt, etwas Formales: das Allgemeine der dem Subjekt entgegengesetzten Welt ist als Allgemeines, Ideelles, als Denken und damit als Ich gesetzt; aber notwendig bleibt das Besondere zurück, und wenn nach der beliebten Stellung der Idee der Philosophie von Erklärung die Rede sein soll, so bleibt von der objektiven Welt die interessanteste Seite, die Seite ihrer Realität unerklärt.",
+    "Daß das Reelle, als für die Empfindung, etwas Empirisches sei und unter diesem Titel geradezu weggeworfen und der Betrachtung für unwürdig erklärt werde, wie Kant tut, ist so wenig befriedigend, als wenn Fichte zeigt, daß die Empfindung schlechthin etwas Subjektives ist und daß rot usw. von der Hand des Subjekts erst auf die Fläche verbreitet werde und dadurch Objektivität erhalte.",
+    "Denn es ist gerade nicht nach der Idealität, sondern nach der Realität die Frage, und es ist gleichgültig, ob die Realität eine unendliche Menge von Empfindungen oder von Beschaffenheiten der Dinge ist.",
+    "In dem praktischen Teile der Wissenschaftslehre wird zwar die Miene gemacht, als ob die für die ideelle Seite absolute Realität, die Dinge, wie sie an sich sind, aus dem, wie wir sie machen sollen, hätten konstruiert werden sollen; allein es ist da nichts als eine Analyse des Begriffs des Strebens und des Triebs in einer Intelligenz und einige Reflexionsbegriffe für das Gefühl, daß die Gefühle verschieden sein müssen, abgeleitet; aber von der Aufgabe, das System der Dinge, wie sie sein sollen, [zu konstruieren,] ist nichts als der formelle Begriff des Sollens analysiert, aber außer diesem formalen Wesen [ist] das Gefühl selbst als reales System oder die Totalität des Sollens auch nicht im geringsten konstruiert, denn schon an und für sich läßt das Sollen ganz und gar keine Totalität zu, sondern die Mannigfaltigkeit der Realität erscheint als eine unbegreifliche, ursprüngliche Bestimmtheit und empirische Notwendigkeit; die Besonderheit und Differenz als solche ist ein Absolutes.",
+    "Der Standpunkt für diese Realität ist der empirische Standpunkt eines jeden Einzelnen, und für jeden Einzelnen ist seine Realität die unbegreifliche Sphäre gemeiner Wirklichkeit, in die er nun einmal eingeschlossen ist.",
+    "Es braucht nicht erinnert zu werden, wie gleichgültig für diese Absolutheit des Empirischen jener formale Idealismus ist, welcher erweist, daß diese ganze empirische Realität nur ein Subjektives, ein Gefühl sei, denn diese Form verändert an der gemeinen und unbegreiflichen Notwendigkeit des empirischen Daseins nicht das mindeste; und es ist durchaus an keine wahre Idealität der Wirklichkeit und der reellen Seite, sie erscheinen nun als Beschaffenheit der Dinge oder als Empfindung, zu denken."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "191z38317m",
+   "sents": [
+    "Der Formalismus des hier idealistisch genannten Wissens, der bei der Jacobischen Philosophie, welche das bestimmteste und offenste Bewußtsein darüber hat, entwickelt worden ist, bedarf eigentlich keiner weiteren Erläuterungen bei der Fichteschen Philosophie, welche ihn mit den anderen durch das Prinzip der Subjektivität, und daß die absolute Identität nicht für Erkennen und Wissen, sondern nur für den Glauben ist, gemein hat.",
+    "Das Wesentliche desselben ist, daß der reine Begriff, das leere Denken zu einem Inhalt, einer Bestimmtheit des Begriffs, oder umgekehrt die Bestimmtheit zu der Unbestimmtheit auf eine unbegreifliche Weise hinzutritt.",
+    "Ob nach dem Jacobischen Dogmatismus das Objektive, das Gegebene als das Erste genannt wird, zu welchem der Begriff später hinzukommt, oder ob Fichte das leere Wissen, Ich, zum Ersten macht, dessen Wesen dasselbe mit dem leeren Verstand des analysierenden Wissens, nämlich eine Identität ist, für welche bei Fichte die ihm fremde, aus ihm nicht zu begreifende Bestimmtheit als das Spätere erscheint, macht in der Sache nicht den mindesten Unterschied."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "12w2brq1jv",
+   "sents": [
+    "Wenn nach dem Fichteschen Idealismus Ich nicht Dinge empfindet und anschaut, sondern nur sein Empfinden und sein Anschauen anschaut und nur von seinem Wissen weiß, so ist die reine leere Tätigkeit, das reinfreie Handeln das Erste und einzig Gewisse, und es ist schlechthin nichts als das reine Wissen und das reine Anschauen und das Empfinden, Ich = Ich.",
+    "Wir werden nachher sehen, wie durch den absoluten Willensakt die ganze vernichtete Sinnenwelt überhaupt Realität erhält; aber das Wissen um diese Realität, das Verhältnis der absoluten Leerheit und Unbestimmtheit des Wissens zu der Bestimmtheit und jener Realität ist das Unbegreifliche und eins dem anderen, das Besondere dem Allgemeinen gleich fremd wie die empirisch gegebene Bestimmtheit Jacobis der Unbestimmtheit oder dem Begriffe des analysierenden Verstandes.",
+    "Fichtes Weise, nur vom Wissen, nämlich nur von der leeren Identität zu wissen, bereitete sich aber durch ihren eigenen Formalismus einen Weg zum Besonderen; es wird anerkannt, daß die einzige Wahrheit und Gewißheit, das reine Selbstbewußtsein und das reine Wissen, etwas Unvollständiges, durch etwas Anderes Bedingtes, d. h. daß das Absolute des Systems nicht absolut sei und eben deswegen zu etwas Anderem fortgegangen werden müsse.",
+    "Diese erkannte Unvollständigkeit des absoluten Prinzips und die daraus erkannte Notwendigkeit eines Fortgehens zu einem Anderen ist das Prinzip der Deduktion der Sinnenwelt.",
+    "Das völlig Leere, womit angefangen wird, hat durch seinen absoluten Mangel den Vorteil, in sich immanent die unmittelbare Notwendigkeit zu tragen, sich zu erfüllen, zu einem Anderen und von diesem Anderen zu anderen Anderen in eine unendliche objektive Welt fortgehen zu müssen.",
+    "Gibt es nun eine höhere Apriorität eines Prinzips, als in welchem unmittelbar die Notwendigkeit des Ganzen liegt? - eine Notwendigkeit, die darauf beruht, daß das Prinzip schlechthin Teil und durch seine unendliche Armut die unendliche Möglichkeit des Reichtums ist.",
+    "Das Prinzip spielt auf diese Art die gedoppelte Rolle, das eine Mal absolut, das andere Mal schlechthin endlich zu sein und in letzter Qualität ein Anfangspunkt für die ganze empirische Unendlichkeit werden zu können."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/9.p0.json"
+}

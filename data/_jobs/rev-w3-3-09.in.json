@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-09",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 2,
+   "de": "Denn die Wahrheit dieser Bewegung ist eben das Einssein dieses gedoppelten Bewußtseins.",
+   "en": "For the truth of this movement is precisely the being-one of this doubled consciousness.",
+   "zh": "因为这场运动的真理，恰恰就是这种双重意识的合而为一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 3,
+   "de": "Diese Einheit wird ihm aber zunächst selbst eine solche, in welcher noch die Verschiedenheit beider das Herrschende ist.",
+   "en": "But this unity itself first becomes for it one in which the diversity of the two is still the ruling element.",
+   "zh": "但这种统一对它来说首先本身就成了这样一种统一，在其中，两者的差异还是占主导的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 4,
+   "de": "Es ist dadurch die dreifache Weise für dasselbe vorhanden, wie die Einzelheit mit dem Unwandelbaren verknüpft ist.",
+   "en": "Thereby the threefold way in which singularity is linked with the unchangeable is present for it.",
+   "zh": "由此对它来说就存在着三重方式，即个别性如何与不变者相联结。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 5,
+   "de": "Einmal geht es selbst sich wieder hervor als entgegengesetzt dem unwandelbaren Wesen, und es ist in den Anfang des Kampfes zurückgeworfen, welcher das Element des ganzen Verhältnisses bleibt.",
+   "en": "The one time, it itself again emerges for itself as opposed to the unchangeable essence, and it is thrown back into the beginning of the struggle, which remains the element of the whole relation.",
+   "zh": "一次，它自己又作为与不变的本质相对立的东西为自己产生出来，并且被抛回到那场斗争的开端，而这场斗争始终是整个关系的要素。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 6,
+   "de": "Das andere Mal aber hat das Unwandelbare selbst an ihm die Einzelheit für es, so daß sie Gestalt des Unwandelbaren ist, an welches hiermit die ganze Weise der Existenz hinübertritt.",
+   "en": "The other time, however, the unchangeable itself has singularity on it for it, so that this singularity is a shape of the unchangeable, to which thereby the whole manner of existence passes over.",
+   "zh": "但另一次，对它来说，不变者本身在它自己身上拥有个别性，以至于个别性成了不变者的形态，而存在的整个方式也就由此过渡到不变者身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 7,
+   "de": "Das dritte Mal findet es sich selbst als dieses Einzelne im Unwandelbaren.",
+   "en": "The third time, it finds itself as this singular thing in the unchangeable.",
+   "zh": "第三次，它在不变者中发现自己就是这个个别东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 48,
+   "si": 8,
+   "de": "Das erste Unwandelbare ist ihm nur das fremde, die Einzelheit verurteilende Wesen; indem das andere eine Gestalt der Einzelheit wie es selbst ist, so wird es drittens zum Geiste, hat sich selbst darin zu finden die Freude und wird sich, seine Einzelheit mit dem Allgemeinen versöhnt zu sein, bewußt.",
+   "en": "The first unchangeable is for it only the alien essence that condemns singularity; since the other is a shape of singularity like itself, it becomes thirdly spirit, has the joy of finding itself therein, and becomes conscious that its singularity is reconciled with the universal.",
+   "zh": "第一个不变者对它来说只是那陌生的、判决个别性的本质；既然另一个是像它自己一样的个别性的形态，那么它第三次就成为精神，以在其中找到自己为快乐，并且意识到自己的个别性与普遍东西已经和解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 49,
+   "si": 0,
+   "de": "Was sich hier als Weise und Verhältnis des Unwandelbaren darstellt, ergab sich als die Erfahrung, welche das entzweite Selbstbewußtsein in seinem Unglücke macht.",
+   "en": "What here presents itself as the way and relation of the unchangeable has turned out to be the experience that the divided self-consciousness makes in its unhappiness.",
+   "zh": "这里表现为不变者的方式和关系的东西，表明自己就是那分裂的自我意识在其苦恼中所获得的经验。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 49,
+   "si": 1,
+   "de": "Diese Erfahrung ist nun zwar nicht seine einseitige Bewegung, denn es ist selbst unwandelbares Bewußtsein, dieses hiermit zugleich auch einzelnes Bewußtsein, und die Bewegung ebensowohl Bewegung des unwandelbaren Bewußtseins, das in ihr so sehr wie das andere auftritt; denn sie verläuft sich durch diese Momente, einmal unwandelbares dem einzelnen überhaupt, dann selbst einzelnes dem anderen einzelnen entgegengesetzt und endlich mit ihm eins zu sein.",
+   "en": "This experience is, to be sure, not its one-sided movement, for it is itself unchangeable consciousness, this latter thereby at the same time also singular consciousness, and the movement is just as much a movement of the unchangeable consciousness, which appears in it as much as the other; for it runs its course through these moments: first, unchangeable [consciousness] opposed to the singular in general, then itself singular opposed to the other singular, and finally being one with it.",
+   "zh": "这种经验当然不是它单方面的运动，因为它本身就是不变的意识，这不变的意识因此同时也是个别的意识，而这个运动同样是不变的意识的运动，后者在其中出场，正如另一个也出场一样；因为它经历这些环节：首先是不变的意识与一般而言的个别东西相对立，然后它自己作为个别东西与另一个个别东西相对立，最后与它合为一体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 49,
+   "si": 2,
+   "de": "Aber diese Betrachtung, insofern sie uns angehört, ist hier unzeitig, denn bis jetzt ist uns nur die Unwandelbarkeit als Unwandelbarkeit des Bewußtseins, welche deswegen nicht die wahre, sondern noch mit einem Gegensatze behaftete ist, nicht das Unwandelbare an und für sich selbst entstanden; wir wissen daher nicht, wie dieses sich verhalten wird.",
+   "en": "But this consideration, insofar as it belongs to us, is untimely here, for up to now only unchangeableness as unchangeableness of consciousness has arisen for us, which is therefore not the true unchangeableness but one still afflicted with an opposition, not the unchangeable in and for itself; we therefore do not know how this will comport itself.",
+   "zh": "但这一考察，就它属于我们而言，在这里是不合时宜的，因为直到现在，对我们来说产生出来的只是作为意识的不变性的那种不变性，它因此不是真的不变性，而是还带有一种对立的不变性，还没有产生出自在自为的不变者本身；所以我们不知道它会怎样表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 49,
+   "si": 3,
+   "de": "Was hier sich ergeben hat, ist nur dies, daß dem Bewußtsein, das hier unser Gegenstand ist, diese angezeigten Bestimmungen an dem Unwandelbaren erscheinen.",
+   "en": "What has here resulted is only this, that for the consciousness that is here our object, these indicated determinations appear on the unchangeable.",
+   "zh": "这里所得出的只是这一点：对在这里构成我们对象的那个意识来说，这些指出的规定就出现在不变者身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 50,
+   "si": 0,
+   "de": "Aus diesem Grunde behält also auch das unwandelbare Bewußtsein in seiner Gestaltung selbst den Charakter und die Grundlage des Entzweit- und des Fürsichseins gegen das einzelne Bewußtsein.",
+   "en": "For this reason, therefore, the unchangeable consciousness also retains in its own shaping the character and the ground of being-divided and of being-for-itself over against the singular consciousness.",
+   "zh": "所以，正由于这个缘故，不变的意识在它自己的形态化中，也仍然保持着与个别意识相对立的分裂存在和自为存在的特征和基础。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 50,
+   "si": 1,
+   "de": "Es ist hiermit für dieses überhaupt ein Geschehen, daß das Unwandelbare die Gestalt der Einzelheit erhält; so wie es sich auch ihm entgegengesetzt nur findet und also durch die Natur dies Verhältnis hat; daß es sich endlich in ihm findet, erscheint Ihm zum Teil zwar durch es selbst hervorgebracht oder darum stattzuhaben, weil es selbst einzeln ist, aber ein Teil dieser Einheit, als dem Unwandelbaren zugehörend, sowohl nach ihrer Entstehung, als insofern sie ist; und der Gegensatz bleibt in dieser Einheit selbst.",
+   "en": "It is thereby, for this [consciousness], in general an event that the unchangeable receives the shape of singularity; just as it also only finds itself opposed to it and thus has this relation by nature; that it finally finds itself in it appears to it in part, to be sure, as brought about by itself, or as taking place because it is itself singular, but as a part of this unity, as belonging to the unchangeable, both as regards its origin and insofar as it is; and the opposition remains in this unity itself.",
+   "zh": "因此，对它来说，不变者获得个别性的形态，一般而言就是一件发生的事情；正如它也发现自己只是与不变者相对立，因而凭本性就有这种关系一样；而它最终在不变者中找到自己这件事，在它看来，一部分虽然是由它自己产生出来的，或者是因为它自己是个别的才得以成立，但另一部分作为属于不变者的东西，却是这个统一的一部分，无论就这个统一的产生来说，还是就它存在而言；而对立就留在这个统一本身之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 50,
+   "si": 2,
+   "de": "In der Tat ist durch die Gestaltung des Unwandelbaren das Moment des Jenseits nicht nur geblieben, sondern vielmehr noch befestigt; denn wenn es durch die Gestalt der einzelnen Wirklichkeit ihm einerseits zwar nähergebracht zu sein scheint, so ist es ihm andererseits nunmehr als ein undurchsichtiges sinnliches Eins mit der ganzen Sprödigkeit eines Wirklichen gegenüber; die Hoffnung, mit ihm eins zu werden, muß Hoffnung, d.h. ohne Erfüllung und Gegenwart bleiben; denn zwischen ihr und der Erfüllung steht gerade die absolute Zufälligkeit oder unbewegliche Gleichgültigkeit, welche in der Gestaltung selbst, dem Begründenden der Hoffnung, liegt.",
+   "en": "In fact, through the shaping of the unchangeable the moment of the beyond has not only remained but has rather been still further consolidated; for if through the shape of singular actuality it seems on the one hand to have been brought nearer to it, it is on the other hand now opposed to it as an opaque sensuous One with all the rigidity of an actual thing; the hope of becoming one with it must remain hope, i.e. without fulfilment and presentness; for between it and the fulfilment stands precisely absolute contingency, or immovable indifference, which lies in the shaping itself, the grounding element of the hope.",
+   "zh": "实际上，通过不变者的形态化，彼岸的环节不仅留了下来，反而更加牢固了；因为，虽说它通过个别现实性的形态，一方面看来被拉得离它更近了，另一方面现在却作为一个不透明的、感性的‘一’，带着一个现实之物的全部僵硬，与它相对而立；与它合为一体的希望，必须始终是希望，也就是说，没有实现，也没有当前；因为在它和实现之间，恰恰横着绝对的偶然性，或者说不可动摇的漠不相关，而它就存在于形态化本身之中，存在于为希望提供根据的东西之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 50,
+   "si": 3,
+   "de": "Durch die Natur des seienden Eins, durch die Wirklichkeit, die es angezogen, geschieht es notwendig, daß es in der Zeit verschwunden und im Räume und ferne gewesen ist und schlechthin ferne bleibt.",
+   "en": "Through the nature of the existing One, through the actuality that it has attracted, it necessarily happens that it has vanished in time and has been in space and far away, and remains absolutely far away.",
+   "zh": "由于存在着的‘一’的本性，由于它所吸引来的现实性，必然会发生这样的事：它在时间中已经消逝，在空间中曾经存在并且是遥远的，而且绝对地始终在远方。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 51,
+   "si": 0,
+   "de": "Wenn zuerst der bloße Begriff des entzweiten Bewußtseins sich so bestimmte, daß es auf das Aufheben seiner als einzelnen und auf das Werden zum unwandelbaren Bewußtsein gehe, so hat sein Streben nunmehr diese Bestimmung, daß es vielmehr sein Verhältnis zu dem reinen ungestalteten Unwandelbaren aufhebe und sich nur die Beziehung auf den gestalteten Unwandelbaren gebe.",
+   "en": "If at first the mere concept of the divided consciousness determined itself in such a way that it aimed at the sublation of itself as singular and at becoming unchangeable consciousness, its striving now has this determination, that it rather sublates its relation to the pure, unshaped unchangeable and gives itself only the relation to the shaped unchangeable.",
+   "zh": "如果说最初，分裂意识的那个单纯概念是这样规定自己的，即它要去扬弃自己作为个别东西、要去成为不变的意识，那么它的追求现在就有了这样的规定：它毋宁说要扬弃自己与纯粹未形态化的不变者的关系，只给自己保留对形态化了的不变者的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 51,
+   "si": 1,
+   "de": "Denn das Einssein des Einzelnen mit dem Unwandelbaren ist ihm nunmehr Wesen und Gegenstand, wie im Begriffe nur das gestaltlose, abstrakte Unwandelbare der wesentliche Gegenstand war; und das Verhältnis dieses absoluten Entzweitseins des Begriffs ist nun dasjenige, von welchem es sich wegzuwenden hat.",
+   "en": "For the being-one of the singular with the unchangeable is now for it essence and object, just as in the concept only the shapeless, abstract unchangeable was the essential object; and the relation of this absolute being-divided of the concept is now that from which it has to turn away.",
+   "zh": "因为个别东西与不变者的合而为一，现在对它是本质和对象，正如在概念中，只有无形态的、抽象的不变者才是本质性的对象；而概念这种绝对分裂存在所构成的关系，现在就是它必须转身离开的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 51,
+   "si": 2,
+   "de": "Die zunächst äußere Beziehung aber zu dem gestalteten Unwandelbaren als einem fremden Wirklichen hat es zum absoluten Einswerden zu erheben.",
+   "en": "But the initially external relation to the shaped unchangeable as to a foreign actual thing, it has to elevate to absolute becoming-one.",
+   "zh": "但它必须把起初还是外在的、与作为陌生现实之物的形态化不变者的关系，提升为绝对的合为一体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 52,
+   "si": 0,
+   "de": "Die Bewegung, worin das unwesentliche Bewußtsein dies Einssein zu erreichen strebt, ist selbst die dreifache, nach dem dreifachen Verhältnisse, welches es zu seinem gestalteten Jenseits haben wird: einmal als reines Bewußtsein, das andere Mal als einzelnes Wesen, welches sich als Begierde und Arbeit gegen die Wirklichkeit verhält, und zum dritten als Bewußtsein seines Fürsichseins.",
+   "en": "The movement in which the unessential consciousness strives to attain this being-one is itself threefold, according to the threefold relation that it will have to its shaped beyond: first, as pure consciousness; secondly, as singular essence, which relates itself as desire and work to actuality; and thirdly, as consciousness of its being-for-itself.",
+   "zh": "非本质的意识力求达到这种合而为一，这个运动本身就是三重的，按照它将与它有形态的彼岸所会有的三重关系：第一，作为纯粹意识；第二，作为个别的本质，这本质作为欲望和劳动而与现实性发生关系；第三，作为它的自为存在的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 52,
+   "si": 1,
+   "de": "– Wie diese drei Weisen seines Seins in Jenem allgemeinen Verhältnisse vorhanden und bestimmt sind, ist nun zu sehen.",
+   "en": "– How these three modes of its being are present and determined in that universal relation is now to be seen.",
+   "zh": "——至于它的存在这三种方式在那个普遍的关系中是如何存在并得到规定的，现在就要来看。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 53,
+   "si": 0,
+   "de": "Zuerst also es als reines Bewußtsein betrachtet, so scheint der gestaltete Unwandelbare, indem er für das reine Bewußtsein ist, gesetzt zu werden, wie er an und für sich selbst ist.",
+   "en": "First, then, considering it as pure consciousness, the shaped unchangeable one, when it is for pure consciousness, seems to be posited as it is in and for itself.",
+   "zh": "所以，首先把它作为纯粹意识来看，那有形态的不变者，当它为纯粹意识而存在时，看来就被设定为它自在自为地所是的样子。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 53,
+   "si": 1,
+   "de": "Allein wie er an und für sich selbst ist, dies ist, wie schon erinnert, noch nicht entstanden.",
+   "en": "But how it is in and for itself — this, as already recalled, has not yet come about.",
+   "zh": "但是，它自在自为地所是的样子，正如已经回顾过的，却还没有产生出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 53,
+   "si": 2,
+   "de": "Daß er im Bewußtsein wäre, wie er an und für sich selbst ist, dies müßte wohl von ihm vielmehr ausgehen als von dem Bewußtsein; so aber ist diese seine Gegenwart hier nur erst einseitig durch das Bewußtsein vorhanden und eben darum nicht vollkommen und wahrhaftig, sondern bleibt mit Unvollkommenheit oder einem Gegensatze beschwert.",
+   "en": "That it should be in consciousness as it is in and for itself — this would have to proceed from it rather than from consciousness; but in this way this presence of its is here at first present only one-sidedly through consciousness, and precisely for that reason it is not complete and genuine, but remains burdened with incompleteness or with an opposition.",
+   "zh": "它要在意识中如同它自在自为地所是的那样，这一点倒更应当从它出发，而不是从意识出发；但这样一来，它的这种在场在这里就还只是通过意识而片面地存在，并且正因为如此，它就不是完满的、真正的，而是始终背负着不完整性或一种对立的负担。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 54,
+   "si": 0,
+   "de": "Obgleich aber das unglückliche Bewußtsein also diese Gegenwart nicht besitzt, so ist es zugleich über das reine Denken [hinaus], insofern dieses das abstrakte von der Einzelheit überhaupt wegsehende Denken des Stoizismus und das nur unruhige Denken des Skeptizismus – in der Tat nur die Einzelheit als der bewußtlose Widerspruch und dessen rastlose Bewegung – ist; es ist über diese beide hinaus, es bringt und hält das reine Denken und die Einzelheit zusammen, ist aber noch nicht zu demjenigen Denken erhoben, für welches die Einzelheit des Bewußtseins mit dem reinen Denken selbst ausgesöhnt ist.",
+   "en": "But although the unhappy consciousness thus does not possess this presence, it is at the same time [beyond] pure thinking, insofar as this is the abstract thinking of stoicism that looks away from singularity altogether, and the merely restless thinking of scepticism — in fact only singularity as the unconscious contradiction and its restless movement —; it is beyond both, it brings and holds pure thinking and singularity together, but is not yet elevated to that thinking for which the singularity of consciousness is reconciled with pure thinking itself.",
+   "zh": "但是，苦恼意识虽然并不拥有这种在场，它同时却超出了纯粹思维，因为纯粹思维就是斯多葛主义那种抽象的、完全撇开个别性的思维，以及怀疑论那种仅仅不安息的思维——实际上只是作为无意识的矛盾及其不停息的运动的个别性——；它超出了这两者，它把纯粹思维和个别性带到一起并保持在一起，但还没有提升到那种思维，对于那种思维来说，意识的个别性已经同纯粹思维本身和解了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 54,
+   "si": 1,
+   "de": "Es steht vielmehr in dieser Mitte, worin das abstrakte Denken die Einzelheit des Bewußtseins als Einzelheit berührt.",
+   "en": "It stands rather in this middle, in which abstract thinking touches the singularity of consciousness as singularity.",
+   "zh": "它毋宁说就站在这个中项之中，抽象思维在其中把意识的个别性当作个别性来触动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 54,
+   "si": 2,
+   "de": "Es selbst ist diese Berührung; es ist die Einheit des reinen Denkens und der Einzelheit; es ist auch für es diese denkende Einzelheit oder das reine Denken, und das Unwandelbare wesentlich selbst als Einzelheit.",
+   "en": "It is itself this touching; it is the unity of pure thinking and singularity; for it too this thinking singularity, or pure thinking, is, and the unchangeable is essentially itself as singularity.",
+   "zh": "它自己就是这种触动；它就是纯粹思维和个别性的统一；对它来说，这种思维着的个别性、或者说纯粹思维也是存在的，而那不变者本质上自身也是作为个别性存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 54,
+   "si": 3,
+   "de": "Aber es ist nicht für es, daß dieser sein Gegenstand, das Unwandelbare, welches ihm wesentlich die Gestalt der Einzelheit hat, es selbst ist, es selbst, das Einzelheit des Bewußtseins ist.",
+   "en": "But it is not for it that this its object, the unchangeable, which essentially has for it the shape of singularity, is itself it, itself, which is singularity of consciousness.",
+   "zh": "但是，对它来说并不存在这一点：它的这个对象，那在它看来本质上具有个别性形态的不变者，就是它自己，就是那作为意识之个别性的它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 0,
+   "de": "Es verhält sich daher in dieser ersten Weise, worin wir es als reines Bewußtsein betrachten, zu seinem Gegenstande nicht denkend, sondern indem es selbst zwar an sich reine denkende Einzelheit und sein Gegenstand eben dieses, aber nicht die Beziehung aufeinander selbst reines Denken ist, geht es sozusagen nur an das Denken hin und ist Andacht.",
+   "en": "It therefore relates itself in this first mode, in which we consider it as pure consciousness, to its object not in a thinking way, but since it is indeed in itself pure thinking singularity and its object is precisely this, yet the relation to one another is not itself pure thinking, it goes, so to speak, only up to thinking and is devotion.",
+   "zh": "所以，在我们把它作为纯粹意识来考察的这种第一种方式里，它同它的对象发生关系时并不是思维着的，而是，它自己虽然自在地就是纯粹的、思维着的个别性，它的对象也正是这个，但两者彼此的关系本身却不是纯粹思维，所以它可以说只是走到思维跟前，并且就是虔诚。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 1,
+   "de": "Sein Denken als solches bleibt das gestaltlose Sausen des Glockengeläutes oder eine warme Nebelerfüllung, ein musikalisches Denken, das nicht zum Begriffe, der die einzige immanente gegenständliche Weise wäre, kommt.",
+   "en": "Its thinking as such remains the shapeless surging of bell-ringing or a warm mist-filling, a musical thinking that does not arrive at the concept, which would be the only immanent objective mode.",
+   "zh": "它的思维本身始终是钟声那种无形态的鸣响，或者一种温暖的雾气充盈，是一种音乐式的思维，这种思维达不到概念，而概念才会是那唯一的、内在的对象性方式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 55,
+   "si": 2,
+   "de": "Es wird diesem unendlichen reinen inneren Fühlen wohl sein Gegenstand, aber so eintretend, daß er nicht als begriffener und darum als ein Fremdes eintritt.",
+   "en": "To this infinite, pure, inner feeling it does indeed become the object, but entering in such a way that it enters not as something comprehended and therefore as something alien.",
+   "zh": "对于这种无限的、纯粹的内在感受来说，它确实会成为这种感受的对象，但它进入的方式是：它不是作为已被概念把握的东西、因而作为某种陌生的东西进入的。"
+  }
+ ]
+}

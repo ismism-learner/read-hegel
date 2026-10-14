@@ -1,0 +1,66 @@
+{
+ "id": "w3-0-46",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "ym7pvlbhv3",
+   "sents": [
+    "Die Evidenz dieses mangelhaften Erkennens, auf welche die Mathematik stolz ist und womit sie sich auch gegen die Philosophie brüstet, beruht allein auf der Armut ihres Zwecks und der Mangelhaftigkeit ihres Stoffs und ist darum von einer Art, die die Philosophie verschmähen muß.",
+    "– Ihr Zweck oder Begriff ist die Größe.",
+    "Dies ist gerade das unwesentliche, begrifflose Verhältnis.",
+    "Die Bewegung des Wissens geht darum auf der Oberfläche vor, berührt nicht die Sache selbst, nicht das Wesen oder den Begriff und ist deswegen kein Begreifen.",
+    "– Der Stoff, über den die Mathematik den erfreulichen Schatz von Wahrheiten gewährt, ist der Raum und das Eins.",
+    "Der Raum ist das Dasein, worein der Begriff seine Unterschiede einschreibt als in ein leeres, totes Element, worin sie ebenso unbewegt und leblos sind.",
+    "Das Wirkliche ist nicht ein Räumliches, wie es in der Mathematik betrachtet wird; mit solcher Unwirklichkeit, als die Dinge der Mathematik sind, gibt sich weder das konkrete sinnliche Anschauen noch die Philosophie ab.",
+    "In solchem unwirklichen Elemente gibt es denn auch nur unwirkliches Wahres, d.h. fixierte, tote Sätze; bei jedem derselben kann aufgehört werden; der folgende fängt für sich von neuem an, ohne daß der erste sich selbst zum ändern fortbewegte und ohne daß auf diese Weise ein notwendiger Zusammenhang durch die Natur der Sache selbst entstünde.",
+    "– Auch läuft um jenes Prinzips und Elements willen – und hierin besteht das Formelle der mathematischen Evidenz – das Wissen an der Linie der Gleichheit fort.",
+    "Denn das Tote, weil es sich nicht selbst bewegt, kommt nicht zu Unterschieden des Wesens, nicht zur wesentlichen Entgegensetzung oder Ungleichheit, daher nicht zum Übergange des Entgegengesetzten in das Entgegengesetzte, nicht zur qualitativen, immanenten, nicht zur Selbstbewegung.",
+    "Denn es ist die Größe, der unwesentliche Unterschied, den die Mathematik allein betrachtet.",
+    "Daß es der Begriff ist, der den Raum in seine Dimensionen entzweit und die Verbindungen derselben und in denselben bestimmt, davon abstrahiert sie; sie betrachtet z.B. nicht das Verhältnis der Linie zur Fläche; und wo sie den Durchmesser des Kreises mit der Peripherie vergleicht, stößt sie auf die Inkommensurabilität derselben, d.h. ein Verhältnis des Begriffs, ein Unendliches, das ihrer Bestimmung entflieht."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1di8anyky6",
+   "sents": [
+    "Die immanente, sogenannte reine Mathematik stellt auch nicht die Zeit als Zeit dem Räume gegenüber, als den zweiten Stoff ihrer Betrachtung.",
+    "Die angewandte handelt wohl von ihr, wie von der Bewegung, auch sonst anderen wirklichen Dingen; sie nimmt aber die synthetischen, d.h. Sätze ihrer Verhältnisse, die durch ihren Begriff bestimmt sind, aus der Erfahrung auf und wendet nur auf diese Voraussetzungen ihre Formeln an.",
+    "Daß die sogenannten Beweise solcher Sätze, als der vom Gleichgewichte des Hebels, dem Verhältnisse des Raums und der Zeit in der Bewegung des Fallens usf., welche sie häufig gibt, für Beweise gegeben und angenommen werden, ist selbst nur ein Beweis, wie groß das Bedürfnis des Beweisens für das Erkennen ist, weil es, wo es nicht mehr hat, auch den leeren Schein desselben achtet und eine Zufriedenheit dadurch gewinnt.",
+    "Eine Kritik jener Beweise würde ebenso merkwürdig als belehrend sein, um die Mathematik teils von diesem falschen Putze zu reinigen, teils ihre Grenze zu zeigen und daraus die Notwendigkeit eines anderen Wissens.",
+    "– Was die Zeit betrifft, von der man meinen sollte, daß sie, zum Gegenstücke gegen den Raum, den Stoff des ändern Teils der reinen Mathematik ausmachen würde, so ist sie der daseiende Begriff selbst.",
+    "Das Prinzip der Größe, des begrifflosen Unterschiedes, und das Prinzip der Gleichheit, der abstrakten unlebendigen Einheit, vermag es nicht, sich mit jener reinen Unruhe des Lebens und absoluten Unterscheidung zu befassen.",
+    "Diese Negativität wird daher nur als paralysiert, nämlich als das Eins, zum zweiten Stoffe dieses Erkennens, das, ein äußerliches Tun, das Sichselbstbewegende zum Stoffe herabsetzt, um nun an ihm einen gleichgültigen, äußerlichen, unlebendigen Inhalt zu haben."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "ft9oi4556o",
+   "sents": [
+    "Die Philosophie dagegen betrachtet nicht [die] unwesentliche Bestimmung, sondern sie.",
+    "Insofern sie wesentliche ist; nicht das Abstrakte oder Unwirkliche ist ihr Element und Inhalt, sondern das Wirkliche, sich selbst Setzende und in sich Lebende, das Dasein in seinem Begriffe.",
+    "Es ist der Prozeß, der sich seine Momente erzeugt und durchläuft, und diese ganze Bewegung macht das Positive und seine Wahrheit aus.",
+    "Diese schließt also ebensosehr das Negative in sich, dasjenige, was das Falsche genannt werden würde, wenn es als ein solches betrachtet werden könnte, von dem zu abstrahieren sei.",
+    "Das Verschwindende ist vielmehr selbst als wesentlich zu betrachten, nicht in der Bestimmung eines Festen, das vom Wahren abgeschnitten, außer ihm, man weiß nicht wo, liegen zu lassen sei, so wie auch das Wahre nicht als das auf der ändern Seite ruhende, tote Positive.",
+    "Die Erscheinung ist das Entstehen und Vergehen, das selbst nicht entsteht und vergeht, sondern an sich ist und die Wirklichkeit und Bewegung des Lebens der Wahrheit ausmacht.",
+    "Das Wahre ist so der bacchantische Taumel, an dem kein Glied nicht trunken ist; und weil jedes, indem es sich absondert, ebenso unmittelbar [sich] auflöst, ist er ebenso die durchsichtige und einfache Ruhe.",
+    "In dem Gerichte jener Bewegung bestehen zwar die einzelnen Gestalten des Geistes wie die bestimmten Gedanken nicht, aber sie sind so sehr auch positive notwendige Momente, als sie negativ und verschwindend sind.",
+    "– In dem Ganzen der Bewegung, es als Ruhe aufgefaßt, ist dasjenige, was sich in ihr unterscheidet und besonderes Dasein gibt, als ein solches, das sich erinnert, aufbewahrt, dessen Dasein das Wissen von sich selbst ist, wie dieses ebenso unmittelbar Dasein ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p46.json"
+}

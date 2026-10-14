@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-11",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 4,
+   "de": "Die ganze Bewegung reflektiert sich also nicht nur im wirklichen Begehren, Arbeiten und Genießen, sondern sogar selbst im Danken, worin das Gegenteil zu geschehen scheint, in das Extrem der Einzelheit.",
+   "en": "The whole movement thus reflects itself not only in actual desiring, working and enjoying, but even in the thanking itself, in which the contrary seems to happen, into the extreme of singularity.",
+   "zh": "所以，整个运动不仅反射在现实的欲望、劳动和享受中，甚至也反射在感谢本身中——在其中似乎发生着相反的事情——反射到个别性这一极端里去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 60,
+   "si": 5,
+   "de": "Das Bewußtsein fühlt sich darin als dieses Einzelne und läßt sich durch den Schein seines Verzichtleistens nicht täuschen, denn die Wahrheit desselben ist, daß es sich nicht aufgegeben hat; was zustande gekommen, ist nur die gedoppelte Reflexion in die beiden Extreme, und das Resultat [ist] die wiederholte Spaltung in das entgegengesetzte Bewußtsein des Unwandelbaren und in das Bewußtsein des gegenüberstehenden Wollens, Vollbringens, Genießens und des auf sich Verzichtleistens selbst oder der fürsichseienden Einzelheit überhaupt.",
+   "en": "Consciousness feels itself therein as this singular one and does not let itself be deceived by the semblance of its renouncing, for the truth of it is that it has not given itself up; what has come about is only the doubled reflection into the two extremes, and the result [is] the repeated division into the opposed consciousness of the unchangeable and into the consciousness of the opposing willing, accomplishing, enjoying and of the renunciation of oneself itself, or of being-for-itself singularity in general.",
+   "zh": "意识在其中感到自己是这个个别者，并且不会被自己放弃行为的假象所欺骗，因为这种放弃的真理是它并没有放弃自己；已经出现的只是向两个极端的双重反射，而结果[是]重复了的分裂，分裂为不可变者的对立意识，以及分裂为对立着的意愿、完成、享受和自我放弃本身、或者一般说来自为存在着的个别性的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 61,
+   "si": 0,
+   "de": "Es ist damit das dritte Verhältnis der Bewegung dieses Bewußtseins eingetreten, welches aus dem zweiten als ein solches hervortritt, das in Wahrheit durch sein Wollen und Vollbringen sich als selbständiges erprobt hat.",
+   "en": "Therewith the third relation of the movement of this consciousness has come in, which emerges from the second as one that has in truth proved itself through its willing and accomplishing to be independent.",
+   "zh": "由此就出现了这种意识运动的第三种关系，它从第二种关系中作为这样一种关系而出现：它已经通过自己的意愿和完成，真正说来证明了自己是独立的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 61,
+   "si": 1,
+   "de": "Im ersten Verhältnisse war es nur Begriff des wirklichen Bewußtseins oder das innere Gemüt, welches im Tun und Genüsse noch nicht wirklich ist; das zweite ist diese Verwirklichung, als äußeres Tun und Genießen; hieraus aber zurückgekehrt ist es ein solches, welches sich als wirkliches und wirkendes Bewußtsein erfahren oder dem es wahr ist, an und für sich zu sein.",
+   "en": "In the first relation it was only the concept of actual consciousness, or the inner disposition, which in doing and enjoyment is not yet actual; the second is this realization, as outer doing and enjoying; but having returned out of this, it is such a one as has experienced itself as actual and effecting consciousness, or for which it is true to be in and for itself.",
+   "zh": "在第一种关系里，它还只是现实的意识的概念，或者说是内在的心情，这种心情在行动和享受中还不是现实的；第二种关系则是这种实现，作为外在的行动和享受；但从这里返回之后，它就是这样一种意识：它已经把自己经验为现实的、起作用的意识，或者对它来说，自在自为地存在是真的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 61,
+   "si": 2,
+   "de": "Darin ist aber nun der Feind in seiner eigensten Gestalt aufgefunden.",
+   "en": "But herein the enemy has now been found in his very own shape.",
+   "zh": "但在这里，敌人现在被发现了，就在他最本己的形态中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 61,
+   "si": 3,
+   "de": "Im Kampfe des Gemüts ist das einzelne Bewußtsein nur als musikalisches, abstraktes Moment; in der Arbeit und dem Genüsse, als der Realisierung dieses wesenlosen Seins, kann es unmittelbar sich vergessen, und die bewußte Eigenheit in dieser Wirklichkeit wird durch das dankende Anerkennen niedergeschlagen.",
+   "en": "In the struggle of the disposition the singular consciousness is only a musical, abstract moment; in work and in enjoyment, as the realization of this essenceless being, it can immediately forget itself, and the conscious ownness in this actuality is struck down by the thanking recognition.",
+   "zh": "在心情的斗争中，个别意识只是一个音乐性的、抽象的环节；在劳动和享受中，作为这种无本质存在的实现，它可以直接忘掉自己，而这种现实性中有意识的本己性则被那种表示感谢的承认压下去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 61,
+   "si": 4,
+   "de": "Dieses Niederschlagen ist aber in Wahrheit eine Rückkehr des Bewußtseins in sich selbst, und zwar in sich als die ihm wahrhafte Wirklichkeit.",
+   "en": "But this striking down is in truth a return of consciousness into itself, and indeed into itself as the actuality that is true for it.",
+   "zh": "但这种压低真正说来是意识返回到自身，而且是返回到作为对它来说真正的现实性的自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 62,
+   "si": 0,
+   "de": "Dies dritte Verhältnis, worin diese wahrhafte Wirklichkeit das eine Extrem ist, ist die Beziehung derselben auf das allgemeine Wesen als der Nichtigkeit; und die Bewegung dieser Beziehung ist noch zu betrachten.",
+   "en": "This third relation, in which this true actuality is the one extreme, is the relation of it to the universal essence as one of nullity; and the movement of this relation is still to be considered.",
+   "zh": "这第三种关系，其中这种真正的现实性是那一个极端，就是这种现实性对普遍本质的关系，即一种虚无性的关系；而这种关系的运动还有待考察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 63,
+   "si": 0,
+   "de": "Was zuerst die entgegengesetzte Beziehung des Bewußtseins betrifft, worin ihm seine Realität unmittelbar das Nichtige ist, so wird also sein wirkliches Tun zu einem Tun von Nichts, sein Genuß Gefühl seines Unglücks.",
+   "en": "As regards first the opposed relation of consciousness, in which its reality is immediately the null for it, its actual doing thus becomes a doing of nothing, its enjoyment a feeling of its unhappiness.",
+   "zh": "首先，就意识的那种对立关系而言，在这种关系中它的实在性对它是直接虚无的东西，它现实的行动于是变成一种虚无的行动，它的享受则成为对它不幸的感受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 63,
+   "si": 1,
+   "de": "Hiermit verlieren Tun und Genuß allen allgemeinen Inhalt und Bedeutung, denn dadurch hätten sie ein Anundfürsichsein, und beide ziehen sich in die Einzelheit zurück, auf welche das Bewußtsein, sie aufzuheben, gerichtet ist.",
+   "en": "Therewith doing and enjoyment lose all universal content and significance, for through that they would have a being-in-and-for-itself, and both withdraw into singularity, upon which consciousness, to sublate them, is directed.",
+   "zh": "这样一来，行动和享受就失去了一切普遍的内容和意义，因为这样一来它们就会有一种自在自为存在，而两者都退回到个别性中，意识为了扬弃它们正指向这种个别性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 63,
+   "si": 2,
+   "de": "Seiner als dieses wirklichen Einzelnen ist das Bewußtsein sich in den tierischen Funktionen bewußt.",
+   "en": "It is of itself as this actual singular one that consciousness is conscious in the animal functions.",
+   "zh": "意识在动物的功能中意识到的，正是作为这个现实的个别者的自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 63,
+   "si": 3,
+   "de": "Diese, statt unbefangen als etwas, das an und für sich nichtig ist und keine Wichtigkeit und Wesenheit für den Geist erlangen kann, getan zu werden, da sie es sind, in welchen sich der Feind in seiner eigentümlichen Gestalt zeigt, sind sie vielmehr Gegenstand des ernstlichen Bemühens und werden gerade zum Wichtigsten, Indem aber dieser Feind in seiner Niederlage sich erzeugt, das Bewußtsein, da es sich ihn fixiert, vielmehr, statt frei davon zu werden, immer dabei verweilt und sich immer verunreinigt erblickt, [und indem] zugleich dieser Inhalt seines Bestrebens statt eines Wesentlichen das Niedrigste, statt eines Allgemeinen das Einzelnste ist, so sehen wir nur eine auf sich und ihr kleines Tun beschränkte und sich bebrütende, ebenso unglückliche als ärmliche Persönlichkeit.",
+   "en": "These, instead of being done innocently as something that is null in and for itself and can attain no importance and essentiality for spirit, since it is in them that the enemy shows himself in his peculiar shape, are rather the object of serious effort and become precisely the most important; but since this enemy generates himself in his defeat, consciousness, because it fixates him, rather, instead of becoming free of him, lingers always with him and sees itself always defiled, [and since] at the same time this content of its striving is, instead of something essential, the lowest, instead of something universal, the most singular, we see only a personality restricted to itself and its little doing and brooding over itself, as unhappy as it is wretched.",
+   "zh": "这些功能本来可以无拘无束地被当作一种自在自为地虚无、也不能为精神赢得任何重要性和本质性的东西来做，但由于正是在它们之中敌人以他特有的形态显现出来，它们反倒成了认真努力的对象，并且恰恰成了最重要的东西，而由于这个敌人在自己的失败中产生出自己，意识既然把他固定下来，反倒不是摆脱他，而是总在他那里逗留，总是看到自己被玷污，[又由于]同时它的这种努力的内容不是本质的东西而是最低下的东西，不是普遍的东西而是最个别的东西，所以我们看到的就只是一个局限于自己和自己的微小行动、孵育着自己的、既不幸又贫乏的人格性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 64,
+   "si": 0,
+   "de": "Aber an beides, das Gefühl seines Unglücks und die Ärmlichkeit seines Tuns, knüpft sich ebenso das Bewußtsein seiner Einheit mit dem Unwandelbaren.",
+   "en": "But with both, the feeling of its unhappiness and the wretchedness of its doing, there is likewise bound up the consciousness of its unity with the unchangeable.",
+   "zh": "但它同这两者，即对自己不幸的感觉和自己行动的可怜，也同样联结着它同不变者统一的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 64,
+   "si": 1,
+   "de": "Denn die versuchte unmittelbare Vernichtung seines wirklichen Seins ist vermittelt durch den Gedanken des Unwandelbaren und geschieht in dieser Beziehung.",
+   "en": "For the attempt to annihilate its actual being immediately is mediated by the thought of the unchangeable and takes place in this relation.",
+   "zh": "因为要直接消灭自己现实存在的那种尝试，是通过不变者的思想中介的，并且是在这种关系中发生的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 64,
+   "si": 2,
+   "de": "Die mittelbare Beziehung macht das Wesen der negativen Bewegung aus, in welcher es sich gegen seine Einzelheit richtet, welche aber ebenso als Beziehung an sich positiv ist und für es selbst diese seine Einheit hervorbringen wird.",
+   "en": "The mediated relation constitutes the essence of the negative movement, in which consciousness directs itself against its singularity, but which, as relation, is likewise positive in itself and will bring forth this unity of its own for consciousness itself.",
+   "zh": "这种中介的关系构成了否定运动的本质，在这种运动中它针对自己的个别性，但这种运动作为关系同样自在地是肯定的，并且将为它自己产生出它的这种统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 65,
+   "si": 0,
+   "de": "Diese mittelbare Beziehung ist hiermit ein Schluß, in welchem die sich zuerst als gegen das Ansich entgegengesetzt fixierende Einzelheit mit diesem ändern Extreme nur durch ein drittes zusammengeschlossen ist.",
+   "en": "This mediated relation is therefore a syllogism in which the singularity that at first fixes itself as opposed to the in-itself is conjoined with this other extreme only through a third.",
+   "zh": "这种中介的关系因此是一个推论，在其中那最初把自己固定为与自在相对立的个别性，只有通过一个第三者才同这个别的极端联结起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 65,
+   "si": 1,
+   "de": "Durch diese Mitte ist das Extrem des unwandelbaren Bewußtseins für das unwesentliche Bewußtsein, in welchem zugleich auch dies ist, daß es ebenso für jenes nur durch diese Mitte sei und diese Mitte hiermit eine solche, die beide Extreme einander vorstellt und der gegenseitige Diener eines jeden bei dem anderen ist.",
+   "en": "Through this middle, the extreme of the unchangeable consciousness is for the unessential consciousness, in which there is at the same time also this: that it likewise is for that extreme only through this middle, and that this middle is thereby one that presents both extremes to each other and is the mutual servant of each in the presence of the other.",
+   "zh": "通过这个中项，不变意识的极端是为那非本质意识的，而在非本质意识中同时也有这一点：它同样只有通过这个中项才为那个极端存在，并且这个中项因此就是这样一个中项，它把两个极端互相引见给对方，并且是每一方在另一方那里的相互仆人。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 65,
+   "si": 2,
+   "de": "Diese Mitte ist selbst ein bewußtes Wesen, denn sie ist ein das Bewußtsein als solches vermittelndes Tun; der Inhalt dieses Tuns ist die Vertilgung, welche das Bewußtsein mit seiner Einzelheit vornimmt.",
+   "en": "This middle is itself a conscious essence, for it is a doing that mediates consciousness as such; the content of this doing is the annihilation that consciousness undertakes with its singularity.",
+   "zh": "这个中项本身是一个有意识的本质，因为它是一种把意识本身中介起来的行动；这种行动的内容，就是意识对自己的个别性所实行的消灭。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 66,
+   "si": 0,
+   "de": "In ihr also befreit dieses sich von dem Tun und Genüsse als dem seinen, es stößt von sich als fürsichseiendem Extreme das Wesen seines Willens ab und wirft auf die Mitte oder den Diener die Eigenheit und Freiheit des Entschlusses und damit die Schuld seines Tuns.",
+   "en": "In it, therefore, this consciousness frees itself from the doing and the enjoyment as its own; as the extreme that is for itself, it thrusts the essence of its will away from itself and throws onto the middle or the servant the ownness and freedom of the decision, and therewith the guilt of its doing.",
+   "zh": "在这个中项里面，这种意识因此把自己从作为它自己的行动和享受中解放出来，它作为自为存在的极端，把它的意志的本质从自己身上推开，并把决断的固有性和自由、从而把自己行动的罪过，都推到中项或仆人身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 66,
+   "si": 1,
+   "de": "Dieser Vermittler, als mit dem unwandelbaren Wesen in unmittelbarer Beziehung, dient mit seinem Rate über das Rechte.",
+   "en": "This mediator, as being in immediate relation with the unchangeable essence, serves with its counsel about what is right.",
+   "zh": "这个中介者作为同不变的本质处于直接关系中的一方，用它关于正当之事的劝告来服务。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 66,
+   "si": 2,
+   "de": "Die Handlung, indem sie Befolgung eines fremden Beschlusses ist, hört nach der Seite des Tuns oder des Willens auf, die eigene zu sein.",
+   "en": "The action, insofar as it is the following of an alien decision, ceases, on the side of the doing or of the will, to be its own.",
+   "zh": "这个行动，由于它是遵从一种异己的决断，从行动或意志这一方面看就不再是自己的了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 66,
+   "si": 3,
+   "de": "Es bleibt aber noch ihre gegenständliche Seite dem unwesentlichen Bewußtsein, nämlich die Frucht seiner Arbeit und der Genuß.",
+   "en": "But its objective side still remains to the unessential consciousness, namely the fruit of its work and the enjoyment.",
+   "zh": "但它对象性的一面仍然留在非本质意识那里，即它劳动的果实和享受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 66,
+   "si": 4,
+   "de": "Diesen stößt es also ebenso von sich ab und leistet wie auf seinen Willen so auf seine in der Arbeit und [im] Genüsse erhaltene Wirklichkeit Verzicht; auf sie teils als auf die erreichte Wahrheit seiner selbstbewußten Selbständigkeit, indem es etwas ganz Fremdes, ihm Sinnloses vorstellend und sprechend sich bewegt; teils auf sie als äußerliches Eigentum, – indem es von dem Besitze, den es durch die Arbeit erworben, etwas abläßt; teils auf den gehabten Genuß, – indem es ihn im Fasten und Kasteien auch wieder ganz sich versagt.",
+   "en": "This too, therefore, it thrusts away from itself, and renounces both its will and its actuality obtained in work and enjoyment; it renounces it partly as the attained truth of its self-conscious independence, in that it moves itself by representing and speaking something wholly alien, meaningless to it; partly as external property — in that it lets go of something of the possession it has acquired through work; partly the enjoyment it has had — in that in fasting and mortification it again wholly denies it to itself.",
+   "zh": "它于是也把这个从自己身上推开，并且既放弃自己的意志，也放弃自己在劳动和享受中获得的那种现实性；它放弃它，一部分是作为它自我意识到的独立性所达到的真理来放弃，因为它只是在表象着并言说着某种完全异己的、对它毫无意义的东西中活动；一部分是作为外在的所有物来放弃——因为它从自己通过劳动获得的占有中让出一些；一部分是作为曾经有过的享受来放弃——因为它在斋戒和苦修中又重新完全不许自己享受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 67,
+   "si": 0,
+   "de": "Durch diese Momente des Aufgebens des eigenen Entschlusses, dann des Eigentumes und Genusses und endlich [durch] das positive Moment des Treibens eines unverstandenen Geschäftes nimmt es sich in Wahrheit und vollständig das Bewußtsein der inneren und äußeren Freiheit, der Wirklichkeit als seines Fürsichseins; es hat die Gewißheit, in Wahrheit seines Ichs sich entäußert und sein unmittelbares Selbstbewußtsein zu einem Dinge, zu einem gegenständlichen Sein gemacht zu haben.",
+   "en": "Through these moments — of the giving up of its own decision, then of property and enjoyment, and finally through the positive moment of carrying on an uncomprehended business — it truly and completely takes from itself the consciousness of inner and outer freedom, of actuality as its being-for-itself; it has the certainty of having truly externalized its I and of having made its immediate self-consciousness into a thing, into an objective being.",
+   "zh": "通过这些环节，即放弃自己的决断，然后放弃所有物和享受，最后通过从事一种未被理解的事务这一肯定环节，它真正而完全地从自己那里取走了内在和外在自由的意识、以及作为它自为存在的现实性的意识；它有了这种确定性：它真正外化了自己的我，并把自己的直接自我意识变成了一物、变成了一种对象性的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 67,
+   "si": 1,
+   "de": "– Die Verzichtleistung auf sich konnte es allein durch diese wirkliche Aufopferung bewähren; denn nur in ihr verschwindet der Betrug, welcher in dem inneren Anerkennen des Dankens durch Herz, Gesinnung und Mund liegt, einem Anerkennen, welches zwar alle Macht des Fürsichseins von sich abwälzt und sie einem Geben von oben zuschreibt, aber in diesem Abwälzen selbst sich die äußere Eigenheit in dem Besitze, den es nicht aufgibt, die innere aber in dem Bewußtsein des Entschlusses, den es selbst gefaßt, und in dem Bewußtsein seines durch es bestimmten Inhalts, den es nicht gegen einen fremden, es sinnlos erfüllenden umgetauscht hat, behält.",
+   "en": "— It could prove the renunciation of itself only through this actual sacrifice; for only in it does the deception disappear that lies in the inner acknowledgment of gratitude through heart, disposition and mouth, an acknowledgment that indeed rolls all the power of being-for-itself off from itself and ascribes it to a giving from above, but in this very rolling-off retains for itself the outer ownness in the possession that it does not give up, and the inner ownness in the consciousness of the decision that it has itself made and in the consciousness of its content determined by it, which it has not exchanged for an alien one that meaninglessly fills it.",
+   "zh": "——它只有通过这种现实的牺牲才能证明对自己的放弃；因为只有在这种牺牲中，那种欺骗才消失，这种欺骗就在于内心通过心、意向和嘴对感谢的承认，这种承认虽然把自为存在的一切权力都从自己身上推卸掉，并把它归给一种来自上方的给予，但正是在这种推卸中，它为自己把外在的固有性保留在它不放弃的占有中，而把内在的固有性保留在它自己所作决断的意识中，并保留在对它由自己规定的内容的意识中，它并没有把这个内容换成另一种异己的、无意义地充实着它的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 0,
+   "de": "Aber in der wirklich vollbrachten Aufopferung hat an sich, wie das Bewußtsein das Tun als das seinige aufgehoben [hat], auch sein Unglück von ihm abgelassen.",
+   "en": "But in the actually accomplished sacrifice, as consciousness has sublated the doing as its own, its unhappiness has likewise in itself let go of it.",
+   "zh": "但在真正完成了的牺牲中，正如意识把行动当作自己的东西扬弃了，它的不幸也自在地放开了它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 1,
+   "de": "Daß dies Ablassen an sich geschehen ist, ist Jedoch ein Tun des ändern Extrems des Schlusses, welches das ansichseiende Wesen ist.",
+   "en": "That this letting-go has happened in itself is, however, a doing of the other extreme of the syllogism, which is the essence that is in itself.",
+   "zh": "然而，这种放开自在地发生了，这却是推论的另一极端的行动，而这个极端就是自在存在的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 2,
+   "de": "Jene Aufopferung des unwesentlichen Extrems war aber zugleich nicht ein einseitiges Tun, sondern enthielt das Tun des Anderen in sich.",
+   "en": "But that sacrifice of the unessential extreme was at the same time not a one-sided doing, but contained the doing of the other within itself.",
+   "zh": "但那非本质极端的牺牲同时并不是一种单方面的行动，而是在自身中包含了另一方的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 3,
+   "de": "Denn das Aufgeben des eigenen Willens ist nur einerseits negativ, seinem Begriffe nach oder an sich, zugleich aber positiv, nämlich das Setzen des Willens als eines Anderen und bestimmt des Willens als eines nicht einzelnen, sondern allgemeinen.",
+   "en": "For the giving up of one's own will is only on the one hand negative, according to its concept or in itself, but at the same time positive, namely the positing of the will as another's, and specifically of the will as a not singular but universal one.",
+   "zh": "因为放弃自己的意志只是一方面否定的，按照它的概念或自在地是否定的，但同时也是肯定的，即把意志设定为他者的意志，并且确定地设定为一种并非个别的、而是普遍的意志。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 4,
+   "de": "Für dies Bewußtsein ist diese positive Bedeutung des negativ gesetzten einzelnen Willens der Willen des ändern Extrems, der ihm, weil er eben ein Anderes für es ist, nicht durch sich, sondern durch das Dritte, den Vermittler, als Rat wird.",
+   "en": "For this consciousness, this positive meaning of the negatively posited singular will is the will of the other extreme, which, because it is precisely an other for it, becomes counsel for it not through itself but through the third, the mediator.",
+   "zh": "对这个意识来说，这个被否定地设定的个别意志的肯定意义，就是另一极端的意志，而这一意志正因为它对它来说恰恰是另一个，所以并不是通过它自身、而是通过第三者即中介者才成为劝告的。"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "w3-11-42",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 11,
+ "chunkTitle": "b. Die Wahrheit der Aufklärung",
+ "heading": "b. Die Wahrheit der Aufklärung",
+ "blocks": [
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "6rmhqtfrl6",
+   "sents": [
+    "Indem wir die moralische Weltanschauung so betrachten, daß diese gegenständliche Weise nichts anderes ist als der Begriff des moralischen Selbstbewußtseins selbst, den es sich gegenständlich macht, so ergibt sich durch dies Bewußtsein über die Form ihres Ursprungs eine andere Gestalt ihrer Darstellung.",
+    "– Das erste nämlich, wovon ausgegangen wird, ist das wirkliche moralische Selbstbewußtsein oder, daß es ein solches gibt.",
+    "Denn der Begriff setzt es in der Bestimmung, daß ihm alle Wirklichkeit überhaupt Wesen nur insofern hat, als sie der Pflicht gemäß ist, und er setzt dies Wesen als Wissen, d.h. in unmittelbarer Einheit mit dem wirklichen Selbst; diese Einheit ist somit selbst wirklich, sie ist ein moralisches wirkliches Bewußtsein.",
+    "– Dieses nun als Bewußtsein stellt sich seinen Inhalt als Gegenstand vor, nämlich als Endzweck der Welt, als Harmonie der Moralität und aller Wirklichkeit.",
+    "Indem es aber diese Einheit als Gegenstand vorstellt und noch nicht der Begriff ist, der die Macht über den Gegenstand als solchen hat, so ist sie ihm ein Negatives des Selbstbewußtseins, oder sie fällt außer ihm, als ein Jenseits seiner Wirklichkeit, aber zugleich als ein solches, das auch als seiend, aber nur gedacht wird."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "k722c1vl5a",
+   "sents": [
+    "Was ihm, das als Selbstbewußtsein ein Anderes denn der Gegenstand ist, hiermit übrigbleibt, ist die Nichtharmonie des Pflichtbewußtseins und der Wirklichkeit, und zwar seiner eigenen.",
+    "Der Satz lautet hiermit jetzt so: es gibt kein moralisch vollendetes wirkliches Selbstbewußtsein; und da das Moralische überhaupt nur ist, insofern es vollendet ist – denn die Pflicht ist das reine unvermischte Ansich, und die Moralität besteht nur in der Angemessenheit zu diesem Reinen –, so heißt der zweite Satz überhaupt so, daß es kein moralisch Wirkliches gibt."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "2jn50q7t3r",
+   "sents": [
+    "Indem es aber drittens ein Selbst ist, so ist es an sich die Einheit der Pflicht und der Wirklichkeit; diese Einheit wird ihm also Gegenstand, als die vollendete Moralität, – aber als ein Jenseits seiner Wirklichkeit, – aber das doch wirklich sein soll."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "jh3tlc1vrr",
+   "sents": [
+    "In diesem Ziele der synthetischen Einheit der beiden ersten Sätze ist die selbstbewußte Wirklichkeit sowohl als die Pflicht nur als aufgehobenes Moment gesetzt; denn keines ist einzeln, aber sie, in deren wesentlicher Bestimmung ist, frei von dem anderen zu sein, sind somit jedes in der Einheit nicht mehr frei von dem anderen, also jedes aufgehoben, und somit werden sie dem Inhalt nach als solche Gegenstand, deren jedes für das andere gilt, und der Form nach so, daß diese Austauschung derselben zugleich nur vorgestellt ist.",
+    "– Oder das wirklich nicht Moralische, weil es ebenso reines Denken und über seine Wirklichkeit erhaben ist, ist in der Vorstellung doch moralisch und wird für vollgültig genommen.",
+    "Es wird hierdurch der erste Satz, daß es ein moralisches Selbstbewußtsein gibt, hergestellt, aber verbunden mit dem zweiten, daß es keines gibt, nämlich es gibt eines, aber nur in der Vorstellung; oder es gibt zwar keines, aber es wird von einem anderen doch dafür gelten gelassen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/11.p42.json"
+}

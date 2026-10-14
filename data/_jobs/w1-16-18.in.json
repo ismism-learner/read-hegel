@@ -1,0 +1,141 @@
+{
+ "id": "w1-16-18",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 16,
+ "chunkTitle": "[3. Das Reichsgebiet]",
+ "heading": "[4. Gerichtsbarkeit]",
+ "blocks": [
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1phrl10pn5",
+   "sents": [
+    "Die Friedensschlüsse, welche Schweden nach dem Tode Karls XII. mit Hannover, Preußen, Dänemark und Rußland machte, benahmen ihm [nicht] nur den durch seinen tapferen König erzwungenen Platz unter den Mächten Europas, sondern es verlor auch seine Macht in Deutschland; aber durch den letzteren Umstand gewann die deutsche Staatsmacht nichts, denn die Länder, welche Schweden verlor, kamen an deutsche Fürsten, welche in seine Stelle der Furchtbarkeit für Deutschlands Einheit traten."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "15eqb6r8u9",
+   "sents": [
+    "Im Wiener Frieden verlor Deutschland nichts als die Beziehung Lothringens, die ohnedies gering war; es kam nicht zur Ratifikation dieses Friedens durch das Reich."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "4ntq0uzuni",
+   "sents": [
+    "In dem österreichischen Sukzessionskrieg war Deutschland das Theater langwieriger Verheerungen.",
+    "Seine größten Fürsten waren darein verwickelt; es schlugen sich die Heere auswärtiger Monarchen auf seinem Boden, und dennoch war das Deutsche Reich im tiefsten Frieden.",
+    "Die an Schwedens Stelle getretene Macht, Preußen, vergrößerte sich in diesem Kriege."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1qfi7ie1mg",
+   "sents": [
+    "Viel verheerender noch, besonders fürs nördliche Deutschland, war der Siebenjährige Krieg.",
+    "Das Deutsche Reich führte zwar diesmal auch Krieg, und zwar einen Achtsexekutionskrieg, aber seine Feinde taten ihm nicht einmal die Ehre an, anzuerkennen, daß es Krieg führe, noch Frieden mit ihm zu schließen."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "14rdoq21kc",
+   "sents": [
+    "Der Lüneviller Frieden hat endlich Deutschland nicht nur viele Rechte der Oberherrlichkeit in Italien genommen, sondern ihm das ganze linke Rheinufer entrissen und schon für sich die Anzahl seiner Fürsten vermindert und einen Grund gelegt, der die Zahl seiner Stände noch um viele vermindern und die einzelnen Teile dem Ganzen und den kleineren Ständen um so furchtbarer machen wird."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1lek2p1wou",
+   "sents": [
+    "Ein Land, dessen eine Hälfte in dem Krieg sich entweder selbst untereinander herumschlägt oder die allgemeine Verteidigung aufgibt und durch Neutralität die andere dem Feinde preisgibt, muß im Kriege zerfleischt, im Frieden zerstückelt werden, weil die Stärke eines Landes weder in der Menge seiner Einwohner und Krieger, noch seiner Fruchtbarkeit, noch seiner Größe besteht, sondern allein in der Art, wie durch vernünftige Verbindung der Teile zu einer Staatsgewalt alles dies zum großen Zweck der gemeinsamen Verteidigung gebraucht werden kann."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "h",
+   "hash": "ed46co1wwe",
+   "text": "[4. Gerichtsbarkeit]"
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1a8les517d",
+   "sents": [
+    "Wenn nun Deutschland in seiner Kriegs- und Geldmacht keine Staatsgewalt in sich bildet und deswegen nicht als ein Staat, sondern als eine Menge von unabhängigen Staaten angesehen werden muß, von denen die größeren auch äußerlich unabhängig handeln, die kleineren aber irgendeinem großen Zuge folgen müssen und die Assoziationen, welche zuweilen zu irgendeinem bestimmten Zweck unter dem Namen des Deutschen Reichs zustande kommen, immer partiell und nach dem eigenen Gefallen der Verbündeten geschlossen werden, so entbehren diese Assoziationen alles Vorteils, welchen die Koalitionen anderer Mächte haben können; denn in solchen Koalitionen, wenn sie auch von keiner langen Dauer sind und selbst, solange sie bestehen, in gewissen Fällen, wie in Kriegen, nicht mit dem Erfolg und Nachdruck wirken, als wenn ebendieselbe Macht völlig unter einer Regierung stünde, werden zu demjenigen, was der Zweck der Koalierten ist, mit Verstand die dienlichsten Maßregeln und Mittel ergriffen und danach alles auf den Zweck hin eingerichtet.",
+    "Die Koalitionen der deutschen Stände sind aber durch solche Formalitäten, Beschränkungen, unendliche Rücksichten gebunden, die sie sich zu diesem Ende erschaffen haben, daß dadurch alle Wirkung der Koalition paralysiert wird, und es ist schon voraus unmöglich gemacht, dasjenige zu erreichen, was sie sich vorgesetzt hat."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "urrz7065pu",
+   "sents": [
+    "Was das Deutsche Reich als solches tut, ist niemals ein Tun des Ganzen, sondern einer mehr oder weniger Umfang habenden Assoziation.",
+    "Die Mittel, dasjenige zu erreichen, was die Teilhaber an derselben anordnen, werden aber nicht für diesen Zweck genommen, sondern die erste und die einzige Sorge ist, daß auf denjenigen Verhältnissen der Verbundenen [sich] gehalten werde, welche das Getrenntsein derselben und, daß sie nicht assoziiert seien, bestimmen."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "yexco81o5b",
+   "sents": [
+    "Solche Assoziationen gleichen einem Haufen runder Steine, die sich zu einer Pyramide zusammentun, [der] aber, weil sie schlechthin rund [sind] und, ohne sich zu fügen, bleiben sollen, sowie die Pyramide zu dem Zweck, zu dem sie sich gebildet hat, sich zu bewegen anfängt, auseinanderrollt oder wenigstens keinen Widerstand leisten kann.",
+    "Durch eine solche Einrichtung entbehren diese Staaten nicht nur des unendlichen Vorteils, den eine Staatsverbindung hat, sondern auch des Vorteils der Unabhängigkeit, sich zu einzelnen gemeinschaftlichen Zwecken mit anderen verbinden zu können: denn für diesen Fall haben [sie] sich Fesseln angelegt, wodurch jede Vereinigung zunichte wird oder schon in ihrem Beginnen nichts ist."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "kx86st1dvp",
+   "sents": [
+    "Ungeachtet nun auf diese Weise die deutschen Stände ihre Vereinigung aufgehoben [haben] und sich selbst die Möglichkeit, für vorübergehende, augenblickliche Zwecke sich nach Bedürfnis und Not mit Verstand zu verbinden, verschließen, so ist doch die Forderung vorhanden, daß Deutschland ein Staat sein soll.",
+    "Es ist der Widerspruch aufgestellt, die Verhältnisse der Stände so zu bestimmen, daß kein Staat möglich noch wirklich ist, und doch soll Deutschland schlechthin als ein Staat gelten, es will sich schlechthin für einen Körper ansehen.",
+    "Dieser Geist hat seit Jahrhunderten Deutschland zwischen seinem Willen, einen Staat unmöglich zu machen, und dem Willen, ein Staat [zu sein], in eine Reihe von Inkonsequenz[en] geworfen und [es] zwischen der Eifersucht der Stände auf jede Art der Unterwürfigkeit unter das Ganze und der Unmöglichkeit, ohne diese Unterwürfigkeit zu bestehen, unglücklich gemacht."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "1v0al4f1nj",
+   "sents": [
+    "Die Auflösung des Problems, wie es möglich wäre, daß Deutschland kein Staat sei und doch ein Staat sei, ergibt sich [dadurch] sehr leicht, daß es ein Staat ist in Gedanken und kein Staat in der Wirklichkeit, daß Formalität und Realität sich trennen, die leere Formalität dem Staat, die Realität aber dem Nichtsein des Staates zugehört."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "197t0po1c5",
+   "sents": [
+    "Das System des Gedankenstaates ist die Organisation einer Rechtsverfassung, welche in demjenigen, was zum Wesen eines Staats gehört, keine Kraft hat.",
+    "Die Obliegenheiten eines jeden Stands gegen Kaiser und Reich, gegen die oberste Regierung, welche im Oberhaupt in Verbindung mit den Ständen besteht, sind durch eine Unendlichkeit von feierlichen und grundgesetzlichen Akten aufs genaueste bestimmt.",
+    "Diese Pflichten und Rechte machen ein System von Gesetzen aus, welchem gemäß das staatsrechtliche Verhältnis eines jeden Standes und die Verbindlichkeit seines Leistens aufs genaueste festgesetzt ist, und nur nach diesen gesetzlichen Bestimmungen soll der Beitrag jedes einzelnen Standes für das Allgemeine geschehen.",
+    "Die Natur dieser Gesetzlichkeit besteht aber darin, daß das staatsrechtliche Verhältnis und seine Obliegenheiten nicht nach allgemeinen, eigentlichen Gesetzen bestimmt ist, sondern nach Art der bürgerlichen Rechte das Verhältnis jeden Standes zum Ganzen etwas Besonderes ist in Form eines Eigentums.",
+    "Hierdurch wird die Natur der Staatsgewalt wesentlich affiziert."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "7re0n2oa4r",
+   "sents": [
+    "Ein Akt, der von der Staatsgewalt ausfließt, ist ein allgemeiner, und durch seine wahre Allgemeinheit enthält er zugleich die Regel seiner Anwendung in sich.",
+    "Dasjenige, was er betrifft, ist ein Allgemeines, sich selbst Gleiches.",
+    "Der Akt der Staatsgewalt trägt eine freie und allgemeine Bestimmtheit hinein, und seine Ausführung ist zugleich seine Anwendung, so wie seine Anwendung, weil in demjenigen, woran er sich anwendet, nichts Unterscheidbares ist, in dem Akt selbst bestimmt sein [muß] und kein spröder und ungleicher Stoff seiner Anwendung widersteht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/16.p18.json"
+}

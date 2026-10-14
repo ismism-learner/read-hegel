@@ -1,0 +1,79 @@
+{
+ "id": "w2-1-33",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "blocks": [
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "107a2yo1ga",
+   "sents": [
+    "Auf diese Weise ist durch die transzendentale Anschauung kein philosophisches Wissen entstanden, sondern im Gegenteil, wenn sich die Reflexion ihrer bemächtigt, sie anderem Anschauen entgegensetzt und diese Entgegensetzung festhält, ist kein philosophisches Wissen möglich.",
+    "Dieser absolute Akt der freien Selbsttätigkeit ist die Bedingung des philosophischen Wissens, aber er ist noch nicht die Philosophie selbst; durch diese wird die objektive Totalität des empirischen Wissens gleichgesetzt dem reinen Selbstbewußtsein, letzteres hiermit ganz als Begriff oder als Entgegengesetztes aufgehoben, und damit auch das erstere.",
+    "Es wird behauptet, daß es überhaupt nur reines Bewußtsein gibt, Ich = Ich ist das Absolute; alles empirische Bewußtsein wäre nur ein reines Produkt des Ich = Ich, und empirisches Bewußtsein würde insofern durchaus geleugnet, als in ihm oder durch es eine absolute Zweiheit sein, ein Gesetztsein in ihm vorkommen sollte, das nicht ein Gesetztsein des Ich für Ich und durch Ich wäre.",
+    "Mit dem Selbstsetzen des Ich wäre alles gesetzt, und außer diesem nichts; die Identität des reinen und empirischen Bewußtseins ist nicht eine Abstraktion von ihrem ursprünglichen Entgegengesetztsein, sondern im Gegenteil, ihre Entgegensetzung ist eine Abstraktion von ihrer ursprünglichen Identität."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1bo0i9u1w3",
+   "sents": [
+    "Die intellektuelle Anschauung ist hierdurch gesetzt gleich allem, sie ist die Totalität.",
+    "Dies Identischsein alles empirischen Bewußtseins mit dem reinen ist Wissen, und die Philosophie, die dies Identischsein weiß, ist die Wissenschaft des Wissens11) ; sie hat die Mannigfaltigkeit des empirischen Bewußtseins als identisch mit dem reinen durch die Tat, durch die wirkliche Entwicklung des Objektiven aus dem Ich zu zeigen und die Totalität des empirischen Bewußtseins als die objektive Totalität des Selbstbewußtseins zu beschreiben; in Ich = Ich ist ihr die ganze Mannigfaltigkeit des Wissens gegeben.",
+    "Der bloßen Reflexion erscheint diese Deduktion als das widersprechende Beginnen, aus der Einheit die Mannigfaltigkeit, aus reiner Identität die Zweiheit abzuleiten; aber die Identität des Ich = Ich ist keine reine Identität, d. h. keine durchs Abstrahieren der Reflexion entstandene.",
+    "Wenn die Reflexion Ich = Ich als Einheit begreift, so muß sie dasselbe zugleich auch als Zweiheit begreifen; Ich = Ich ist Identität und Duplizität zugleich, es ist eine Entgegensetzung in Ich = Ich.",
+    "Ich ist einmal Subjekt, das andere Mal Objekt; aber was dem Ich entgegengesetzt ist, ist gleichfalls Ich; die Entgegengesetzten sind identisch.",
+    "Das empirische Bewußtsein kann darum nicht als ein Herausgehen aus dem reinen betrachtet werden; nach dieser Ansicht wäre freilich eine Wissenschaft des Wissens, die vom reinen Bewußtsein ausgeht, etwas Widersinniges; der Ansicht, als ob in dem empirischen Bewußtsein aus dem reinen herausgetreten würde, liegt die obige Abstraktion zum Grunde, in welcher die Reflexion ihr Entgegensetzen isoliert.",
+    "Die Reflexion als Verstand ist an und für sich unfähig, die transzendentale Anschauung zu fassen; und wenn die Vernunft auch zur Selbsterkennung durchgedrungen ist, so verkehrt die Reflexion das Vernünftige, wo ihr Raum gegeben wird, wieder in ein Entgegengesetztes."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "1mtutxo3a1",
+   "sents": [
+    "Wir haben bisher die rein transzendentale Seite des Systems beschrieben, in welcher die Reflexion keine Macht hat, sondern durch die Vernunft die Aufgabe der Philosophie bestimmt und beschrieben worden ist.",
+    "Wegen dieser echt transzendentalen Seite ist die andere, worin die Reflexion herrscht, um so schwerer sowohl ihrem Anfangspunkt nach zu ergreifen als überhaupt festzuhalten, weil dem Verständigen, worein die Reflexion das Vernünftige verkehrt hat, immer der Rückzug nach der transzendentalen Seite offenbleibt.",
+    "Es ist demnach zu zeigen, daß zu diesem System die zwei Standpunkte, der der Spekulation und der der Reflexion, wesentlich und so gehören, daß der letztere nicht eine untergeordnete Stelle hat, sondern daß sie im Mittelpunkte des Systems absolut notwendig und unvereinigt sind. - Oder Ich = Ich ist absolutes Prinzip der Spekulation, aber diese Identität wird vom System nicht aufgezeigt; das objektive Ich wird nicht gleich dem subjektiven Ich, beide bleiben sich absolut entgegengesetzt.",
+    "Ich findet sich nicht in seiner Erscheinung oder in seinem Setzen; um sich als Ich zu finden, muß es seine Erscheinung zernichten.",
+    "Das Wesen des Ich und sein Setzen fallen nicht zusammen: Ich wird sich nicht objektiv."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1wfa50m13m",
+   "sents": [
+    "Fichte hat in der Wissenschaftslehre für die Darstellung des Prinzips seines Systems die Form von Grundsätzen gewählt, von deren Unbequemlichkeit oben die Rede war.",
+    "Der erste Grundsatz ist absolutes Sich-selbst-Setzen des Ich, das Ich als unendliches Setzen; der zweite absolutes Entgegensetzen oder Setzen eines unendlichen Nicht-Ich; der dritte ist die absolute Vereinigung der beiden ersten durch absolutes Teilen des Ich und des Nicht-Ich, und ein Verteilen der unendlichen Sphäre an ein teilbares Ich und an ein teilbares Nicht-Ich.",
+    "Diese drei absoluten Grundsätze stellen drei absolute Akte des Ich dar.",
+    "Aus dieser Mehrheit der absoluten Akte folgt unmittelbar, daß diese Akte und die Grundsätze nur relative oder, insofern sie in die Konstruktion der Totalität des Bewußtseins eingehen, nur ideelle Faktoren sind.",
+    "Ich = Ich hat in dieser Stellung, worin es anderen absoluten Akten entgegengesetzt wird, nur die Bedeutung des reinen Selbstbewußtseins, insofern dieses dem empirischen entgegengesetzt ist; es ist als solches bedingt durch die Abstraktion von dem empirischen, und sogut der zweite Grundsatz und der dritte bedingte sind, sosehr ist es auch der erste Grundsatz; schon die Mehrheit absoluter Akte deutet unmittelbar darauf, wenn ihr Inhalt auch ganz unbekannt ist.",
+    "Es ist gar nicht notwendig, daß Ich = Ich, das absolute Sich-selbst-Setzen, als ein Bedingtes begriffen wird; im Gegenteil haben wir es oben in seiner transzendentalen Bedeutung als absolute (nicht bloß als Verstandes-)Identität gesehen.",
+    "Aber in dieser Form, wie Ich = Ich als einer unter mehreren Grundsätzen aufgestellt wird, so hat er keine andere Bedeutung als die des reinen Selbstbewußtseins, welches dem empirischen, die der philosophischen Reflexion, welche der gemeinen entgegengesetzt wird."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1ev41qn1qk",
+   "sents": [
+    "Diese ideellen Faktoren des reinen Setzens und des reinen Entgegensetzens könnten aber nur zum Behuf der philosophischen Reflexion gesetzt sein, welche, ob sie zwar von der ursprünglichen Identität ausgeht, gerade (um das wahre Wesen dieser Identität zu beschreiben) mit der Darstellung absolut Entgegengesetzter anfängt und sie zur Antinomie verbindet, - die einzige Weise der Reflexion, das Absolute darzustellen, um die absolute Identität sogleich aus der Sphäre der Begriffe wegzunehmen und sie als eine Identität, die nicht von Subjekt und Objekt abstrahiert, sondern als eine Identität des Subjekts und Objekts zu konstituieren.",
+    "Diese Identität kann nicht so gefaßt werden, daß das reine Sich-selbst-Setzen und das reine Entgegensetzen beides Tätigkeiten eines und ebendesselben Ich sind; eine solche Identität wäre durchaus nicht eine transzendentale, sondern eine transzendente; der absolute Widerspruch der Entgegengesetzten sollte bestehen, die Vereinigung beider reduzierte sich auf eine Vereinigung im allgemeinen Begriffe der Tätigkeit.",
+    "Es wird eine transzendentale Vereinigung gefordert, worin der Widerspruch beider Tätigkeiten selbst aufgehoben und aus den ideellen Faktoren eine wahre, zugleich ideelle und reelle Synthese konstruiert wird.",
+    "Diese gibt der dritte Grundsatz: Ich setzt im Ich dem teilbaren Ich ein teilbares Nicht-Ich entgegen.12) Die unendliche objektive Sphäre, das Entgegengesetzte ist weder absolutes Ich noch absolutes Nicht-Ich, sondern das die Entgegengesetzten Umschließende, von entgegengesetzten Faktoren Ausgefüllte, die sich in dem Verhältnis befinden, daß, soviel der eine gesetzt ist, soviel der andere nicht, - insofern der eine steigt, der andere fällt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p33.json"
+}

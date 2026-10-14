@@ -1,0 +1,79 @@
+{
+ "id": "w3-1-9",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 1,
+ "chunkTitle": "Einleitung",
+ "heading": "Einleitung",
+ "blocks": [
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "11zl1aa628",
+   "sents": [
+    "Wie dieses vorläufig und im allgemeinen über die Weise und Notwendigkeit des Fortgangs gesagt worden ist, so kann noch über die Methode der Ausführung etwas zu erinnern dienlich sein.",
+    "Diese Darstellung, als ein Verhalten der Wissenschaft zu dem erscheinenden Wissen und als Untersuchung und Prüfung der Realität des Erkennen: vorgestellt, scheint nicht ohne irgendeine Voraussetzung, die als Maßstab zugrunde gelegt wird, stattfinden zu können.",
+    "Denn die Prüfung besteht in dem Anlegen eines angenommenen Maßstabes, und in der sich ergebenden Gleichheit oder Ungleichheit dessen, was geprüft wird, mit ihm [liegt] die Entscheidung, ob es richtig oder unrichtig ist; und der Maßstab überhaupt und ebenso die Wissenschaft, wenn sie der Maßstab wäre, ist dabei als das Wesen oder als das Ansich angenommen.",
+    "Aber hier, wo die Wissenschaft erst auftritt, hat weder sie selbst noch was es sei sich als das Wesen oder als das Ansich gerechtfertigt; und ohne ein solches scheint keine Prüfung stattfinden zu können."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "ufqplu9mix",
+   "sents": [
+    "Dieser Widerspruch und seine Wegräumung wird sich bestimmter ergeben, wenn zuerst an die abstrakten Bestimmungen des Wissens und der Wahrheit erinnert wird, wie sie an dem Bewußtsein vorkommen.",
+    "Dieses unterscheidet nämlich etwas von sich, worauf es sich zugleich bezieht; oder wie dies ausgedrückt wird: es ist etwas für dasselbe; und die bestimmte Seite dieses Beziehens oder des Seins von etwas für ein Bewußtsein ist das Wissen.",
+    "Von diesem Sein für ein Anderes unterscheiden wir aber das Ansichsein, (las auf das Wissen Bezogene wird ebenso von ihm unterschieden und gesetzt als seiend auch außer dieser Beziehung; die Seite dieses Ansich heißt Wahrheit.",
+    "Was eigentlich an diesen Bestimmungen sei, geht uns weiter hier nichts an; denn indem das erscheinende Wissen unser Gegenstand ist, so werden auch zunächst seine Bestimmungen aufgenommen, wie sie sich unmittelbar darbieten; und so, wie sie gefaßt worden sind, ist es wohl, daß sie sich darbieten."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "qngxad1u5z",
+   "sents": [
+    "Untersuchen wir nun die Wahrheit des Wissens, so scheint es, wir untersuchen, was es an sich ist.",
+    "Allein in dieser Untersuchung ist es unser Gegenstand, es ist für uns; und das Ansich desselben, welches sich ergäbe, [wäre] so vielmehr sein Sein für uns; was wir als sein Wesen behaupten würden, wäre vielmehr nicht seine Wahrheit, sondern nur unser Wissen von ihm.",
+    "Das Wesen oder der Maßstab fiele in uns, und dasjenige, was mit ihm verglichen und über welches durch diese Vergleichung entschieden werden sollte, hätte ihn nicht notwendig anzuerkennen."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "bjeite1fvx",
+   "sents": [
+    "Aber die Natur des Gegenstandes, den wir untersuchen, überhebt dieser Trennung oder dieses Scheins von Trennung und Voraussetzung.",
+    "Das Bewußtsein gibt seinen Maßstab an ihm selbst, und die Untersuchung wird dadurch eine Vergleichung seiner mit sich selbst sein; denn die Unterscheidung, welche soeben gemacht worden ist, fällt in es.",
+    "Es ist in ihm eines für ein Anderes, oder es hat überhaupt die Bestimmtheit des Moments des Wissens an ihm; zugleich ist ihm dies Andere nicht nur für es, sondern auch außer dieser Beziehung oder an sich, das Moment der Wahrheit.",
+    "An dem also, was das Bewußtsein innerhalb seiner für das Ansich oder das Wahre erklärt, haben wir den Maßstab, den es selbst aufstellt, sein Wissen daran zu messen.",
+    "Nennen wir das Wissen den Begriff, das Wesen oder das Wahre aber das Seiende oder den Gegenstand, so besteht die Prüfung darin, zuzusehen, ob der Begriff dem Gegenstande entspricht.",
+    "Nennen wir aber das Wesen oder das Ansich des Gegenstandes den Begriff und verstehen dagegen unter dem Gegenstande ihn als Gegenstand, nämlich wie er für ein Anderes ist, so besteht die Prüfung darin, daß wir zusehen, ob der Gegenstand seinem Begriffe entspricht.",
+    "Man sieht wohl, daß beides dasselbe ist; das Wesentliche aber ist, dies für die ganze Untersuchung festzuhalten, daß diese beiden Momente, Begriff und Gegenstand, Für-ein-Anderes– und An-sich-selbst-Sein, in das Wissen, das wir untersuchen, selbst fallen und hiermit wir nicht nötig haben, Maßstäbe mitzubringen und unsere Einfälle und Gedanken bei der Untersuchung zu applizieren; dadurch, daß wir diese weglassen, erreichen wir es, die Sache, wie sie an und für sich selbst ist, zu betrachten."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "16akq5c1rf",
+   "sents": [
+    "Aber nicht nur nach dieser Seite, daß Begriff und Gegenstand, der Maßstab und das zu Prüfende, in dem Bewußtsein selbst vorhanden sind, wird eine Zutat von uns überflüssig, sondern wir werden auch der Mühe der Vergleichung beider und der eigentlichen Prüfung überhoben, so daß, indem das Bewußtsein sich selbst prüft, uns auch von dieser Seite nur das reine Zusehen bleibt.",
+    "Denn das Bewußtsein ist einerseits Bewußtsein des Gegenstandes, andererseits Bewußtsein seiner selbst; Bewußtsein dessen, was ihm das Wahre ist, und Bewußtsein seines Wissens davon.",
+    "Indem beide für dasselbe sind, ist es selbst ihre Vergleichung; es wird für dasselbe, ob sein Wissen von dem Gegenstande diesem entspricht oder nicht.",
+    "Der Gegenstand scheint zwar für dasselbe nur so zu sein, wie es ihn weiß; es scheint gleichsam nicht dahinterkommen zu können, wie er nicht für dasselbe, sondern wie er an sich ist, und also auch sein Wissen nicht an ihm prüfen zu können.",
+    "Allein gerade darin, daß es überhaupt von einem Gegenstande weiß, ist schon der Unterschied vorhanden, daß ihm etwas das Ansich, ein anderes Moment aber das Wissen oder das Sein des Gegenstandes für das Bewußtsein ist.",
+    "Auf dieser Unterscheidung, welche vorhanden ist, beruht die Prüfung.",
+    "Entspricht sich in dieser Vergleichung beides nicht, so scheint das Bewußtsein sein Wissen ändern zu müssen, um es dem Gegenstande gemäß zu machen; aber in der Veränderung des Wissens ändert sich ihm in der Tat auch der Gegenstand selbst, denn das vorhandene Wissen war wesentlich ein Wissen von dem Gegenstande; mit dem Wissen wird auch er ein anderer, denn er gehörte wesentlich diesem Wissen an.",
+    "Es wird hiermit dem Bewußtsein, daß dasjenige, was ihm vorher das Ansich war, nicht an sich ist oder daß es nur für es an sich war.",
+    "Indem es also an seinem Gegenstande sein Wissen diesem nicht entsprechend findet, hält auch der Gegenstand selbst nicht aus; oder der Maßstab der Prüfung ändert sich, wenn dasjenige, dessen Maßstab er sein sollte, in der Prüfung nicht besteht; und die Prüfung ist nicht nur eine Prüfung des Wissens, sondern auch ihres Maßstabes."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/1.p9.json"
+}

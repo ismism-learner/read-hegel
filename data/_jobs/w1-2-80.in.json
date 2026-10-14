@@ -1,0 +1,35 @@
+{
+ "id": "w1-2-80",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "Über den Unterschied der Szene des Todes",
+ "heading": "Über den Unterschied der Szene des Todes",
+ "blocks": [
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "1khcvwjspk",
+   "sents": [
+    "Warum reichen uns Beispiele von Menschen nicht hin, uns im Kampf der Tugend zu stärken, den göttlichen Funken in uns, die Kraft, die in uns liegt, über das Sinnliche Meister zu werden, zu fühlen?",
+    "Warum erkennen wir in tugendhaften Menschen nicht, daß sie nicht nur Fleisch von unserem Fleisch, Bein von unserem Bein [sind], sondern fühlen auch die moralische Sympathie, daß dies Geist von unserem Geist, Kraft von unserer Kraft ist? - Ach, man hat uns überredet, daß diese Vermögen fremdartig, daß der Mensch nur in die Reihe der Naturwesen, und zwar verdorbener gehöre, man hat die Idee der Heiligkeit gänzlich isoliert und allein einem fernen Wesen beigelegt, sie mit der Einschränkung unter eine sinnliche Natur für unvereinbar gehalten; - wenn daher dieser moralische Vollkommenheit zugeschrieben werden könnte, so würde sie nicht einen Teil unseres eigenen Wesens ausmachen, sondern nur durch Verbindung jenes Wesens aller Wesen selbst mit uns, durch sein Einwohnen in uns (unio mystica) sein Wirken in uns möglich sein.",
+    "Diese Erniederung der menschlichen Natur erlaubt es uns also nicht, in tugendhaften Menschen uns selbst wiederzuerkennen, - für ein solches Ideal, das uns Bild der Tugend wäre, bedurfte es eines Gottmenschen.",
+    "Wohl uns immer noch, wenn wir das wahrhaft Göttliche in ihm finden, nicht gerade darin, daß er die zweite Person der Gottheit, daß er vom Vater von Ewigkeit her gezeugt usw., sondern darin, daß sein Geist, seine Gesinnung mit dem moralischen Gesetz übereinstimmte, dessen Idee wir am Ende freilich aus uns selbst holen müssen, wenn schon sein Buchstabe in Zeichen und Worten gegeben sein kann.",
+    "Daß aber dies wahre Göttliche in ihr oft verkannt, beiseite gesetzt worden ist, zeigen einesteils die Streitigkeiten oft auf Leben und Tod der Gelehrten und der Priester - d. h. derer, deren Pflicht es war, die Aufmerksamkeit auf jene moralischen Eigenschaften zu erhalten - über für die Moral so unfruchtbare Prädikate als die ewige Zeugung, die Art der Verbindung des Göttlichen mit dem Menschlichen usw., über welche außerwesentlichen Eigenschaften man in schulgerechten Kompendien die erschöpfendsten Bestimmungen findet, die am Ende so fein werden, daß sie einem unter den Fingern entwischen.",
+    "Die verschiedenen Meinungen hierüber sind zu wesentlichen Angelegenheiten der Religion gemacht, sie sind nicht in den Studierstuben geblieben, sondern das Volk, die Regierungen sind zur Teilnahme aufgefordert worden, um ihre Gewalt gegen die andersdenkende Partei zu gebrauchen und diese in ihrem Blute oder im Kerker ihre Irrtümer büßen zu lassen.",
+    "Auf diesem Wege ist offenbar das Wesentliche des Ideals übersehen, mißkannt worden - die Eigenschaft, wegen welcher es für uns Ideal, göttlich sein sollte.",
+    "Nicht weniger aber zeigen uns andere ebenso traurige Erfahrungen, daß dies nicht die einzig mögliche Art war, es zu verkennen, daß die Menschen noch an außerwesentlicheren Eigenschaften desselben hängen, für dieselben ihr eigenes und fremdes Blut aufopfern konnten, für seinen bloßen Namen, für Worte, die damit verbunden wurden oder die von ihm herrühren (S. 85).",
+    "Durch welche Veranstaltungen es aber zustande gebracht werden könne, daß in Christo nicht der Mensch nur, nicht sein Name nur, sondern die Tugend selbst erkannt und geliebt werde, die Beantwortung dieser Frage beruht auf der Auflösung des Problems, wie ein Volk überhaupt zur Empfänglichkeit für moralische Ideen und zur Moralität großgezogen werden könne, ein Problem, dessen Ausführung für unsere Absicht zu weitaussehend wäre und wovon bloß Gegenstand unserer Betrachtung der Anteil [ist], den die christliche Religion beiläufig durch die Umwege ihres Glaubens daran nehmen will.",
+    "Der Angel aber, um den sich die ganze Hoffnung unserer Seligkeit dreht, ist der Glaube an Christum als den Versöhner Gottes mit der Welt, als den, der an unserer Statt die Strafen trug, die das Menschengeschlecht teils wegen seiner natürlichen Verdorbenheit, teils selbstverschuldet verdient hatte, welche Leiden eines Unschuldigen - denn er war Gott - an der unermeßlichen Schuld des Menschengeschlechts abgeschrieben und uns zugute aufgerechnet werden sollen. - Gegen dieses Stockwerk im Gebäude des christlichen Glaubens sind die anderen Lehren nur als so viele unterstützende Strebepfeiler anzunehmen; darum war es nötig, die Nichtswürdigkeit der Menschen und ihre Unfähigkeit, natürlicherweise je einen Wert zu bekommen, [zu behaupten], die Lehre von der Gottheit Christi - denn nur das Leiden eines solchen konnte die Schuld des Menschengeschlechts aufwiegen -, darum [auch] die Lehre von der freien Gnade Gottes, weil jene Geschichte, an die unsere Seligkeit gebunden ist, der halben Welt ohne ihr Verschulden unbekannt bleiben konnte, und so manche andere, die damit zusammenhängt, auszubilden.",
+    "Wenn man dabei auch die abgeschmackte Vorstellung, Christus habe in der Tat selbst die Strafe der ganzen Welt in seinen Leiden ausgestanden, dadurch entfernt, daß man nur überhaupt sagt, Gott habe an diese Leiden die Vergebung unserer Sünden geknüpft, sie seien die Bedingung der Wiederkehr seiner Gnade gewesen, welches der Mensch freilich aus seinem moralischen Verhältnis zur Gottheit nicht begreifen [kann] und wodurch der obigen Ungereimtheit eben nicht so gar viel abgeholfen ist, so bleibt also noch der Hauptgedanke übrig: wegen fremden Verdienstes wird den Menschen ihre Schuld erlassen, wenn sie nur dies glauben wollen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/2.p80.json"
+}

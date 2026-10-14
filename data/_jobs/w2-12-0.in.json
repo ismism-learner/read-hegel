@@ -1,0 +1,97 @@
+{
+ "id": "w2-12-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 12,
+ "chunkTitle": "[IV]",
+ "heading": "[IV]",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "8c4eeo6hbx",
+   "text": "[IV]"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "ek8qi9xvr4",
+   "sents": [
+    "Nachdem wir so die absolute Sittlichkeit in den Momenten ihrer Totalität dargestellt und ihre Idee konstruiert, auch die in Beziehung auf sie herrschende Unterscheidung von Legalität und Moralität nebst den damit zusammenhängenden Abstraktionen der allgemeinen Freiheit einer formellen praktischen Vernunft als wesenlose Gedankendinge vernichtet und nicht durch Vermischung etwa beider Prinzipien, sondern durch Aufhebung derselben und Konstituierung der absoluten sittlichen Identität die Unterschiede der Wissenschaft des Naturrechts und der Moral nach der absoluten Idee bestimmt haben, so haben wir festgesetzt, daß ihr Wesen nicht eine Abstraktion, sondern die Lebendigkeit des Sittlichen sei und ihr Unterschied nur das Äußere und Negative betreffe und dieser Unterschied zugleich das völlig umgekehrte Verhältnis gegen den anderen sei, indem nach dem letzteren dem Naturrecht das Formelle und Negative, der Moral aber das Absolute und Positive als Wesen gegeben werden soll, aber so, daß auch selbst dieses Absolute nach der Wahrheit ein nicht weniger Formelles und Negatives und, was hier Formelles und Negatives heißt, vollends schlechthin gar nichts ist."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "n4dv01vhvo",
+   "sents": [
+    "Wir brauchen nun, um noch das Verhältnis des Naturrechts zu den positiven Rechtswissenschaften anzugeben, nur die Fäden desselben da aufzunehmen, wo wir es nicht weiter verfolgten, und die Stelle zu bezeichnen, wo es ausläuft."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "15s3ryuu67",
+   "sents": [
+    "Zum voraus bemerken wir überhaupt, daß die Philosophie sich durch die Allgemeinheit des Begriffs einer Bestimmtheit oder einer Potenz willkürlich ihre Grenze im Verhältnis zu einer bestimmten Wissenschaft steckt.",
+    "Die bestimmte Wissenschaft ist nichts anderes als die fortgehende Darstellung und Analyse (das Wort im höheren Sinne genommen), wie das, was die Philosophie unentwickelt als eine einfache Bestimmtheit läßt, sich wieder verzweigt und selbst Totalität ist.",
+    "Die Möglichkeit aber einer solchen Entwicklung liegt formell darin, daß in der Idee unmittelbar das Gesetz der absoluten Form und der Totalität ist, nach welchem eine Bestimmtheit weiter zu erkennen und zu entwickeln ist.",
+    "Die reale Möglichkeit aber ist dadurch vorhanden, daß eine solche von der Philosophie nicht entwickelte Bestimmtheit oder Potenz nicht eine Abstraktion oder wahrhaft einfaches Atom, sondern wie alles in der Philosophie Realität [ist], und eine Realität ist darum Realität, daß sie Totalität und selbst das System der Potenzen ist; als solche die Potenz dar[zu]stellen, ist die Entwicklung, welche der bestimmten Wissenschaft angehört."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "xg1hbh1hij",
+   "sents": [
+    "Es folgt hieraus, daß wir vorderhand sagen könnten, daß ein guter Teil dessen, was positive Rechtswissenschaften heißt, vielleicht das Ganze derselben in die vollkommen entwickelte und ausgebreitete Philosophie fallen würde und daß sie darum, weil sie sich als eigene Wissenschaften konstituieren, weder aus der Philosophie ausgeschlossen noch ihr entgegengesetzt sind; es ist durch das Fürsichsein und die empirische Unterscheidung dieses Corps von Wissenschaften keine wahrhafte Unterscheidung desselben von der Philosophie gesetzt.",
+    "Daß sie sich empirische Wissenschaften nennen, welche teils ihre Anwendbarkeit in der wirklichen Welt haben und ihre Gesetze und Verfahrungsart auch vor der gemeinen Vorstellungsart geltend machen wollen, teils sich auf individuelle Systeme bestehender Verfassungen und Gesetzgebungen beziehen und einem bestimmten Volke sowie einer bestimmten Zeit angehören, bestimmt keinen sie notwendig von der Philosophie ausschließenden Unterschied, denn es muß nichts so anwendbar auf die Wirklichkeit sein und vor der allgemeinen Vorstellungsart, nämlich der wahrhaft allgemeinen (denn es gibt gemeine Vorstellungsarten, welche dabei sehr partikulär sind) so sehr gerechtfertigt sein als das, was aus der Philosophie kommt, so wie auch nichts so sehr individuell, lebendig und bestehend sein können [muß] als ebendasselbe.",
+    "Um vom Verhältnisse dieser Wissenschaften zur Philosophie sprechen zu können, muß erst ein Unterschied festgesetzt und bestimmt werden, wodurch sie positive Wissenschaften sind."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "pfl3q413az",
+   "sents": [
+    "Fürs erste begreifen nun die positiven Wissenschaften unter der Wirklichkeit, auf welche sie sich zu beziehen vorgeben, nicht nur das Geschichtliche, sondern auch die Begriffe, Grundsätze, Verhältnisse und überhaupt vieles, was an sich der Vernunft angehört und eine innere Wahrheit und Notwendigkeit ausdrücken soll.",
+    "Über solches nun sich auf die Wirklichkeit und Erfahrung zu berufen und es als ein Positives gegen Philosophie festzuhalten, muß an und für sich als unstatthaft erkannt werden.",
+    "Was die Philosophie als nicht reell erweist, von dem ist unmöglich, daß es in der Erfahrung wahrhaft vorkomme; und wenn die positive Wissenschaft sich auf die Wirklichkeit und die Erfahrung beruft, so kann die Philosophie ihren Erweis der Nichtrealität eines von der positiven Wissenschaft behaupteten Begriffes ebenso nach der empirischen Beziehung aussprechen und leugnen, daß jenes, was die positive Wissenschaft in der Erfahrung und Wirklichkeit zu finden vorgibt, in ihnen gefunden werde.",
+    "Das Meinen, daß so etwas erfahren werde, eine zufällige subjektive Ansicht wird freilich die Philosophie zugeben; aber die positive Wissenschaft, wenn sie in der Erfahrung ihre Vorstellungen und Grundbegriffe zu finden und aufzuzeigen vorgibt, will damit etwas Reales, Notwendiges und Objektives, nicht eine subjektive Ansicht behaupten.",
+    "Ob etwas eine subjektive Ansicht oder eine objektive Vorstellung, ein Meinen oder Wahrheit sei, kann die Philosophie allein ausmachen.",
+    "Der positiven Wissenschaft kann sie ad hominem ihre Weise heimgeben und außerdem, daß sie ihr das Faktum, daß eine Vorstellung derselben in der Erfahrung vorkomme, leugnet, im Gegenteil behaupten, daß nur die Vorstellung der Philosophie in der Erfahrung zu finden sei.",
+    "Daß die Philosophie ihre Vorstellung in der Erfahrung aufzeigen könne, davon liegt der Grund unmittelbar in der zweideutigen Natur dessen, was Erfahrung genannt wird.",
+    "Denn es ist nicht die unmittelbare Anschauung selbst, sondern dieselbe in das Intellektuelle erhoben, gedacht und erklärt, aus ihrer Einzelheit genommen und als Notwendigkeit ausgesprochen, was für Erfahrung gilt.",
+    "Es kommt also bei dem, was in der Erfahrung und als Erfahrung aufgezeigt wird, nicht auf dasjenige in ihr an, was wir in Beziehung auf die Trennung, welche in die Anschauung durch das Denken gebracht wird, Wirklichkeit nennen können.",
+    "Aber in das Feld des Gedankens die Anschauung gezogen, muß der Wahrheit der Philosophie das Meinen unterliegen.",
+    "Jene Unterscheidung nun dessen, was die positive Wissenschaft unmittelbar aus der Anschauung genommen zu haben meint, womit aber sie selbst als mit einem Verhältnis und Begriff derselben sie bestimmt hat, von demjenigen, was nicht dem Denken angehört, ist in jedem Falle sehr leicht aufzuzeigen und also die vollkommene Befugnis der Philosophie, sich desselben zu bemächtigen, zu erweisen.",
+    "Alsdann, weil ein solches auf die Wirklichkeit sich berufendes Denken in seinem Meinen dadurch wahrhaft positiv zu sein pflegt, daß es in der Entgegensetzung ist und Bestimmtheiten festhält, also Gedankendinge oder Dinge der Einbildung für absolut nimmt und seine Grundsätze hieraus nimmt, so ist es dem ausgesetzt, daß an jeder Bestimmtheit ihm immer die entgegengesetzte Bestimmtheit erwiesen und aus dem, was es annimmt, vielmehr gerade das Gegenteil hergeleitet wird.",
+    "So wie, wenn vermehrte Dichtigkeit oder spezifisches Gewicht eines Körpers als Erhöhung der Attraktivkraft erklärt wird, sie ebensogut als Erhöhung der Repulsivkraft erklärt werden kann, denn es kann nur um soviel angezogen werden, als zurückgestoßen wird; eines hat nur Bedeutung in Beziehung auf das andere; um was das eine größer wäre als das andere, um soviel wäre es gar nicht, und was also als Erhöhung des einen angesehen werden sollte, das kann genau als Erhöhung des Gegenteils betrachtet werden."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1jxloc21hd",
+   "sents": [
+    "So also, wenn im Naturrecht überhaupt oder bei der Theorie der Strafe insbesondere ein Verhältnis als Zwang bestimmt wird, die Philosophie aber die Nichtigkeit dieses Begriffs erweist und die positive Wissenschaft die Erfahrung und Wirklichkeit anspricht, daß doch wirklich Zwang etwas Reelles sei, daß Zwang wirklich stattfinde, so kann die von der Philosophie erwiesene Nichtrealität desselben mit eben dem Rechte und mit Berufung auf Erfahrung und Wirklichkeit so ausgedrückt werden, daß es gar keinen Zwang gebe und nie ein Mensch gezwungen werde noch gezwungen worden sei.",
+    "Denn es kommt hier ganz allein auf die Erklärung der Erscheinung an, ob zum Behuf der Vorstellung des Zwangs etwas als ein bloß Äußeres oder aber als ein Inneres betrachtet wird.",
+    "Wo also irgendwo die Existenz von Zwang aufgewiesen werden will, da kann von einer und ebenderselben Erscheinung gerade das Gegenteil gezeigt werden, nämlich daß sie nicht ein Zwang, sondern vielmehr eine Äußerung der Freiheit sei; denn dadurch, daß sie in die Form der Vorstellung aufgenommen und hiermit durch das Innere, Ideelle bestimmt wird, ist das Subjekt in der Freiheit gegen dieselbe.",
+    "Und wenn das, was als Äußeres und als Zwang angesehen werden soll, um den Gegensatz des Innern oder der Freiheit wegzuschaffen, ins Innere selbst verlegt und hiernach ein psychologischer Zwang geltend gemacht wird, so hilft diese Aufnahme des Äußeren in das Innere ebensowenig.",
+    "Denn der Gedanke bleibt schlechthin frei, und der psychologische oder der Gedankenzwang vermag nicht, ihn zu binden.",
+    "Die Möglichkeit, die Bestimmtheit, welche vorgestellt wird und als Zwang dienen soll, aufzuheben, ist absolut; es ist schlechthin möglich, daß der Verlust einer Bestimmtheit, welcher durch die Strafe angedroht, auf sich genommen und das hingegeben wird, was das Gesetz in der Strafe entreißen will.",
+    "Wenn also in der Erklärung einer Erscheinung die Vorstellung einer Bestimmtheit als Zwang wirken oder gewirkt haben soll, so ist die Erklärung aus dem Gegenteil, daß die Erscheinung eine Äußerung der Freiheit sei, ebenso schlechthin möglich.",
+    "Daß die sinnliche Triebfeder, es sei nun, die zur Handlung antreiben oder die von der Seite des Gesetzes her von ihr abschrecken soll, etwas Psychologisches, nämlich etwas Inneres ist, dadurch ist sie unmittelbar in die Freiheit gesetzt, welche von ihr abstrahieren konnte oder nicht, und eins wie das andere ist Freiheit des Willens.",
+    "Wird aber dagegengehalten, man meine doch, und es sei eine allgemeine Vorstellungsart, daß ein Zwang, und ein psychologischer, stattfinde, so ist dies fürs erste nicht wahr, sondern es wird ebensogut und ohne Zweifel allgemeiner gemeint, eine Handlung oder die Unterlassung einer Handlung komme aus dem freien Willen, und dann würde man sich zur Aufstellung von Grundsätzen und Bestimmung der Gesetze ebensowenig um das Meinen zu bekümmern haben, als die Astronomen sich in der Erkenntnis der Gesetze des Himmels von der Meinung, daß die Sonne und die Planeten und alle Sterne sich um die Erde bewegen, gerade so groß seien, als sie erscheinen usw., aufhalten lassen; sowenig als der Schiffsherr sich um die Meinung, daß das Schiff ruhe und die Ufer fortgehen, bekümmert.",
+    "Wenn beide sich an die Meinung hielten, so würden jene es unmöglich finden, das Sonnensystem zu begreifen, und dieser würde die Ruderer die Arbeit aufhören oder die Segel einziehen lassen, und beide sich sogleich in der Unmöglichkeit, ihren Zweck zu erreichen, befinden und die Nichtrealität der Meinung unmittelbar inne werden, wie sie ihr Realität zugestehen wollten, - wie oben gezeigt worden ist, daß der Zwang als Realität gedacht, d. h. in einem System und in der Totalität vorgestellt, unmittelbar sich und das Ganze aufhebt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/12.p0.json"
+}

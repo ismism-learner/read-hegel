@@ -1,0 +1,80 @@
+{
+ "id": "w3-0-62",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "1lvciwm9i6",
+   "sents": [
+    "Formell kann das Gesagte so ausgedrückt werden, daß die Natur des Urteils oder Satzes überhaupt, die den Unterschied des Subjekts und Prädikats in sich schließt, durch den spekulativen Satz zerstört wird und der identische Satz, zu dem der erstere wird, den Gegenstoß zu jenem Verhältnisse enthält.",
+    "– Dieser Konflikt der Form eines Satzes überhaupt und der sie zerstörenden Einheit des Begriffs ist dem ähnlich, der im Rhythmus zwischen dem Metrum und dem Akzente stattfindet.",
+    "Der Rhythmus resultiert aus der schwebenden Mitte und Vereinigung beider.",
+    "So soll auch Im philosophischen Satze die Identität des Subjekts und Prädikats den Unterschied derselben, den die Form des Satzes ausdrückt, nicht vernichten, sondern ihre Einheit [soll] als eine Harmonie hervorgehen.",
+    "Die Form des Satzes ist die Erscheinung des bestimmten Sinnes oder der Akzent, der seine Erfüllung unterscheidet; daß aber das Prädikat die Substanz ausdrückt und das Subjekt selbst ins Allgemeine fällt, ist die Einheit, worin jener Akzent verklingt."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "1apwbd8fm7",
+   "sents": [
+    "Um das Gesagte durch Beispiele zu erläutern, so ist in dem Satz: Gott ist das Sein, das Prädikat das Sein; es hat substantielle Bedeutung, in der das Subjekt zerfließt.",
+    "Sein soll hier nicht Prädikat, sondern das Wesen sein; dadurch scheint Gott aufzuhören, das zu sein, was er durch die Stellung des Satzes ist, nämlich das feste Subjekt.",
+    "– Das Denken, statt im Übergänge vom Subjekte zum Prädikate weiterzukommen, fühlt sich, da das Subjekt verlorengeht, vielmehr gehemmt und zu dem Gedanken des Subjekts, weil es dasselbe vermißt, zurückgeworfen; oder es findet, da das Prädikat selbst als ein Subjekt, als das Sein, als das Wesen ausgesprochen ist, welches die Natur des Subjekts erschöpft, das Subjekt unmittelbar auch im Prädikate; und nun, statt daß es im Prädikate in sich gegangen die freie Stellung des Räsonierens erhielte, ist es in den Inhalt noch vertieft, oder wenigstens ist die Forderung vorhanden, in ihn vertieft zu sein.",
+    "– So auch wenn gesagt wird: das Wirkliche ist das Allgemeine, so vergeht das Wirkliche als Subjekt in seinem Prädikate.",
+    "Das Allgemeine soll nicht nur die Bedeutung des Prädikats haben, so daß der Satz dies aussagte, das Wirkliche sei allgemein; sondern das Allgemeine soll das Wesen des Wirklichen ausdrücken.",
+    "– Das Denken verliert daher so sehr seinen festen gegenständlichen Boden, den es am Subjekte hatte, als es im Prädikate darauf zurückgeworfen wird und in diesem nicht in sich, sondern in das Subjekt des Inhalts zurückgeht."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "1hx8tleje2",
+   "sents": [
+    "Auf diesem ungewohnten Hemmen beruhen großenteils die Klagen über die Unverständlichkeit philosophischer Schriften, wenn anders im Individuum die sonstigen Bedingungen der Bildung, sie zu verstehen, vorhanden sind.",
+    "Wir sehen in dem Gesagten den Grund des ganz bestimmten Vorwurfs, der ihnen oft gemacht wird, daß mehreres erst wiederholt gelesen werden müsse, ehe es verstanden werden könne, – ein Vorwurf, der etwas Ungebührliches und Letztes enthalten soll, so daß er, wenn er gegründet, weiter keine Gegenrede zulasse.",
+    "– Es erhellt aus dem Obigen, welche Bewandtnis es damit hat.",
+    "Der philosophische Satz, weil er Satz ist, erweckt die Meinung des gewöhnlichen Verhältnisses des Subjekts und Prädikats und des gewohnten Verhaltens des Wissens.",
+    "Dies Verhalten und die Meinung desselben zerstört sein philosophischer Inhalt; die Meinung erfährt, daß es anders gemeint ist, als sie meinte, und diese Korrektion seiner Meinung nötigt das Wissen, auf den Satz zurückzukommen und ihn nun anders zu fassen."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "b06jjkb04e",
+   "sents": [
+    "Eine Schwierigkeit, die vermieden werden sollte, macht die Vermischung der spekulativen und der räsonierenden Weise aus, wenn einmal das vom Subjekte Gesagte die Bedeutung seines Begriffs hat, das andere Mal aber auch nur die Bedeutung seines Prädikats oder Akzidens.",
+    "– Die eine Weise stört die ändere, und erst diejenige philosophische Exposition würde es erreichen, plastisch zu sein, welche streng die Art des gewöhnlichen Verhältnisses der Teile eines Satzes ausschlösse."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1764ger1e2",
+   "sents": [
+    "In der Tat hat auch das nicht spekulative Denken sein Recht, das gültig, aber in der Weise des spekulativen Satzes nicht beachtet ist.",
+    "Daß die Form des Satzes aufgehoben wird, muß nicht nur auf unmittelbare Weise geschehen, nicht durch den bloßen Inhalt des Satzes.",
+    "Sondern diese entgegengesetzte Bewegung muß ausgesprochen werden; sie muß nicht nur jene innerliche Hemmung, sondern dies Zurückgehen des Begriffs in sich muß dargestellt sein.",
+    "Diese Bewegung, welche das ausmacht, was sonst der Beweis leisten sollte, ist die dialektische Bewegung des Satzes selbst.",
+    "Sie allein ist das wirkliche Spekulative, und nur das Aussprechen derselben ist spekulative Darstellung.",
+    "Als Satz ist das Spekulative nur die innerliche Hemmung und die nicht daseiende Rückkehr des Wesens in sich.",
+    "Wir sehen uns daher oft von philosophischen Expositionen an dieses innere Anschauen verwiesen und dadurch die Darstellung der dialektischen Bewegung des Satzes erspart, die wir verlangten.",
+    "– Der Satz soll ausdrücken, was das Wahre ist, aber wesentlich ist es Subjekt; als dieses ist es nur die dialektische Bewegung, dieser sich selbst erzeugende, fortleitende und in sich zurückgehende Gang.",
+    "– Bei dem sonstigen Erkennen macht der Beweis diese Seite der ausgesprochenen Innerlichkeit aus.",
+    "Nachdem aber die Dialektik vom Beweise getrennt worden, ist in der Tat der Begriff des philosophischen Beweisens verlorengegangen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p62.json"
+}

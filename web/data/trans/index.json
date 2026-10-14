@@ -1,0 +1,255 @@
+{
+ "generated": "2026-10-14T11:10:02.964Z",
+ "pipeline": "DE → EN → ZH, produced by this agent (no published translation used)",
+ "style": "平实白话中文，贴近原文语气",
+ "volumes": {
+  "w1": {
+   "0": {
+    "blocks": 63,
+    "sentences": 119,
+    "headings": 6
+   },
+   "1": {
+    "blocks": 61,
+    "sentences": 155,
+    "headings": 6
+   },
+   "2": {
+    "blocks": 71,
+    "sentences": 171,
+    "headings": 10
+   },
+   "3": {
+    "blocks": 30,
+    "sentences": 109,
+    "headings": 16
+   },
+   "4": {
+    "blocks": 32,
+    "sentences": 88,
+    "headings": 6
+   },
+   "5": {
+    "blocks": 37,
+    "sentences": 109,
+    "headings": 3
+   },
+   "6": {
+    "blocks": 28,
+    "sentences": 95,
+    "headings": 5
+   },
+   "7": {
+    "blocks": 45,
+    "sentences": 190,
+    "headings": 3
+   },
+   "8": {
+    "blocks": 88,
+    "sentences": 221,
+    "headings": 12
+   },
+   "9": {
+    "blocks": 64,
+    "sentences": 214,
+    "headings": 6
+   },
+   "10": {
+    "blocks": 114,
+    "sentences": 241,
+    "headings": 1
+   },
+   "11": {
+    "blocks": 66,
+    "sentences": 436,
+    "headings": 1
+   },
+   "12": {
+    "blocks": 22,
+    "sentences": 130,
+    "headings": 0
+   },
+   "13": {
+    "blocks": 24,
+    "sentences": 200,
+    "headings": 15
+   },
+   "14": {
+    "blocks": 64,
+    "sentences": 251,
+    "headings": 13
+   },
+   "15": {
+    "blocks": 60,
+    "sentences": 118,
+    "headings": 4
+   },
+   "16": {
+    "blocks": 73,
+    "sentences": 170,
+    "headings": 3
+   },
+   "17": {
+    "blocks": 61,
+    "sentences": 161,
+    "headings": 2
+   },
+   "18": {
+    "blocks": 68,
+    "sentences": 167,
+    "headings": 2
+   },
+   "19": {
+    "blocks": 53,
+    "sentences": 143,
+    "headings": 7
+   },
+   "20": {
+    "blocks": 72,
+    "sentences": 191,
+    "headings": 16
+   },
+   "21": {
+    "blocks": 14,
+    "sentences": 61,
+    "headings": 2
+   }
+  },
+  "w2": {
+   "0": {
+    "blocks": 36,
+    "sentences": 172,
+    "headings": 7
+   },
+   "1": {
+    "blocks": 87,
+    "sentences": 399,
+    "headings": 5
+   },
+   "2": {
+    "blocks": 77,
+    "sentences": 296,
+    "headings": 2
+   },
+   "3": {
+    "blocks": 25,
+    "sentences": 115,
+    "headings": 4
+   },
+   "4": {
+    "blocks": 68,
+    "sentences": 177,
+    "headings": 5
+   },
+   "5": {
+    "blocks": 75,
+    "sentences": 298,
+    "headings": 2
+   },
+   "6": {
+    "blocks": 41,
+    "sentences": 135,
+    "headings": 11
+   },
+   "7": {
+    "blocks": 30,
+    "sentences": 141,
+    "headings": 1
+   },
+   "8": {
+    "blocks": 60,
+    "sentences": 300,
+    "headings": 1
+   },
+   "9": {
+    "blocks": 47,
+    "sentences": 225,
+    "headings": 1
+   },
+   "10": {
+    "blocks": 46,
+    "sentences": 218,
+    "headings": 3
+   },
+   "11": {
+    "blocks": 21,
+    "sentences": 108,
+    "headings": 1
+   },
+   "12": {
+    "blocks": 33,
+    "sentences": 110,
+    "headings": 3
+   },
+   "13": {
+    "blocks": 123,
+    "sentences": 462,
+    "headings": 2
+   },
+   "14": {
+    "blocks": 43,
+    "sentences": 114,
+    "headings": 3
+   }
+  },
+  "w3": {
+   "0": {
+    "blocks": 72,
+    "sentences": 477,
+    "headings": 1
+   },
+   "1": {
+    "blocks": 38,
+    "sentences": 199,
+    "headings": 3
+   },
+   "2": {
+    "blocks": 56,
+    "sentences": 357,
+    "headings": 2
+   },
+   "3": {
+    "blocks": 65,
+    "sentences": 335,
+    "headings": 4
+   },
+   "4": {
+    "blocks": 65,
+    "sentences": 374,
+    "headings": 4
+   },
+   "5": {
+    "blocks": 49,
+    "sentences": 273,
+    "headings": 2
+   },
+   "6": {
+    "blocks": 51,
+    "sentences": 241,
+    "headings": 4
+   },
+   "7": {
+    "blocks": 34,
+    "sentences": 196,
+    "headings": 3
+   },
+   "8": {
+    "blocks": 37,
+    "sentences": 222,
+    "headings": 5
+   },
+   "9": {
+    "blocks": 64,
+    "sentences": 414,
+    "headings": 5
+   }
+  }
+ },
+ "totals": {
+  "blocks": 2553,
+  "sentences": 10098,
+  "headings": 223,
+  "segmentsTotal": 17948,
+  "sentencesTotal": 92117
+ }
+}

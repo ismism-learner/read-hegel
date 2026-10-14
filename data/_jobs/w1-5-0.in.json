@@ -1,0 +1,111 @@
+{
+ "id": "w1-5-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "Streit der Kirche mit dem Staate",
+ "heading": "Streit der Kirche mit dem Staate",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1jnl51b1t8",
+   "text": "Streit der Kirche mit dem Staate"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1n0dyha3v0",
+   "sents": [
+    "a) Die bürgerlichen Gesetze betreffen die Sicherheit der Personen und des Eigentums eines jeden Bürgers, wobei seine religiösen Meinungen schlechterdings nicht in Betracht kommen; welchem Glauben er also zugetan ist, so ist es Pflicht des Staates, seine Rechte als Bürger zu schützen, und gegen den Staat kann er derselben nur verlustig werden, wenn er die Rechte anderer verletzt; alsdann macht der Staat diejenigen Maximen gegen ihn geltend und behandelt ihn danach, die der Bürger äußert; in Ansehung des Glaubens kann er sich gegen den Staat zu nichts verbinden, denn der Staat ist nicht fähig, solche Bedingungen zu machen oder anzunehmen."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1u81tvo25b",
+   "sents": [
+    "Auf der anderen Seite aber sind alle Mitglieder dieses Staates in einer Kirche vereinigt; und als eine Gesellschaft hat sie das Recht, jeden, der sich ihre Gesetze nicht gefallen lassen will, von sich auszuschließen.",
+    "Der Bürger nun, der den Glauben der Kirche nicht hat oder verläßt, fordert vom Staate als ein Recht [seine] Fähigkeit, die bürgerlichen Rechte auszuüben; die Kirche aber schließt ihn aus ihrer Gemeinschaft und, weil sie den ganzen Staat umfaßt, zugleich vom Staate aus.",
+    "Welcher Teil behauptet nun sein Recht, - der bürgerliche Staat, der den guten Bürger (und in Ansehung seiner Gesetze wollen und können wir ihn für gut annehmen, er mag einen Glauben haben, welchen er will) bei seinen Rechten zu sichern die Pflicht auf sich genommen [hat] und sich auf den Glauben gar nicht einlassen kann, oder der kirchliche Staat, der das Recht hat, einen Andersgläubigen von seiner Gemeinschaft auszuschließen, und ihn somit auch aus dem Staate ausschließt?",
+    "In den beinahe allermeisten katholischen als protestantischen Ländern hat der kirchliche gegen den bürgerlichen Staat seine Rechte behauptet; und kein Andersgläubiger ist darin fähig, bürgerliche Rechte zu erlangen, noch des Schutzes der Gesetze sowohl in Kriminal- als Zivilfällen zu genießen, den ein Bürger genießt; er kann keine Art von liegendem Eigentum erwerben, kein Amt des Staats verwalten, wird auch in Ansehung der Auflagen anders behandelt; sogar da die Taufe nicht bloß ein kirchlicher Aktus ist, durch den man in die Kirche eintritt, sondern auch ein bürgerlicher Aktus ist, dadurch dem Staate die Existenz des Kindes kundgetan wird und an ihn wenigstens soviel Rechte angesprochen werden, als die Kirche erlauben wird, so nötigt diese den Vater des Kinds, dessen Glaube von dem Glauben der Kirche des Landes abweicht, es nach ihren Gebräuchen und von einem ihrer Beamten taufen zu lassen, welches die Kirche nicht in dem Sinne tut, als ob sie das Kind dadurch in ihren Schoß aufnähme, denn sie überläßt es nachher ganz dem Vater, es in seiner Religion auferziehen zu lassen, sondern sie beweist nur dadurch, daß sie dem bürgerlichen Staat das Recht abgenommen hat, Bürger aufzunehmen; indem ihre Taufe bei dem Kinde eines Anhängers der herrschenden Kirche Aufnahme sowohl in ihren Schoß als in den Staat ist. - Der ähnliche Fall findet auch bei der Ehe statt, die in vielen Ländern auch, um gültig zu sein, nur von einem Beamten der herrschenden Kirche vollzogen wird; wobei diese sich nicht aufdrängt, eine Zeremonie des fremden Glaubens, dem die sich Vermählenden anhängen, zu verrichten, sondern eine bürgerliche Handlung verrichtet.",
+    "So hat also der bürgerliche an den kirchlichen Staat, sowohl wenn beide in Kollision kommen, als wenn eine zweiseitige Handlung [vorliegt], wo es der Sanktion von beiden bedarf, seine Rechte und sein Amt abgetreten."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "gao78jpcpu",
+   "sents": [
+    "Auf eine ähnliche Art, wie sich die Kirche gegen den Staat verhält, so verhalten sich auch die Zünfte und ihre Rechte gegen ihn.",
+    "Auch diese bilden eine Gesellschaft im Staat, an welche ihre Mitglieder gewisse Rechte abtreten und durch den Eintritt in dieselbe gewisse Pflichten übernehmen.",
+    "Eine solche Zunft in einer Stadt umfaßt also alle, die vom gleichen Handwerk sind, und hat nach dem Rechte einer Gesellschaft das Recht, aufzunehmen, wen sie will, und auszuschließen, wer sich nicht in ihre Ordnungen fügt.",
+    "Nun hat auf der anderen Seite der Staat die Pflicht, jeden, der ohne die bürgerlichen Gesetze zu beleidigen (und diese können für sich nichts über Zünfte bestimmen), auf welche Art es sei, sich ernähren will, zu schützen; wenn es ihm aber die Zunft nicht gestattet, [ihn] also von sich ausschließt, so schließt sie ihn zugleich aus der ganzen Gemeine aus und raubt ihm ein Recht, das ihm der Staat gestattet, hindert ihn, ein bürgerliches Recht auszuüben; und auch hierin hat der Staat dem Rechte seiner Bürger entsagt."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "10xfh9y1h0",
+   "sents": [
+    "Ebenso hat der Staat das Recht, wen er zur wissenschaftlichen Bildung seiner Jugend gebrauchen will, zu einem solchen Beamten anzunehmen, wen er dazu brauchbar findet; aber die Mitglieder jedes Zweigs der Gelehrsamkeit haben sich in eine Zunft vereinigt, und eine solche behauptet das Recht, aufzunehmen oder auszuschließen, wie ihre Gesetze angenommen werden oder nicht; und weil ein solcher, der nicht zünftig wäre, von dieser Gesellschaft, also zugleich insofern vom Staate ausgeschlossen würde, so hat der Staat sein Recht aufgegeben und ist genötigt, zu seinen gelehrten Beamten solche zu nehmen, die in der Zunft dieses Zweigs der Wissenschaften Meister (magistri oder doctores) geworden sind, oder nötigt wenigstens einen solchen Beamten, nachher sich in ihre Zunft aufnehmen zu lassen, und wenn er dazu keine Lust hätte, da doch die Zunft ihr Recht behaupten will, so macht sie ihm ein Geschenk mit dieser Meisterschaft, welche Ehre er dann nicht wohl ausschlagen kann, oder bloß aus Bizarrerie es tun würde."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "10r3z4o17d",
+   "sents": [
+    "Wenn daher in neueren Zeiten die den Akatholiken von einigen katholischen Regierungen erwiesene Einräumung bürgerlicher Rechte, der Anstellung eigener Geistlichen und der Erbauung eigener Kirchen, von der einen Seite als eine großmütige Toleranz gepriesen, von anderer Seite aber behauptet worden ist, das gebrauchte Wort der Toleranz, Duldung sei hier gar nicht an seinem Platze, was geschehen sei, sei bloße Gerechtigkeit, so lassen sich diese Widersprüche so vereinigen, daß von seiten des Staats die Einräumung dieser Rechte unstreitig weiter nichts als die Aufhebung einer großen Ungerechtigkeit und also eine Pflicht war; hingegen von seiten der Kirche, die das Recht hat, Andersgläubige zwar nicht, wie sie ehemals und hier und da noch behauptet, von Luft, Boden und Wasser, aber doch vom Staate auszuschließen, ist es immer Duldung, und wenn der Staat es als Pflicht fordert, die Rechte Andersgläubiger zu respektieren, so sprechen die Beamten der duldenden (auch protestantischen) Kirche immer von Schonung, von Mitleiden, von Liebe, die man gegen Irrende zu beweisen habe, von Neigungen, die nicht als Pflichten geboten werden können, sondern die man freiwillig gegen sie zeigen soll."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "mrqwdo6elu",
+   "sents": [
+    "b) Zur Feierung ihres Gottesdienstes, zu ihrem Unterricht in religiösen Gegenständen brauchen alle Gemeinden besondere Gebäude, besondere Lehrer und sonst noch einige Personen; zur Erbauung der ersteren und der Unterhaltung beider hat das gesamte Volk, und zur Verschönerung mancher gottesdienstlichen Geräte [haben] einzelne freiwillige Abgaben und Beiträge entrichtet; die errichteten Gebäude, die bestimmten Besoldungen und Einkünfte der Lehrer und anderen Kirchendiener sind also ein Eigentum der Gemeinden, des Volkes überhaupt, [nicht] des Staats; aber sie sind fast immer insofern als ein Eigentum des Staats betrachtet worden, insofern dieser sich oder insofern sich überhaupt viele Gemeinden in einen kirchlichen Staat vereinigt haben; diese Unterscheidung, ob die Kirchen und Einkünfte der Kirchendiener ein Eigentum des Staats, als bürgerlichen oder als kirchlichen Staats seien, ist von keinem Belang und zeigt sich auch nicht, solange in einem Staate nur eine Kirche sich findet; aber der Unterschied fällt sogleich in die Augen und veranlaßt Zwist, sobald verschiedene Kirchen sich ansiedeln."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "6myfcgjayb",
+   "sents": [
+    "Die erst Boden gewinnende Kirche fordert aus Gründen, die aus den bürgerlichen Rechten genommen sind, Anteil an diesem Eigentum des Staats; und der Staat ist verpflichtet, den Gemeinden, welchem Glauben sie anhangen, Kirchen zu ihrem Gottesdienste einzuräumen und Lehrer nach ihrem Sinne anzuordnen, dahingegen die bisher herrschende Kirche ihr Recht an ihr ihr übertragenes und nie bestrittenes Eigentum behauptet, hat der Staat Kraft genug, sein Recht zu behaupten und sind seine Verwalter einsichtsvoll, unparteiisch und gerecht genug, dieses sein Recht zu kennen und es behaupten zu wollen, so wird er jeder Kirche nach ihren Bedürfnissen die Mittel, nach ihrem Sinne ihren Gottesdienst zu halten, gewähren.",
+    "Ungeachtet nun ein Staat, als bürgerlicher Staat, und die Gesetzgeber und Verwalter desselben als solche keinen Glauben haben sollten, so geschieht es doch gewöhnlich, daß ihnen als Mitgliedern der herrschenden Kirche es von dieser als Pflicht aufgelegt wird, die Rechte der herrschenden Kirche zu schützen; und der Streit zwischen beiden Kirchen wird gewöhnlich nicht nach Staatsrechten entschieden, sondern gewöhnlich durch Gewalt von einer und Not von der andern Seite.",
+    "Wenn nämlich die sich einnistelnde Kirche sich so sehr ausbreitet, daß bei der Behauptung der Rechte der streitigen Kirche, die nur durch Austilgung der Anhänger der neuen Lehre oder wenigstens nur durch große Gewalttätigkeiten und großen Aufwand aufrecht erhalten werden könnten, ein allzu großer Schaden für den Staat und eine zu tiefe Beleidigung seiner Gesetze und Rechte entstünde, so wird er dadurch an seine Gefahr erinnert und räumt der neuen Kirche einige Rechte ein, gebraucht aber dabei die Sprache der Kirche und nennt dies Duldung; - oder wird der Streit auf eine andere Art geschlichtet, daß nämlich die bisher unterdrückte Kirche herrschend und alsdann die bisher herrschende nur die geduldete wird, dann tritt gemeiniglich auch der Staat wieder in den gleichen Bund mit der jetzt herrschenden Kirche und behauptet dieser ihre Rechte wieder so unbeschränkt als der vorherigen.",
+    "Es erhellt hieraus, wie aus dem oben Gesagten, daß die Bemerkung, die viele scharfsinnige Geschichtsschreiber gemacht haben, daß zur Verwunderung jede Kirche uneingedenk ihrer ausgestandenen Leiden, welche Erinnerung sie duldend gemacht haben sollte, sobald sie herrschend wurde, damit auch intolerant geworden ist, - daß diese Bemerkung nicht bloß ein aus der Geschichte und Erfahrung abstrahierter, zufälliger Satz ist, sondern daß er mit zwingender Notwendigkeit aus den Rechten jeder Kirche von selbst folgt - welches in dem Rechte jeder Gesellschaft besteht, aus ihrer Gesellschaft diejenigen auszuschließen, die sich den Gesetzen und Anordnungen der Gesellschaft nicht fügen; wenn sie also herrschend in einem Staate wird, so behauptet diese kirchliche Gesellschaft ihr Recht und schließt den Andersgläubigen aus ihrer Gemeinschaft und damit zugleich aus dem Staate aus und wird sowohl in Rücksicht auf Glauben als auf Eigentum der nicht herrschenden Kirche intolerant."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "gatz9wgblo",
+   "sents": [
+    "Dieser Gang der Dinge in Ansehung des Eigentums einer Kirche zeigte sich bei der ersten Verbreitung der christlichen Kirche und bei der Ausbreitung jeder neuen Sekte in dieser Kirche selbst.",
+    "Die Christen versammelten sich anfangs in Privathäusern, erbauten eigene gottesdienstliche Gebäude auf ihre Kosten, als sie aber herrschend wurden, so machte die Kirche ihre Rechte geltend, zerstörte die heidnischen Tempel und nahm sie für sich in Besitz, wenn schon in einer Stadt oder in einer Gemeinde noch der größte Teil Heiden waren; eine ganz christliche Gemeinde hatte nach dem Staatsrechte das Recht dazu; Julian behauptete das Kirchenrecht und Staatsrecht der Heiden und nahm den Christen wieder die Tempel, die sie den Heiden abgenommen hatten.",
+    "Die Protestanten gebrauchten die bisher katholischen Kirchen zu ihrem Gottesdienste und verwandten die Einkünfte der Geistlichen und Klöster nach ihrem Sinne; und [sie] hatten nach dem bürgerlichen Recht das Recht dazu und machten auch ihr Kirchenrecht geltend, - aber verletzten dadurch das katholische Kirchenrecht, das diese Kirche immer noch behauptet, die die protestantischen Kirchen, Bistümer, Klöster und geistlichen Einkünfte für etwas ansieht, das de jure ihr Eigentum ist, und konsequent ihre Bischöfe, Äbte - in partibus hat.",
+    "Zwei Kirchenrechte können gegeneinander, da sie in geradem und unvereinbarem Widerspruche stehen, nicht rechtlich geschlichtet werden, nicht anders als durch Gewalt oder durchs Staatsrecht geschlichtet werden, das alsdann als ein höheres Recht eingeräumt werden muß, welches die katholische Kirche in keinem Falle, die protestantische nur in einigen Rücksichten einräumt.",
+    "Was die eine Kirche einräumt, so vergibt sie etwas von ihrem Rechte, und es ist von ihrer Seite Gnade."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1tlsh6f16b",
+   "sents": [
+    "Wer die Kirche seines Landes verläßt, verbannt sich aus seinem Vaterlande mit dem Verluste seiner bürgerlichen Freiheiten; und diese Art zu verfahren könnte hart und ungerecht scheinen, jemanden wegen seines Glaubens zu verfolgen und ihm den Genuß seiner bürgerlichen Rechte zu entziehen, ihn von allem, was ihm Natur und Gewohnheit teuer macht, zu verbannen.",
+    "Daß ihm aber kein Unrecht dadurch geschehe, beweist die Kirche mit der Sprache der Großmut, nicht nur der Gerechtigkeit, daß sie ihm in der Änderung seines Glaubens nicht im Wege gestanden sei; daß sie seine Freiheit, aus ihr austreten zu wollen, ehre; da aber eine Bedingung der Fähigkeit, bürgerliche Rechte in diesem Lande zu genießen, Verbindung mit der Kirche sei, und diese Bedingung jetzt durch die Änderung seines Glaubens aufgehoben werde, welches er selbst gewußt habe, so geschehe ihm schlechterdings keine Ungerechtigkeit dabei; er habe bei dieser Alternative freie Wahl.",
+    "Wenn er mit dieser Ausschließung nur aus der Kirche ausgeschlossen würde, so würde sie damit nur einen ausschließen, der sie schon verlassen hat; aber sie schließt ihn damit zugleich auch aus dem Staate aus; und der Staat gibt es zu, daß seine Rechte verletzt werden, der Staat und die Kirche sind insofern in eins geschmolzen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/5.p0.json"
+}

@@ -1,0 +1,82 @@
+{
+ "id": "w3-0-12",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "136v639b73",
+   "sents": [
+    "Es ist übrigens nicht schwer zu sehen, daß unsere Zeit eine Zeit der Geburt und des Übergangs zu einer neuen Periode ist.",
+    "Der Geist hat mit der bisherigen Welt seines Daseins und Vorstellens gebrochen und steht im Begriffe, es in die Vergangenheit hinab zu versenken, und in der Arbeit seiner Umgestaltung.",
+    "Zwar ist er nie in Ruhe, sondern in immer fortschreitender Bewegung begriffen.",
+    "Aber wie beim Kinde nach langer stiller Ernährung der erste Atemzug jene Allmählichkeit des nur vermehrenden Fortgangs abbricht – ein qualitativer Sprung – und Jetzt das Kind geboren ist, so reift der sich bildende Geist langsam und stille der neuen Gestalt entgegen, löst ein Teilchen des Baues seiner vorhergehenden Welt nach dem ändern auf, ihr Wanken wird nur durch einzelne Symptome angedeutet; der Leichtsinn wie die Langeweile, die im Bestehenden einreißen, die unbestimmte Ahnung eines Unbekannten sind Vorboten, daß etwas anderes im Anzuge ist.",
+    "Dies allmähliche Zerbröckeln, das die Physiognomie des Ganzen nicht veränderte, wird durch den Aufgang unterbrochen, der, ein Blitz, in einem Male das Gebilde der neuen Welt hinstellt."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1e9pmqg1lr",
+   "sents": [
+    "Allein eine vollkommene Wirklichkeit hat dies Neue so wenig als das eben geborene Kind; und dies ist wesentlich nicht außer acht zu lassen.",
+    "Das erste Auftreten ist erst seine Unmittelbarkeit oder sein Begriff.",
+    "Sowenig ein Gebäude fertig ist, wenn sein Grund gelegt worden, so wenig ist der erreichte Begriff des Ganzen das Ganze selbst.",
+    "Wo wir eine Eiche in der Kraft ihres Stammes und in der Ausbreitung ihrer Äste und den Massen ihrer Belaubung zu sehen wünschen, sind wir nicht zufrieden, wenn uns an Stelle dieser eine Eichel gezeigt wird.",
+    "So ist die Wissenschaft, die Krone einer Welt des Geistes, nicht in ihrem Anfange vollendet.",
+    "Der Anfang des neuen Geistes ist das Produkt einer weitläufigen Umwälzung von mannigfaltigen Bildungsformen, der Preis eines vielfach verschlungenen Weges und ebenso vielfacher Anstrengung und Bemühung.",
+    "Er ist das aus der Sukzession wie aus seiner Ausdehnung in sich zurückgegangene Ganze, der gewordene einfache Begriff desselben.",
+    "Die Wirklichkeit dieses einfachen Ganzen aber besteht darin, daß jene zu Momenten gewordenen Gestaltungen sich wieder von neuem, aber in ihrem neuen Elemente, in dem gewordenen Sinne entwickeln und Gestaltung geben."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1ezv41582x",
+   "sents": [
+    "Indem einerseits die erste Erscheinung der neuen Welt nur erst das in seine Einfachheit verhüllte Ganze oder sein allgemeiner Grund ist, so ist dem Bewußtsein dagegen der Reichtum des vorhergehenden Daseins noch in der Erinnerung gegenwärtig.",
+    "Es vermißt an der neu erscheinenden Gestalt die Ausbreitung und Besonderung des Inhalts; noch mehr aber vermißt es die Ausbildung der Form, wodurch die Unterschiede mit Sicherheit bestimmt und in ihre festen Verhältnisse geordnet werden.",
+    "Ohne diese Ausbildung entbehrt die Wissenschaft der allgemeinen Verständlichkeit und hat den Schein, ein esoterisches Besitztum einiger Einzelner zu sein; – ein esoterisches Besitztum: denn sie ist nur erst in ihrem Begriffe oder ihr Inneres vorhanden; einiger Einzelner: denn ihre unausgebreitete Erscheinung macht ihr Dasein zum Einzelnen.",
+    "Erst was vollkommen bestimmt ist, ist zugleich exoterisch, begreiflich und fähig, gelernt und das Eigentum aller zu sein.",
+    "Die verständige Form der Wissenschaft ist der allen dargebotene und für alle gleichgemachte Weg zu ihr, und durch den Verstand zum vernünftigen Wissen zu gelangen, ist die gerechte Forderung des Bewußtseins, das zur Wissenschaft hinzutritt; denn der Verstand ist das Denken, das reine Ich überhaupt; und das Verständige ist das schon Bekannte und das Gemeinschaftliche der Wissenschaft und des unwissenschaftlichen Bewußtseins, wodurch dieses unmittelbar in jene einzutreten vermag."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1gzen5n1o0",
+   "sents": [
+    "Die Wissenschaft, die erst beginnt und es also noch weder zur Vollständigkeit des Details noch zur Vollkommenheit der Form gebracht hat, ist dem Tadel darüber ausgesetzt.",
+    "Aber wenn dieser ihr Wesen treffen soll, so würde er ebenso ungerecht sein, als es unstatthaft ist, die Forderung jener Ausbildung nicht anerkennen zu wollen.",
+    "Dieser Gegensatz scheint der hauptsächlichste Knoten zu sein, an dem die wissenschaftliche Bildung sich gegenwärtig zerarbeitet und worüber sie sich noch nicht gehörig versteht.",
+    "Der eine Teil pocht auf den Reichtum des Materials und die Verständlichkeit, der andere verschmäht wenigstens diese und pocht auf die unmittelbare Vernünftigkeit und Göttlichkeit.",
+    "Wenn auch jener Teil, es sei durch die Kraft der Wahrheit allein oder auch durch das Ungestüm des ändern, zum Stillschweigen gebracht ist und wenn er in Ansehung des Grunds der Sache sich überwältigt fühlte, so ist er darum in Ansehung jener Forderungen nicht befriedigt; denn sie sind gerecht, aber nicht erfüllt.",
+    "Sein Stillschweigen gehöre nur halb dem Siege, halb aber der Langeweile und Gleichgültigkeit, welche die Folge einer beständig erregten Erwartung und nicht erfolgten Erfüllung der Versprechungen zu sein pflegt."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1eicvfh15c",
+   "sents": [
+    "In Ansehung des Inhalts machen die anderen sich es wohl zuweilen leicht genug, eine große Ausdehnung zu haben.",
+    "Sie ziehen auf ihren Boden eine Menge Material, nämlich das schon Bekannte und Geordnete, herein, und indem sie sich vornehmlich mit den Sonderbarkeiten und Kuriositäten zu tun machen, scheinen sie um so mehr das übrige, womit das Wissen in seiner Art schon fertig war, zu besitzen, zugleich auch das noch Ungeregelte zu beherrschen und somit alles der absoluten Idee zu unterwerfen, welche hiermit in allem erkannt und zur ausgebreiteten Wissenschaft gediehen zu sein scheint.",
+    "Näher aber diese Ausbreitung betrachtet, so zeigt sie sich nicht dadurch zustande gekommen, daß ein und dasselbe sich selbst verschieden gestaltet hätte, sondern sie ist die gestaltlose Wiederholung des einen und desselben, das nur an das verschiedene Material äußerlich angewendet ist und einen langweiligen Schein der Verschiedenheit erhält.",
+    "Die für sich wohl wahre Idee bleibt in der Tat nur immer in ihrem Anfange stehen, wenn die Entwicklung in nichts als in einer solchen Wiederholung derselben Formel besteht.",
+    "Die eine unbewegte Form vom wissenden Subjekte an dem Vorhandenen herumgeführt, das Material in dies ruhende Element von außenher eingetaucht, dies ist so wenig als willkürliche Einfälle über den Inhalt die Erfüllung dessen, was gefordert wird, nämlich der aus sich entspringende Reichtum und sich selbst bestimmende Unterschied der Gestalten.",
+    "Es ist vielmehr ein einfarbiger Formalismus, der nur zum Unterschiede des Stoffes, und zwar dadurch kommt, weil dieser schon bereitet und bekannt ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p12.json"
+}

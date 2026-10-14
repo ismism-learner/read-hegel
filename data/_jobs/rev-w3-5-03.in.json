@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-03",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 15,
+   "si": 8,
+   "de": "Zwischen diesen beiden Seiten also wird hier das Verhältnis betrachtet, wie es zu bestimmen und was unter diesem Ausdrucke des Inneren im Äußeren zu verstehen ist.",
+   "en": "Between these two sides, then, the relation is here considered, how it is to be determined and what is to be understood by this expression of the inner in the outer.",
+   "zh": "所以，这里要考察的是这两方之间的关系：它该如何规定，以及在这种内在东西在外在东西中的表达之下该理解什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 0,
+   "de": "Dies Äußere macht zuerst nur als Organ das Innere sichtbar oder überhaupt zu einem Sein für Anderes; denn das Innere, insofern es in dem Organe ist, ist es die Tätigkeit selbst.",
+   "en": "This outer makes the inner visible at first only as organ, or [makes it] into a being for another in general; for the inner, insofar as it is in the organ, is activity itself.",
+   "zh": "这种外在东西最初只是作为器官才让内在东西变得可见，或者一般地把内在东西变成一种为他存在；因为内在东西，只要它在器官之中，它就是活动本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 1,
+   "de": "Der sprechende Mund, die arbeitende Hand, wenn man will auch noch die Beine dazu, sind die verwirklichenden und vollbringenden Organe, welche das Tun als Tun oder das Innere als solches an ihnen haben; die Äußerlichkeit aber, welche es durch sie gewinnt, ist die Tat als eine von dem Individuum abgetrennte Wirklichkeit.",
+   "en": "The speaking mouth, the working hand, and if one likes the legs as well, are the realizing and accomplishing organs that have doing as doing, or the inner as such, on them; but the externality that it gains through them is the deed as an actuality separated from the individual.",
+   "zh": "说话的嘴、劳动的手，如果人们愿意，还可以加上腿，都是实现着和完成着的器官，它们身上拥有作为行动的行动、或者说拥有内在东西本身；但它通过它们所获得的外在性，则是作为与个体分离开来的现实性的行为。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 2,
+   "de": "Sprache und Arbeit sind Äußerungen, worin das Individuum nicht mehr an ihm selbst sich behält und besitzt, sondern das Innere ganz außer sich kommen läßt und dasselbe Anderem preisgibt.",
+   "en": "Speech and work are expressions in which the individual no longer keeps and possesses itself on itself, but lets the inner come wholly outside itself and gives it over to another.",
+   "zh": "语言和劳动是表现，在其中个体不再在自身那里保持和拥有自己，而是让内在东西完全来到自身之外，并把它交给另一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 3,
+   "de": "Man kann darum ebensosehr sagen, daß diese Äußerungen das Innere zu sehr, als daß sie es zu wenig ausdrücken; zu sehr, – weil das Innere selbst in Ihnen ausbricht, bleibt kein Gegensatz zwischen ihnen und diesem; sie geben nicht nur einen Ausdruck des Innern, sondern es selbst unmittelbar; zu wenig, – weil das Innere in Sprache und Handlung sich zu einem Anderen macht, so gibt es sich damit dem Elemente der Verwandlung preis, welches das gesprochene Wort und die vollbrachte Tat verkehrt und etwas anderes daraus macht, als sie an und für sich als Handlungen dieses bestimmten Individuums sind.",
+   "en": "One can therefore say just as much that these expressions express the inner too much as that they express it too little; too much — because the inner itself breaks out in them, no opposition remains between them and it; they give not only an expression of the inner but the inner itself immediately; too little — because the inner in speech and action makes itself into another, it thereby gives itself over to the element of transformation, which turns the spoken word and the accomplished deed around and makes something other out of them than they are in and for themselves as actions of this determinate individual.",
+   "zh": "因此，人们同样可以说这些表现把内在东西表达得太多，也可以说它们把它表达得太少；太多——因为内在东西本身在它们之中爆发出来，它们与它之间就不剩下任何对立；它们给出的不只是内在东西的一种表达，而是直接给出内在东西本身；太少——因为内在东西在语言和行动中把自己变成一个他者，它就由此把自己交给变化的元素，这种元素把说出的词和完成了的行为颠倒过来，使它们变成不同于它们作为这个特定个体的行动而自在自为所是的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 4,
+   "de": "Nicht nur verlieren die Werke der Handlungen durch diese Äußerlichkeit von dem Einwirken anderer den Charakter, etwas Bleibendes gegen andere Individualitäten zu sein; sondern indem sie sich zum Inneren, das sie enthalten, als abgesondertes gleichgültiges Äußeres verhalten, können sie als Inneres durch das Individuum selbst ein anderes sein, als sie erscheinen, – entweder daß es sie mit Absicht für die Erscheinung zu etwas anderem macht, als sie in Wahrheit sind, oder daß es zu ungeschickt ist, sich die Außenseite zu geben, die es eigentlich wollte, und sie so zu befestigen, daß ihm von anderen sein Werk nicht verkehrt werden kann.",
+   "en": "Not only do the works of actions lose, through this externality from the influence of others, the character of being something lasting over against other individualities; but in that they comport themselves toward the inner that they contain as a separated, indifferent outer, they can, as inner, through the individual itself, be something other than they appear — either that it deliberately makes them, for the sake of appearance, into something other than they truly are, or that it is too clumsy to give itself the outward side that it actually wanted and to fix it in such a way that its work cannot be turned around by others.",
+   "zh": "行动的作品不仅由于这种出自其他东西的作用的外在性而失去那种相对于其他个体性而言是持存之物的性格；而且，由于它们对自己所包含的内在东西采取一种分离的、漠不相关的外在东西的态度，它们作为内在东西就可能通过个体本身而不同于它们所显现的样子——要么是个体有意为了现象把它们弄成不同于它们在真理中所是的东西，要么是它太笨拙，无法给自己提供它本来想要的外在方面，也无法把它固定下来，使别人不能颠倒它的作品。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 5,
+   "de": "Das Tun also, als vollbrachtes Werk, hat die doppelte, entgegengesetzte Bedeutung, entweder die innere Individualität und nicht ihr Ausdruck oder als Äußeres eine von dem Innern freie Wirklichkeit zu sein, welche ganz etwas anderes ist als jenes.",
+   "en": "Doing, then, as accomplished work, has the double, opposed meaning of being either the inner individuality and not its expression, or, as outer, an actuality free of the inner, which is something wholly other than the former.",
+   "zh": "所以，行动作为完成了的作品，具有双重的、相反的含义：要么是内在的个体性而不是它的表达，要么作为外在东西而是一种不依赖于内在东西的现实性，这种现实性完全是另一个东西，不同于那个内在东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 6,
+   "de": "– Um dieser Zweideutigkeit willen müssen wir. uns nach dem Innern umsehen, wie es noch, aber sichtbar oder äußerlich, an dem Individuum selbst ist.",
+   "en": "— On account of this ambiguity we must look around for the inner as it still is on the individual itself, though visibly or externally.",
+   "zh": "——由于这种歧义，我们必须回过头去寻找内在东西，看它如何还以可见的或外在的方式在个体自身那里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 7,
+   "de": "Im Organe aber ist es nur als unmittelbares Tun selbst, das seine Äußerlichkeit an der Tat erlangt, die entweder das Innere vorstellt oder auch nicht.",
+   "en": "In the organ, however, it is only as immediate doing itself, which attains its externality in the deed, which either represents the inner or does not.",
+   "zh": "但在器官里，它只是作为直接的行动本身，而行动在行为中获得自己的外在性，这种行为要么把内在东西表象出来，要么不表象出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 16,
+   "si": 8,
+   "de": "Das Organ, nach diesem Gegensatze betrachtet, gewährt also nicht den Ausdruck, der gesucht wird.",
+   "en": "The organ, considered under this opposition, thus does not yield the expression that is sought.",
+   "zh": "所以，就这种对立来看，器官并不提供那种被寻找的表达。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 17,
+   "si": 0,
+   "de": "Wenn nun die äußere Gestalt nur, insofern sie nicht Organ oder nicht Tun, hiermit als ruhendes Ganzes ist, die innere Individualität ausdrücken könnte, so verhielte sie sich also als ein bestehendes Ding, welches das Innere als ein Fremdes in sein passives Dasein ruhig empfinge und hierdurch das Zeichen desselben würde; – ein äußerer, zufälliger Ausdruck, dessen wirkliche Seite für sich bedeutungslos, – eine Sprache, deren Töne und Tonverbindungen nicht die Sache selbst, sondern durch die freie Willkür mit ihr verknüpft und zufällig für sie sind.",
+   "en": "If, now, the outer shape could express the inner individuality only insofar as it is not organ or not doing, and thus as a resting whole, then it would comport itself as an existing thing that quietly received the inner as something foreign into its passive determinate being and thereby became its sign; — an outer, contingent expression whose actual side is in itself meaningless, — a language whose tones and combinations of tones are not the matter itself but are linked with it by free caprice and are contingent for it.",
+   "zh": "如果外在形态只能就它不是器官或不是行动、因而是一个静止的整体而言才能表达内在的个体性，那么它就会像一个现成存在着的物那样行事：这个物把内在东西当作一个陌生的东西平静地接进自己的被动定在之中，并由此成为内在东西的标志；——这是一种外在的、偶然的表达，它的现实的一面自为地是无意义的，——这是一种语言，它的音以及音的组合并不是事情本身，而是通过自由的任意与事情本身联结起来、对事情本身而言是偶然的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 18,
+   "si": 0,
+   "de": "Eine solche willkürliche Verbindung von solchen, die ein Äußeres füreinander sind, gibt kein Gesetz.",
+   "en": "Such an arbitrary connection of things that are an outer for one another gives no law.",
+   "zh": "这样一些彼此互为外在东西的东西之间的这种任意联结，并不给出任何规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 18,
+   "si": 1,
+   "de": "Die Physiognomik soll sich aber von anderen schlechten Künsten und heillosen Studien dadurch unterscheiden, daß sie die bestimmte Individualität in dem notwendigen Gegensatze eines Inneren und Äußeren, des Charakters als bewußten Wesens und ebendesselben als seiender Gestalt betrachtet und diese Momente so aufeinander bezieht, wie sie durch ihren Begriff aufeinander bezogen sind und daher den Inhalt eines Gesetzes ausmachen müssen.",
+   "en": "Physiognomy is, however, supposed to distinguish itself from other bad arts and pernicious studies by this, that it considers the determinate individuality in the necessary opposition of an inner and an outer, of the character as conscious essence and of the very same as existing shape, and relates these moments to one another as they are related to one another through their concept and must therefore constitute the content of a law.",
+   "zh": "但面相学据说应当以这一点与其他糟糕的技艺和有害的研究区分开来：它在内在东西与外在东西、在作为有意识的本质的性格与作为存在着的形态的同一个性格之间那种必然的对立中考察特定的个体性，并且这样把这些环节相互关联起来，如同它们通过自己的概念而相互关联、因而必须构成一条规律的内容那样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 18,
+   "si": 2,
+   "de": "In der Astrologie, Chiromantie und dergleichen Wissenschaften hingegen scheint nur Äußeres auf Äußeres, irgend etwas auf ein ihm Fremdes bezogen zu sein.",
+   "en": "In astrology, chiromancy and similar sciences, by contrast, only an outer seems to be related to an outer, some thing to something foreign to it.",
+   "zh": "与此相反，在星象学、手相术以及诸如此类的学问里，似乎只有外在东西与外在东西、某个东西与一个对它陌生的东西被关联起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 18,
+   "si": 3,
+   "de": "Diese Konstellation bei der Geburt und, wenn dies Äußere näher auf den Leib selbst gerückt wird, diese Züge der Hand sind äußere Momente für das lange oder kurze Leben und das Schicksal des einzelnen Menschen überhaupt.",
+   "en": "This constellation at birth and, if this outer is brought closer to the body itself, these traits of the hand are outer moments for the long or short life and the fate of the single human being in general.",
+   "zh": "出生时的这个星位，以及——如果把这种外在东西更近地挪到身体本身上来——手上的这些特征，对于单个的人一般而言生命的或长或短和他的命运来说，都是外在的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 18,
+   "si": 4,
+   "de": "Als Äußerlichkeiten verhalten sie sich gleichgültig zueinander und haben nicht die Notwendigkeit füreinander, welche in der Beziehung eines Äußeren und inneren liegen soll.",
+   "en": "As externalities they comport themselves indifferently toward one another and do not have for one another the necessity that is supposed to lie in the relation of an outer and an inner.",
+   "zh": "作为外在的东西，它们彼此漠不相关，并不具有那种应当在一种外在东西与内在东西的关联中存在的、对彼此而言的必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 19,
+   "si": 0,
+   "de": "Die Hand freilich scheint nicht sosehr etwas Äußeres für das Schicksal zu sein, sondern vielmehr als Inneres zu ihm sich zu verhalten.",
+   "en": "The hand, to be sure, seems to be not so much something outer for fate, but rather to comport itself toward it as inner.",
+   "zh": "诚然，手看起来并不那么是某种对命运而言的外在东西，反而更像是作为内在东西而与命运发生关联。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 19,
+   "si": 1,
+   "de": "Denn das Schicksal ist auch wieder nur die Erscheinung dessen, was die bestimmte Individualität an sich als innere ursprüngliche Bestimmtheit ist.",
+   "en": "For fate is again only the appearance of what the determinate individuality is in itself as inner, original determinacy.",
+   "zh": "因为命运同样只是那个东西的现象：特定的个体性自在地作为内在的、原初的规定性所是的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 19,
+   "si": 2,
+   "de": "– Zu wissen nun, was sie an sich ist, dazu kommt der Chiromante wie auch der Physiognomiker auf eine kürzere Weise als z.B. Solon, der erst aus und nach dem Verlaufe des ganzen Lebens dies wissen zu können erachtete; er betrachtete die Erscheinung, jene aber das Ansich.",
+   "en": "— To know what it is in itself, the chiromancer as well as the physiognomist arrives at in a shorter way than, for instance, Solon, who thought he could know this only from and after the course of a whole life; he considered the appearance, but those consider the in-itself.",
+   "zh": "——要知道它自在地是什么，手相师和面相学家所用的方式比例如梭伦要短；梭伦认为只有从整个生命的进程中、并且在这之后才能知道这一点；梭伦考察的是现象，而他们考察的却是自在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 19,
+   "si": 3,
+   "de": "Daß aber die Hand das Ansich der Individualität in Ansehung ihres Schicksals darstellen muß, ist leicht daraus zu sehen, daß sie nächst dem Organ der Sprache am meisten es ist, wodurch der Mensch sich zur Erscheinung und Verwirklichung bringt.",
+   "en": "But that the hand must present the in-itself of individuality with regard to its fate is easy to see from this, that next to the organ of speech it is most of all that through which the human being brings himself to appearance and realization.",
+   "zh": "但手必须把个体性在其命运方面的自在呈现出来，这一点很容易看出，因为除语言的器官之外，它最是人借以把自己带到现象和现实化之中的那种东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 19,
+   "si": 4,
+   "de": "Sie ist der beseelte Werkmeister seines Glücks; man kann von ihr sagen, sie ist das, was der Mensch tut, denn an ihr als dem tätigen Organe seines Sichselbstvollbringens ist er als Beseelender gegenwärtig, und indem er ursprünglich sein eigenes Schicksal ist, wird sie also dies Ansich ausdrücken.",
+   "en": "It is the ensouled master-craftsman of his fortune; one can say of it that it is what the human being does, for on it, as the active organ of his self-accomplishment, he is present as ensouling, and since he is originally his own fate, it will thus express this in-itself.",
+   "zh": "它是他的幸运的有灵魂的工匠；人们可以说，它就是人所做的东西，因为在他自我完成的活动器官即手上，他作为赋予灵魂者是在场的，而既然他原初地就是他自己的命运，那么手就会把这种自在表达出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 20,
+   "si": 0,
+   "de": "Aus dieser Bestimmung, daß das Organ der Tätigkeit ebensowohl ein Sein als das Tun in ihm ist oder daß das innere Ansichsein selbst an ihm gegenwärtig [ist] und ein Sein für andere hat, ergibt sich eine andere Ansicht desselben als die vorherige.",
+   "en": "From this determination, that the organ of activity is just as much a being as the doing in it, or that the inner being-in-itself is itself present on it and has a being for others, there results a different view of it than the previous one.",
+   "zh": "从这一规定——活动的器官既是一种存在，又是在它之中的行动，或者说，内在的自在存在本身就在它上面在场，并且有一种为他存在——产生出关于它的另一种看法，不同于先前的看法。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 20,
+   "si": 1,
+   "de": "Wenn nämlich die Organe überhaupt darum nicht als Ausdrücke des Inneren genommen werden zu können sich zeigten, weil in ihnen das Tun als Tun gegenwärtig, das Tun als Tat aber nur Äußeres ist und Inneres und Äußeres auf diese Weise auseinanderfällt und [sie] fremde gegeneinander sind oder sein können, so muß nach der betrachteten Bestimmung das Organ auch wieder als Mitte beider genommen werden, indem eben dies, daß das Tun an ihm gegenwärtig ist, zugleich eine Äußerlichkeit desselben ausmacht, und zwar eine andere, als die Tat ist; jene nämlich bleibt dem Individuum und an ihm.",
+   "en": "For if the organs in general showed themselves to be incapable of being taken as expressions of the inner, because in them the doing as doing is present, but the doing as deed is only something external, and inner and outer in this way fall apart and are or can be alien to each other, then according to the determination under consideration the organ must again be taken as the middle of both, in that precisely this, that the doing is present on it, at the same time constitutes an externality of it, and indeed one different from the deed; for the former remains for the individual and on it.",
+   "zh": "因为，如果器官之所以根本不能被当作内在东西的表达，是因为在它们之中，行动作为行动是在场的，而行动作为行为却只是外在的东西，并且内在东西和外在东西以这种方式彼此分离、互为异己或可能互为异己，那么按照所考察的这一规定，器官也必须重新被当作两者的中项，因为正是这一点——行动在它上面在场——同时构成了它的一种外在性，而且是不同于行为的那种外在性；也就是说，前者为个体所保留，并且就在个体身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 20,
+   "si": 2,
+   "de": "– Diese Mitte und Einheit des Inneren und Äußeren ist nun fürs erste selbst auch äußerlich; alsdann aber ist diese Äußerlichkeit zugleich in das Innere aufgenommen; sie steht als einfache Äußerlichkeit der zerstreuten entgegen, welche entweder nur ein einzelnes, für die ganze Individualität zufälliges Werk oder Zustand oder aber als ganze Äußerlichkeit das in eine Vielheit von Werken und Zuständen zersplitterte Schicksal ist.",
+   "en": "– This middle and unity of inner and outer is now, first, itself also external; but then this externality is at the same time taken up into the inner; as simple externality it stands opposed to the dispersed externality, which is either only a single work or state contingent for the whole individuality, or else, as whole externality, is the fate shattered into a multiplicity of works and states.",
+   "zh": "——这个内在东西和外在东西的中项和统一，首先本身也是外在的；但其次，这种外在性同时又被收进内在东西之中；它作为简单的外在性而与那种分散的外在性相对立，后者要么只是一个单个的、对整个个体性来说偶然的作品或状态，要么作为整体的外在性，就是那个分裂为众多作品和状态的命运。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 20,
+   "si": 3,
+   "de": "Die einfachen Züge der Hand also, ebenso Klang und Umfang der Stimme als die individuelle Bestimmtheit der Sprache, – auch dieselbe wieder, wie sie durch die Hand eine festere Existenz als durch die Stimme bekommt, die Schrift, und zwar in ihrer Besonderheit als Handschrift – alles dieses ist Ausdruck des Innern, so daß er als die einfache Äußerlichkeit sich wieder gegen die vielfache Äußerlichkeit des Handelns und des Schicksals, sich als Inneres gegen diese verhält.",
+   "en": "The simple features of the hand, then, and likewise the sound and range of the voice as the individual determinacy of language – also the same again as through the hand it obtains a firmer existence than through the voice, namely writing, and indeed in its particularity as handwriting – all this is expression of the inner, so that it as simple externality again relates itself to the manifold externality of acting and of fate, relates itself as inner to these.",
+   "zh": "所以，手的那些简单特征，以及声音的音色和音域，还有语言的那种个体性的规定性——此外还有语言本身，即它通过手而获得一种比通过声音更稳固的存在，也就是文字，而且是在它作为笔迹的特殊性中——所有这一切都是内在东西的表达，以至于它作为简单的外在性又同行动和命运的多种多样的外在性相对待，作为内在东西则同这些外在性相对待。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 20,
+   "si": 4,
+   "de": "– Wenn also zuerst die bestimmte Natur und angeborene Eigentümlichkeit des Individuums zusammen mit dem, was sie durch die Bildung geworden, als das Innere, als das Wesen des Handelns und des Schicksals genommen wird, so hat es seine Erscheinung und Äußerlichkeit zuerst an seinem Munde, Hand, Stimme, Handschrift sowie an den übrigen Organen und deren bleibenden Bestimmtheiten; und alsdann erst drückt es sich weiter hinaus nach außen an seiner Wirklichkeit in der Welt aus.",
+   "en": "– If, then, first the determinate nature and innate peculiarity of the individual, together with what they have become through formation, is taken as the inner, as the essence of acting and of fate, then it has its appearance and externality first on its mouth, hand, voice, handwriting, as well as on the other organs and their abiding determinacies; and only then does it further express itself outward on its actuality in the world.",
+   "zh": "——所以，如果首先把个体特定的本性和天生的特性、连同它们通过教养所成为的东西，当作内在东西、当作行动和命运的本质，那么它的现象和外在性首先就在它的嘴、手、声音、笔迹以及其余器官和这些器官持存的规定性上；然后它才进一步在它于世界中的现实性上向外表达自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 21,
+   "si": 0,
+   "de": "Weil nun diese Mitte sich als die Äußerung bestimmt, welche zugleich ins Innere zurückgenommen ist, ist ihr Dasein nicht auf das unmittelbare Organ des Tuns eingeschränkt; sie ist vielmehr die nichts vollbringende Bewegung und Form des Gesichts und der Gestaltung überhaupt.",
+   "en": "Since now this middle determines itself as the expression that is at the same time taken back into the inner, its determinate being is not restricted to the immediate organ of the doing; it is rather the movement and form of the face and of shaping in general that accomplishes nothing.",
+   "zh": "既然这个中项把自己规定为那种同时被收回内在东西之中的表现，那么它的定在就不被限制在行动的那个直接器官上；它毋宁是脸部和一般形态塑造的那种不成就任何东西的运动和形式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 21,
+   "si": 1,
+   "de": "Diese Züge und ihre Bewegung sind nach diesem Begriffe das zurückgehaltene, an dem Individuum bleibende Tun und nach seiner Beziehung auf das wirkliche Tun das eigene Beaufsichtigen und Beobachten desselben, Äußerung als Reflexion über die wirkliche Äußerung.",
+   "en": "These features and their movement are, according to this concept, the retained doing that remains on the individual, and, according to its relation to the actual doing, the individual's own supervising and observing of the same, expression as reflection on the actual expression.",
+   "zh": "这些特征及其运动，按照这个概念，就是那种被扣留住的、停留在个体身上的行动，而按照它同现实行动的关系，就是个体自己对这种现实行动的监督和观察，是作为对现实表现进行反思的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 21,
+   "si": 2,
+   "de": "– Das Individuum Ist zu und bei seinem äußeren Tun darum nicht stumm, weil es dabei zugleich in sich reflektiert ist, und es äußert dies Insichreflektiertsein; dies theoretische Tun oder die Sprache des Individuums mit sich selbst darüber ist auch vernehmlich für andere, denn sie ist selbst eine Äußerung.",
+   "en": "– The individual is therefore not silent in and at its outer doing, because it is at the same time reflected into itself therein, and it expresses this being-reflected-into-itself; this theoretical doing, or the individual's language with itself about it, is also audible for others, for it is itself an expression.",
+   "zh": "——个体在从事自己的外在行动、并身处其中时之所以不是沉默的，是因为它同时在其中反思回自身，并且它把这种在自身中的反思表现出来；这种理论性的行动，或者说个体就这件事同自己交谈的语言，对别人来说也是听得见的，因为它本身就是一种表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 22,
+   "si": 0,
+   "de": "An diesem Innern, welches in seiner Äußerung Inneres bleibt, wird also das Reflektiertsein des Individuums aus seiner Wirklichkeit beobachtet, und es ist zu sehen, welche Bewandtnis es mit dieser Notwendigkeit hat, die in dieser Einheit gesetzt ist.",
+   "en": "On this inner, which in its expression remains inner, the being-reflected of the individual out of its actuality is therefore observed, and it is to be seen how matters stand with this necessity that is posited in this unity.",
+   "zh": "在这个于其表现中仍然是内在东西的内在东西上，人们于是观察个体从它的现实性中的反思，并且要看看，那种被设定在这种统一之中的必然性，情形究竟怎样。"
+  }
+ ]
+}

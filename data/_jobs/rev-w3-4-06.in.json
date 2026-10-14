@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-06",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 2,
+   "de": "Luft, Wasser, Erde, Zonen und Klima sind solche allgemeine Elemente, die das unbestimmte einfache Wesen der Individualitäten ausmachen und worin diese zugleich in sich reflektiert sind.",
+   "en": "Air, water, earth, zones and climate are such universal elements, which constitute the indeterminate simple essence of individualities and in which these are at the same time reflected into themselves.",
+   "zh": "空气、水、土、地带和气候就是这样一些普遍的元素，它们构成诸个体性的无规定的单纯本质，而诸个体性同时又在其中被反思回自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 3,
+   "de": "Weder die Individualität ist schlechthin an und für sich, noch das Elementarische, sondern in der selbständigen Freiheit, in welcher sie für die Beobachtung gegeneinander auftreten, verhalten sie sich zugleich als wesentliche Beziehungen, aber so, daß die Selbständigkeit und Gleichgültigkeit beider gegeneinander das Herrschende ist und nur zum Teil in die Abstraktion übergeht.",
+   "en": "Neither individuality is absolutely in and for itself, nor the elemental, but in the independent freedom in which they come forward against one another for observation, they comport themselves at the same time as essential relations, yet in such a way that the independence and indifference of both toward one another is the ruling element and only partly passes over into abstraction.",
+   "zh": "无论个体性还是元素性的东西，都不是绝对自在自为的，而是在它们为观察而彼此相对出现的那种独立的自由中，它们同时又是作为本质性的关系而相互对待的，但情形是这样：两者彼此之间的独立性和漠不相关是占主导的东西，并且只是部分地过渡为抽象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 4,
+   "de": "Hier ist also das Gesetz als die Beziehung eines Elements auf die Bildung des Organischen vorhanden, welches das elementarische Seineinmal sich gegenüber hat und das andere Mal es an seiner organischen Reflexion darstellt.",
+   "en": "Here, then, the law is present as the relation of an element to the formation of the organic, which at one time has elemental being over against itself and at another time presents it in its organic reflection.",
+   "zh": "所以在这里，规律是作为一个元素对有机东西之形成的关系而存在的，它时而把元素性的存在作为对立面与自己相对，时而又在它的有机反思中把这种存在展示出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 5,
+   "de": "Allein solche Gesetze, daß die Tiere, welche der Luft angehören, von der Beschaffenheit der Vögel, welche dem Wasser, von der Beschaffenheit der Fische sind, nordische Tiere ein dickbehaartes Fell haben usf., zeigen sogleich eine Armut, welche der organischen Mannigfaltigkeit nicht entspricht.",
+   "en": "But such laws — that the animals that belong to the air are of the constitution of birds, those that belong to water of the constitution of fishes, that northern animals have a thick-haired coat, and so on — at once show a poverty that does not correspond to the organic manifoldness.",
+   "zh": "但是，这样一些规律，即属于空气的动物具有鸟的性状、属于水的动物具有鱼的性状、北方的动物长着厚毛的皮，等等，立刻就显露出一种贫乏，这种贫乏与有机的多样性并不相称。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 6,
+   "de": "Außerdem daß die organische Freiheit diesen Bestimmungen ihre Formen wieder zu entziehen weiß und notwendig allenthalben Ausnahmen solcher Gesetze oder Regeln, wie man sie nennen wollte, darbietet, so bleibt dies an denjenigen selbst, welche unter sie fallen, eine so oberflächliche Bestimmung, daß auch der Ausdruck ihrer Notwendigkeit nicht anders sein kann und es nicht über den großen Einfluß hinausbringt; wobei man nicht weiß, was diesem Einflusse eigentlich angehört und was nicht.",
+   "en": "Besides that organic freedom knows how to withdraw its forms again from these determinations and necessarily offers everywhere exceptions to such laws or rules, as one might want to call them, this remains, even in those that fall under them, so superficial a determination that even the expression of its necessity cannot be otherwise and does not get beyond a great influence; and here one does not know what actually belongs to this influence and what does not.",
+   "zh": "且不说有机的自由懂得把这些规定重新收回自己的形式，并且必然到处都提供出这样一些规律或人们想称之为规则的东西的例外，就是在那些从属于它们的东西身上，这仍然是一种如此表面的规定，以至于连它的必然性的说法也只能是那个样子，超不出“巨大影响”之外；而在这里，人们并不知道什么才真正属于这种影响，什么不属于。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 7,
+   "de": "Dergleichen Beziehungen des Organischen auf das Elementarische sind daher in der Tat nicht Gesetze zu nennen; denn teils erschöpft, wie erinnert, eine solche Beziehung ihrem Inhalte nach gar nicht den Umfang des Organischen, teils bleiben aber auch die Momente der Beziehung selbst gleichgültig gegeneinander und drücken keine Notwendigkeit aus.",
+   "en": "Such relations of the organic to the elemental are therefore in fact not to be called laws; for on the one hand, as recalled, such a relation does not at all exhaust the extent of the organic as regards its content, and on the other hand the moments of the relation themselves also remain indifferent to one another and express no necessity.",
+   "zh": "所以，有机的东西对元素性东西的这类关系，实际上根本不能叫做规律；因为一方面，正如已经回想到的，这样一种关系按其内容来说根本没有穷尽有机的东西的范围，另一方面，关系本身的那些环节也依然彼此漠不相关，并没有表达出任何必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 8,
+   "de": "Im Begriffe der Säure liegt der Begriff der Base, wie im Begriffe der positiven die negative Elektrizität; aber so sehr auch das dickbehaarte Fell mit dem Norden oder der Bau der Fische mit dem Wasser, der Bau der Vögel mit der Luft zusammen angetroffen werden mag, so liegt im Begriffe des Nordens nicht der Begriff dicker Behaarung, des Meeres nicht der des Baues der Fische, der Luft nicht der des Baues der Vögel.",
+   "en": "In the concept of acid lies the concept of base, as in the concept of positive electricity lies negative electricity; but however much the thick-haired coat may be found together with the north, or the structure of fishes with water, the structure of birds with air, the concept of thick hair does not lie in the concept of the north, that of the structure of fishes not in that of the sea, that of the structure of birds not in that of the air.",
+   "zh": "在酸的概念里包含着碱的概念，正如在正电的概念里包含着负电的概念；但尽管厚毛的皮与北方、鱼的结构与水、鸟的结构与空气可以一起碰到，北方这个概念里却并不包含厚毛的概念，海洋这个概念里并不包含鱼的结构的概念，空气这个概念里并不包含鸟的结构的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 9,
+   "de": "Um dieser Freiheit beider Seiten gegeneinander willen gibt es auch Landtiere, welche die wesentlichen Charaktere eines Vogels, des Fisches haben usf.",
+   "en": "On account of this freedom of both sides over against each other there are also land animals that have the essential characters of a bird, of the fish, and so on.",
+   "zh": "由于两个方面彼此相对的这种自由，也就有了一些陆地动物，它们具有鸟、鱼的本质特征，等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 10,
+   "de": "Die Notwendigkeit, weil sie als keine innere des Wesens begriffen werden kann, hört auch auf, sinnliches Dasein zu haben, und kann nicht mehr an der Wirklichkeit beobachtet werden, sondern ist aus ihr herausgetreten.",
+   "en": "Necessity, because it cannot be comprehended as an inner one of essence, also ceases to have sensuous determinate being, and can no longer be observed on actuality, but has stepped out of it.",
+   "zh": "必然性，由于它不能被以概念把握为本质的内在东西，也就不再有感性的定在，不能再在现实性上被观察，而是已经走出了现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 11,
+   "de": "So an dem realen Wesen selbst sich nicht findend, ist sie das, was teleologische Beziehung genannt wird, eine Beziehung, die den Bezogenen äußerlich und daher vielmehr das Gegenteil eines Gesetzes ist.",
+   "en": "Not finding itself thus on the real essence itself, it is what is called teleological relation, a relation that is external to the related terms and is therefore rather the opposite of a law.",
+   "zh": "它这样在实在的本质本身那里找不到自己，于是它就是那种被称为目的论关系的东西，一种对相关双方来说外在的关系，因此毋宁说是规律的反面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 28,
+   "si": 12,
+   "de": "Sie ist der von der notwendigen Natur ganz befreite Gedanke, welcher sie verläßt und über ihr sich für sich bewegt.",
+   "en": "It is the thought wholly freed from necessary nature, which leaves it and moves for itself above it.",
+   "zh": "它是完全从必然的自然中解放出来的思想，这种思想离开了自然，并在自然之上自为地运动着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 29,
+   "si": 0,
+   "de": "Wenn die vorhin berührte Beziehung des Organischen auf die elementarische Natur das Wesen desselben nicht ausdrückt, so ist es dagegen in dem Zweckbegriffe enthalten.",
+   "en": "If the relation of the organic to elementary nature touched on just before does not express the essence of the organic, it is on the other hand contained in the concept of end.",
+   "zh": "如果说刚才提到的有机体对元素性自然的关系并没有表达出有机体的本质，那么它反倒包含在目的概念里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 29,
+   "si": 1,
+   "de": "Diesem beobachtenden Bewußtsein zwar ist er nicht das eigene Wesen des Organischen, sondern fällt ihm außer demselben und ist dann nur jene äußerliche, teleologische Beziehung.",
+   "en": "To this observing consciousness, to be sure, it is not the organic's own essence, but falls for it outside the organic, and is then only that external, teleological relation.",
+   "zh": "不过对这个观察着的意识来说，它并不是有机体自己的本质，而是落在有机体之外，于是只是那种外在的目的论关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 29,
+   "si": 2,
+   "de": "Allein wie vorhin das Organische bestimmt worden, ist es in der Tat der reale Zweck selbst; denn indem es sich in der Beziehung auf Anderes selbst erhält, ist es eben dasjenige natürliche Wesen, in welchem die Natur sich in den Begriff reflektiert, und die an der Notwendigkeit auseinandergelegten Momente einer Ursache und einer Wirkung, eines Tätigen und eines Leidenden in eins zusammengenommen, so daß hier etwas nicht nur als Resultat der Notwendigkeit auftritt; sondern weil es in sich zurückgegangen ist, ist das Letzte oder das Resultat ebensowohl das Erste, welches die Bewegung anfängt, und sich der Zweck, den es verwirklicht.",
+   "en": "But as the organic was determined just before, it is in fact the real end itself; for in that it maintains itself in the relation to an other, it is precisely that natural being in which nature reflects itself into the concept, and the moments of a cause and of an effect, of an acting and a suffering, which are laid apart on necessity, are taken together into one, so that here something appears not only as the result of necessity; but because it has returned into itself, the last or the result is just as much the first, which begins the movement, and is for itself the end which it realizes.",
+   "zh": "但有机体像刚才那样被规定下来，它实际上就是实在的目的本身；因为它在对其他东西的关系中保持住自己，所以它正是那种自然本质，在它里面，自然把自己反思到概念之中，而原因与结果、能动者与受动者这些在必然性上被分开的环节则被合并为一，以致在这里，某物不只是作为必然性的结果而出现；而是因为它已经返回到自身之中，所以最后的东西或结果同样是最初的东西，是最先开始运动的东西，并且对自己来说就是它所实现的那个目的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 29,
+   "si": 3,
+   "de": "Das Organische bringt nicht etwas hervor, sondern erhält sich nur, oder das, was hervorgebracht wird, ist ebenso schon vorhanden, als es hervorgebracht wird.",
+   "en": "The organic does not bring forth something, but only maintains itself; or what is brought forth is already present just as much as it is brought forth.",
+   "zh": "有机体并不产生出什么，而只是保持自己，或者说，被产生出来的东西，在它被产生出来的同时，就已经同样地现成存在着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 0,
+   "de": "Diese Bestimmung ist, wie sie an sich und wie sie für den Vernunftinstinkt ist, näher zu erörtern, um zu sehen, wie er sich darin findet, sich aber in seinem Funde nicht erkennt.",
+   "en": "This determination is to be discussed more closely, as it is in itself and as it is for the instinct of reason, in order to see how the latter finds itself therein, yet does not recognize itself in its finding.",
+   "zh": "这个规定，就其自在而言、以及就其对理性本能而言，还需要更切近地讨论，以便看看理性本能如何在其中找到自己，却又在自己的发现中不认识自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 1,
+   "de": "Der Zweckbegriff also, zu dem die beobachtende Vernunft sich erhebt, wie es ihr bewußter Begriff ist, ist ebensosehr als ein Wirkliches vorhanden und ist nicht nur eine äußere Beziehung desselben, sondern sein Wesen.",
+   "en": "The concept of end, then, to which observing reason raises itself, is, as it is reason's conscious concept, likewise present as something actual, and is not merely an external relation of the actual, but its essence.",
+   "zh": "那么，观察的理性所上升到的目的概念，作为它有意识的概念，同样作为现实的东西而存在，并且不只是这个现实东西的一种外在关系，而是它的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 2,
+   "de": "Dieses Wirkliche, welches selbst ein Zweck ist, bezieht sich zweckmäßig auf Anderes, heißt: seine Beziehung ist eine zufällige, nach dem, was beide unmittelbar sind; unmittelbar sind beide selbständig und gleichgültig gegeneinander.",
+   "en": "This actual thing, which is itself an end, relates itself purposively to an other, which means: its relation is a contingent one, according to what both immediately are; immediately, both are independent and indifferent to each other.",
+   "zh": "这个本身就是一个目的的现实东西，合目的地对待其他东西，意思是说：它的关系是偶然的，这是就两者直接所是的样子而言；直接说来，两者都是独立的、彼此漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 3,
+   "de": "Das Wesen ihrer Beziehung aber ist ein anderes, als sie so zu sein scheinen, und ihr Tun hat einen anderen Sinn, als es unmittelbar für das sinnliche Wahrnehmen ist; die Notwendigkeit ist an dem, was geschieht, verborgen und zeigt sich erst am Ende, aber so, daß eben dies Ende zeigt, daß sie auch das Erste gewesen ist.",
+   "en": "But the essence of their relation is other than they thus seem to be, and their doing has another sense than it immediately has for sensuous perception; necessity is hidden in what happens and shows itself only at the end, but in such a way that precisely this end shows that it has also been the first.",
+   "zh": "但它们的关系的本质却不同于它们这样显得所是的样子，它们的作为也有另一种含义，不同于它直接对感性的知觉所具有的含义；必然性在发生的事情上是隐藏的，只在最后才显示出来，但却是这样显示出来的，即正是这个最后的东西表明，它也曾是最初的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 4,
+   "de": "Das Ende aber zeigt diese Priorität seiner selbst dadurch, daß durch die Veränderung, welche das Tun vorgenommen hat, nichts anderes herauskommt, als was schon war.",
+   "en": "The end, however, shows this priority of itself through the fact that through the change which the doing has brought about, nothing other comes out than what already was.",
+   "zh": "而最后的东西则通过这一点显示出自身的这种优先性：通过作为所造成的改变，产生出来的不是别的，正是已经存在过的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 5,
+   "de": "Oder wenn wir vom Ersten anfangen, so geht dieses an seinem Ende oder in dem Resultate seines Tuns nur zu sich selbst zurück; und eben hierdurch erweist es sich, ein solches zu sein, welches sich selbst zu seinem Ende hat, also als Erstes schon zu sich zurückgekommen oder an und für sich selbst ist.",
+   "en": "Or if we begin from the first, then this first, at its end or in the result of its doing, only returns to itself; and precisely thereby it proves to be such a one as has itself for its end, thus as first has already come back to itself, or is in and for itself.",
+   "zh": "或者，如果我们从最初的东西开始，那么这东西在它的终点、或在它的作为的结果那里，只是返回到自身；而正因如此，它就表明自己是这样一个东西：它把自身作为自己的终点，所以作为最初的东西就已经返回到自身，或者已经是自在自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 6,
+   "de": "Was es also durch die Bewegung seines Tuns erreicht, ist es selbst, und daß es nur sich selbst erreicht, ist sein Selbstgefühl.",
+   "en": "What it thus reaches through the movement of its doing is itself, and that it reaches only itself is its self-feeling.",
+   "zh": "所以，它通过自己作为的运动所达到的东西，就是它自己；而它只达到自己，这就是它的自我感觉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 30,
+   "si": 7,
+   "de": "Es ist hiermit zwar der Unterschied dessen, was es ist und was es sucht, vorhanden, aber dies ist nur der Schein eines Unterschieds, und hierdurch ist es Begriff an ihm selbst.",
+   "en": "There is hereby indeed the difference between what it is and what it seeks, but this is only the semblance of a difference, and thereby it is concept in its own self.",
+   "zh": "诚然，由此就出现了它是什么与它寻求什么之间的区别，但这只是区别的假象，而它由此在自己身上就是概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 0,
+   "de": "Ebenso ist aber das Selbstbewußtsein beschaffen, sich auf eine solche Weise von sich zu unterscheiden, worin zugleich kein Unterschied herauskommt.",
+   "en": "But self-consciousness is likewise so constituted as to distinguish itself from itself in such a way that at the same time no difference comes out.",
+   "zh": "但自我意识的情况同样如此：它这样把自己同自己区别开来，而其中同时却没有产生出任何差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 1,
+   "de": "Es findet daher in der Beobachtung der organischen Natur nichts anderes als dies Wesen, es findet sich als ein Ding, als ein Leben, macht aber noch einen Unterschied zwischen dem, was es selbst ist und was es gefunden, der aber keiner ist.",
+   "en": "In the observation of organic nature it therefore finds nothing other than this essence; it finds itself as a thing, as a life, but it still makes a difference between what it itself is and what it has found, which however is none.",
+   "zh": "因此它在对有机自然的观察中所找到的不是别的，正是这个本质；它发现自己是一个物、是一个生命，但它还在它自己所是的东西和它所找到的东西之间作出一个区别，而这个区别却并不是区别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 2,
+   "de": "Wie der Instinkt des Tieres das Futter sucht und verzehrt, aber damit nichts anderes herausbringt als sich, so findet auch der Instinkt der Vernunft in seinem Suchen nur sie selbst.",
+   "en": "Just as the instinct of the animal seeks and consumes food, but thereby brings out nothing other than itself, so too the instinct of reason in its seeking finds only itself.",
+   "zh": "正如动物的本能寻找并吃掉饲料，但由此产生出来的不是别的，正是它自己，理性的本能也同样在它的寻找中只找到它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 3,
+   "de": "Das Tier endigt mit dem Selbstgefühle.",
+   "en": "The animal ends with self-feeling.",
+   "zh": "动物终止于自我感觉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 4,
+   "de": "Der Vernunftinstinkt hingegen ist zugleich Selbstbewußtsein; aber weil er nur Instinkt ist, ist er gegen das Bewußtsein auf die Seite gestellt und hat an ihm seinen Gegensatz.",
+   "en": "The instinct of reason, by contrast, is at the same time self-consciousness; but because it is only instinct, it is put on one side as against consciousness and has its opposite in the latter.",
+   "zh": "而理性的本能同时是自我意识；但因为它只是本能，它就被搁到与意识相对的一边，并且在意识那里有自己的对立面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 5,
+   "de": "Seine Befriedigung ist daher durch diesen entzweit, er findet wohl sich selbst, nämlich den Zweck, und ebenso diesen Zweck als Ding.",
+   "en": "Its satisfaction is therefore split by this opposite; it indeed finds itself, namely the end, and likewise this end as a thing.",
+   "zh": "因此它的满足被这个对立面分裂开来；它固然找到了自己，也就是找到了目的，并且同样找到了作为物的这个目的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 6,
+   "de": "Aber der Zweck fällt ihm erstlich außer dem Dinge, welches sich als Zweck darstellt.",
+   "en": "But the end falls for it, first, outside the thing which presents itself as end.",
+   "zh": "但这个目的对它来说首先落在那个把自己表现为目的的物之外。"
+  }
+ ]
+}

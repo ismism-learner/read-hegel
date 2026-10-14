@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-05",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 0,
+   "de": "Der Herr ist das für sich seiende Bewußtsein, aber nicht mehr nur der Begriff desselben, sondern für sich seiendes Bewußtsein, welches durch ein anderes Bewußtsein mit sich vermittelt ist, nämlich durch ein solches, zu dessen Wesen es gehört, daß es mit selbständigem Sein oder der Dingheit überhaupt synthesiert ist.",
+   "en": "The master is the being-for-itself consciousness, but no longer merely the concept of it, but a being-for-itself consciousness that is mediated with itself through another consciousness, namely through one whose essence it is to be synthesized with independent being or with thinghood in general.",
+   "zh": "主人是自为存在着的意识，但不再只是自我意识的概念，而是自为存在着的意识，它通过另一个意识而与自身中介在一起，也就是通过这样一个意识，属于它的本质的是，它与独立的存在或一般物性综合在一起。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 1,
+   "de": "Der Herr bezieht sich auf diese beiden Momente, auf ein Ding als solches, den Gegenstand der Begierde, und auf das Bewußtsein, dem die Dingheit das Wesentliche ist; und indem er a) als Begriff des Selbstbewußtseins unmittelbare Beziehung des Fürsichseins ist, aber b) nunmehr zugleich als Vermittlung oder als ein Fürsichsein, welches nur durch ein Anderes für sich ist, so bezieht er sich a) unmittelbar auf beide und b) mittelbar auf jedes durch das andere.",
+   "en": "The master relates himself to these two moments, to a thing as such, the object of desire, and to the consciousness for which thinghood is the essential; and since he is a) as the concept of self-consciousness the immediate relation of being-for-itself, but b) now at the same time mediation, or a being-for-itself that is for itself only through an other, he relates himself a) immediately to both and b) mediately to each through the other.",
+   "zh": "主人与这两个环节相关，与一个作为这样的物、即欲望的对象相关，也与那种以物性为本质东西的意识相关；而由于他 a) 作为自我意识的概念是自为存在的直接关系，但 b) 现在同时又是中介，或者说是一种只有通过一个他者才自为的自为存在，所以他 a) 直接地与两者相关，b) 则通过另一个而间接地与每一个相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 2,
+   "de": "Der Herr bezieht sich auf den Knecht mittelbar durch das selbständige Sein; denn eben hieran ist der Knecht gehalten; es ist seine Kette, von der er im Kampfe nicht abstrahieren konnte und darum sich als unselbständig, seine Selbständigkeit in der Dingheit zu haben erwies.",
+   "en": "The master relates himself to the slave mediately through independent being; for it is precisely on this that the slave is held fast; it is his chain, from which he could not abstract in the struggle and therefore showed himself to be unindependent, to have his independence in thinghood.",
+   "zh": "主人通过独立的存在而间接地与奴隶相关；因为奴隶恰恰被系在这上面；这是他的锁链，他在斗争中不能不考虑这条锁链，因此表明自己是不独立的，表明自己的独立性存在于物性之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 3,
+   "de": "Der Herr aber ist die Macht über dies Sein, denn er erwies im Kampfe, daß es ihm nur als ein Negatives gilt; indem er die Macht darüber, dies Sein aber die Macht über den Anderen ist, so hat er in diesem Schlüsse diesen Anderen unter sich.",
+   "en": "But the master is the power over this being, for he showed in the struggle that it counts for him only as something negative; since he is the power over it, but this being is the power over the other, he thus in this inference has this other under himself.",
+   "zh": "但主人是支配这种存在的权力，因为他在斗争中表明，这种存在对他只算是一种否定的东西；由于他是支配它的权力，而这种存在又是支配另一个人的权力，所以他就在这个推论中把另一个置于自己之下。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 4,
+   "de": "Ebenso bezieht sich der Herr mittelbar durch den Knecht auf das Ding-, der Knecht bezieht sich als Selbstbewußtsein überhaupt auf das Ding auch negativ und hebt es auf; aber es ist zugleich selbständig für ihn, und er kann darum durch sein Negieren nicht bis zur Vernichtung mit ihm fertig werden, oder er bearbeitet es nur.",
+   "en": "Likewise the master relates himself mediately through the slave to the thing—; the slave relates himself as self-consciousness in general also negatively to the thing and sublates it; but it is at the same time independent for him, and he therefore cannot, through his negating, come to terms with it to the point of annihilation, or he only works on it.",
+   "zh": "同样，主人通过奴隶而间接地与物相关——；奴隶作为一般的自我意识也否定地与物相关，并扬弃物；但物对他来说同时又是独立的，因此他通过自己的否定不能与物了结到消灭的地步，或者说他只是在加工物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 5,
+   "de": "Dem Herrn dagegen wird durch diese Vermittlung die unmittelbare Beziehung als die reine Negation desselben oder der Genuß; was der Begierde nicht gelang, gelingt ihm, damit fertig zu werden und im Genüsse sich zu befriedigen.",
+   "en": "For the master, by contrast, through this mediation the immediate relation becomes the pure negation of it, or enjoyment; what desire did not succeed in, he succeeds in, to come to terms with it and in enjoyment to satisfy himself.",
+   "zh": "与此相反，对主人来说，通过这种中介，直接的关系成了对物的纯粹否定，也就是享受；欲望没有做到的事，他做到了，与物了结，并在享受中满足自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 27,
+   "si": 6,
+   "de": "Der Begierde gelang dies nicht wegen der Selbständigkeit des Dinges; der Herr aber, der den Knecht zwischen es und sich eingeschoben, schließt sich dadurch nur mit der Unselbständigkeit des Dinges zusammen und genießt es rein; die Seite der Selbständigkeit aber überläßt er dem Knechte, der es bearbeitet.",
+   "en": "Desire did not succeed in this because of the independence of the thing; but the master, who has inserted the slave between it and himself, thereby closes himself together only with the unindependence of the thing and enjoys it purely; the side of independence, however, he leaves to the slave, who works on it.",
+   "zh": "欲望没有做到这一点，是因为物的独立性；但主人把奴隶插在物和自己之间，由此只与物的不独立性结合在一起，纯粹地享受物；而独立性的一面，他则留给加工它的奴隶。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 28,
+   "si": 0,
+   "de": "In diesen beiden Momenten wird für den Herrn sein Anerkanntsein durch ein anderes Bewußtsein; denn dieses setzt sich in ihnen als Unwesentliches, einmal in der Bearbeitung des Dinges, das andere Mal in der Abhängigkeit von einem bestimmten Dasein; in beiden kann es nicht über das Sein Meister werden und zur absoluten Negation gelangen.",
+   "en": "In these two moments his being-recognized by another consciousness comes about for the master; for in them this consciousness posits itself as unessential, once in the working of the thing, the other time in dependence on a determinate Dasein; in both it cannot become master over being and attain absolute negation.",
+   "zh": "在这两个环节中，主人得到了另一个意识对他的承认；因为这个意识在这两个环节中把自己设定为非本质的东西，一次是在对物的加工中，另一次是在对一个特定定在的依赖中；在两方面它都不能支配存在，不能达到绝对否定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 28,
+   "si": 1,
+   "de": "Es ist also hierin dies Moment des Anerkennens vorhanden, daß das andere Bewußtsein sich als Fürsichsein aufhebt und hiermit selbst das tut, was das erste gegen es tut.",
+   "en": "Thus herein this moment of recognition is present, that the other consciousness sublates itself as being-for-itself and thereby itself does what the first does to it.",
+   "zh": "所以这里就存在着承认的这一环节：另一个意识把自己作为自为存在扬弃掉，并因此自己做出了第一个意识对它做的事。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 28,
+   "si": 2,
+   "de": "Ebenso das andere Moment, daß dies Tun des zweiten das eigene Tun des ersten ist; denn was der Knecht tut, ist eigentlich Tun des Herrn; diesem ist nur das Fürsichsein, das Wesen; er ist die reine negative Macht, der das Ding nichts ist, und also das reine wesentliche Tun in diesem Verhältnisse; der Knecht aber ein nicht reines, sondern unwesentliches Tun.",
+   "en": "Likewise the other moment, that this doing of the second is the first's own doing; for what the slave does is properly the doing of the master; for the latter only being-for-itself, the essence, is; he is the pure negative power, for which the thing is nothing, and thus the pure essential doing in this relation; the slave, however, a not pure but unessential doing.",
+   "zh": "同样还有另一个环节，即第二个意识的这种行动是第一个意识自己的行动；因为奴隶所做的，其实是主人的行动；对主人来说，只有自为存在才是本质；他是纯粹的否定权力，对他来说物什么都不是，因此他是这种关系中纯粹本质的行动；而奴隶的行动则不是纯粹的，而是非本质的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 28,
+   "si": 3,
+   "de": "Aber zum eigentlichen Anerkennen fehlt das Moment, daß, was der Herr gegen den Anderen tut, er auch gegen sich selbst, und was der Knecht gegen sich, er auch gegen den Anderen tue.",
+   "en": "But for genuine recognition the moment is lacking, namely that what the master does toward the other, he also do toward himself, and what the slave does toward himself, he also do toward the other.",
+   "zh": "但真正的承认还缺少这一环节，主人对另一个所做的，他也对自己做，而奴隶对自己所做的，他也对另一个做。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 28,
+   "si": 4,
+   "de": "Es ist dadurch ein einseitiges und ungleiches Anerkennen entstanden.",
+   "en": "Thereby a one-sided and unequal recognition has come about.",
+   "zh": "由此产生了一种片面的、不平等的承认。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 29,
+   "si": 0,
+   "de": "Das unwesentliche Bewußtsein ist hierin für den Herrn der Gegenstand, welcher die Wahrheit der Gewißheit seiner selbst ausmacht.",
+   "en": "In this, the unessential consciousness is for the master the object that makes up the truth of the certainty of himself.",
+   "zh": "在这种情形中，非本质的意识对主人来说是对象，这个对象构成了他自身确定性的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 29,
+   "si": 1,
+   "de": "Aber es erhellt, daß dieser Gegenstand seinem Begriffe nicht entspricht, sondern daß darin, worin der Herr sich vollbracht hat, ihm vielmehr ganz etwas anderes geworden als ein selbständiges Bewußtsein.",
+   "en": "But it is evident that this object does not correspond to its concept, but that in that wherein the master has accomplished himself, something quite other than an independent consciousness has rather become for him.",
+   "zh": "但很明显，这个对象并不符合它的概念，反而在主人完成自身的那种东西里，对他来说变成的完全是另一种东西，而不是一个独立的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 29,
+   "si": 2,
+   "de": "Nicht ein solches ist für ihn, sondern vielmehr ein unselbständiges; er ist also nicht des Fürsichseins als der Wahrheit gewiß, sondern seine Wahrheit ist vielmehr das unwesentliche Bewußtsein und das unwesentliche Tun desselben.",
+   "en": "Not such a one is for him, but rather an unindependent one; he is thus not certain of being-for-itself as the truth, but his truth is rather the unessential consciousness and the unessential doing of the same.",
+   "zh": "对他来说存在的并不是这样一个东西，而毋宁是一个不独立的东西；所以他并不确信自为存在就是真理，毋宁说他的真理是非本质的意识和它的非本质行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 30,
+   "si": 0,
+   "de": "Die Wahrheit des selbständigen Bewußtseins ist demnach das knechtische Bewußtsein.",
+   "en": "The truth of the independent consciousness is accordingly the slavish consciousness.",
+   "zh": "因此，独立意识的真理就是奴隶的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 30,
+   "si": 1,
+   "de": "Dieses erscheint zwar zunächst außer sich und nicht als die Wahrheit des Selbstbewußtseins.",
+   "en": "This appears to be sure at first outside itself and not as the truth of self-consciousness.",
+   "zh": "这种意识虽然起初显得在自身之外，而不是自我意识的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 30,
+   "si": 2,
+   "de": "Aber wie die Herrschaft zeigte, daß ihr Wesen das Verkehrte dessen ist, was sie sein will, so wird auch wohl die Knechtschaft vielmehr in ihrer Vollbringung zum Gegenteile dessen werden, was sie unmittelbar ist; sie wird als in sich zurückgedrängtes Bewußtsein in sich gehen und zur wahren Selbständigkeit sich umkehren.",
+   "en": "But just as mastery showed that its essence is the reverse of what it wants to be, so slavery too will in its fulfilment become rather the opposite of what it immediately is; as consciousness driven back into itself, it will go into itself and turn itself around into true independence.",
+   "zh": "但正如主人地位表明，它的本质是它想成为的东西的反面，奴隶状态同样会在自己的完成中变成它直接所是的那个东西的对立面；它作为被逼回自身的意识将深入自身，并转变为真正的独立性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 0,
+   "de": "Wir sahen nur, was die Knechtschaft im Verhältnisse der Herrschaft ist.",
+   "en": "We saw only what slavery is in the relation of mastery.",
+   "zh": "我们只看到奴隶状态在主人地位的关系中是什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 1,
+   "de": "Aber sie ist Selbstbewußtsein, und was sie hiernach an und für sich selbst ist, ist nun zu betrachten.",
+   "en": "But it is self-consciousness, and what it is accordingly in and for itself is now to be considered.",
+   "zh": "但它是自我意识，而它据此自在自为地是什么，现在就要来考察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 2,
+   "de": "Zunächst ist für die Knechtschaft der Herr das Wesen; also das selbständige für sich seiende Bewußtsein ist ihr die Wahrheit, die Jedoch für sie noch nicht an ihr ist.",
+   "en": "At first, for slavery the master is the essence; thus the independent being-for-itself consciousness is for it the truth, which, however, is not yet on it.",
+   "zh": "首先，对奴隶状态来说，主人是本质；所以独立的自为存在着的意识对它是真理，这个真理对它来说却还不在它身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 3,
+   "de": "Allein sie hat diese Wahrheit der reinen Negativität und des Fürsichseins in der Tat an ihr selbst, denn sie hat dieses Wesen an ihr erfahren.",
+   "en": "But it in fact has this truth of pure negativity and of being-for-itself on itself, for it has experienced this essence on itself.",
+   "zh": "但它实际上自身就具有这种纯粹否定性和自为存在的真理，因为它在自己身上经验到了这个本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 4,
+   "de": "Dies Bewußtsein hat nämlich nicht um dieses oder jenes, noch für diesen oder jenen Augenblick Angst gehabt, sondern um sein ganzes Wesen; denn es hat die Furcht des Todes, des absoluten Herrn, empfunden.",
+   "en": "For this consciousness has had fear not about this or that, nor for this or that instant, but about its whole essence; for it has felt the fear of death, of the absolute master.",
+   "zh": "因为这种意识曾经害怕的，不是这个或那个东西，也不是为这个或那个瞬间，而是为它的整个本质；因为它感受到了对死亡、对绝对主人的恐惧。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 5,
+   "de": "Es ist darin innerlich aufgelöst worden, hat durchaus in sich selbst erzittert, und alles Fixe hat in ihm gebebt.",
+   "en": "It has therein been inwardly dissolved, has utterly trembled in itself, and everything fixed has quaked in it.",
+   "zh": "它在这里面从内里被消解了，彻底在自身中颤栗了，一切固定的东西都在它里面震动了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 6,
+   "de": "Diese reine allgemeine Bewegung, das absolute Flüssigwerden alles Bestehens, ist aber das einfache Wesen des Selbstbewußtseins, die absolute Negativität, das reine Fürsichsein, das hiermit an diesem Bewußtsein ist.",
+   "en": "But this pure universal movement, the absolute becoming-fluid of all subsistence, is the simple essence of self-consciousness, absolute negativity, pure being-for-itself, which is thereby on this consciousness.",
+   "zh": "但这种纯粹的普遍运动、一切持存的绝对流动化，却是自我意识的单纯本质，是绝对否定性，是纯粹的自为存在，它由此就存在于这个意识身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 7,
+   "de": "Dies Moment des reinen Fürsichseins ist auch für es, denn im Herrn ist es ihm sein Gegenstand.",
+   "en": "This moment of pure being-for-itself is also for it, for in the master it is its object.",
+   "zh": "这个纯粹自为存在的环节对它来说也是存在的，因为在主人那里，这个环节是它的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 31,
+   "si": 8,
+   "de": "Es ist ferner nicht nur diese allgemeine Auflösung überhaupt, sondern im Dienen vollbringt es sie wirklich; es hebt darin in allen einzelnen Momenten seine Anhänglichkeit an natürliches Dasein auf und arbeitet dasselbe hinweg.",
+   "en": "It is furthermore not only this universal dissolution in general, but in service it really accomplishes it; it therein sublates in all single moments its attachment to natural Dasein and works the same away.",
+   "zh": "其次，它不仅仅是一般而言的这种普遍消解，而且在服役中它真正完成了这种消解；它在这种服役中于所有个别环节上扬弃了自己对自然定在的依附，并把自然定在加工掉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 0,
+   "de": "Das Gefühl der absoluten Macht aber überhaupt und im einzelnen des Dienstes ist nur die Auflösung an sich, und obzwar die Furcht des Herrn der Anfang der Weisheit ist, so ist das Bewußtsein darin für es selbst, nicht das Fürsichsein.",
+   "en": "But the feeling of absolute power, both in general and in the particular of service, is only dissolution in itself, and although the fear of the master is the beginning of wisdom, consciousness therein is for itself, not being-for-itself.",
+   "zh": "但绝对权力的感觉，无论一般而言还是在服务的个别情形中，都只是自在的消解，而且，虽然对主人的恐惧是智慧的开端，意识在其中却是为它自己的，而不是自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 1,
+   "de": "Durch die Arbeit kommt es aber zu sich selbst.",
+   "en": "But through work it comes to itself.",
+   "zh": "但通过劳动，它却回到了自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 32,
+   "si": 2,
+   "de": "In dem Momente, welches der Begierde im Bewußtsein des Herrn entspricht, schien dem dienenden Bewußtsein zwar die Seite der unwesentlichen Beziehung auf das Ding zugefallen zu sein, indem das Ding darin seine Selbständigkeit behält.",
+   "en": "In the moment that corresponds to desire in the consciousness of the master, the side of the unessential relation to the thing seemed indeed to have fallen to the serving consciousness, in that the thing therein retains its independence.",
+   "zh": "在主人意识中对应于欲望的那个环节里，与物发生非本质关系的那一面，看来确实落到了奴隶意识身上，因为物在其中保持着它的独立性。"
+  }
+ ]
+}

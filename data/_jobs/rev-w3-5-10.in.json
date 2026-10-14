@@ -1,0 +1,36 @@
+{
+ "id": "rev-w3-5-10",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 4,
+   "de": "Aber sich so als sich selbst und als ihr Gegenteil darbietend und festgehalten in dem ganz einzelnen Momente dieses Auseinandertretens, ist sie unvernünftig aufgefaßt; und je reiner die Momente desselben sind, desto greller ist die Erscheinung dieses Inhalts, der allein entweder für das Bewußtsein ist oder von ihm unbefangen allein ausgesprochen wird.",
+   "en": "But presenting itself thus as itself and as its opposite, and held fast in the wholly single moment of this stepping-apart, it is grasped unreasonably; and the purer the moments of this are, the more garish is the appearance of this content, which either is only for consciousness or is uttered by it ingenuously alone.",
+   "zh": "但如果它这样把自己呈现为自身和它的对立面，并且被固定在这种分开的完全单个的环节里，那它就是被非理性地把握了；而这种分开的各个环节越是纯粹，这个内容的显现就越是刺眼，而这个内容要么只是对意识而言才存在，要么就是被它不带成见地单独说出来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 5,
+   "de": "– Das Tiefe, das der Geist von innen heraus, aber nur bis in sein vorstellendes Bewußtsein treibt und es in diesem stehenläßt, – und die Unwissenheit dieses Bewußtseins, was das ist, was es sagt, ist dieselbe Verknüpfung des Hohen und Niedrigen, welche an dem Lebendigen die Natur in der Verknüpfung des Organs seiner höchsten Vollendung, des Organs der Zeugung, und des Organs des Pissens naiv ausdrückt.",
+   "en": "– The depth that spirit drives out from within, but only into its representing consciousness, and lets it stand there, – and the ignorance of this consciousness as to what it is that it says, is the same combination of high and low which nature on the living being naively expresses in the combination of the organ of its highest perfection, the organ of generation, and the organ of pissing.",
+   "zh": "——精神从内部深处推出的、但只推到它那表象着的意识里并让它停在那里的那种深度，——以及这种意识对自己所说的究竟是什么一无所知，就是同一种高与低的联结；自然在活的东西身上，就用它的最高完善性的器官即生殖器官和撒尿的器官的联结，天真地表达出这种联结。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 50,
+   "si": 6,
+   "de": "– Das unendliche Urteil als unendliches wäre die Vollendung des sich selbst erfassenden Lebens; das in der Vorstellung bleibende Bewußtsein desselben aber verhält sich als Pissen.",
+   "en": "– The infinite judgment as infinite would be the consummation of self-comprehending life; but the consciousness of it that remains in representation comports itself as pissing.",
+   "zh": "——无限的判断，作为无限的判断，会是把握着自身的生命的完成；但那个停留在表象中、关于它的意识，其表现却像撒尿一样。"
+  }
+ ]
+}

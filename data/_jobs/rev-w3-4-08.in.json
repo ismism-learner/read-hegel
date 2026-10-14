@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-08",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 37,
+   "si": 3,
+   "de": "Diese Eigenschaften, wenigstens die beiden ersten, scheinen sich zwar nicht auf den Organismus überhaupt, sondern nur auf den animalischen zu beziehen.",
+   "en": "These properties, at least the first two, seem indeed to refer not to the organism in general but only to the animal one.",
+   "zh": "这些特性，至少前两个，看来确实不是就一般有机体而言，而只是就动物有机体而言。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 37,
+   "si": 4,
+   "de": "Der vegetabilische drückt auch in der Tat nur den einfachen Begriff des Organismus aus, der seine Momente nicht entwickelt; daher wir uns in Ansehung ihrer, insofern sie für die Beobachtung sein sollen, an denjenigen halten müssen, der ihr entwickeltes Dasein darstellt.",
+   "en": "The vegetable one, too, in fact expresses only the simple concept of the organism, which does not develop its moments; therefore, with regard to them, insofar as they are to be for observation, we must hold to the one that presents their developed determinate being.",
+   "zh": "植物性的有机体实际上也只表达有机体的单纯概念，而这一概念还没有展开自己的那些环节；因此，就这些环节来说，只要它们应当为观察而存在，我们就必须守住那个把它们的展开的定在陈述出来的有机体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 38,
+   "si": 0,
+   "de": "Was nun sie selbst betrifft, so ergeben sie sich unmittelbar aus dem Begriffe des Selbstzwecks, Denn die Sensibilität drückt überhaupt den einfachen Begriff der organischen Reflexion-in-sich oder die allgemeine Flüssigkeit desselben aus, die Irritabilität aber die organische Elastizität, sich in der Reflexion zugleich reagierend zu verhalten, und die dem ersten ruhigen Insichsein entgegengesetzte Verwirklichung, worin jenes abstrakte Fürsichsein ein Sein für Anderes ist.",
+   "en": "As regards these properties themselves, they follow immediately from the concept of the self-purpose; for sensibility expresses in general the simple concept of organic reflection-into-itself or the universal fluidity of it, while irritability expresses the organic elasticity of comporting itself in reflection as at the same time reacting, and the actualization opposed to the first, calm being-within-itself, in which that abstract being-for-itself is a being for another.",
+   "zh": "至于这些特性本身，它们直接就从自我目的的概念中产生出来，因为感受性一般而言表达有机的自身反思这一单纯概念，或它的普遍流动性，而应激性则表达有机的弹性，即在反思中同时作出反应地行事，以及那个与最初的、静止的自在存在相对立的现实化，在其中那个抽象的自为存在是一种为他存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 38,
+   "si": 1,
+   "de": "Die Reproduktion aber ist die Aktion dieses ganzen in sich reflektierten Organismus, seine Tätigkeit als Zwecks an sich oder als Gattung, worin also das Individuum sich von sich selbst abstößt, entweder seine organischen Teile oder das ganze Individuum erzeugend wiederholt.",
+   "en": "Reproduction, however, is the action of this whole organism reflected into itself, its activity as purpose in itself or as genus, in which the individual therefore repels itself from itself, reproducing either its organic parts or the whole individual.",
+   "zh": "而繁殖则是这个整个地反思到自身之中的有机体的行动，是它作为自在的目的、或作为类的活动，在其中个体因此把自己从自己那里排斥出去，要么产生出自己的有机部分，要么产生出整个个体来重复自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 38,
+   "si": 2,
+   "de": "In der Bedeutung der Selbsterhaltung überhaupt genommen, drückt die Reproduktion den formalen Begriff des Organischen oder die Sensibilität aus; aber sie ist eigentlich der reale organische Begriff oder das Ganze, das entweder als Individuum durch die Hervorbringung der einzelnen Teile seiner selbst oder als Gattung durch die Hervorbringung von Individuen in sich zurückkehrt.",
+   "en": "Taken in the sense of self-preservation in general, reproduction expresses the formal concept of the organic or sensibility; but it is properly the real organic concept or the whole, which returns into itself either as individual through the production of the individual parts of itself or as genus through the production of individuals.",
+   "zh": "如果从一般自我保存的意义上来理解，繁殖表达的是有机物的形式概念或感受性；但它其实是实在的有机概念或整体，这个整体要么作为个体通过产生自身的各个部分、要么作为类通过产生个体而返回自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 39,
+   "si": 0,
+   "de": "Die andere Bedeutung dieser organischen Elemente, nämlich als des Äußeren, ist ihre gestaltete Weise, nach welcher sie als wirkliche, aber zugleich auch als allgemeine Teile oder organische Systeme vorhanden sind; die Sensibilität etwa als Nervensystem, die Irritabilität als Muskelsystem, die Reproduktion als Eingeweide der Erhaltung des Individuums und der Gattung.",
+   "en": "The other meaning of these organic elements, namely as the outer, is their shaped manner, according to which they are present as real, but at the same time also as universal parts or organic systems; sensibility, for instance, as the nervous system, irritability as the muscular system, reproduction as the viscera of the preservation of the individual and of the genus.",
+   "zh": "这些有机要素的另一个含义，即作为外在的东西，是它们成形的样式，按照这种样式，它们作为现实的、但同时作为普遍的部分或有机系统而现成存在；例如感受性作为神经系统，应激性作为肌肉系统，繁殖作为保存个体和类的内脏。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 40,
+   "si": 0,
+   "de": "Eigentümliche Gesetze des Organischen betreffen demnach ein Verhältnis der organischen Momente in ihrer gedoppelten Bedeutung, einmal ein Teil der organischen Gestaltung, das andere Mal allgemeine flüssige Bestimmtheit zu sein, welche durch alle jene Systeme hindurchgeht.",
+   "en": "The peculiar laws of the organic therefore concern a relation of the organic moments in their doubled significance: once of being a part of the organic formation, the other time a universal fluid determinacy which runs through all those systems.",
+   "zh": "所以，有机物的固有规律涉及有机环节在它们双重含义中的一种关系，即一个时候是有机形态的一个部分，另一个时候是贯穿所有那些系统的普遍流动的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 40,
+   "si": 1,
+   "de": "In dem Ausdrucke eines solchen Gesetzes hätte also z.B. eine bestimmte Sensibilität als Moment des ganzen Organismus ihren Ausdruck an einem bestimmt gebildeten Nervensystem, oder sie wäre auch mit einer bestimmten Reproduktion der organischen Teile des Individuums oder Fortpflanzung des Ganzen verknüpft usf.",
+   "en": "In the expression of such a law, therefore, e.g. a determinate sensibility would have its expression as a moment of the whole organism in a determinately formed nervous system, or it would also be linked with a determinate reproduction of the organic parts of the individual or propagation of the whole, and so on.",
+   "zh": "所以，在这样一条规律的表述中，例如一种特定的感受性作为整个有机体的环节，会在一个特定地形成了的神经系统那里有自己的表述，或者它也会与个体有机部分的特定再生产或整体的繁殖等等结合在一起。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 40,
+   "si": 2,
+   "de": "– Die beiden Seiten eines solchen Gesetzes können beobachtet werden.",
+   "en": "– The two sides of such a law can be observed.",
+   "zh": "——这样一条规律的两个方面是可以被观察的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 40,
+   "si": 3,
+   "de": "Das Äußere ist seinem Begriffe nach das Sein für Anderes; die Sensibilität hat z.B. in dem sensiblen Systeme ihre unmittelbar verwirklichte Weise; und als allgemeine Eigenschaft ist sie in ihren Äußerungen ebenso ein Gegenständliches.",
+   "en": "The external is according to its concept being for another; sensibility, e.g., has in the sensible system its immediately actualized mode; and as universal property it is likewise, in its expressions, something objective.",
+   "zh": "外在的东西按它的概念就是为他存在；例如感受性在感受系统里有它直接实现了的方式；而作为普遍属性，它在自己的种种表现中同样是一个对象性的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 40,
+   "si": 4,
+   "de": "Die Seite, welche das Innere heißt, hat ihre eigene äußere Seite, die unterschieden ist von dem, was im ganzen das Äußere heißt.",
+   "en": "The side which is called the inner has its own external side, which is distinguished from what in the whole is called the external.",
+   "zh": "那被称为内在的方面有它自己的外在方面，这个外在方面与整体上被称为外在的东西是有区别的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 41,
+   "si": 0,
+   "de": "Die beiden Seiten eines organischen Gesetzes wären also zwar wohl zu beobachten, allein nicht Gesetze der Beziehung derselben; und die Beobachtung reicht nicht darum nicht zu, weil sie, als Beobachtung, zu kurzsichtig wäre und nicht empirisch verfahren, sondern von der Idee ausgegangen werden sollte – denn solche Gesetze, wenn sie etwas Reelles wären, müßten in der Tat wirklich vorhanden und also zu beobachten sein –, sondern weil der Gedanke von Gesetzen dieser Art keine Wahrheit zu haben sich erweist.",
+   "en": "The two sides of an organic law would therefore indeed be observable, but not laws of their relation; and observation does not suffice for this not because, as observation, it would be too short-sighted and would not proceed empirically, but should start from the idea – for such laws, if they were something real, would in fact have to be really present and thus observable –, but because the thought of laws of this kind proves to have no truth.",
+   "zh": "所以，一条有机规律的这两个方面固然是可以观察的，但不是它们的关系的规律；而观察之所以不够，并不是因为它作为观察太短视、不是经验地行事，反而应当从观念出发——因为这样的规律，如果它们是某种实在的东西，就确实必须现实地存在，因而可以被观察——，而是因为关于这类规律的这种思想表明自己没有任何真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 0,
+   "de": "Es ergab sich für ein Gesetz das Verhältnis, daß die allgemeine organische Eigenschaft an einem organischen Systeme sich zum Dinge gemacht und an ihm seinen gestalteten Abdruck hätte, so daß beide dasselbe Wesen wären, das einmal als allgemeines Moment, das andere Mal als Ding vorhanden.",
+   "en": "For a law there resulted the relation that the universal organic property had made itself into a thing on an organic system and had on it its formed imprint, so that both would be the same essence, present once as universal moment, the other time as thing.",
+   "zh": "对一条规律来说得出的关系是：普遍的有机属性在一个有机系统上把自己变成了物，并在它上面有了自己形成起来的印记，以致两者会是同一个本质，一个时候作为普遍的环节、另一个时候作为物而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 1,
+   "de": "Aber außerdem ist auch die Seite des Innern für sich ein Verhältnis mehrerer Seiten, und es bietet sich daher zuerst der Gedanke eines Gesetzes an als einer Beziehung der allgemeinen organischen Tätigkeiten oder Eigenschaften aufeinander.",
+   "en": "But besides this, the side of the inner is also for itself a relation of several sides, and there therefore first offers itself the thought of a law as a relation of the universal organic activities or properties to one another.",
+   "zh": "但除此之外，内在这一方面本身也是多个方面的关系，于是首先提供出来的就是关于一条规律的思想，即把它当作种种普遍的有机活动或属性彼此之间的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 2,
+   "de": "Ob ein solches möglich ist, muß sich aus der Natur einer solchen Eigenschaft entscheiden.",
+   "en": "Whether such a one is possible must be decided from the nature of such a property.",
+   "zh": "这样一条规律是否可能，必须由这样一种属性的本性来决定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 3,
+   "de": "Sie ist aber, als eine allgemeine Flüssigkeit, teils nicht etwas, das nach der Weise eines Dinges beschränkt [ist] und in dem Unterschiede eines Daseins sich hält, das seine Gestalt ausmachen sollte, sondern die Sensibilität geht über das Nervensystem hinaus und durch alle anderen Systeme des Organismus hindurch, – teils ist sie allgemeines Moment, das wesentlich ungeschieden und unzertrennlich von Reaktion oder Irritabilität und Reproduktion ist.",
+   "en": "But as a universal fluidity it is, on the one hand, not something that is limited in the manner of a thing and holds itself within the difference of a determinate being which should constitute its shape, but sensibility goes beyond the nervous system and through all the other systems of the organism, – on the other hand it is a universal moment which is essentially undivided and inseparable from reaction or irritability and reproduction.",
+   "zh": "但它作为普遍的流动性，一方面不是某种按物的方式被限制[的东西]，也不是保持在一种定在的差别里、而这种定在应当构成它的形态，而是感受性超出神经系统，并且穿过有机体的所有其他系统，——另一方面它是普遍的环节，本质上与反应或刺激感受性以及再生产不可区分、不可分离。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 4,
+   "de": "Denn als Reflexion-in-sich hat sie schlechthin die Reaktion an ihr.",
+   "en": "For as reflection-into-itself it has reaction on it absolutely.",
+   "zh": "因为作为自身反思，它绝对地在自己身上有反应。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 5,
+   "de": "Nur Insichreflektiertsein ist Passivität oder totes Sein, nicht eine Sensibilität, – sowenig als Aktion, was dasselbe ist als Reaktion, ohne Insichreflektiertsein Irritabilität ist.",
+   "en": "Only being-reflected-into-itself is passivity or dead being, not a sensibility, – just as little as action, which is the same as reaction, is irritability without being-reflected-into-itself.",
+   "zh": "只有自身内反思存在才是被动性或死的存在，而不是一种感受性，——正像行动，即与反应相同的东西，没有自身内反思存在就不是刺激感受性一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 6,
+   "de": "Die Reflexion In der Aktion oder Reaktion und die Aktion oder Reaktion in der Reflexion ist gerade dies, dessen Einheit das Organische ausmacht, eine Einheit, welche mit der organischen Reproduktion gleichbedeutend ist.",
+   "en": "The reflection in action or reaction and the action or reaction in reflection is precisely that whose unity constitutes the organic, a unity which is synonymous with organic reproduction.",
+   "zh": "行动或反应中的反思与反思中的行动或反应，恰恰就是其统一构成有机物的那个东西，而这个统一与有机的再生产是同义的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 7,
+   "de": "Es folgt hieraus, daß in jeder Weise der Wirklichkeit dieselbe Größe der Sensibilität indem wir zuerst das Verhältnis derselben und der Irritabilität zueinander betrachten – vorhanden sein muß als der Irritabilität, und daß eine organische Erscheinung ebensosehr nach der einen als nach der anderen aufgefaßt und bestimmt oder, wie man will, erklärt werden kann.",
+   "en": "It follows from this that in every mode of actuality the same magnitude of sensibility must be present as of irritability – we consider first the relation of the latter and of irritability to each other –, and that an organic appearance can be grasped and determined just as much according to the one as according to the other or, as one will, explained.",
+   "zh": "由此得出，在现实性的每一种方式里都必定有与刺激感受性同样大小的感受性——我们先看感受性与刺激感受性彼此的关系——，而且一个有机现象既可以按这一方来把握和规定，也同样可以按另一方来把握和规定，或者随人怎么说，都可以得到解释。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 8,
+   "de": "Dasselbe, was der eine etwa für hohe Sensibilität nimmt, kann ein anderer ebensogut für hohe Irritabilität und Irritabilität von derselben Höhe betrachten.",
+   "en": "The same thing that one person takes for high sensibility, another can just as well regard as high irritability, and irritability of the same height.",
+   "zh": "同一样东西，一个人拿来当作高度的感受性，另一个人同样可以看作高度的刺激感受性，而且是以同一个高度。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 42,
+   "si": 9,
+   "de": "Wenn sie Faktoren genannt werden und dies nicht ein bedeutungsloses Wort sein soll, so ist eben damit ausgesprochen, daß sie Momente des Begriffs sind, also der reale Gegenstand, dessen Wesen dieser Begriff ausmacht, sie auf gleiche Weise an ihm hat und [daß,] wenn er auf die eine bestimmt wird als sehr sensibel, er ebenso auf die andere als ebensosehr irritabel auszusagen ist.",
+   "en": "If they are called factors and this is not to be a meaningless word, then it is precisely thereby expressed that they are moments of the concept, thus that the real object whose essence this concept constitutes has them in itself in the same way, and that, if it is determined according to the one as very sensible, it is to be asserted just as much according to the other as equally irritable.",
+   "zh": "如果它们被称为因素，而这不应当是一个没有含义的词，那么恰恰由此说出了：它们是概念的环节，所以那个其实在性由这个概念构成的现实对象，以同样的方式在自己身上拥有它们，并且，如果它按这一方被规定为很有感受性，那么按另一方它也同样应当被说成同样有刺激感受性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 0,
+   "de": "Werden sie unterschieden, wie notwendig ist, so sind sie es dem Begriffe nach, und ihr Gegensatz ist qualitativ.",
+   "en": "If they are distinguished, as is necessary, they are so according to the concept, and their opposition is qualitative.",
+   "zh": "如果它们被区分开来，正如必然的那样，那么它们是按概念被区分开来的，而它们的对立是质的对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 1,
+   "de": "Aber außer diesem wahren Unterschiede auch noch als seiend und für die Vorstellung, wie sie Seiten des Gesetzes sein könnten, verschieden gesetzt, so erscheinen sie in quantitativer Verschiedenheit.",
+   "en": "But if, besides this true difference, they are also posited as different as existing and for the representation, as they could be sides of the law, then they appear in quantitative difference.",
+   "zh": "但除了这个真正的差别之外，它们还被设定为存在着的、并且为表象而不同，就像它们能够是规律的诸方面那样，于是它们就显现为量的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 2,
+   "de": "Ihr eigentümlicher qualitativer Gegensatz tritt somit in die Größe, und es entstehen Gesetze der Art, daß z.B. Sensibilität und Irritabilität in umgekehrtem Verhältnisse ihrer Größe stehen, so daß, wie die eine wächst, die andere abnimmt; oder besser gleich die Größe selbst zum Inhalte genommen, daß die Größe von etwas zunimmt, wie seine Kleinheit abnimmt.",
+   "en": "Their peculiar qualitative opposition thus enters into magnitude, and laws arise of the kind that e.g. sensibility and irritability stand in an inverted relation of their magnitude, so that as the one grows the other decreases; or better, taking magnitude itself straight away as the content, that the magnitude of something increases as its smallness decreases.",
+   "zh": "它们固有的质的对立由此进入大小之中，于是就产生了这样一类规律，例如感受性和刺激感受性处于它们大小的颠倒关系之中，以致一方增长时另一方减少；或者不如说，直接把大小本身当作内容，就是某物的大小增长时，它的小减少。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 3,
+   "de": "– Wird diesem Gesetze aber ein bestimmter Inhalt gegeben, etwa so, daß die Größe eines Lochs zunimmt, je mehr das abnimmt, was seine Erfüllung ausmacht, so kann dies umgekehrte Verhältnis ebenso in ein gerades verwandelt und ausgedrückt werden, daß die Größe des Lochs in geradem Verhältnisse der Menge des Weggenommenen zunimmt, – ein tautologischer Satz, er mag als direktes oder umgekehrtes Verhältnis ausgedrückt werden, der in seinem eigentümlichen Ausdrucke nur dieses heißt, daß eine Größe zunimmt, wie diese Größe zunimmt.",
+   "en": "– But if a determinate content is given to this law, e.g. in such a way that the magnitude of a hole increases the more that decreases which constitutes its filling, then this inverted relation can just as well be converted into a direct one and expressed as that the magnitude of the hole increases in direct relation to the quantity of what is taken away, – a tautological proposition, whether it be expressed as a direct or an inverted relation, which in its peculiar expression means nothing but this, that a magnitude increases as this magnitude increases.",
+   "zh": "——但如果给这条规律一个特定的内容，例如说一个洞的大小增长，而构成它的充实的东西越减少，那么这个颠倒的关系同样可以转化为一个正比关系并表述为：洞的大小按被取走的东西的量成正比地增长，——这是一个同义反复的命题，无论把它表述为正比关系还是颠倒关系，它在自己固有的表述中只意味着这一点：一个大小增长时，这个大小增长。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 4,
+   "de": "Wie das Loch und das, was es erfüllt und weggenommen wird, qualitativ entgegengesetzt [sind], aber wie das Reale derselben und dessen bestimmte Größe in beiden eins und dasselbe und ebenso Zunahme der Größe und Abnahme der Kleinheit dasselbe ist und ihre bedeutungsleere Entgegensetzung in eine Tautologie hinausläuft, so sind die organischen Momente gleich unzertrennlich in ihrem Realen und in ihrer Größe, die die Größe desselben ist; eines nimmt nur mit dem anderen ab und nimmt nur mit ihm zu, denn eines hat schlechthin nur Bedeutung, insoweit das andere vorhanden ist; – oder vielmehr es ist gleichgültig, eine organische Erscheinung als Irritabilität oder als Sensibilität zu betrachten, schon überhaupt, und ebenso, wenn von ihrer Größe gesprochen wird, – so gleichgültig es ist, die Zunahme eines Lochs als Vermehrung seiner als der Leerheit oder als Vermehrung der herausgenommenen Fülle auszusprechen.",
+   "en": "As the hole and that which fills it and is taken away are qualitatively opposed, but as the real element of them and its determinate magnitude is one and the same in both, and likewise increase of magnitude and decrease of smallness is the same, and their meaningless opposition runs out into a tautology, so the organic moments are equally inseparable in their real element and in their magnitude, which is the magnitude of the same; one decreases only with the other and increases only with it, for one has absolutely meaning only insofar as the other is present; – or rather it is indifferent to consider an organic appearance as irritability or as sensibility, already in general, and likewise when its magnitude is spoken of, – as indifferent as it is to express the increase of a hole as increase of it as emptiness or as increase of the fullness taken out.",
+   "zh": "正如洞与充实它并被取走的东西是质上对立的，但两者的实在物及其特定大小在两者中是同一个东西，同样，大小的增长与小的小减少也是同一个东西，而它们那没有含义的对立流为一个同义反复，有机的诸环节同样在它们的实在物中、在它们的大小中不可分离，而大小是同一个东西的大小；一方只随另一方减少，也只随另一方增长，因为一方绝对地只有在一方存在的情况下才有含义；——或者不如说，把一个有机现象看作刺激感受性还是看作感受性，根本就是一样的事情，而当谈到它的大小时，也同样一样，——正如把一个洞的增长说成它作为空虚的增长、还是说成被取出的充实的增长，是一样的事情。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 5,
+   "de": "Oder eine Zahl, z.B. drei, bleibt gleich groß, ich mag sie positiv oder negativ nehmen; und wenn ich die drei zu vier vergrößere, so ist das Positive wie das Negative zu vier geworden, – wie der Südpol an einem Magnete gerade so stark ist als sein Nordpol oder eine positive Elektrizität oder eine Säure geradeso stark als ihre negative oder als die Base, worauf sie einwirkt.",
+   "en": "Or a number, e.g. three, remains equally large whether I take it positively or negatively; and if I enlarge the three to four, then the positive as well as the negative has become four, – as the south pole on a magnet is just as strong as its north pole, or a positive electricity or an acid just as strong as its negative or as the base on which it acts.",
+   "zh": "或者一个数，例如三，无论我把它当作正的还是负的，它都同样大；而如果我把三增大到四，那么正的和负的都变成了四，——正如磁体上的南极恰恰与它的北极一样强，或者一种正电或一种酸恰恰与它的负电、或与它所作用于其上的碱一样强。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 6,
+   "de": "– Ein solches Großes als jene drei oder ein Magnet usf. ist ein organisches Dasein; es ist dasjenige, das vermehrt und vermindert wird, und wenn es vermehrt wird, werden beide Faktoren desselben vermehrt, sosehr als beide Pole des Magnets oder als die beiden Elektrizitäten, wenn ein Magnet usf. verstärkt wird, zunehmen.",
+   "en": "– Such a magnitude as that three or a magnet etc. is an organic determinate being; it is that which is increased and decreased, and when it is increased, both factors of it are increased, as much as both poles of the magnet or as the two electricities increase when a magnet etc. is strengthened.",
+   "zh": "——这样一个大小，如那个三或一个磁体等等，是一个有机的定在；它就是那个被增大和被减小者，而当它被增大时，它的两个因素都被增大，正如磁体的两极、或两种电在磁体等等被加强时同样增长一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 43,
+   "si": 7,
+   "de": "– Daß beide ebensowenig nach Intension und Extension verschieden sein [können], das eine nicht an Extension ab-, dagegen an Intension zunehmen kann, während das andere umgekehrt seine Intension vermindern, dagegen an Extension zunehmen sollte, fällt unter denselben Begriff leerer Entgegensetzung; die reale Intension ist ebenso schlechthin so groß als die Extension und umgekehrt.",
+   "en": "– That both can just as little be different according to intension and extension, that the one cannot decrease in extension and on the contrary increase in intension, while the other, conversely, should diminish its intension and on the contrary increase in extension, falls under the same concept of empty opposition; the real intension is just as absolutely as large as the extension, and conversely.",
+   "zh": "——两者同样不能按内延和外延而有区别，即一方不能在外延上减少、反而在内延上增长，而另一方则相反，应当减少自己的内延、反而在外延上增长，这一点归在同一个空洞对立的观念之下；实在的内延绝对地与那外延一样大，反过来也一样。"
+  }
+ ]
+}

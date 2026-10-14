@@ -1,0 +1,121 @@
+{
+ "id": "w2-13-70",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "1b0itbhjof",
+   "sents": [
+    "Geist der Natur: Lebet in mir, mit mir!",
+    "Ich bin mit Euch und kann Euch nicht deutlicher werden, als ich es bin!",
+    "Blühen und Verwelken, Gedeihen und Zerstören hängen aneinander.",
+    "Meine Freundschaft verbirgt Euch die nahe Verkettung.",
+    "Ich habe meinen lieben Kindern die Täuschung zur Gefährtin mitgegeben.",
+    "Mein Lohn ist Euer Glück.",
+    "Die Quelle dazu strömt mit reichem Flusse in Eurem Herzen.",
+    "Suchet es nur da!",
+    "Fliehet den Wahn derer, die es außer mir suchen!"
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "iss1c2ndxp",
+   "sents": [
+    "Jeder will und meint besser zu sein als diese seine Welt.",
+    "Wer besser ist, drückt nur diese seine Welt besser aus als andere."
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "npfskk819k",
+   "sents": [
+    "Der gewöhnliche königliche Weg in der Philosophie ist, die Vorreden und Rezensionen zu lesen, um eine ungefähre Vorstellung von der Sache zu bekommen."
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "w4xsyl1s9s",
+   "sents": [
+    "Der letzte königliche Weg beim Studium ist das Selbstdenken."
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "1apk9o41d2",
+   "sents": [
+    "Die soviel gegen philosophische Systeme sprechen, übersehen bei einem bestimmten Systeme den Umstand, daß es eine Philosophie ist; [den] Hauptumstand, so wie daß eine Eiche ein Baum ist."
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "1i1f9m91rv",
+   "sents": [
+    "Kiesewetter hat eine sehr große Neigung bei den Taubstummen, in Reimen zu sprechen, gefunden, und was beinah unglaublich scheint: ihre Reime waren nicht auf die Orthographie, sondern auf den Ton gegründet."
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "d9hv7y8us8",
+   "sents": [
+    "In seiner Sprache reden, ist eines der höchsten Bildungsmomente.",
+    "Ein Volk gehört sich.",
+    "Die Fremdartigkeit, bis auf die lateinischen Lettern, hinaus!"
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "52yz3014er",
+   "sents": [
+    "Es tritt einer auf und liefert etwas Mittelmäßiges.",
+    "Alle begrüßen ihn als Ihresgleichen und hegen und pflegen ihn: Du bist von den Unseren, du meinst es eben nicht ernsthaft usw."
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1e8wii2407",
+   "sents": [
+    "Es ist dem Publikum bei der Philosophie um die Religion, die verlorene, zu tun; nicht um Wissenschaft; um diese erst hinterher.",
+    "Der Mensch will erfahren, wie er daran ist, will Befriedigung für sich, das Interesse der Menschheit dieser Zeit."
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1wljym3ftb",
+   "sents": [
+    "Schöne Wissenschaften wird nicht mehr gesagt, aber noch: denke dir ein Haus mit zwei Stämmen daneben usw., statt: stelle dir vor."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "u7hdu915jc",
+   "sents": [
+    "Es ist nicht mehr so sehr um Gedanken zu tun.",
+    "Wir haben deren genug, gute und schlechte, schöne und kühne.",
+    "Sondern um Begriffe.",
+    "Indem aber jene durch sich selbst unmittelbar geltend zu machen sind, als Begriffe dagegen begreiflich gemacht werden sollen, so erhält dadurch die Form der Schreibart eine Änderung, ein vielleicht peinliche Anstrengung erforderndes Aussehen, wie bei Platon, Aristoteles."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p70.json"
+}

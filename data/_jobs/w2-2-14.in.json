@@ -1,0 +1,87 @@
+{
+ "id": "w2-2-14",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "heading": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "blocks": [
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "3oa95814qx",
+   "sents": [
+    "Wenn die Natur nur Materie, nicht Subjekt-Objekt ist, bleibt keine solche wissenschaftliche Konstruktion derselben möglich, für welche Erkennendes und Erkanntes eins sein muß.",
+    "Eine Vernunft, welche sich durch absolute Entgegensetzung gegen das Objekt zur Reflexion gemacht hat, kann a priori von der Natur, nur durch Deduktion, mehr aussagen als ihren allgemeinen Charakter der Materie; dieser bleibt zugrunde liegen, die mannigfaltigen weiteren Bestimmungen sind für und durch die Reflexion gesetzt.",
+    "Eine solche Deduktion hat Schein einer Apriorität daher, daß sie das Reflexionsprodukt, den Begriff, als ein Objektives setzt; weil sie weiter nichts setzt, bleibt sie freilich immanent.",
+    "Eine solche Deduktion ist ihrem Wesen nach dasselbe mit jener Ansicht, die in der Natur nur äußere Zweckmäßigkeit anerkennt.",
+    "Der Unterschied ist allein, daß jene systematischer von einem bestimmten Punkte, z. B. dem Leib des Vernunftwesens ausgeht; in beiden ist die Natur ein absolut von dem Begriff - einem ihr Fremden - Bestimmtes.",
+    "Die teleologische Ansicht, welche die Natur nur [als] nach äußeren Zwecken bestimmt anerkennt, hat in Rücksicht der Vollständigkeit einen Vorzug, da sie die Mannigfaltigkeit der Natur, wie sie empirisch gegeben ist, aufnimmt.",
+    "Die Deduktion der Natur hingegen, die von einem bestimmten Punkt ausgeht und wegen der Unvollständigkeit desselben noch Weiteres postuliert - worin dies Deduzieren besteht -, ist mit dem Postulierten unmittelbar befriedigt, welches unmittelbar so viel leisten soll, als der Begriff fordert.",
+    "Ob ein wirkliches Objekt der Natur das Geforderte allein zu leisten vermöge, geht sie nichts an, und sie kann dies nur durch Erfahrung finden; findet sich das unmittelbar postulierte Objekt in der Natur nicht hinreichend, so wird ein anderes deduziert usf., bis der Zweck sich erfüllt findet.",
+    "Die Ordnung dieser deduzierten Objekte hängt von den bestimmten Zwecken ab, von denen ausgegangen wird; und nur soweit, als sie in Rücksicht auf diesen Zweck eine Beziehung haben, haben sie Zusammenhang unter sich.",
+    "Eigentlich aber sind sie keines inneren Zusammenhangs fähig; denn wenn das Objekt, das unmittelbar deduziert wurde, in der Erfahrung für unzureichend zu dem Begriff, der erfüllt werden soll, gefunden wird, so ist durch ein solches einziges Objekt, weil es äußerlich unendlich bestimmbar ist, die Zerstreuung in die Unendlichkeit aufgetan - eine Zerstreuung, die etwa nur dadurch vermieden würde, daß die Deduktion ihre mannigfaltigen Punkte zu einem Kreise drehte, in dessen inneren Mittelpunkt sie aber sich zu stellen nicht fähig ist, weil sie von Anfang an im Äußeren ist.",
+    "Für den Begriff ist das Objekt, für das Objekt der Begriff ein Äußeres."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "ww0ry1cgz6",
+   "sents": [
+    "Keine der beiden Wissenschaften kann sich also als die einzige konstituieren, keine die andere aufheben.",
+    "Das Absolute würde hierdurch nur in einer Form seiner Existenz gesetzt, und so wie es in der Form der Existenz sich setzt, muß es sich in einer Zweiheit der Form setzen; denn Erscheinen und Sich-Entzweien ist eins."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1k5vx671ft",
+   "sents": [
+    "Wegen der inneren Identität beider Wissenschaften - da beide das Absolute darstellen, wie es sich aus den niedrigen Potenzen einer Form der Erscheinung zur Totalität in dieser Form gebiert -, ist jede Wissenschaft ihrem Zusammenhange und ihrer Stufenfolge nach der anderen gleich.",
+    "Eine ist ein Beleg der anderen; wie ein älterer Philosoph davon ungefähr so gesprochen hat: die Ordnung und der Zusammenhang der Ideen (des Subjektiven) ist derselbe als der Zusammenhang und die Ordnung der Dinge51) (des Objektiven).",
+    "Alles ist nur in einer Totalität; die objektive Totalität und die subjektive Totalität, das System der Natur und das System der Intelligenz ist eines und ebendasselbe; einer subjektiven Bestimmtheit korrespondiert ebendieselbe objektive Bestimmtheit."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "rl4o9m1wzo",
+   "sents": [
+    "Als Wissenschaften sind sie objektive Totalitäten und gehen von Beschränktem zu Beschränktem fort.",
+    "Jedes Beschränkte ist aber selbst im Absoluten, also innerlich ein Unbeschränktes; seine äußere Beschränkung verliert es dadurch, daß es im systematischen Zusammenhange in der objektiven Totalität gesetzt ist; in dieser hat es auch als ein Beschränktes Wahrheit, und Bestimmung seiner Stelle ist das Wissen von ihm.",
+    "Zu Jacobis Ausdruck, daß die Systeme ein organisiertes Nichtwissen52) seien, muß nur hinzugefügt werden, daß das Nichtwissen - das Erkennen Einzelner - dadurch, daß es organisiert wird, ein Wissen wird."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "iwniip1bxl",
+   "sents": [
+    "Außer der äußeren Gleichheit, insofern diese Wissenschaften abgesondert stehen, durchdringen ihre Prinzipien sich zugleich notwendig unmittelbar.",
+    "Wenn das Prinzip der einen das subjektive Subjekt-Objekt, das andere das objektive Subjekt-Objekt ist, so ist ja im System der Subjektivität zugleich das Objektive, im System der Objektivität zugleich das Subjektive, - die Natur so gut eine immanente Idealität als die Intelligenz eine immanente Realität.",
+    "Beide Pole des Erkennens und des Seins sind in jedem, beide haben also auch den Indifferenzpunkt in sich; nur ist in dem einen System der Pol des Ideellen, in dem andern der Pol des Reellen überwiegend.",
+    "Jener kommt in der Natur nicht bis zum Punkt der absoluten Abstraktion, die sich gegen die unendliche Expansion als Punkt in sich selbst setzt, wie das Ideelle sich in der Vernunft konstruiert; dieser kommt in der Intelligenz nicht bis zur Einwicklung53) des Unendlichen, das in dieser Kontraktion sich unendlich außer sich setzt, wie das Reelle sich in der Materie konstruiert.",
+    "Jedes System ist ein System der Freiheit und der Notwendigkeit zugleich.",
+    "Freiheit und Notwendigkeit sind ideelle Faktoren, also nicht in reeller Entgegensetzung; das Absolute kann sich daher in keiner von beiden Formen als Absolutes setzen, und die Wissenschaften der Philosophie können nicht die eine ein System der Freiheit, die andere ein System der Notwendigkeit sein.",
+    "Eine solche getrennte Freiheit wäre eine formale Freiheit, so wie eine getrennte Notwendigkeit eine formale Notwendigkeit.",
+    "Freiheit ist Charakter des Absoluten, wenn es gesetzt wird als ein Inneres, das, insofern es sich in eine beschränkte Form, in bestimmte Punkte der objektiven Totalität setzt, bleibt, was es ist, ein nicht Beschränktes, wenn es also in Entgegensetzung mit seinem Sein, d. h. als Inneres betrachtet wird, demnach mit der Möglichkeit, es zu verlassen und in eine andere Erscheinung überzugehen.",
+    "Notwendigkeit ist Charakter des Absoluten, insofern es betrachtet wird als ein Äußeres, als eine objektive Totalität, also als ein Außereinander, dessen Teilen aber kein Sein zukommt, außer in dem Ganzen der Objektivität.",
+    "Weil Intelligenz sowohl als die Natur dadurch, daß sie im Absoluten gesetzt sind, eine reelle Entgegensetzung haben, kommen die ideellen Faktoren der Freiheit und Notwendigkeit einer jeden zu.",
+    "Aber der Schein der Freiheit, die Willkür, d. h. eine Freiheit, in welcher ganz von der Notwendigkeit oder von der Freiheit als einer Totalität abstrahiert würde - was nur geschehen kann, insofern die Freiheit schon innerhalb einer einzelnen Sphäre gesetzt ist -, sowie der der Willkür für die Notwendigkeit entsprechende Zufall, mit welchem einzelne Teile gesetzt sind, als ob sie nicht in der objektiven Totalität und durch sie allein, sondern für sich wären, - Willkür und Zufall, die nur auf untergeordneteren Standpunkten Raum haben, sind aus dem Begriff der Wissenschaften des Absoluten verbannt.",
+    "Hingegen Notwendigkeit gehört der Intelligenz an wie der Natur.",
+    "Denn da die Intelligenz im Absoluten gesetzt ist, so kommt ihr gleichfalls die Form des Seins zu; sie muß sich entzweien und erscheinen; sie ist eine vollendete Organisation von Erkennen und Anschauen.",
+    "Jede ihrer Gestalten ist durch entgegengesetzte bedingt, und wenn die abstrakte Identität der Gestalten als Freiheit von den Gestalten selbst isoliert wird, so ist sie nur ein ideeller Pol des Indifferenzpunktes der Intelligenz, der eine objektive Totalität als den anderen immanenten Pol hat.",
+    "Die Natur dagegen hat Freiheit, denn sie ist nicht ein ruhendes Sein, sondern zugleich ein Werden, - ein Sein, das nicht von außen entzweit und synthesiert wird, sondern sich in sich selbst trennt und vereint und in keiner ihrer Gestalten sich als ein bloß Beschränktes, sondern als das Ganze frei setzt.",
+    "Ihre bewußtlose Entwicklung ist eine Reflexion der lebendigen Kraft, die sich endlos entzweit, aber in jeder beschränkten Gestalt sich selbst setzt und identisch ist; und insofern ist keine Gestalt der Natur beschränkt, sondern frei."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/2.p14.json"
+}

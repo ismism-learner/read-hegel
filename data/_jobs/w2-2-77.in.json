@@ -1,0 +1,40 @@
+{
+ "id": "w2-2-77",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "heading": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "blocks": [
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "vmxlryuj6l",
+   "sents": [
+    "Wenn das Bedürfnis der Philosophie ihren Mittelpunkt nicht erreicht, zeigt es die zwei Seiten des Absoluten, welches Inneres und Äußeres, Wesen und Erscheinung zugleich ist, getrennt, - das innere Wesen und die äußere Erscheinung besonders.",
+    "Die äußere Erscheinung für sich wird zur absolut objektiven Totalität, zu der ins Unendliche zerstreuten Mannigfaltigkeit, welche in dem Streben nach der unendlichen Menge ihren bewußtlosen Zusammenhang mit dem Absoluten kundgibt, und man muß dem unwissenschaftlichen Bemühen die Gerechtigkeit widerfahren lassen, daß es vom Bedürfnis einer Totalität insofern [etwas] verspürt, als es das Empirische ins Unendliche hinaus auszubreiten strebt, obzwar eben dadurch notwendig am Ende der Stoff sehr dünne wird.",
+    "Dieses Bemühen mit dem unendlichen objektiven Stoff bildet den entgegengesetzten Pol zu dem Pol der Dichtigkeit, die im inneren Wesen zu bleiben strebt und aus der Kontraktion ihres gediegenen Stoffs nicht zur wissenschaftlichen Expansion herausgelangen kann.",
+    "Jenes bringt in den Tod des Wesens, das es behandelt, durch unendliche Geschäftigkeit zwar nicht ein Leben, aber doch ein Regen, und wenn die Danaiden wegen des ewigen Auslaufens des Wassers nie zur Fülle gelangen, so jene Bemühungen dagegen nicht, indem sie durch das beständige Zugießen ihrem Meer eine unendliche Breite geben; wenn sie die Befriedigung nicht erreichen, nichts mehr zu finden, das unbegossen wäre, so erhält die Geschäftigkeit eben darin ewige Nahrung auf der unermeßlichen Oberfläche; feststehend auf dem Gemeinspruch, daß ins Innere der Natur kein erschaffener Geist dringt88) , gibt sie auf, Geist und ein Inneres zu erschaffen und das Tote zur Natur zu beleben. - Die innere Schwerkraft des Schwärmers hingegen verschmäht das Wasser, durch dessen Zutritt zu der Dichtigkeit sie sich zur Gestalt kristallisieren könnte; der gärende Drang, der aus der Naturnotwendigkeit, eine Gestalt zu produzieren, stammt, stößt ihre Möglichkeit zurück und löst die Natur in Geister auf, bildet sie zu gestaltlosen Gestalten, oder wenn die Reflexion überwiegend ist über die Phantasie, entsteht echter Skeptizismus."
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "et5b6xn5ro",
+   "sents": [
+    "Einen falschen Mittelpunkt zwischen beiden bildet eine Popular- und Formularphilosophie, welche beide nicht gefaßt hat und darum es ihnen so zu Dank machen zu können glaubt, daß das Prinzip einer jeden in seinem Wesen bliebe und durch eine Modifikation beide sich ineinanderschmiegten.",
+    "Sie ergreift nicht beide Pole in sich, sondern in einer oberflächlichen Modifikation und nachbarlichen Vereinigung entschwindet ihr das Wesen beider, und sie ist beiden sowie der Philosophie fremd.",
+    "Sie hat vom Pole der Zerstreuung das Prinzip der Entgegensetzung, aber die Entgegengesetzten sollen nicht bloße Erscheinungen und Begriffe ins Unendliche, sondern eins derselben auch ein Unendliches und Unbegreifliches sein; somit sollte das Bedürfnis des Schwärmers nach einem Übersinnlichen befriedigt werden.",
+    "Aber das Prinzip der Zerstreuung verschmäht das Übersinnliche, wie das Prinzip der Schwärmerei die Entgegensetzung des Übersinnlichen und irgendein Bestehen eines Beschränkten neben demselben verschmäht.",
+    "Ebenso wird jeder Schein eines Mittelpunkts, den die Popularphilosophie ihrem Prinzip der absoluten Nichtidentität eines Endlichen und Unendlichen gibt, von der Philosophie verworfen, welche den Tod der Entzweiten durch die absolute Identität zum Leben erhebt und durch die sie beide in sich verschlingende und beide gleich mütterlich setzende Vernunft nach dem Bewußtsein dieser Identität des Endlichen und Unendlichen, d. h. nach Wissen und Wahrheit strebt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/2.p77.json"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "w3-1-0",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 1,
+ "chunkTitle": "Einleitung",
+ "heading": "Einleitung",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1kyiwez1p4",
+   "text": "Einleitung"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "150y30l15e",
+   "sents": [
+    "Es ist eine natürliche Vorstellung, daß, ehe in der Philosophie an die Sache selbst, nämlich an das wirkliche Erkennen dessen, was in Wahrheit ist, gegangen wird, es notwendig sei, vorher über das Erkennen sich zu verständigen, das als das Werkzeug, wodurch man des Absoluten sich bemächtige, oder als das Mittel, durch welches hindurch man es erblicke, betrachtet wird.",
+    "Die Besorgnis scheint gerecht, teils, daß es verschiedene Arten der Erkenntnis geben und darunter eine geschickter als eine andere zur Erreichung dieses Endzwecks sein möchte, hiermit auch falsche Wahl unter ihnen, – teils auch daß, indem das Erkennen ein Vermögen von bestimmter Art und Umfange ist, ohne die genauere Bestimmung seiner Natur und Grenze Wolken des Irrtums statt des Himmels der Wahrheit erfaßt werden.",
+    "Diese Besorgnis muß sich wohl sogar in die Überzeugung verwandeln, daß das ganze Beginnen, dasjenige, was an sich ist, durch das Erkennen dem Bewußtsein zu erwerben, in seinem Begriffe widersinnig sei, und zwischen das Erkennen und das Absolute eine sie schlechthin scheidende Grenze falle.",
+    "Denn ist das Erkennen das Werkzeug, sich des absoluten Wesens zu bemächtigen, so fällt sogleich auf, daß die Anwendung eines Werkzeugs auf eine Sache sie vielmehr nicht läßt, wie sie für sich ist, sondern eine Formierung und Veränderung mit ihr vornimmt.",
+    "Oder ist das Erkennen nicht Werkzeug unserer Tätigkeit, sondern gewissermaßen ein passives Medium, durch welches hindurch das Licht der Wahrheit an uns gelangt, so erhalten wir auch so sie nicht, wie sie an sich, sondern wie sie durch und in diesem Medium ist.",
+    "Wir gebrauchen in beiden Fällen ein Mittel, welches unmittelbar das Gegenteil seines Zwecks hervorbringt; oder das Widersinnige ist vielmehr, daß wir uns überhaupt eines Mittels bedienen.",
+    "Es scheint zwar, daß diesem Übelstande durch die Kenntnis der Wirkungsweise des Werkzeugs abzuhelfen steht, denn sie macht es möglich, den Teil, welcher in der Vorstellung, die wir durch es vom Absoluten erhalten, dem Werkzeuge angehört, im Resultate abzuziehen und so das Wahre rein zu erhalten.",
+    "Allein diese Verbesserung würde uns in der Tat nur dahin zurückbringen, wo wir vorher waren.",
+    "Wenn wir von einem formierten Dinge das wieder wegnehmen, was das Werkzeug daran getan hat, so ist uns das Ding – hier das Absolute – gerade wieder soviel als vor dieser somit überflüssigen Bemühung.",
+    "Sollte das Absolute durch das Werkzeug uns nur überhaupt nähergebracht werden, ohne etwas an ihm zu verändern, wie etwa durch die Leimrute der Vogel, so würde es wohl, wenn es nicht an und für sich schon bei uns wäre und sein wollte, dieser List spotten; denn eine List wäre in diesem Falle das Erkennen, da es durch sein vielfaches Bemühen ganz etwas anderes zu treiben sich die Miene gibt, als nur die unmittelbare und somit mühelose Beziehung hervorzubringen.",
+    "Oder wenn die Prüfung des Erkennens, das wir als ein Medium uns vorstellen, uns das Gesetz seiner Strahlenbrechung kennen lehrt, so nützt es ebenso nichts, sie im Resultate abzuziehen; denn nicht das Brechen des Strahls, sondern der Strahl selbst, wodurch die Wahrheit uns berührt, ist das Erkennen, und dieses abgezogen, wäre uns nur die reine Richtung oder der leere Ort bezeichnet worden."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1tojnrf1ww",
+   "sents": [
+    "Inzwischen, wenn die Besorgnis, in Irrtum zu geraten, ein Mißtrauen in die Wissenschaft setzt, welche ohne dergleichen Bedenklichkeiten ans Werk selbst geht und wirklich erkennt, so ist nicht abzusehen, warum nicht umgekehrt ein Mißtrauen in dies Mißtrauen gesetzt und besorgt werden soll, daß diese Furcht zu irren schon der Irrtum selbst ist.",
+    "In der Tat setzt sie etwas, und zwar manches, als Wahrheit voraus und stützt darauf ihre Bedenklichkeiten und Konsequenzen, was selbst vorher zu prüfen ist, ob es Wahrheit sei.",
+    "Sie setzt nämlich Vorstellungen von dem Erkennen als einem Werkzeuge und Medium, auch einen Unterschied unserer selbst von diesem Erkennen voraus; vorzüglich aber dies, daß das Absolute auf einer Seite stehe und das Erkennen auf der andern Seite für sich und getrennt von dem Absoluten doch etwas Reelles [sei], oder hiermit, daß das Erkennen, welches, indem es außer dem Absoluten, wohl auch außer der Wahrheit ist, doch wahrhaft sei, – eine Annahme, wodurch das, was sich Furcht vor dem Irrtume nennt, sich eher als Furcht vor der Wahrheit zu erkennen gibt."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "dtgfjb17rt",
+   "sents": [
+    "Diese Konsequenz ergibt sich daraus, daß das Absolute allem wahr oder das Wahre allein absolut ist.",
+    "Sie kann abgelehnt werden durch den Unterschied, daß ein Erkennen, welches zwar nicht, wie die Wissenschaft will, das Absolute erkennt, doch auch wahr und das Erkennen überhaupt, wenn es dasselbe zu fassen zwar unfähig sei, doch anderer Wahrheit fähig sein könne.",
+    "Aber wir sehen nachgerade, daß solches Hin- und Herreden auf einen trüben Unterschied zwischen einem absoluten Wahren und einem sonstigen Wahren hinausläuft und das Absolute, das Erkennen usf.",
+    "Worte sind, welche eine Bedeutung voraussetzen, um die zu erlangen es erst zu tun ist."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "9isiyt11iu",
+   "sents": [
+    "Statt mit dergleichen unnützen Vorstellungen und Redensarten von dem Erkennen als einem Werkzeuge, des Absoluten habhaft zu werden, oder als einem Medium, durch das hindurch wir die Wahrheit erblicken usf.",
+    "– Verhältnisse, worauf wohl alle diese Vorstellungen von einem Erkennen, das vom Absoluten, und einem Absoluten, das von dem Erkennen getrennt ist, hinauslaufen –, statt mit den Ausreden, welche das Unvermögen der Wissenschaft aus der Voraussetzung solcher Verhältnisse schöpft, um von der Mühe der Wissenschaft zugleich sich zu befreien und zugleich sich das Ansehen eines ernsthaften und eifrigen Bemühens zu geben, sowie statt mit Antworten auf alles dieses sich herumzuplacken, könnten sie als zufällige und willkürliche Vorstellungen geradezu verworfen und der damit verbundene Gebrauch von Worten wie dem Absoluten, dem Erkennen, auch dem Objektiven und Subjektiven und unzähligen anderen, deren Bedeutung als allgemein bekannt vorausgesetzt wird, sogar als Betrug angesehen werden.",
+    "Denn das Vorgeben, teils daß ihre Bedeutung allgemein bekannt ist, teils auch daß man selbst ihren Begriff hat, scheint eher nur die Hauptsache ersparen zu sollen, nämlich diesen Begriff zu geben.",
+    "Mit mehr Recht dagegen könnte die Mühe gespart werden, von solchen Vorstellungen und Redensarten, wodurch die Wissenschaft selbst abgewehrt werden soll, überhaupt Notiz zu nehmen, denn sie machen nur eine leere Erscheinung des Wissens aus, welche vor der auftretenden Wissenschaft unmittelbar verschwindet.",
+    "Aber die Wissenschaft darin, daß sie auftritt, ist sie selbst eine Erscheinung; ihr Auftreten ist noch nicht sie in ihrer Wahrheit ausgeführt und ausgebreitet.",
+    "Es ist hierbei gleichgültig, sich vorzustellen, daß sie die Erscheinung ist, weil sie neben anderem auftritt, oder jenes andere unwahre Wissen ihr Erscheinen zu nennen.",
+    "Die Wissenschaft muß sich aber von diesem Scheine befreien, und sie kann dies nur dadurch, daß sie sich gegen ihn wendet.",
+    "Denn sie kann ein Wissen, welches nicht wahrhaft ist, weder als eine gemeine Ansicht der Dinge nur verwerfen und versichern, daß sie eine ganz andere Erkenntnis und jenes Wissen für sie gar nichts ist, noch sich auf die Ahnung eines besseren in ihm selbst berufen.",
+    "Durch jene Versicherung erklärte sie ihr Sein für ihre Kraft; aber das unwahre Wissen beruft sich ebenso darauf, daß es ist, und versichert, daß ihm die Wissenschaft nichts ist; ein trockenes Versichern gilt aber gerade soviel als ein anderes.",
+    "Noch weniger kann sie sich auf die bessere Ahnung berufen, welche in dem nicht wahrhaften Erkennen vorhanden und in ihm selbst die Hinweisung auf sie sei; denn einesteils beriefe sie sich ebenso wieder auf ein Sein, andernteils aber auf sich als auf die Weise, wie sie im nicht wahrhaften Erkennen ist, d.h. auf eine schlechte Weise ihres Seins und auf ihre Erscheinung vielmehr als darauf, wie sie an und für sich ist.",
+    "Aus diesem Grunde soll hier die Darstellung des erscheinenden Wissens vorgenommen werden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/1.p0.json"
+}

@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-04",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 1,
+   "de": "Die verschiedenen Dinge sind also für sich gesetzt; und der Widerstreit fällt in sie so gegenseitig, daß jedes nicht von sich selbst, sondern nur von dem anderen verschieden ist.",
+   "en": "The different things are therefore posited as being for themselves; and the conflict falls into them in such a reciprocal way that each is different not from itself, but only from the other.",
+   "zh": "于是不同的物被设定为自为的；而冲突这样交互地落入它们之中，以致每一个都不是与自身相异，而只是与他物相异。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 2,
+   "de": "Jedes ist aber hiermit selbst als ein Unterschiedenes bestimmt und hat den wesentlichen Unterschied von den anderen an ihm, aber zugleich nicht so, daß dies eine Entgegensetzung an ihm selbst wäre, sondern es für sich ist einfache Bestimmtheit, welche seinen wesentlichen, es von anderen unterscheidenden Charakter ausmacht.",
+   "en": "But each is hereby itself determined as something distinguished and has on it the essential difference from the others, yet not in such a way that this would be an opposition on it itself, but rather for itself it is simple determinacy, which makes up its essential character that distinguishes it from others.",
+   "zh": "但每一个由此本身就被规定为有差别的东西，并且在它身上具有与其他物相区别的本质的差别，然而又不是说这一点会是它自身之上的对立，而是说它自为地就是单纯的规定性，这种规定性构成它那种本质的、把它与他物区别开来的特性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 3,
+   "de": "In der Tat ist zwar, da die Verschiedenheit an ihm ist, dieselbe notwendig als wirklicher Unterschied mannigfaltiger Beschaffenheit an ihm.",
+   "en": "In fact, to be sure, since difference is on it, that difference is necessarily on it as the actual difference of manifold qualities.",
+   "zh": "事实上，既然相异性在它身上，那么这种相异性就必然作为多种性状的现实的差别而在它身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 4,
+   "de": "Allein weil die Bestimmtheit das Wesen des Dings ausmacht, wodurch es von anderen sich unterscheidet und für sich ist, so ist diese sonstige mannigfaltige Beschaffenheit das Unwesentliche.",
+   "en": "But because determinacy makes up the essence of the thing, whereby it distinguishes itself from others and is for itself, this other manifold quality is the unessential.",
+   "zh": "但是，由于规定性构成物的本质，物凭此把自己与他物区别开来并自为地存在，所以这些其余的多种性状就是非本质的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 5,
+   "de": "Das Ding hat hiermit zwar in seiner Einheit das gedoppelte Insofern an ihm, aber mit ungleichem Werte, wodurch dies Entgegengesetztsein also nicht zur wirklichen Entgegensetzung des Dings selbst wird; sondern insofern dies durch seinen absoluten Unterschied in Entgegensetzung kommt, hat es sie gegen ein anderes Ding außer ihm.",
+   "en": "The thing thus indeed has in its unity the doubled “insofar” on it, but with unequal value, whereby this being-opposed does not become the actual opposition of the thing itself; rather, insofar as the thing comes into opposition through its absolute difference, it has that opposition against another thing outside it.",
+   "zh": "物由此在它的统一中虽然具有双重的“就……而言”，但带有不相等的价值，于是这种被对立状态就不是物自身的现实的对立；而是说，只要物通过它的绝对的差别而进入对立，它就是针对它之外的另一个物才有这种对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 6,
+   "de": "Die sonstige Mannigfaltigkeit ist zwar auch notwendig an dem Dinge, so daß sie nicht von ihm wegbleiben kann, aber sie ist ihm unwesentlich.",
+   "en": "The other manifoldness is indeed also necessarily on the thing, so that it cannot stay away from it, but it is unessential to the thing.",
+   "zh": "其余的杂多虽然也必然在物身上，以致它不能从物那里消失，但它对物来说是非本质的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 16,
+   "si": 0,
+   "de": "Diese Bestimmtheit, welche den wesentlichen Charakter des Dings ausmacht und es von allen anderen unterscheidet, ist nun so bestimmt, daß das Ding dadurch im Gegensatze mit anderen ist, aber sich darin für sich erhalten soll.",
+   "en": "This determinacy, which makes up the essential character of the thing and distinguishes it from all others, is now so determined that the thing is thereby in opposition with others, but is supposed to preserve itself for itself in this opposition.",
+   "zh": "这种构成物的本质特性、并把物与所有其他物区别开来的规定性，现在被规定成这样：物由此处于与其他物的对立之中，却应当在这种对立中把自己保持为自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 16,
+   "si": 1,
+   "de": "Ding aber oder für sich seiendes Eins ist es nur, insofern es nicht in dieser Beziehung auf andere steht; denn in dieser Beziehung ist vielmehr der Zusammenhang mit Anderem gesetzt; und Zusammenhang mit Anderem ist das Aufhören des Fürsichseins.",
+   "en": "But it is a thing, or a being-for-itself One, only insofar as it does not stand in this relation to others; for in this relation it is rather the connection with another that is posited; and connection with another is the ceasing of being-for-itself.",
+   "zh": "但它只有在不处于这种对他物的关系之中时才是物，或者说才是自为存在的一；因为在这种关系中，被设定的反而是与他物的联系；而与他物的联系就是自为存在的终止。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 16,
+   "si": 2,
+   "de": "Durch den absoluten Charakter gerade und seine Entgegensetzung verhält es sich zu anderen und ist wesentlich nur dies Verhalten; das Verhältnis aber ist die Negation seiner Selbständigkeit, und das Ding geht vielmehr durch seine wesentliche Eigenschaft zugrunde.",
+   "en": "Precisely through the absolute character and its being-opposed, it relates itself to others and is essentially only this comportment; but the relation is the negation of its independence, and the thing rather perishes through its essential property.",
+   "zh": "正是通过这种绝对特性和它的被对立状态，物才与其他物发生关系，并且本质上只是这种相关活动；但关系是对它的独立性的否定，而物反而是通过它的本质属性而毁灭。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 17,
+   "si": 0,
+   "de": "Die Notwendigkeit der Erfahrung für das Bewußsein, daß das Ding eben durch die Bestimmtheit, welche sein Wesen und sein Fürsichsein ausmacht, zugrunde geht, kann kurz dem einfachen Begriffe nach so betrachtet werden.",
+   "en": "The necessity, for consciousness, of the experience that the thing perishes precisely through the determinacy that makes up its essence and its being-for-itself, can briefly be considered as follows according to the simple concept.",
+   "zh": "对意识来说，物正是通过构成它的本质和它的自为存在的那种规定性而毁灭，这一经验的必然性按单纯的概念可以简短地这样来看。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 17,
+   "si": 1,
+   "de": "Das Ding ist gesetzt als Fürsichsein oder als absolute Negation alles Andersseins, daher absolute, nur sich auf sich beziehende Negation; aber die sich auf sich beziehende Negation ist Aufheben seiner selbst oder [dies,] sein Wesen in einem Anderen zu haben.",
+   "en": "The thing is posited as being-for-itself, or as the absolute negation of all otherness, hence as absolute negation that relates only to itself; but the negation that relates to itself is a sublating of itself, or [this:] to have its essence in another.",
+   "zh": "物被设定为自为存在，或被设定为对一切他在的绝对否定，因而是绝对的、仅仅与自身相关的否定；但自己与自己相关的否定就是对自身的扬弃，或者说，[这就是]在另一个物中拥有自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 18,
+   "si": 0,
+   "de": "In der Tat enthält die Bestimmung des Gegenstandes, wie er sich ergeben hat, nichts anderes; er soll eine wesentliche Eigenschaft, welche sein einfaches Fürsichsein ausmacht, bei dieser Einfachheit aber auch die Verschiedenheit an ihm selbst haben, welche zwar notwendig sein, aber nicht die wesentliche Bestimmtheit ausmachen soll.",
+   "en": "In fact, the determination of the object, as it has turned out, contains nothing else; it is supposed to have an essential property that makes up its simple being-for-itself, but in this simplicity also to have difference on itself, which is indeed supposed to be necessary, but is not supposed to make up the essential determinacy.",
+   "zh": "事实上，对象按照它所得出的样子，其规定包含的不是别的东西；它应当具有一种构成它的单纯自为存在的本质属性，但在这种单纯性中，它也应当在自身上具有相异性，这种相异性虽然应当是必然的，却不应当构成本质的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 18,
+   "si": 1,
+   "de": "Aber dies ist eine Unterscheidung, welche nur noch in den Worten liegt; das Unwesentliche, welches doch zugleich notwendig sein soll, hebt sich selbst auf oder ist dasjenige, was soeben die Negation seiner selbst genannt wurde.",
+   "en": "But this is a distinction that lies only in the words; the unessential, which is nevertheless at the same time supposed to be necessary, sublates itself, or is that which was just now called the negation of itself.",
+   "zh": "但这是一种只还存在于字面上的区分；那毕竟同时应当是必然的非本质的东西，把自己扬弃掉，或者说，就是刚才被称为对自身的否定的那个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 19,
+   "si": 0,
+   "de": "Es fällt hiermit das letzte Insofern hinweg, welches das Fürsichsein und das Sein-für-Anderes trennte; der Gegenstand ist vielmehr in einer und derselben Rücksicht das Gegenteil seiner selbst: für sich, insofern er für Anderes, und für Anderes, insofern er für sich ist.",
+   "en": "Hereby the last “insofar” falls away, the one that separated being-for-itself and being-for-another; the object is rather, in one and the same respect, the opposite of itself: for itself, insofar as it is for another, and for another, insofar as it is for itself.",
+   "zh": "于是那最后一个把自为存在和为他存在分开的“就……而言”也就消失了；对象反而在同一个方面是自己本身的反面：自为，就它是为他的而言，为他，就它是自为的而言。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 19,
+   "si": 1,
+   "de": "Er ist für sich, in sich reflektiert, Eins; aber dies für sich, in sich reflektiert, Eins-Sein ist mit seinem Gegenteile, dem Sein für ein Anderes, in einer Einheit und darum nur als Aufgehobenes gesetzt; oder dies Fürsichsein ist ebenso unwesentlich als dasjenige, was allein das Unwesentliche sein sollte, nämlich das Verhältnis zu Anderem.",
+   "en": "It is for itself, reflected into itself, One; but this being-for-itself, reflected into itself, being-One is posited with its opposite, being for another, in a unity, and therefore only as something sublated; or this being-for-itself is just as unessential as that which alone was supposed to be the unessential, namely the relation to another.",
+   "zh": "它自为地、在自身中反思地是一；但这种自为的、在自身中反思的一的存在，是与它的对立面、即为他的存在处在一种统一之中，因而只是作为被扬弃的东西而被设定的；或者说，这种自为存在正如那唯独应当是非本质的东西一样是非本质的，那就是与他物的关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 20,
+   "si": 0,
+   "de": "Der Gegenstand ist hierdurch in seinen reinen Bestimmtheiten oder in den Bestimmtheiten, welche seine Wesenheit ausmachen sollten, ebenso aufgehoben, als er in seinem sinnlichen Sein zu einem Aufgehobenen wurde.",
+   "en": "The object is hereby sublated in its pure determinacies, or in the determinacies that were supposed to make up its essentiality, just as it became something sublated in its sensuous being.",
+   "zh": "对象由此在它的纯粹规定性中，或在那些本应构成它的本质性的规定性中，同样被扬弃了，正如它在它的感性存在中成了被扬弃的东西一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 20,
+   "si": 1,
+   "de": "Aus dem sinnlichen Sein wird er ein Allgemeines; aber dies Allgemeine ist, da es aus dem Sinnlichen herkommt, wesentlich durch dasselbe bedingt und daher überhaupt nicht wahrhaft sichselbstgleiche, sondern mit einem Gegensatze affizierte Allgemeinheit, welche sich darum in die Extreme der Einzelheit und Allgemeinheit, des Eins der Eigenschaften und des Auchs der freien Materien trennt.",
+   "en": "Out of sensuous being it becomes a universal; but this universal, since it comes from the sensuous, is essentially conditioned by it and therefore is not at all a truly self-identical universality, but one affected with an opposition, which therefore divides into the extremes of singularity and universality, of the One of properties and the “also” of free matters.",
+   "zh": "从感性存在中它成了一个普遍的东西；但这个普遍的东西，既然来自感性之物，就本质上受感性之物制约，因而根本不是真正自身同一的普遍性，而是带有一种对立的普遍性，所以它分裂为个别性和普遍性这两个极端，分裂为诸属性的“一”和自由质料的“也”。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 20,
+   "si": 2,
+   "de": "Diese reinen Bestimmtheiten scheinen die Wesenheit selbst auszudrücken, aber sie sind nur ein Fürsichsein, welches mit dem Sein für ein Anderes behaftet ist; indem aber beide wesentlich in einer Einheit sind, so ist jetzt die unbedingte absolute Allgemeinheit vorhanden, und das Bewußtsein tritt hier erst wahrhaft in das Reich des Verstandes ein.",
+   "en": "These pure determinacies seem to express essentiality itself, but they are only a being-for-itself that is afflicted with being for another; but since both are essentially in a unity, the unconditioned absolute universality is now present, and consciousness here first truly enters the realm of the understanding.",
+   "zh": "这些纯粹的规定性看起来表达着本质性本身，但它们只是一种带有为他存在的自为存在；不过，既然两者本质上处在一种统一之中，那么现在就有了无条件的绝对普遍性，而意识在这里才真正进入知性的王国。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 21,
+   "si": 0,
+   "de": "Die sinnliche Einzelheit also verschwindet zwar in der dialektischen Bewegung der unmittelbaren Gewißheit und wird Allgemeinheit, aber nur sinnliche Allgemeinheit.",
+   "en": "Sensuous singularity thus indeed vanishes in the dialectical movement of immediate certainty and becomes universality, but only sensuous universality.",
+   "zh": "于是感性个别性虽然在直接确定性的辩证运动中消失，并成为普遍性，但只是感性普遍性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 21,
+   "si": 1,
+   "de": "Das Meinen ist verschwunden, und das Wahrnehmen nimmt den Gegenstand, wie er an sich ist, oder als Allgemeines überhaupt; die Einzelheit tritt daher an ihm als wahre Einzelheit, als Ansichsein des Eins hervor oder als Reflektiertsem in sich selbst.",
+   "en": "Meaning has vanished, and perception takes the object as it is in itself, or as a universal in general; singularity therefore emerges on it as true singularity, as the being-in-itself of the One, or as being-reflected into itself.",
+   "zh": "意谓已经消失，而知觉把对象当作它自在的样子，或一般地当作普遍的东西；因此个别性在对象身上作为真的个别性、作为“一”的自在存在、或作为在自身中被反思的状态而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 21,
+   "si": 2,
+   "de": "Es ist aber noch ein bedingtes Fürsichsein, neben welchem ein anderes Fürsichsein, die der Einzelheit entgegengesetzte und durch sie bedingte Allgemeinheit vorkommt; aber diese beiden widersprechenden Extreme sind nicht nur nebeneinander, sondern in einer Einheit; oder, was dasselbe ist, das Gemeinschaftliche beider, das Fürsichsein ist mit dem Gegensatze überhaupt behaftet, d. h. es ist zugleich nicht ein Fürsichsein.",
+   "en": "But it is still a conditioned being-for-itself, alongside which another being-for-itself occurs, the universality opposed to singularity and conditioned by it; but these two contradictory extremes are not merely alongside one another, but in a unity; or, what is the same, what both have in common, being-for-itself, is afflicted with opposition in general, that is, it is at the same time not a being-for-itself.",
+   "zh": "但它还是一个有条件的自为存在，在它旁边还有另一个自为存在出现，即与个别性相对立并由个别性制约的普遍性；但这两个互相矛盾的极端不仅并排存在，而且处在一种统一之中；或者，同样可以说，两者的共同的东西即自为存在，带有一般意义上的对立，也就是说，它同时并不是一个自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 21,
+   "si": 3,
+   "de": "Diese Momente sucht die Sophisterei des Wahrnehmens von ihrem Widerspruche zu retten und durch die Unterscheidung der Rücksichten, durch das Auch und Insofern festzuhalten sowie endlich durch die Unterscheidung des Unwesentlichen und eines ihm entgegengesetzten Wesens das Wahre zu ergreifen.",
+   "en": "These moments the sophistry of perception seeks to save from their contradiction and to hold fast through the distinction of respects, through the “also” and the “insofar”, and finally to grasp the true through the distinction of the unessential and of an essence opposed to it.",
+   "zh": "知觉的诡辩力图把这些环节从它们的矛盾中救出来，并通过区分各种方面、通过“也”和“就……而言”把它们把住不放，最后还通过区分非本质的东西和一种与它相对立的本质来抓住真的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 21,
+   "si": 4,
+   "de": "Allein diese Auskunftsmittel, statt die Täuschung in dem Auffassen abzuhalten, erweisen sich vielmehr selbst als nichtig, und das Wahre, das durch diese Logik des Wahrnehmens gewonnen werden soll, erweist sich in einer und derselben Rücksicht das Gegenteil zu sein und hiermit zu seinem Wesen die unterscheidungs- und bestimmungslose Allgemeinheit zu haben.",
+   "en": "But these expedients, instead of keeping deception away from the apprehending, prove rather themselves to be null, and the true, which is supposed to be won through this logic of perception, proves to be, in one and the same respect, the opposite, and thereby to have as its essence the universality devoid of distinction and determination.",
+   "zh": "但这些权宜之计不但没有在把握中挡住错觉，反而表明自己本身是虚无的，而那本应通过这种知觉的逻辑获得的真的东西，则表明自己在同一个方面就是反面，并因此把无区分、无规定性的普遍性作为自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 0,
+   "de": "Diese leeren Abstraktionen der Einzelheit und der ihr entgegengesetzten Allgemeinheit sowie des Wesens, das mit einem Unwesentlichen verknüpft, eines Unwesentlichen, das doch zugleich notwendig ist, sind die Mächte, deren Spiel der wahrnehmende, oft so genannte gesunde Menschenverstand ist; er, der sich für das gediegene reale Bewußtsein nimmt, ist im Wahrnehmen nur das Spiel dieser Abstraktionen; er ist überhaupt immer da am ärmsten, wo er am reichsten zu sein meint.",
+   "en": "These empty abstractions of singularity and of the universality opposed to it, as also of the essence that is linked with an unessential, of an unessential that is nevertheless at the same time necessary, are the powers whose play the perceiving, often so-called sound common sense is; it, which takes itself for the solid real consciousness, is in perception only the play of these abstractions; it is in general always poorest precisely where it means to be richest.",
+   "zh": "这些关于个别性、关于与它相对立的普遍性，以及关于那与非本质的东西相结合的本质、关于一种毕竟同时是必然的非本质的东西的空洞抽象，就是那些力量，而进行知觉的、通常所谓的健全人类知性，就是这些力量的游戏；它自以为是坚实的、实在的意识，在知觉中却只是这些抽象的游戏；它总之恰恰在意谓自己最丰富的地方总是最贫乏。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 1,
+   "de": "Indem er von diesen nichtigen Wesen herumgetrieben, von dem einen dem anderen in die Arme geworfen wird und, durch seine Sophisterei abwechslungsweise jetzt das eine, dann das gerade Entgegengesetzte festzuhalten und zu behaupten bemüht, sich der Wahrheit widersetzt, meint er von der Philosophie, sie habe es nur mit Gedankendingen zu tun.",
+   "en": "While it is driven around by these null essences, thrown from the one into the arms of the other, and, in its sophistry, endeavors alternately to hold fast and to assert now the one, then the directly opposite one, and thereby resists the truth, it means of philosophy that philosophy has to do only with thought-things.",
+   "zh": "它被这些虚无的本质驱赶着，从这一个被抛进另一个的怀里，并且凭它的诡辩轮流地一会儿要把这一个、一会儿要把正相反的那一个把住并加以主张，就此与真理相对抗，这时它意谓哲学只与思想之物打交道。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 2,
+   "de": "Sie hat in der Tat auch damit zu tun und erkennt sie für die reinen Wesen, für die absoluten Elemente und Mächte; aber damit erkennt sie dieselben zugleich in ihrer Bestimmtheit und ist darum Meister über sie, während jener wahrnehmende Verstand sie für das Wahre nimmt und von ihnen aus einer Irre in die andere geschickt wird.",
+   "en": "It does indeed also have to do with them and recognizes them as the pure essences, as the absolute elements and powers; but thereby it recognizes them at the same time in their determinacy and is therefore master over them, while that perceiving understanding takes them for the true and is sent by them from one errancy into another.",
+   "zh": "哲学确实也与它们打交道，并把它们认作纯粹的本质、认作绝对的元素和力量；但这样一来，它同时也在它们的规定性中认识它们，因而就是它们的主人，而那个进行知觉的知性却把它们当作真的东西，于是被它们从一个迷误打发到另一个迷误。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 3,
+   "de": "Er selbst kommt nicht zu dem Bewußtsein, daß es solche einfache Wesenheiten sind, die in ihm walten, sondern er meint es immer mit ganz gediegenem Stoffe und Inhalte zu tun zu haben, so wie die sinnliche Gewißheit nicht weiß, daß die leere Abstraktion des reinen Seins ihr Wesen ist; aber in der Tat sind sie es, an welchen er durch allen Stoff und Inhalt hindurch und hin und her läuft; sie sind der Zusammenhalt und die Herrschaft desselben und allein dasjenige, was das Sinnliche als Wesen für das Bewußtsein ist, was seine Verhältnisse zu ihm bestimmt und woran die Bewegung des Wahrnehmens und seines Wahren abläuft.",
+   "en": "It itself does not come to the consciousness that it is such simple essences that rule in it, but means always to have to do with quite solid material and content, just as sense-certainty does not know that the empty abstraction of pure being is its essence; but in fact it is they upon which it runs through and back and forth through all material and content; they are the coherence and the dominion of the same, and alone that which the sensuous is as essence for consciousness, that which determines its relations to it and upon which the movement of perception and of its true runs its course.",
+   "zh": "它自己并没有意识到，在它之中起支配作用的正是这样一些单纯的本质性，反而总是意谓自己面对的是完全坚实的质料和内容，正如感性确定性并不知道，纯粹存在的空洞抽象就是它的本质；但事实上，正是它们，它穿过一切质料和内容、来回地绕着它们跑；它们就是这些质料和内容的联系和支配，并且唯独是感性之物作为本质对意识而言所是的东西，是规定意识与感性之物的关系、并且是知觉及其真的东西的运动在其中进行的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 4,
+   "de": "Dieser Verlauf, ein beständig abwechselndes Bestimmen des Wahren und Aufheben dieses Bestimmens, macht eigentlich das tägliche und beständige Leben und Treiben des Wahrnehmenden und in der Wahrheit sich zu bewegen meinenden Bewußtseins aus.",
+   "en": "This course, a constantly alternating determining of the true and sublating of this determining, properly constitutes the daily and constant life and bustle of the perceiving consciousness that means to move in the truth.",
+   "zh": "这一过程，即不断地交替规定真的东西又扬弃这种规定，其实就构成了那进行知觉的、并且意谓自己在真理中活动的意识的日常而持续的生活和忙碌。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 5,
+   "de": "Es geht darin unaufhaltsam zu dem Resultate des gleichen Aufhebens aller dieser wesentlichen Wesenheiten oder Bestimmungen fort, ist aber in jedem einzelnen Momente nur dieser einen Bestimmtheit als des Wahren sich bewußt und dann wieder der entgegengesetzten.",
+   "en": "In this it proceeds unstoppably to the result of the like sublating of all these essential essences or determinacies, but in each single moment it is conscious only of this one determinacy as the true, and then again of the opposite one.",
+   "zh": "它在这一过程中不可阻挡地走向对所有这些本质性的本质性或规定性作同样的扬弃这一结果，但在每一个个别环节中，它都只意识到这一个规定性是真的，随后又只意识到那相反的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 6,
+   "de": "Es wittert wohl ihre Unwesenheit; sie gegen die drohende Gefahr zu retten, geht es zur Sophisterei über, das, was es selbst soeben als das Nichtwahre behauptete, jetzt als das Wahre zu behaupten.",
+   "en": "It does indeed scent their unessentiality; to save them from the threatening danger, it passes over into sophistry, to assert now as the true what it itself just now asserted as the untrue.",
+   "zh": "它确实嗅到了它们的非本质性；为了把它们从这逼近的危险中救出来，它就转入诡辩，把它自己刚才还主张为非真的东西，现在当作真的东西来主张。"
+  }
+ ]
+}

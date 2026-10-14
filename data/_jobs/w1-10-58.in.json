@@ -1,0 +1,119 @@
+{
+ "id": "w1-10-58",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "[Grundkonzept zum Geist des Christentums]",
+ "heading": "[Grundkonzept zum Geist des Christentums]",
+ "blocks": [
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1b2ukgo820",
+   "sents": [
+    "Jesus charakterisierte als Stifter einer neuen Religion unter einem verdorbenen Volke die Entsagung der Bequemlichkeiten des Lebens, und die gleiche Forderung derselben an seine Gehilfen - auch das Entreißen [aus] sonstigen Verhältnissen und heiligen Beziehungen des Lebens."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "1kgkoesedy",
+   "sents": [
+    "Matth.",
+    "8, 22: Antwort, die er seinem Jünger gab, der seinen Vater begraben wollte."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "o0jpy01ao5",
+   "sents": [
+    "Matth.",
+    "8, 10: die erste Äußerung über Kälte bei den Juden und ihre Verwerfung."
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "slpiou22x4",
+   "sents": [
+    "9, 15: Fasten nicht zu einem Zweck, sondern nach den Umständen."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "ufz8cp1kcq",
+   "sents": [
+    "9, 63, 10, 1 ff.: Schicken der Apostel ins Land, nicht die Menschen zu versöhnen und das Menschengeschlecht zu Freunden zu machen - (Mark.",
+    "6, 7 schickt sie Jesus fort, 6, 30 sammeln sie sich wieder zu ihm; Luk.",
+    "9, 6 und 9, 10 zurück.",
+    "10, 11 und 17, 20).",
+    "Die Allgemeinheit seiner Reformation aufgegeben. - Matth.",
+    "10, 21 ff. ein Bruder wider den Bruder, der Vater [wird] das Kind zum Tode geben, Kinder die Eltern.",
+    "V. 34: ich kam nicht, um Frieden auf die Erde zu werfen, sondern das Schwert; ich kam, den Mann gegen seinen Vater, die Tochter gegen die Mutter, die Braut gegen die Schwieger zu entzweien; die Hausgenossen werden die Feinde des Mannes sein; wer Vater oder Mutter, Sohn oder Tochter mehr liebt als mich, ist meiner nicht würdig.",
+    "Gräßliches Zerreißen aller Bande der Natur, die Zerstörung aller Natur. -"
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "1tqlq3crjx",
+   "sents": [
+    "Steigende Erbitterung gegen seine Zeit Matth.",
+    "11, 12 ff.",
+    "V. 25: du hast dies den Verständigen und Klugen verborgen und den Einfältigen geoffenbart; so war dein Belieben."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "y3ieks1rr1",
+   "sents": [
+    "12, 8 ff.: der Mensch höher als der Sabbath."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "vt6pnurbyp",
+   "sents": [
+    "V. 16: er verbot den Geheilten, dies auszusagen."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1evw2wv13m",
+   "sents": [
+    "V. 31: Sünde gegen den Menschensohn wohl vergeben, aber nicht die Sünde gegen den heiligen Geist."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "y9hmc61q32",
+   "sents": [
+    "V. 48: wer ist meine Mutter und meine Brüder?",
+    "Diese, indem er sich zu seinen Anhängern wendete."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "10dus8i1tm",
+   "sents": [
+    "13, 54-55: ist dies nicht der Sohn des Zimmermanns?",
+    "Unglauben an Menschennatur, Verachtung aller menschlichen Verhältnisse - daher seine Entfernung von denselben, in der Meinung, weil sie nicht geheiligt waren; ein Prophet gilt in seinem Vaterlande nichts; dazu s. oben 10, 36 ff.",
+    "Reinheit durch alles verunreinigt, nicht wiederherzustellen, es kann dem Schicksal nicht entgangen werden, wenn die Schönheit aus allem entflohen ist; so gab er alles auf, um sie allein zuerst wiederherzustellen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/10.p58.json"
+}

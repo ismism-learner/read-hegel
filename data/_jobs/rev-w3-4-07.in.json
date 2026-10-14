@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-07",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 31,
+   "si": 7,
+   "de": "Dieser Zweck als Zweck ist zweitens zugleich gegenständlich, er fällt ihm daher auch nicht in sich als Bewußtsein, sondern in einen anderen Verstand.",
+   "en": "This end as end is, secondly, at the same time objective; it therefore falls for it not into itself as consciousness, but into another understanding.",
+   "zh": "这个作为目的的目的，其次同时是对象性的；因此它并不落在作为意识的它自己之中，而是落在另一个知性里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 0,
+   "de": "Näher betrachtet, so liegt diese Bestimmung ebensowohl in dem Begriffe des Dinges, daß es Zweck an ihm selbst ist.",
+   "en": "Considered more closely, this determination lies just as much in the concept of the thing, that it is end in itself.",
+   "zh": "更仔细地看，这个规定同样包含在物的概念里：物以自身为目的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 1,
+   "de": "Es nämlich erhält sich, d.h. zugleich, es ist seine Natur, die Notwendigkeit zu verbergen und in der Form zufälliger Beziehung darzustellen; denn seine Freiheit oder [sein] Fürsichsein ist eben dieses, sich gegen sein Notwendiges als ein Gleichgültiges zu verhalten; es stellt sich also selbst als ein solches dar, dessen Begriff außer seinem Sein falle.",
+   "en": "For it maintains itself, i.e. at the same time it is its nature to hide necessity and to present it in the form of contingent relation; for its freedom, or its being-for-itself, is precisely this, to comport itself toward its necessary as toward something indifferent; it therefore presents itself as something whose concept falls outside its being.",
+   "zh": "因为它保持自己，这同时也就是说，隐藏必然性并以偶然关系的形式把它表现出来，是它的本性；因为它的自由、或它的自为存在正是这一点：对它身上必然的东西采取漠不相关的态度；所以它就把自己表现为这样一个东西，它的概念落在它的存在之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 2,
+   "de": "Ebenso hat die Vernunft die Notwendigkeit, ihren eigenen Begriff als außer ihr fallend, hiermit als Ding anzuschauen, als ein solches, gegen das sie und das hiermit gegenseitig gegen sie und gegen seinen Begriff gleichgültig ist.",
+   "en": "Likewise reason has the necessity of intuiting its own concept as falling outside it, hence as a thing, as something toward which it, and which in turn toward it and toward its concept, is indifferent.",
+   "zh": "同样，理性也有这样的必然性：把自己的概念直观为落在它之外的东西，因而直观为物，直观为这样一个东西：理性对它、而它也因此对理性、并对自己的概念都漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 3,
+   "de": "Als Instinkt bleibt sie auch innerhalb dieses Seins oder der Gleichgültigkeit stehen, und das Ding, welches den Begriff ausdrückt, bleibt ihm ein Anderes als dieser Begriff, der Begriff ein Anderes als das Ding.",
+   "en": "As instinct it also remains standing within this being or indifference, and the thing which expresses the concept remains for it an other than this concept, the concept an other than the thing.",
+   "zh": "作为本能，它也停留在这种存在或这种漠不相关之内，而那个表达着概念的物对它来说仍然是不同于这个概念的另一东西，概念也仍然是不同于物的另一东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 4,
+   "de": "So ist das organische Ding für sie nur so Zweck an ihm selbst, daß die Notwendigkeit, welche in seinem Tun als verborgen sich darstellt, indem das Tuende darin als ein gleichgültiges Fürsichseiendes sich verhält, außer dem Organischen selbst fällt.",
+   "en": "Thus the organic thing is for it an end in itself only in such a way that the necessity which presents itself in its doing as hidden, in that the doer therein comports itself as an indifferent being-for-itself, falls outside the organic itself.",
+   "zh": "所以，有机的物对理性来说之所以以自身为目的，仅仅是这样：那种在它的作为中表现为隐藏着的必然性，由于行动者在这种作为中作为漠不相关的自为存在者而行事，就落在有机体自身之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 5,
+   "de": "– Da aber das Organische als Zweck an ihm selbst sich nicht anders verhalten kann denn als ein solches, so ist auch dies erscheinend und sinnlich gegenwärtig, daß es Zweck an ihm selbst ist, und es wird so beobachtet.",
+   "en": "— But since the organic, as end in itself, cannot comport itself otherwise than as such a one, this too is appearing and sensuously present, that it is end in itself, and it is observed thus.",
+   "zh": "——但由于有机体作为以自身为目的的东西，只能作为一个这样的东西而行事，所以它是以自身为目的，这一点也就显现着、感性地当前在场，而它也就这样被观察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 6,
+   "de": "Das Organische zeigt sich als ein sich selbst Erhaltendes und in sich Zurückkehrendes und Zurückgekehrtes.",
+   "en": "The organic shows itself as something self-maintaining and as something returning into itself and returned into itself.",
+   "zh": "有机体显示出自己是一个自己保持自己的东西，一个返回自身之中并且已经返回自身的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 7,
+   "de": "Aber in diesem Sein erkennt dies beobachtende Bewußtsein den Zweckbegriff nicht oder dies nicht, daß der Zweckbegriff nicht sonst irgendwo in einem Verstande, sondern eben hier existiert und als ein Ding ist.",
+   "en": "But in this being this observing consciousness does not recognize the concept of end, or does not recognize this, that the concept of end does not exist elsewhere somewhere in an understanding, but precisely here, and is as a thing.",
+   "zh": "但在这个存在中，这个观察着的意识并不认识目的概念，或者说并不认识这一点：目的概念并不是在别的什么地方、在某个知性里存在，而恰恰是在这里存在，并且是作为一个物而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 8,
+   "de": "Es macht einen Unterschied zwischen dem Zweckbegriffe und dem Fürsichsein und Sichselbsterhalten, welcher keiner ist.",
+   "en": "It makes a difference between the concept of end and being-for-itself and self-maintenance, which is none.",
+   "zh": "它在目的概念与自为存在和自身保持之间作出一个区别，而这个区别并不是区别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 32,
+   "si": 9,
+   "de": "Daß er keiner ist, ist nicht für es, sondern ein Tun, das zufällig und gleichgültig gegen das, was durch dasselbe zustande kommt, erscheint; und die Einheit, welche doch beides zusammenknüpft, – jenes Tun und dieser Zweck fällt ihm auseinander.",
+   "en": "That it is none is not for it, but a doing that appears contingent and indifferent to what comes about through it; and the unity which after all ties both together — that doing and this end — falls apart for it.",
+   "zh": "这个区别并不是区别，这一点并不为它而存在，反倒是它的作为显现为偶然的、并且对通过它而产生出来的东西漠不相关；而那种毕竟把两者联结起来的统一，——即那种作为和这个目的——，在它那里却分离开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 0,
+   "de": "Was in dieser Ansicht dem Organischen selbst zukommt, ist das zwischen seinem Ersten und Letzten mitten inne liegende Tun, insofern es den Charakter der Einzelheit an ihm hat.",
+   "en": "What in this view belongs to the organic itself is the activity lying midway between its first and its last, insofar as it has in it the character of individuality.",
+   "zh": "在这个看法里属于有机体自身的东西，是它介于自己的最初者和最后者之间的活动，只要这活动在它身上具有个别性的特征。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 1,
+   "de": "Das Tun aber, insofern es den Charakter der Allgemeinheit hat und das Tuende demjenigen, was dadurch hervorgebracht wird, gleichgesetzt [ist,] das zweckmäßige Tun als solches käme nicht ihm zu.",
+   "en": "But the activity, insofar as it has the character of universality and the acting one is equated with what is thereby brought forth, the purposive activity as such, would not belong to it.",
+   "zh": "但行动，只要它具有普遍性的特征，并且行动者被等同于由此产生出来的东西，那么合目的的行动本身就不会属于它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 2,
+   "de": "Jenes einzelne Tun, das nur Mittel ist, tritt durch seine Einzelheit unter die Bestimmung einer durchaus einzelnen oder zufälligen Notwendigkeit.",
+   "en": "That individual activity, which is only a means, falls through its individuality under the determination of a wholly individual or contingent necessity.",
+   "zh": "那个仅仅作为手段的个别行动，通过它的个别性落到了完全个别的、或偶然的必然性这一规定之下。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 3,
+   "de": "Was das Organische zur Erhaltung seiner selbst als Individuums oder seiner als Gattung tut, ist daher diesem unmittelbaren Inhalte nach ganz gesetzlos, denn das Allgemeine und der Begriff fällt außer ihm.",
+   "en": "What the organic does for the preservation of itself as an individual or of itself as a genus is therefore, according to this immediate content, wholly without law, for the universal and the concept fall outside it.",
+   "zh": "有机体为了保存自己作为个体、或保存自己作为类所做的事情，就这个直接内容来看，因此是完全没有规律的，因为普遍者和概念落在它之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 4,
+   "de": "Sein Tun wäre sonach die leere Wirksamkeit ohne Inhalt an ihr selbst; sie wäre nicht einmal die Wirksamkeit einer Maschine, denn diese hat einen Zweck und ihre Wirksamkeit hierdurch einen bestimmten Inhalt.",
+   "en": "Its activity would accordingly be empty efficacy without content in itself; it would not even be the efficacy of a machine, for this has a purpose and thereby its efficacy has a determinate content.",
+   "zh": "这样一来，它的行动就是在它自己身上没有内容的空洞的效力；它甚至不是一部机器的效力，因为机器有一个目的，它的效力由此有一个确定的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 5,
+   "de": "So verlassen von dem Allgemeinen, würde sie Tätigkeit nur eines Seienden als Seienden, d.h. eine nicht zugleich in sich reflektierte sein, wie die einer Säure oder Base ist; eine Wirksamkeit, die von ihrem unmittelbaren Dasein sich nicht abtrennen noch dieses, das in der Beziehung auf sein Entgegengesetztes verlorengeht, aufgeben, sich aber erhalten könnte.",
+   "en": "Thus abandoned by the universal, it would be the activity only of something existing as existing, that is, one not at the same time reflected into itself, as is that of an acid or a base; an efficacy that can neither detach itself from its immediate determinate being nor give up this determinate being, which is lost in the relation to its opposite, and yet preserve itself.",
+   "zh": "这样被普遍者抛弃以后，它就会只是一个作为存在者的存在者的活动，也就是一种不同时反思到自身之中的活动，如同酸或碱的活动那样；这是一种既不能从自己的直接定在中分离出来、也不能放弃这个在与对立物的关系中消失掉的定在、而同时又保持住自己的效力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 33,
+   "si": 6,
+   "de": "Das Sein aber, dessen Wirksamkeit die hier betrachtete ist, ist gesetzt als ein in seiner Beziehung auf sein Entgegengesetztes sich erhaltendes Ding; die Tätigkeit als solche ist nichts als die reine wesenlose Form seines Fürsichseins, und ihre Substanz, die nicht bloß bestimmtes Sein, sondern das Allgemeine ist, ihr Zweck fällt nicht außer ihr; sie ist an ihr selbst in sich zurückgehende, nicht durch irgendein Fremdes in sich zurückgelenkte Tätigkeit.",
+   "en": "But the being whose efficacy is the one considered here is posited as a thing that preserves itself in its relation to its opposite; the activity as such is nothing but the pure, essenceless form of its being-for-itself, and its substance, which is not merely determinate being but the universal, its purpose, does not fall outside it; it is activity that in itself returns into itself, not activity redirected into itself by something alien.",
+   "zh": "但那个其效力在此被考察的存在者，是被设定为在与对立物的关系中保持住自己的物；活动本身不过是它的自为存在的纯粹无本质的形式，而它的实体——这实体不只是特定的存在，而是普遍者——以及它的目的并不落在它之外；它是自身内在地返回自身的活动，而不是被某种异己的东西引导回自身的活动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 34,
+   "si": 0,
+   "de": "Diese Einheit der Allgemeinheit und der Tätigkeit ist aber darum nicht für dies beobachtende Bewußtsein, weil jene Einheit wesentlich die innere Bewegung des Organischen ist und nur als Begriff aufgefaßt werden kann; das Beobachten aber sucht die Momente In der Form des Seins und Bleibens; und weil das organische Ganze wesentlich dies ist, so die Momente nicht an ihm zu haben und nicht an ihm finden zu lassen, verwandelt das Bewußtsein in seiner Ansicht den Gegensatz in einen solchen, als er ihr gemäß ist.",
+   "en": "But this unity of universality and activity is not for this observing consciousness, because that unity is essentially the inner movement of the organic and can be grasped only as concept; observation, however, seeks the moments in the form of being and permanence; and because the organic whole is essentially this — not to have the moments in it and not to let them be found in it — consciousness in its view transforms the opposition into one such as is conformable to it.",
+   "zh": "但普遍性与活动的这种统一，正因如此并不是为这个观察着的意识的，是因为那种统一本质上是有机体的内在运动，只能作为概念被把握；而观察却以存在和持续的形式去寻找那些环节；并且因为有机整体本质上就是不在自己身上拥有这些环节、也不让人在自己身上找到它们，所以意识在自己的看法中把对立变成了符合它自身的那种对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 34,
+   "si": 1,
+   "de": "Es entsteht ihm auf diese Weise das organische Wesen als eine Beziehung zweier seiender und fester Momente, – eines Gegensatzes, dessen beide Seiten ihm also einesteils in der Beobachtung gegeben zu sein scheinen, andernteils ihrem Inhalte nach den Gegensatz des organischen Zweckbegriffs und der Wirklichkeit ausdrücken; weil aber der Begriff als solcher daran getilgt ist, auf eine dunkle und oberflächliche Weise, worin der Gedanke in das Vorstellen herabgesunken ist.",
+   "en": "In this way the organic being arises for it as a relation of two existing and fixed moments, — an opposition whose two sides thus seem to it, on the one hand, to be given in observation, and on the other hand, according to their content, to express the opposition of the organic purpose-concept and actuality; but because the concept as such is extinguished in it, in a dark and superficial manner, in which thought has sunk down into representation.",
+   "zh": "这样在它那里就产生了有机本质，作为两个存在着的、固定的环节的关系，——这是一种对立，它的两个方面在它看来因此一方面显得是在观察中被给予的，另一方面按其内容又表达出有机目的概念与现实性的对立；但因为概念本身在它上面被抹掉了，是以一种晦暗而肤浅的方式，在其中思想已经沉降为表象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 34,
+   "si": 2,
+   "de": "So sehen wir den ersten ungefähr unter dem Inneren, die andere unter dem Äußeren gemeint, und ihre Beziehung erzeugt das Gesetz, daß das Äußere der Ausdruck des Inneren ist.",
+   "en": "Thus we see the first meant approximately under the inner, the other under the outer, and their relation produces the law that the outer is the expression of the inner.",
+   "zh": "于是我们看到，第一个大致被意谓为内在的东西，另一个被意谓为外在的东西，而它们的关系产生出这条规律：外在的东西是内在东西的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 35,
+   "si": 0,
+   "de": "Dies Innere mit seinem Entgegengesetzten und ihre Beziehung aufeinander näher betrachtet, ergibt sich, daß fürs erste die beiden Seiten des Gesetzes nicht mehr wie bei früheren Gesetzen lauten, worin sie als selbständige Dinge jede als ein besonderer Körper erschienen, noch auch fürs andere so, daß das Allgemeine irgend sonst außer dem Seienden seine Existenz haben sollte.",
+   "en": "If this inner with its opposite and their relation to one another is considered more closely, it turns out that, first, the two sides of the law no longer read as in earlier laws, in which they appeared as independent things, each as a particular body, nor, second, in such a way that the universal should have its existence somewhere else outside what exists.",
+   "zh": "把这个内在的东西连同它的对立物以及它们彼此的关系更仔细地看一看，就可看出：第一，这条规律的两个方面不再像早先那些规律里那样表述，在那些规律里它们作为独立的东西各自显现为一个特殊的物体；第二，也不再是这样，即普遍者应当在存在者之外的某个地方拥有自己的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 35,
+   "si": 1,
+   "de": "Sondern das organische Wesen ist ungetrennt überhaupt zugrunde gelegt, als Inhalt des Inneren und Äußeren, und für beide dasselbe; der Gegensatz ist dadurch nur noch ein rein formeller, dessen reale Seiten dasselbe Ansich zu ihrem Wesen [haben], zugleich aber, indem Inneres und Äußeres auch entgegengesetzte Realität und ein für das Beobachten verschiedenes Sein sind, scheinen sie ihm Jedes einen eigentümlichen Inhalt zu haben.",
+   "en": "Rather, the organic being is posited throughout as undivided, as the content of the inner and the outer, and the same for both; the opposition is thereby only a purely formal one, whose real sides have the same in-itself as their essence, but at the same time, since inner and outer are also opposed reality and a being different for observation, they seem to it each to have a content of its own.",
+   "zh": "相反，有机本质整个儿被不加分割地放到基础上，作为内在东西和外在东西的内容，并且对两者是同一个东西；对立由此只是一个纯粹形式上的对立，它的那些实在的方面以同一个自在作为自己的本质，但同时，因为内在东西和外在东西也是对立着的实在性和对观察来说不同的存在，所以它们在观察看来各自显得有一个自己所特有的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 35,
+   "si": 2,
+   "de": "Dieser eigentümliche Inhalt, da er dieselbe Substanz oder organische Einheit ist, kann aber in der Tat nur eine verschiedene Form derselben sein; und dies wird von dem beobachtenden Bewußtsein darin angedeutet, daß das Äußere nur Ausdruck des Inneren ist.",
+   "en": "But this content of its own, since it is the same substance or organic unity, can in fact only be a different form of the same; and this is indicated by the observing consciousness in that the outer is only the expression of the inner.",
+   "zh": "但这个自己所特有的内容，由于它是同一个实体或有机统一，实际上只能是这同一个东西的不同形式；而这一点被观察着的意识这样暗示出来：外在的东西只是内在东西的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 35,
+   "si": 3,
+   "de": "– Dieselben Bestimmungen des Verhältnisses, nämlich die gleichgültige Selbständigkeit der Verschiedenen und In ihr ihre Einheit, worin sie verschwinden, haben wir an dem Zweckbegriffe gesehen.",
+   "en": "— The same determinations of the relation, namely the indifferent independence of the different things and, in it, their unity, in which they vanish, we have seen in the purpose-concept.",
+   "zh": "——我们在目的概念上已经看到过关系的这些同样的规定，即不同者的漠不相关的独立性以及它们在其中消失的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 36,
+   "si": 0,
+   "de": "Es ist nun zu sehen, welche Gestalt das Innere und Äußere in seinem Sein hat.",
+   "en": "It is now to be seen what shape the inner and the outer have in their being.",
+   "zh": "现在要看的是，内在的东西和外在的东西在它们的存在中具有怎样的形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 36,
+   "si": 1,
+   "de": "Das Innere als solches muß ebensosehr ein äußeres Sein und eine Gestalt haben wie das Äußere als solches, denn es ist Gegenstand oder selbst als Seiendes und für die Beobachtung vorhanden gesetzt.",
+   "en": "The inner as such must have an outer being and a shape just as much as the outer as such, for it is posited as object, or as itself existing and present for observation.",
+   "zh": "内在的东西本身必定同样有一个外在的存在和一个形态，就像外在的东西本身那样，因为它被设定为对象，或者被设定为本身存在着并为了观察而现成存在的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 37,
+   "si": 0,
+   "de": "Die organische Substanz als innere ist die einfache Seele, der reine Zweckbegriff oder das Allgemeine, welches in seiner Teilung ebenso allgemeine Flüssigkeit bleibt und daher in seinem Sein als das Tun oder die Bewegung der verschwindenden Wirklichkeit erscheint; dahingegen das Äußere, entgegengesetzt jenem seienden Inneren, in dem ruhenden Sein des Organischen besteht.",
+   "en": "The organic substance as inner is the simple soul, the pure purpose-concept or the universal, which in its division remains equally universal fluidity and therefore appears in its being as the activity or the movement of vanishing actuality; whereas the outer, opposed to that existing inner, consists in the resting being of the organic.",
+   "zh": "有机实体作为内在的东西，是单纯的灵魂，是纯粹的目的概念或普遍者，这普遍者在自己的划分中同样保持为普遍的流动性，因此在自己的存在中显现为正在消失的现实性的行动或运动；与此相反，外在的东西与那个存在着的内在东西相对立，存在于有机体的静止的存在之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 37,
+   "si": 1,
+   "de": "Das Gesetz als die Beziehung jenes Inneren auf dies Äußere drückt hiermit seinen Inhalt einmal in der Darstellung allgemeiner Momente oder einfacher Wesenheiten und das andere Mal in der Darstellung der verwirklichten Wesenheit oder der Gestalt aus.",
+   "en": "The law, as the relation of that inner to this outer, thereby expresses its content now in the presentation of universal moments or simple essences, and now in the presentation of realized essence or shape.",
+   "zh": "规律作为那个内在东西与这个外在东西的关系，由此把自己的内容时而表述为普遍环节或单纯本质的陈述，时而表述为被实现了的本质或形态的陈述。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 37,
+   "si": 2,
+   "de": "Jene ersten einfachen organischen Eigenschaften, um sie so zu nennen, sind Sensibilität, Irritabilität und Reproduktion.",
+   "en": "Those first simple organic properties, to call them so, are sensibility, irritability and reproduction.",
+   "zh": "那些最初的、单纯有机的特性——如果这样称呼它们的话——是感受性、应激性和繁殖。"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-01",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 0,
+   "de": "Die unmittelbare Gewißheit nimmt sich nicht das Wahre, denn ihre Wahrheit ist das Allgemeine; sie aber will das Diese nehmen.",
+   "en": "Immediate certainty does not take the true for itself, for its truth is the universal; it, however, wants to take the 'this'.",
+   "zh": "直接确定性并不为自己取得真的东西，因为它的真理是普遍者；但它却要取得这一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 1,
+   "de": "Die Wahrnehmung nimmt hingegen das, was ihr das Seiende ist, als Allgemeines.",
+   "en": "Perception, by contrast, takes what is for it the existent as a universal.",
+   "zh": "知觉则相反，把对它来说是存在者的东西当作普遍者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 2,
+   "de": "Wie die Allgemeinheit ihr Prinzip überhaupt, so sind auch ihre in ihr unmittelbar sich unterscheidenden Momente, Ich ein allgemeines und der Gegenstand ein allgemeiner.",
+   "en": "As universality is its principle in general, so too are its moments that immediately distinguish themselves within it: I a universal, and the object a universal.",
+   "zh": "正如普遍性一般来说是它的原则，它的那些在它之内直接相互区别的环节也是如此：我是一个普遍者，对象也是一个普遍者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 3,
+   "de": "Jenes Prinzip ist uns entstanden und unser Aufnehmen der Wahrnehmung daher nicht mehr ein erscheinendes Aufnehmen, wie [das] der sinnlichen Gewißheit, sondern ein notwendiges.",
+   "en": "That principle has come to be for us, and our taking up of perception is therefore no longer an appearing taking-up, like that of sense-certainty, but a necessary one.",
+   "zh": "那个原则对我们来说已经产生出来，因此我们对知觉的接受就不再像感性确定性的接受那样是一种显现着的接受，而是一种必然的接受。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 4,
+   "de": "In dem Entstehen des Prinzips sind zugleich die beiden Momente, die an ihrer Erscheinung nur herausfallen, geworden; das eine nämlich die Bewegung des Aufzeigens, das andere dieselbe Bewegung, aber als Einfaches; jenes das Wahrnehmen, dies der Gegenstand.",
+   "en": "In the coming-to-be of the principle, the two moments that in its appearance merely fall away have at the same time come to be: the one, namely, the movement of pointing out, the other the same movement but as something simple; the former perceiving, the latter the object.",
+   "zh": "在这个原则的产生过程中，那两个在它的现象里只是脱落出来的环节也同时产生出来了：一个是指认的运动，另一个是同一个运动，不过作为简单的东西；前者是知觉活动，后者是对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 5,
+   "de": "Der Gegenstand ist dem Wesen nach dasselbe, was die Bewegung ist, sie die Entfaltung und Unterscheidung der Momente, er das Zusammengefaßtsein derselben.",
+   "en": "The object is in essence the same as what the movement is: the movement is the unfolding and distinguishing of the moments, the object their being-gathered-together.",
+   "zh": "对象在本质上与那个运动是同一个东西：运动是诸环节的展开和区别，对象则是这些环节被聚集在一起的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 6,
+   "de": "Für uns oder an sich ist das Allgemeine als Prinzip das Wesen der Wahrnehmung, und gegen diese Abstraktion [sind] die beiden unterschiedenen, das Wahrnehmende und das Wahrgenommene, das Unwesentliche.",
+   "en": "For us, or in itself, the universal as principle is the essence of perception, and against this abstraction the two distinguished ones, the perceiving and the perceived, are the unessential.",
+   "zh": "对我们来说，或者说自在地，作为原则的普遍者是知觉的本质，而相对于这个抽象来说，那两个有区别的东西，即知觉者和被知觉者，则是非本质的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 7,
+   "de": "Aber in der Tat, weil beide selbst das Allgemeine oder das Wesen sind, sind sie beide wesentlich; indem sie aber sich als entgegengesetzte aufeinander beziehen, so kann in der Beziehung nur das eine das Wesentliche sein, und der Unterschied des Wesentlichen und Unwesentlichen muß sich an sie verteilen.",
+   "en": "But in fact, because both are themselves the universal, or the essence, they are both essential; but since they relate to one another as opposed, only the one can be the essential in this relation, and the distinction of the essential and the unessential must distribute itself over them.",
+   "zh": "但实际上，因为两者本身都是普遍者，或者说都是本质，所以两者都是本质性的；不过，既然它们是作为对立的东西相互关联的，那么在这种关联中就只能是其中一个成为本质的东西，而本质的东西与非本质的东西的差别就必然分摊到它们身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 1,
+   "si": 8,
+   "de": "Das eine als das Einfache bestimmt, der Gegenstand, ist das Wesen, gleichgültig dagegen, ob er wahrgenommen wird oder nicht; das Wahrnehmen aber als die Bewegung ist das Unbeständige, das sein kann oder auch nicht, und das Unwesentliche.",
+   "en": "The one, determined as the simple, the object, is the essence, indifferent as to whether it is perceived or not; but perceiving, as the movement, is the inconstant, which can be or also not be, and the unessential.",
+   "zh": "被规定为简单者的那一个，即对象，是本质，至于它是否被知觉到，则无所谓；而知觉活动作为运动则是无常的东西，它可以在，也可以不在，并且是非本质的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 2,
+   "si": 0,
+   "de": "Dieser Gegenstand ist nun näher zu bestimmen und diese Bestimmung aus dem Resultate, das sich ergeben, kurz zu entwickeln; die ausgeführtere Entwicklung gehört nicht hierher.",
+   "en": "This object is now to be determined more closely, and this determination is briefly to be developed out of the result that has emerged; the more fully executed development does not belong here.",
+   "zh": "现在要对这个对象做更切近的规定，并且要从已经得出的结果出发，把这个规定简要地展开；更详尽的展开不属于这里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 2,
+   "si": 1,
+   "de": "Da sein Prinzip, das Allgemeine, in seiner Einfachheit ein vermitteltes ist, so muß er dies als seine Natur an ihm ausdrücken; er zeigt sich dadurch als das Ding von vielen Eigenschaften.",
+   "en": "Since its principle, the universal, is a mediated one in its simplicity, it must express this as its nature on itself; it thereby shows itself as the thing of many properties.",
+   "zh": "既然它的原则，即普遍者，在它的简单性中是一个被中介的东西，它就必须在自己身上把这一点表达为自己的本性；它由此表明自己是具有许多属性的物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 2,
+   "si": 2,
+   "de": "Der Reichtum des sinnlichen Wissens gehört der Wahrnehmung, nicht der unmittelbaren Gewißheit an, an der er nur das Beiherspielende war; denn nur jene hat die Negation, den Unterschied oder die Mannigfaltigkeit an ihrem Wesen.",
+   "en": "The wealth of sensuous knowing belongs to perception, not to immediate certainty, on which it was only the incidental; for only the former has negation, difference, or manifoldness in its essence.",
+   "zh": "感性知识的丰富属于知觉，而不属于直接确定性，在直接确定性那里它只是附带的东西；因为只有知觉才在自己的本质中具有否定、差别或杂多性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 0,
+   "de": "Das Dieses ist also gesetzt als nicht dieses oder als aufgehoben, und damit nicht Nichts, sondern ein bestimmtes Nichts oder ein Nichts von einem Inhalte, nämlich dem Diesen.",
+   "en": "The 'this' is therefore posited as not this, or as sublated, and thereby not as nothing, but as a determinate nothing, or a nothing of a content, namely of the 'this'.",
+   "zh": "所以这一个被设定为非这一个，或者被设定为被扬弃了的，并且因此不是无，而是一个特定的无，或者说是一个内容上的无，即这一个的无。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 1,
+   "de": "Das Sinnliche ist hierdurch selbst noch vorhanden, aber nicht, wie es in der unmittelbaren Gewißheit sein sollte, als das gemeinte Einzelne, sondern als Allgemeines oder als das, was sich als Eigenschaft bestimmen wird.",
+   "en": "The sensuous is thereby itself still present, but not, as it should be in immediate certainty, as the meant singular, but as universal, or as that which will determine itself as property.",
+   "zh": "感性之物由此本身仍然还在，但不是像它在直接确定性中应当的那样，作为被意谓的个别的东西，而是作为普遍者，或者作为那个将要把自己规定为属性的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 2,
+   "de": "Das Aufheben stellt seine wahrhafte gedoppelte Bedeutung dar, welche wir an dem Negativen gesehen haben; es ist ein Negieren und ein Aufbewahren zugleich; das Nichts, als Nichts des Diesen, bewahrt die Unmittelbarkeit auf und ist selbst sinnlich, aber eine allgemeine Unmittelbarkeit.",
+   "en": "Sublating presents its true doubled meaning, which we have seen in the negative; it is a negating and a preserving at the same time; the nothing, as the nothing of the 'this', preserves immediacy and is itself sensuous, but a universal immediacy.",
+   "zh": "扬弃展现出它那真正的双重含义，这含义我们已经在否定物身上看到了；它同时既是否定，又是保存；这个无，作为这一个的无，把直接性保存下来，并且它本身是感性的，不过是一种普遍的直接性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 3,
+   "de": "– Das Sein aber ist ein Allgemeines dadurch, daß es die Vermittlung oder das Negative an ihm hat; indem es dies an seiner Unmittelbarkeit ausdrückt, ist es eine unterschiedene, bestimmte Eigenschaft.",
+   "en": "— But being is a universal in that it has mediation, or the negative, on it; in that it expresses this on its immediacy, it is a distinguished, determinate property.",
+   "zh": "——但存在之所以是普遍者，是因为它在自己身上具有中介或否定；当它把这一点在它的直接性上表达出来时，它就是某种有区别的、特定的属性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 4,
+   "de": "Damit sind zugleich viele solche Eigenschaften, eine die negative der ändern, gesetzt.",
+   "en": "Thereby many such properties are at the same time posited, the one the negative of the others.",
+   "zh": "这样一来，许多这样的属性就同时被设定了，其中一个是其余东西的否定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 5,
+   "de": "Indem sie in der Einfachheit des Allgemeinen ausgedrückt sind, beziehen sich diese Bestimmtheiten, die eigentlich erst durch eine ferner hinzukommende Bestimmung Eigenschaften sind, auf sich selbst, sind gleichgültig gegeneinander, jede für sich, frei von der anderen.",
+   "en": "In that they are expressed in the simplicity of the universal, these determinacies, which properly are properties only through a further determination that comes to them, relate to themselves, are indifferent to one another, each for itself, free from the other.",
+   "zh": "由于它们是在普遍者的简单性中被表达出来的，这些规定性——它们其实只有通过一个进一步加进来的规定才成为属性——就与自身相关，彼此漠不相关，每一个都自为地存在，独立于另一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 6,
+   "de": "Die einfache sich selbst gleiche Allgemeinheit selbst aber ist wieder von diesen ihren Bestimmtheiten unterschieden und frei; sie ist das reine Sichaufsichbeziehen oder das Medium, worin diese Bestimmtheiten alle sind, sich also in ihr als in einer einfachen Einheit durchdringen, ohne sich aber zu berühren; denn eben durch die Teilnahme an dieser Allgemeinheit sind sie gleichgültig für sich.",
+   "en": "But the simple, self-same universality itself is again distinguished and free from these its determinacies; it is the pure relating-to-itself, or the medium in which all these determinacies are, thus permeating one another in it as in a simple unity, without, however, touching one another; for precisely through participation in this universality they are indifferent for themselves.",
+   "zh": "但那简单的、自身相同的普遍性本身，又重新与它的这些规定性区别开来、独立于它们；它就是纯粹的与自身相关，或者就是那个介质，这些规定性全都在这介质之中，因而在它之中就像在一个简单的统一体中那样相互渗透，却并不相互接触；因为正是由于分有这个普遍性，它们才自为地漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 7,
+   "de": "– Dies abstrakte allgemeine Medium, das die Dingheit überhaupt oder das reine Wesen genannt werden kann, ist nichts anderes als das Hier und Jetzt, wie es sich erwiesen hat, nämlich als ein einfaches Zusammen von vielen; aber die vielen sind in ihrer Bestimmtheit selbst einfach Allgemeine.",
+   "en": "— This abstract universal medium, which can be called thinghood in general or the pure essence, is nothing other than the Here and Now as it has proved itself, namely as a simple together of many; but the many are, in their determinacy, themselves simply universal.",
+   "zh": "——这个抽象而普遍的介质，可以被称为一般的物性或纯粹的本质，它不外就是这里和这时，如它已经表明的那样，即作为许多东西的简单共在；但这许多东西在它们的规定性中本身就是简单的普遍者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 8,
+   "de": "Dies Salz ist einfaches Hier und zugleich vielfach; es ist weiß und auch scharf, auch kubisch gestaltet, auch von bestimmter Schwere usw. Alle diese vielen Eigenschaften sind in einem einfachen Hier, worin sie sich also durchdringen; keine hat ein anderes Hier als die andere, sondern jede ist allenthalten in demselben, worin die andere ist; und zugleich, ohne durch verschiedene Hier geschieden zu sein, affizieren sie sich in dieser Durchdringung nicht; das Weiße affiziert oder verändert das Kubische nicht, beide nicht das Scharfe usw., sondern da jede selbst einfaches Sichaufsichbeziehen ist, läßt sie die anderen ruhig und bezieht sich nur durch das gleichgültige Auch auf sie.",
+   "en": "This salt is a simple Here and at the same time manifold; it is white and also sharp, also cubically shaped, also of a determinate weight, etc. All these many properties are in a single Here, in which they therefore permeate one another; none has a different Here from the other, but each is everywhere in the same Here in which the other is; and at the same time, without being separated by different Heres, they do not affect one another in this permeation; the white does not affect or alter the cubic, neither of them the sharp, etc., but since each is itself a simple relating-to-itself, it lets the others be at rest and relates to them only through the indifferent 'also'.",
+   "zh": "这块盐是一个简单的这里，同时又是杂多的；它是白的，又是咸的，又是立方形的，又有一定的重量，等等。所有这许多属性都在一个简单的这里之中，它们于是在其中相互渗透；没有一个拥有与另一个不同的这里，而是每一个都处处处在另一个所处的同一个这里之中；并且同时，由于并没有被不同的这里分隔开来，它们在这种相互渗透中并不相互影响；白色并不影响或改变立方形的东西，这两个也不影响咸的东西，等等，而是因为每一个本身就是简单的与自身相关，所以它让其他东西保持安宁，并且只是通过那个漠不相关的“也”才与它们相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 3,
+   "si": 9,
+   "de": "Dieses Auch ist also das reine Allgemeine selbst oder das Medium, die sie so zusammenfassende Dingheit.",
+   "en": "This 'also' is therefore the pure universal itself, or the medium, the thinghood that thus gathers them together.",
+   "zh": "所以这个“也”就是纯粹的普遍者本身，或者就是那个介质，即把它们这样聚集起来的物性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 4,
+   "si": 0,
+   "de": "In diesem Verhältnisse, das sich ergeben hat, ist nur erst der Charakter der positiven Allgemeinheit beobachtet und entwickelt; es bietet sich aber noch eine Seite dar, welche auch hereingenommen werden muß.",
+   "en": "In this relation that has come about, only the character of positive universality has so far been observed and developed; but another side still presents itself, which must also be taken in here.",
+   "zh": "在这个已经形成的关系中，还只是观察和展开了肯定的普遍性这一特征；但还有一面呈现出来，它也必须被一起纳入进来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 4,
+   "si": 1,
+   "de": "Nämlich wenn die vielen bestimmten Eigenschaften schlechterdings gleichgültig wären und sich durchaus nur auf sich selbst bezögen, so wären sie keine bestimmten, denn sie sind dies nur, insofern sie sich unterscheiden und sich auf andere als entgegengesetzte beziehen.",
+   "en": "Namely, if the many determinate properties were absolutely indifferent and related throughout only to themselves, they would not be determinate; for they are so only insofar as they distinguish themselves and relate to others as opposed.",
+   "zh": "也就是说，如果这许多特定的属性完全漠不相关，并且完全只与自身相关，那它们就不是特定的属性；因为它们之所以是特定的，只是由于它们相互区别，并且作为对立的东西与其他东西相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 4,
+   "si": 2,
+   "de": "Nach dieser Entgegensetzung aber können sie nicht in der einfachen Einheit ihres Mediums zusammen sein, die ihnen ebenso wesentlich ist als die Negation; die Unterscheidung derselben, insofern sie nicht eine gleichgültige, sondern ausschließende, Anderes negierende ist, fällt also außer diesem einfachen Medium; und dieses ist daher nicht nur ein Auch, gleichgültige Einheit, sondern auch Eins, ausschließende Einheit.",
+   "en": "But according to this opposition they cannot be together in the simple unity of their medium, which is as essential to them as the negation; the distinguishing of them, insofar as it is not an indifferent but an excluding, other-negating one, therefore falls outside this simple medium; and this is therefore not only an 'also', an indifferent unity, but also a One, an excluding unity.",
+   "zh": "但按照这种对立，它们就不能共处于它们那个介质的简单统一体之中，而这个统一体对它们来说和否定一样是本质性的；它们的区别，只要它不是漠不相关的区别，而是排他的、否定他者的区别，就落在这个简单的介质之外；因此这个介质就不只是一个“也”、一个漠不相关的统一体，而且是一个“一”、一个排他的统一体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 4,
+   "si": 3,
+   "de": "– Das Eins ist das Moment der Negation, wie es selbst auf eine einfache Weise sich auf sich bezieht und Anderes ausschließt und wodurch die Dingheit als Ding bestimmt ist.",
+   "en": "— The One is the moment of negation, as it itself relates to itself in a simple way and excludes the other, and whereby thinghood is determined as thing.",
+   "zh": "——“一”是否定这一环节，它本身以简单的方式与自身相关并排除他者，物性由此被规定为物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 4,
+   "si": 4,
+   "de": "An der Eigenschaft ist die Negation als Bestimmtheit, die unmittelbar eins ist mit der Unmittelbarkeit des Seins, welche durch diese Einheit mit der Negation Allgemeinheit ist; als Eins aber ist sie, wie sie von dieser Einheit mit dem Gegenteil befreit und an und für sich selbst ist.",
+   "en": "On the property, the negation is determinacy, which is immediately one with the immediacy of being — which, through this unity with the negation, is universality; but as the One it is as it is freed from this unity with the opposite and is in and for itself.",
+   "zh": "在属性身上，否定作为规定性直接与存在的直接性合一，而存在的直接性通过这种与否定的统一就是普遍性；但作为“一”，否定则是它摆脱了与对立面的这种统一、并且自在自为地存在时的样子。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 5,
+   "si": 0,
+   "de": "In diesen Momenten zusammen ist das Ding als das Wahre der Wahrnehmung vollendet, soweit es nötig ist, es hier zu entwickeln.",
+   "en": "In these moments taken together the thing as the true of perception is complete, so far as it is necessary to develop it here.",
+   "zh": "在这些环节合在一起时，作为知觉的真的东西的物就完成了，就这里有必要展开它的范围而言。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 5,
+   "si": 1,
+   "de": "Es ist α) die gleichgültige passive Allgemeinheit, das Auch der vielen Eigenschaften oder vielmehr Materien, β) die Negation ebenso als einfach, oder das Eins, das Ausschließen entgegengesetzter Eigenschaften, und γ) die vielen Eigenschaften selbst, die Beziehung der zwei ersten Momente, die Negation, wie sie sich auf das gleichgültige Element bezieht und sich darin als eine Menge von Unterschieden ausbreitet; der Punkt der Einzelheit in dem Medium des Bestehens in die Vielheit ausstrahlend.",
+   "en": "It is α) the indifferent passive universality, the also of the many properties or rather matters, β) the negation likewise as simple, or the one, which excludes opposed properties, and γ) the many properties themselves, the relation of the two first moments, the negation as it relates to the indifferent element and therein spreads itself out as a multitude of differences; the point of singularity radiating out into the multiplicity in the medium of subsistence.",
+   "zh": "它是 α) 无所谓地被动的普遍性，许多属性或者说许多质料的“也”，β) 同样作为单纯物的否定，或者说一，即排斥对立属性的一，以及 γ) 许多属性本身，即前两个环节的关系，即否定，它如何与无所谓的元素发生关系并在其中展开为一堆差别；个别性的点，在持存的介质中放射为多。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 5,
+   "si": 2,
+   "de": "Nach der Seite, daß diese Unterschiede dem gleichgültigen Medium angehören, sind sie selbst allgemein, beziehen sich nur auf sich und affizieren sich nicht; nach der Seite aber, daß sie der negativen Einheit angehören, sind sie zugleich ausschließend, haben aber diese entgegengesetzte Beziehung notwendig an Eigenschaften, die aus ihrem Auch entfernt sind.",
+   "en": "According to the side that these differences belong to the indifferent medium, they are themselves universal, relate only to themselves and do not affect one another; but according to the side that they belong to the negative unity, they are at the same time exclusive, yet have this opposed relation necessarily to properties that are removed from their also.",
+   "zh": "就这些差别属于无所谓的介质这一方面看，它们本身就是普遍的，只与自身发生关系，并不互相触动；但就它们属于否定的统一这一方面看，它们同时是排斥性的，不过这种对立的关联必然落在那些已从它们的“也”中被移开的属性上。"
+  }
+ ]
+}

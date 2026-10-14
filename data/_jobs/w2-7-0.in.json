@@ -1,0 +1,97 @@
+{
+ "id": "w2-7-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "A. Kantische Philosophie",
+ "heading": "A. Kantische Philosophie",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1q3hp101e0",
+   "text": "A. Kantische Philosophie"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1e3f3131lo",
+   "sents": [
+    "Die Kantische Philosophie ist ihres Prinzips der Subjektivität und des formalen Denkens dadurch, daß ihr Wesen darin besteht, kritischer Idealismus zu sein, geradezu geständig, und in der Sicherheit ihres Standpunkts, die Einheit der Reflexion zum Höchsten zu machen, gibt sie in dem unbesorgtesten Erzählen die Offenbarung dessen, was sie ist und will; der Name Vernunft, den sie dem Begriffe gibt, vermag den Aufschluß darüber höchstens zu erschweren oder zu verhüllen.",
+    "Auf den niedrigeren Standpunkten, wo ihr in Wahrheit eine Idee zum Grunde liegt, macht teils die Verworrenheit, in der sie die Idee ausdrückt, Mühe, sie zu erkennen, teils verwandelt sie selbst das Vernünftige wieder bald genug in ein Verständiges und Bedingtes; sonst aber gerät sie als auf bloße Möglichkeiten des Denkens und aller Realität entbehrende überschwengliche Begriffe öfters in ihrem Wege beiläufig auf Ideen, welche sie bald genug als bloße leere Gedanken wieder fallenläßt, und die höchste Idee, auf welche sie in ihrem kritischen Geschäfte stieß und [die] sie als eine leere Grübelei und einen unnatürlichen bloßen Schulwitz, aus Begriffen eine Realität herauszuklauben137) , behandelte, stellt sie selbst, aber am Ende ihrer Philosophie, als ein Postulat auf, das eine notwendige Subjektivität hätte, aber nicht diejenige absolute Objektivität, um von dieser Idee, statt mit ihr im Glauben zu enden, ganz allein die Philosophie anzufangen und sie als den alleinigen Inhalt derselben anzuerkennen.",
+    "Wenn die Kantische Philosophie schlechthin in dem Gegensatze verweilt und die Identität desselben zum absoluten Ende der Philosophie, d. h. zur reinen Grenze, die nur eine Negation derselben ist, macht, so muß dagegen als Aufgabe der wahren Philosophie nicht angesehen werden, die Gegensätze, die sich vorfinden, die bald als Geist und Welt, als Seele und Leib, als Ich und Natur usw. aufgefaßt werden, in ihrem Ende zu lösen, sondern ihre einzige Idee, welche für sie Realität und wahrhafte Objektivität hat, ist das absolute Aufgehobensein des Gegensatzes, und diese absolute Identität ist weder ein allgemeines subjektives, nicht zu realisierendes Postulat - sondern sie ist die einzige wahrhafte Realität -, noch das Erkennen derselben ein Glauben, d. h. ein Jenseits für das Wissen, sondern ihr einziges Wissen.",
+    "Weil nun die Philosophie in der absoluten Identität weder das eine der Entgegengesetzten noch das andere in seiner Abstraktion von dem anderen für sich seiend anerkennt, sondern die höchste Idee indifferent gegen beides und jedes einzeln betrachtet nichts ist, ist sie Idealismus, und die Kantische Philosophie hat das Verdienst, Idealismus zu sein, insofern sie erweist, daß weder der Begriff für sich allein noch die Anschauung für sich allein etwas, die Anschauung für sich blind und der Begriff für sich leer ist138) , und daß die endliche Identität beider im Bewußtsein, welche Erfahrung heißt, ebensowenig eine vernünftige Erkenntnis ist.",
+    "Aber indem die Kantische Philosophie jene endliche Erkenntnis für die einzig mögliche erklärt und zu dem Ansichseienden, zum Positiven eben jene negative, rein idealistische Seite oder wieder eben jenen leeren Begriff als absolute, sowohl theoretische als praktische Vernunft macht, fällt sie zurück in absolute Endlichkeit und Subjektivität, und die ganze Aufgabe und Inhalt dieser Philosophie ist nicht das Erkennen des Absoluten, sondern das Erkennen dieser Subjektivität oder eine Kritik der Erkenntnisvermögen."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "flvnab1soe",
+   "sents": [
+    "\"Ich hielte dafür, daß es gleichsam der erste Schritt wäre, den verschiedenen Untersuchungen, die das Gemüt des Menschen gerne unternimmt, ein Genüge zu tun, wenn wir unsern Verstand genau betrachteten, unsere Kräfte erforschten und zusähen, zu welchen Dingen sie aufgelegt sind.",
+    "Wenn die Menschen mit ihren Untersuchungen weiter gehen, als es ihre Fähigkeit zuläßt, und ihre Gedanken auf einer so tiefen See umherschweifen lassen, wo sie keine Spur finden können, so ist es kein Wunder, daß sie lauter Zweifel erregen und der Streitigkeiten immer mehr machen, welche, da sie sich niemals auflösen und ausmachen lassen, nur dienen, ihre Zweifel zu unterhalten und zu vermehren und sie endlich in der vollkommenen Zweiflerei zu bestärken.",
+    "Würde hingegen die Fähigkeit unseres Verstandes wohl überlegt, würde einmal entdeckt, wie weit sich unsere Erkenntnis erstreckt, und der Horizont gefunden, welcher zwischen dem erleuchteten und dem finsteren Teile, zwischen demjenigen, was sich begreifen läßt, und demjenigen, was sich nicht begreifen läßt, die Scheidegrenzen macht, so würden vielleicht die Menschen mit wenigerer Schwierigkeit bei der erkannten Unwissenheit des einen beruhen und ihre Gedanken und Reden mit mehrerem Vorteil und Vergnügen zu dem anderen hinwenden.\""
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "t38xcd1k0o",
+   "sents": [
+    "Mit solchen Worten drückt Locke in der Einleitung zu seinem Versuche den Zweck seines Unternehmens aus - Worte, welche man ebenso in der Einleitung zur Kantischen Philosophie lesen könnte, welche sich gleichfalls innerhalb des Lockeschen Zwecks, nämlich der Betrachtung des endlichen Verstandes einschränkt."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "wxszz1ejmd",
+   "sents": [
+    "Innerhalb dieser Schranke aber und ungeachtet der ganz anders lautenden höchsten Resultate findet sich die wahrhafte Vernunftidee ausgedrückt in der Formel: wie sind synthetische Urteile a priori möglich?",
+    "Es ist aber Kant begegnet, was er Hume vorwirft, nämlich, daß er diese Aufgabe der Philosophie bei weitem nicht bestimmt genug und in ihrer Allgemeinheit dachte, sondern bloß bei der subjektiven und äußerlichen Bedeutung dieser Frage stehenblieb und herauszubringen glaubte, daß ein vernünftiges Erkennen unmöglich sei; und nach seinen Schlüssen würde alles, was Philosophie heißt, auf einen bloßen Wahn von vermeinter Vernunfteinsicht hinauslaufen."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "vnloiy3inm",
+   "sents": [
+    "Wie sind synthetische Urteile a priori möglich?",
+    "Dieses Problem drückt nichts anderes aus als die Idee, daß in dem synthetischen Urteil Subjekt und Prädikat, jenes das Besondere dieses das Allgemeine, jenes in der Form des Seins, dies in der Form des Denkens, - dieses Ungleichartige zugleich a priori, d. h. absolut identisch ist.",
+    "Die Möglichkeit dieses Setzens ist allein die Vernunft, welche nichts anderes ist als diese Identität solcher Ungleichartigen.",
+    "Man erblickt diese Idee durch die Flachheit der Deduktion der Kategorien hindurch und in Beziehung auf Raum und Zeit nicht da, wo sie sein sollte, in der transzendentalen Erörterung dieser Formen, aber doch in der Folge, wo die ursprünglich synthetische Einheit der Apperzeption erst bei der Deduktion der Kategorien zum Vorschein kommt und auch als Prinzip der figürlichen Synthesis oder der Formen der Anschauung erkannt und Raum und Zeit selbst als synthetische Einheiten und die produktive Einbildungskraft, Spontaneität und absolute synthetische Tätigkeit als Prinzip der Sinnlichkeit begriffen wird, welche vorher nur als Rezeptivität charakterisiert worden war."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "biqsjx1ini",
+   "sents": [
+    "Diese ursprüngliche synthetische Einheit, d. h. eine Einheit, die nicht als Produkt Entgegengesetzter begriffen werden muß, sondern als wahrhaft notwendige, absolute, ursprüngliche Identität Entgegengesetzter, ist sowohl Prinzip der produktiven Einbildungskraft, der blinden, d. h. in die Differenz versenkten, von ihr sich nicht abscheidenden, als der die Differenz identisch setzenden, aber von den Differenten sich unterscheidenden Einheit, als Verstand; woraus erhellt, daß die Kantischen Formen der Anschauung und die Formen des Denkens gar nicht als besondere isolierte Vermögen auseinanderliegen, wie man es sich gewöhnlich vorstellt.",
+    "Eine und ebendieselbe synthetische Einheit - und was diese hier heißt, ist soeben bestimmt worden - ist das Prinzip des Anschauens und des Verstandes; der Verstand ist allein die höhere Potenz, in welcher die Identität, die im Anschauen ganz und gar in die Mannigfaltigkeit versenkt ist, zugleich als ihr entgegengesetzt sich in sich als Allgemeinheit, wodurch sie die höhere Potenz ist, konstituiert.",
+    "Kant hat deswegen ganz recht, die Anschauung ohne die Form blind zu nennen, denn in der Anschauung ist nicht der relative Gegensatz und also auch nicht die relative Identität zwischen Einheit und Differenz, als in welcher relativen Identität und Gegensatz das Sehen oder das Bewußtsein besteht, vorhanden, sondern die Identität ist wie im Magnet völlig mit der Differenz identisch.",
+    "Insofern aber die Anschauung eine sinnliche, d. h. der Gegensatz nicht wie in der intellektuellen Anschauung aufgehoben ist, sondern in der empirischen Anschanung als einer solchen hervortreten muß, so besteht er auch in dieser Form des Versenktseins, und so treten die Gegensätze als zwei Formen des Anschauens auseinander, die eine als Identität des Denkens, die andere als Identität des Seins, als Anschauung der Zeit und des Raums. - Ebenso ist der Begriff leer ohne Anschauung, denn die synthetische Einheit ist nur Begriff, indem sie die Differenz so verbindet, daß sie zugleich außerhalb derselben in relativem Gegensatz ihr gegenübertritt.",
+    "Der reine Begriff isoliert ist die leere Identität; nur als relativ identisch zugleich mit dem, welchem er gegenübersteht, ist er Begriff und erfüllt nur durch das Mannigfaltige der Anschauung: sinnliche Anschauung A = B, Begriff A² = (A = B)."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1riiggf1xy",
+   "sents": [
+    "Was den Hauptumstand betrifft, daß die produktive Einbildungskraft sowohl in der Form des sinnlichen Anschauens als des Begreifens der Anschauung oder der Erfahrung eine wahrhaft spekulative Idee ist, so kann die Identität durch den Ausdruck einer synthetischen Einheit den Anschein, als ob sie die Antithesis voraussetzte und der Mannigfaltigkeit der Antithesis als eines von ihr Unabhängigen und Fürsichseienden bedürfte, also der Natur nach später wäre als die Entgegensetzung, erhalten.",
+    "Allein jene Einheit ist bei Kant unwidersprechlich die absolute, ursprüngliche Identität des Selbstbewußtseins, welche apriorisch absolut aus sich das Urteil setzt oder vielmehr als Identität des Subjektiven und Objektiven im Bewußtsein als Urteil erscheint; diese ursprüngliche Einheit der Apperzeption heißt synthetisch eben wegen ihrer Doppelseitigkeit, weil in ihr das Entgegengesetzte absolut eins ist.",
+    "Wenn die absolute Synthesis, die insofern absolut ist, als sie nicht ein Aggregat von zusammengelesenen Mannigfaltigkeiten und erst nach diesen und zu ihnen hinzugetreten ist, getrennt und auf ihre Entgegengesetzten reflektiert wird, so ist das eine derselben das leere Ich, der Begriff, das andere Mannigfaltigkeit, Leib, Materie oder wie man will.",
+    "Kant sagt sehr gut, Kritik der reinen Vernunft, [B] S. 135: durch das leere Ich als einfache Vorstellung ist nichts Mannigfaltiges gegeben.",
+    "Die wahre synthetische Einheit oder vernünftige Identität ist nur diejenige, welche die Beziehung ist des Mannigfaltigen auf die leere Identität, das Ich, aus welcher, als ursprünglicher Synthesis, das Ich als denkendes Subjekt und das Mannigfaltige als Leib und Welt sich erst abscheiden, - wodurch also Kant die Abstraktion des Ich oder der verständigen Identität selbst von dem wahren Ich als absoluter, ursprünglich synthetischer Identität als dem Prinzip unterscheidet."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/7.p0.json"
+}

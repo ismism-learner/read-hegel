@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-06",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 31,
+   "si": 2,
+   "de": "Insofern das Moment des Seins, welches dies Organ hat, ein Sein für Anderes, Dasein ist, ist es totes Sein, nicht mehr Gegenwart des Selbstbewußtseins.",
+   "en": "Insofar as the moment of being that this organ has is a being for another, determinate being, it is dead being, no longer the presence of self-consciousness.",
+   "zh": "就这种器官所具有的存在环节是一种为他存在、即定在而言，它就是死的存在，不再是自我意识的当前在场。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 31,
+   "si": 3,
+   "de": "Dies Insichselbstsein ist aber seinem Begriffe nach eine Flüssigkeit, worin die Kreise, die darein geworfen werden, sich unmittelbar auflösen und kein Unterschied als seiender sich ausdrückt.",
+   "en": "But this being-in-itself-itself is, according to its concept, a fluidity in which the circles that are thrown into it immediately dissolve and no difference expresses itself as existent.",
+   "zh": "但这种自身内存在按其概念来说是一种流动性，那些被投进其中的圆圈在其中直接消解，没有任何差别作为存在着的差别表达出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 31,
+   "si": 4,
+   "de": "Inzwischen, wie der Geist selbst nicht ein Abstrakt-Einfaches ist, sondern ein System von Bewegungen, worin er sich in Momente unterscheidet, in dieser Unterscheidung selbst aber frei bleibt, und wie er seinen Körper überhaupt zu verschiedenen Verrichtungen gliedert und einen einzelnen Teil desselben nur einer bestimmt, so kann auch sich vorgestellt werden, daß das flüssige Sein seines Insichseins ein gegliedertes ist; und es scheint so vorgestellt werden zu müssen, weil das in sich reflektierte Sein des Geistes im Gehirn selbst wieder nur eine Mitte seines reinen Wesens und seiner körperlichen Gliederung ist, eine Mitte, welche hiermit von der Natur beider und also von der Seite der letzteren auch die seiende Gliederung wieder an ihr haben muß.",
+   "en": "Meanwhile, just as spirit itself is not an abstract-simple [thing], but a system of movements in which it distinguishes itself into moments, yet in this distinguishing remains free, and just as it articulates its body in general into various functions and assigns a single part of it to only one, so it can also be represented that the fluid being of its being-in-itself is an articulated one; and it seems that it must be represented in this way, because the being of spirit reflected into itself in the brain is itself again only a middle between its pure essence and its bodily articulation, a middle which herewith, by the nature of both and thus from the side of the latter, must also have the existent articulation again on it.",
+   "zh": "不过，正如精神本身并不是一种抽象—单纯的东西，而是一个运动的系统，它在其中把自己区分为各个环节，但在这种区分中本身仍然是自由的；又正如它一般地使自己的身体分化为各不相同的职能，并且使身体的某个单独部分只服务于一种职能，同样也可以被表象为：它的在自身内存在的流动的存在是有分节的；而且看来必须这样来表象，因为精神在脑中被反思回自身的存在，本身又只是它的纯粹本质和它的身体分节之间的一个中项，而这个中项因此就两者的本性、从而也就从后者的方面来说，必然也重新在自己身上具有那种存在着的分节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 0,
+   "de": "Das geistig-organische Sein hat zugleich die notwendige Seite eines ruhenden bestehenden Daseins; jenes muß als Extrem des Fürsichseins zurücktreten und diese als das andere Extrem gegenüber haben, welches alsdann der Gegenstand ist, worauf jenes als Ursache wirkt.",
+   "en": "Spiritually organic being has at the same time the necessary side of a resting, subsisting determinate being; the former must step back as the extreme of being-for-itself and have the latter over against it as the other extreme, which is then the object on which the former works as cause.",
+   "zh": "精神—有机的存在同时具有一个静止持存的定在这一必然的方面；前者必须作为自为存在的极端退回去，并把后者当作另一个极端与它相对，而后者这时就是那个对象，前者作为原因对它起作用。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 1,
+   "de": "Wenn nun Gehirn und Rückenmark jenes körperliche Fürsichsein des Geistes ist, so ist der Schädel und die Rückenwirbelsäule das andere ausgeschiedene Extrem hinzu, nämlich das feste ruhende Ding.",
+   "en": "If now brain and spinal cord are that bodily being-for-itself of spirit, then the skull and the spinal column are the other, separated-off extreme in addition, namely the firm, resting thing.",
+   "zh": "既然脑和脊髓是精神的那种身体性的自为存在，那么头颅和脊柱就是另外那个被分离出去的极端，即固定静止的物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 2,
+   "de": "– Indem aber jedem, wenn er an den eigentlichen Ort des Daseins des Geistes denkt, nicht der Rücken, sondern nur der Kopf einfällt, so können wir uns in der Untersuchung eines Wissens, als das vorliegende ist, mit diesem – für es nicht zu schlechten – Grunde begnügen, um dies Dasein auf den Schädel einzuschränken.",
+   "en": "– But since, when anyone thinks of the proper place of the determinate being of spirit, it is not the back but only the head that occurs to him, we may in the investigation of a knowing such as the present one content ourselves with this ground — not too bad a one for it — in order to restrict this determinate being to the skull.",
+   "zh": "——但是，既然每个人在想到精神定在的真正位置时，想到的都不是背，而只是头，那么在对一种像眼前这样的知识的考察中，我们就可以满足于这个理由——对它来说这理由并不算太糟——，以便把这种定在限制在头颅上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 3,
+   "de": "Sollte einem der Rücken insofern einfallen, als auch wohl zuweilen durch ihn Wissen und Tun zum Teil ein-, zum Teil aber angetrieben wird, so würde dies dafür, daß das Rückenmark mit zum inwohnenden Orte des Geistes und seine Säule zum gegenbildlichen Dasein genommen werden müsse, darum nichts beweisen, weil es zuviel bewiese; denn man kann ebenso sich erinnern, daß auch andere äußerliche Wege, der Tätigkeit des Geistes beizukommen, um sie zu erwecken oder zurückzuhalten, beliebt werden.",
+   "en": "If the back should occur to someone insofar as knowledge and doing are sometimes partly driven in and partly spurred on by it, this would prove nothing for the claim that the spinal cord must also be taken as an indwelling place of spirit and its column as counterpart determinate being, because it would prove too much; for one can likewise recall that other external ways of getting at the activity of spirit, in order to awaken or to hold it back, are also favoured.",
+   "zh": "如果某个人想到背，是因为有时知识和行动也一部分由它被驱入、一部分却由它被促动，那么这对“必须把脊髓也一起当作精神的内在居留之所、把它的脊柱当作对应图像的定在”这一点，恰恰什么也证明不了，因为它证明得太多了；因为人们同样可以想到，为了唤醒或抑制精神的活动，人们还爱用别的外在途径去接近它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 4,
+   "de": "– Die Rückenwirbelsäule fällt also, wenn man will, mit Recht hinweg; und es ist so gut als viele andere naturphilosophische Lehren konstruiert, daß der Schädel allein zwar nicht die Organe des Geistes enthalte.",
+   "en": "– The spinal column therefore, if one wishes, rightly falls away; and it is constructed just as well as many other teachings of the philosophy of nature that the skull alone, to be sure, does not contain the organs of spirit.",
+   "zh": "——所以，如果人们愿意，脊柱就理所当然地被略去；而“头颅单独虽然并不包含精神的器官”这一点，和许多别的自然哲学学说一样是构造出来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 5,
+   "de": "Denn dies wurde vorhin aus dem Begriffe dieses Verhältnisses ausgeschlossen und deswegen der Schädel zur Seite des Daseins genommen; oder wenn nicht an den Begriff der Sache erinnert werden dürfte, so lehrt ja die Erfahrung, daß, wie mit dem Auge als Organe gesehen, so nicht mit dem Schädel gemordet, gestohlen, gedichtet usw. wird.",
+   "en": "For this was just excluded from the concept of this relation, and the skull was therefore taken on the side of determinate being; or, if one were not permitted to recall the concept of the matter, experience teaches that, just as one sees with the eye as organ, so one does not murder, steal, compose poetry, and so forth, with the skull.",
+   "zh": "因为这一点刚才已经被排除在这种关系的概念之外，所以头颅才被归到定在这一边；或者，如果人们不可以提醒事情的概念，那么经验反正会教导说：正如人们是用眼睛作为器官来看的，人们也同样不是用头颅去杀人、偷窃、作诗等等的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 6,
+   "de": "– Es ist sich deswegen auch des Ausdrucks Organ für diejenige Bedeutung des Schädels zu enthalten, von welcher noch zu sprechen ist.",
+   "en": "– For this reason, one must also refrain from the expression organ for that meaning of the skull of which there is still to be spoken.",
+   "zh": "——因此，对于头颅的那个还有待谈到的含义，也必须避免使用“器官”这个说法。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 7,
+   "de": "Denn ob man gleich zu sagen pflegt, daß es vernünftigen Menschen nicht auf das Wort, sondern auf die Sache ankomme, so ist daraus doch nicht die Erlaubnis zu nehmen, eine Sache mit einem ihr nicht zugehörigen Worte zu bezeichnen; denn dies ist Ungeschicklichkeit zugleich und Betrug, der nur das rechte Wort nicht zu haben meint und vorgibt und [der] es sich verbirgt, daß ihm in der Tat die Sache, d.h. der Begriff fehlt; wenn dieser vorhanden wäre, würde er auch sein rechtes Wort haben.",
+   "en": "For although one is wont to say that for reasonable people it is not the word that matters but the matter, yet no permission is to be taken from this to designate a matter with a word that does not belong to it; for this is at once clumsiness and deception, which only supposes and pretends not to have the right word, and [which] hides from itself that it in fact lacks the matter, that is, the concept; if this were present, it would also have its right word.",
+   "zh": "因为尽管人们习惯说，对理性的人来说要紧的不是词，而是事情，但由此并不能取得许可，用某个并不属于事情的词去标示事情；因为这既是笨拙又是欺骗，它自以为并假装只是没有找到正确的词，同时却对自己隐瞒了：它实际上缺少事情，也就是缺少概念；如果概念存在，它也就会有自己正确的词。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 32,
+   "si": 8,
+   "de": "– Zunächst hat sich hier nur dies bestimmt, daß, wie das Gehirn der lebendige Kopf, der Schädel das caput mortuum ist.",
+   "en": "– Here, to begin with, only this has been determined, that, as the brain is the living head, the skull is the caput mortuum.",
+   "zh": "——这里首先只确定了一点：正如脑是活着的头，头颅则是 caput mortuum。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 0,
+   "de": "In diesem toten Sein hätten also die geistigen Bewegungen und bestimmten Weisen des Gehirns ihre Darstellung äußerer Wirklichkeit, die jedoch noch an dem Individuum selbst ist, sich zu geben.",
+   "en": "In this dead being, then, the spiritual movements and the determinate modes of the brain would have to give themselves their presentation of outer actuality, which however still attaches to the individual itself.",
+   "zh": "所以，在这种死去的存在里，精神的运动和脑的那些确定的方式就得给自己提供它们对外在现实性的展示，而这种现实性却还附着在个体自己身上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 1,
+   "de": "Für das Verhältnis derselben zu ihm, der als totes Sein den Geist nicht in sich selbst inwohnen hat, bietet sich zunächst das oben festgesetzte, das äußere und mechanische dar, so daß die eigentlichen Organe – und diese sind am Gehirne – ihn hier rund ausdrücken, dort breitschlagen oder plattstoßen, oder wie man sonst diese Einwirkung darstellen mag.",
+   "en": "For the relation of these to it, which as dead being does not have spirit dwelling within itself, what first offers itself is that which was fixed above, the outer and mechanical relation, so that the proper organs — and these are on the brain — press it round here, beat it broad there or flatten it, or however else one may present this influence.",
+   "zh": "对于这些同它之间的关系——它作为死去的存在，并不让精神居住在自身之中——，首先呈现出来的就是上面已经确定的那种关系，即外在的、机械的关系，以至于那些真正的器官——而它们是在脑上——在这里把它压圆，在那里把它打宽或压平，或者人们还可以用别的什么方式来展示这种作用。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 2,
+   "de": "Selbst ein Teil des Organismus, muß in ihm zwar, wie in jedem Knochen, eine lebendige Selbstbildung gedacht werden, so daß, hiernach betrachtet, er von seiner Seite vielmehr das Gehirn drückt und dessen äußere Beschränkung setzt; wozu er auch als das Härtere eher das Vermögen hat.",
+   "en": "Even as a part of the organism, a living self-formation must indeed be thought in it, as in every bone, so that, considered accordingly, it on its side rather presses the brain and posits its outer limitation; for which, as the harder, it also has the capacity the more readily.",
+   "zh": "即使它是有机体的一部分，在它里面也确实必须像在每一块骨头里那样设想一种活生生的自我形成，以至于照此来看，它从自己这方面毋宁说是在压脑，并且设定脑的外在限制；而它作为更硬的东西，也更有能力做到这一点。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 3,
+   "de": "Dabei aber würde noch immer dasselbe Verhältnis in der Bestimmung der Tätigkeit beider gegeneinander bleiben; denn ob der Schädel das Bestimmende oder das Bestimmte ist, dies änderte an dem Kausalzusammenhange überhaupt nichts, nur daß dann der Schädel zum unmittelbaren Organe des Selbstbewußtseins gemacht würde, weil in ihm als Ursache sich die Seite des Fürsichseins fände.",
+   "en": "But in that case the same relation would still always remain in the determination of the activity of both over against each other; for whether the skull is the determining or the determined, this would change nothing in the causal connection at all, only that then the skull would be made into the immediate organ of self-consciousness, because in it as cause the side of being-for-itself would be found.",
+   "zh": "但这样一来，在两者相互对立着的活动的规定中，仍然始终会保留同一种关系；因为无论头颅是起规定作用的东西还是被规定的东西，这根本不会改变因果联系，只不过那样一来，头颅就会被弄成自我意识的直接器官，因为在它作为原因的身上会找到自为存在这一方面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 4,
+   "de": "Allein indem das Fürsichsein als organische Lebendigkeit in beide auf gleiche Weise fällt, fällt in der Tat der Kausalzusammenhang zwischen ihnen hinweg.",
+   "en": "But since being-for-itself as organic liveliness falls into both in the same way, the causal connection between them in fact drops away.",
+   "zh": "但既然自为存在作为有机的活生生性以同样的方式落在两者身上，它们之间的因果联系实际上就消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 5,
+   "de": "Diese Fortbildung beider aber hinge im Innern zusammen und wäre eine organische prästabilierte Harmonie, welche die beiden sich aufeinander beziehenden Seiten frei gegeneinander und jeder ihre eigene Gestalt läßt, der die Gestalt der anderen nicht zu entsprechen braucht; und noch mehr die Gestalt und die Qualität gegeneinander, – wie die Form der Weinbeere und der Geschmack des Weines frei gegeneinander sind.",
+   "en": "But this further formation of both would hang together in the inner and would be an organic pre-established harmony, which leaves the two sides related to each other free over against each other and leaves each its own shape, to which the shape of the other need not correspond; and all the more the shape and the quality over against each other — as the form of the grape and the taste of the wine are free over against each other.",
+   "zh": "但两者各自的这种继续形成却会在内部联结在一起，并且会是一种有机的前定和谐，这种和谐让这两个相互关联的方面彼此自由相对，并让每一方都有自己的形态，而另一方的形态并不需要与之相符；更是让形态和质彼此相对，——就像葡萄粒的形式和葡萄酒的味道彼此自由相对一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 33,
+   "si": 6,
+   "de": "– Indem aber auf die Seite des Gehirns die Bestimmung des Fürsichseins, auf die Seite des Schädels aber die Bestimmung des Daseins fällt, so ist innerhalb der organischen Einheit auch ein Kausalzusammenhang derselben zu setzen; eine notwendige Beziehung derselben als äußere füreinander, d.h. eine selbst äußerliche, wodurch also ihre Gestalt durch einander bestimmt würde.",
+   "en": "— But since the determination of being-for-itself falls to the side of the brain, and the determination of determinate being to the side of the skull, a causal connection of the two is also to be posited within the organic unity; a necessary relation of them as external for one another, i.e. a itself external one, whereby their shape would be determined by one another.",
+   "zh": "——但既然自为存在的规定落在脑这一边，而定在的规定落在头颅这一边，那么在有机的统一体内部也就必须设定两者的一种因果联系；即一种它们作为彼此外在的东西的必然关系，也就是说，一种本身外在的关系，由此它们的形态就会通过彼此而被规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 0,
+   "de": "In Ansehung der Bestimmung aber, in welcher das Organ des Selbstbewußtseins auf die gegenüberstehende Seite tätige Ursache wäre, kann auf mancherlei Weise hin und her geredet werden; denn es ist von der Beschaffenheit einer Ursache die Rede, die nach ihrem gleichgültigen Dasein, ihrer Gestalt und Größe betrachtet wird, einer Ursache, deren Inneres und Fürsichsein gerade ein solches sein soll, welches das unmittelbare Dasein nichts angeht.",
+   "en": "But with regard to the determination in which the organ of self-consciousness would be the active cause over against the opposite side, one can talk back and forth in many ways; for what is at issue is the constitution of a cause that is considered according to its indifferent determinate being, its shape and size, a cause whose inner and being-for-itself is supposed to be precisely such as does not concern the immediate determinate being at all.",
+   "zh": "但就自我意识的器官在其中会对那对立的一面成为起作用的原因的那种规定而言，人们可以以各种各样的方式来回谈论；因为这里谈的是一个原因的性状，这个原因是按其漠不相关的定在、按其形态和大小被考察的，而这个原因的内在东西和自为存在恰恰应当是那种丝毫不涉及直接定在的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 1,
+   "de": "Die organische Selbstbildung des Schädels ist zuerst gleichgültig gegen die mechanische Einwirkung, und das Verhältnis dieser beiden Verhältnisse ist, da jenes das Sich-auf-sich-selbst-Beziehen ist, eben diese Unbestimmtheit und Grenzenlosigkeit selbst.",
+   "en": "The organic self-formation of the skull is at first indifferent to mechanical influence, and the relation of these two relations is, since the former is the relating-to-itself, precisely this indeterminacy and boundlessness itself.",
+   "zh": "头颅的有机的自我形成首先对机械的作用是漠不相关的，而这两种关系的关系，既然前者是自身对自身的关联，就恰恰是这种无规定性和无界限性本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 2,
+   "de": "Alsdann, wenn auch das Gehirn die Unterschiede des Geistes zu seienden Unterschieden in sich aufnähme und eine Vielheit innerer, einen verschiedenen Raum einnehmender Organe wäre – was der Natur widerspricht, welche den Momenten des Begriffs ein eigenes Dasein gibt, und daher die flüssige Einfachheit des organischen Lebens rein auf eine Seite und die Artikulation und Einteilung desselben ebenso in seinen Unterschieden auf die andere Seite stellt, so daß sie, wie sie hier gefaßt werden sollen, als besondere anatomische Dinge sich zeigen –, so würde es unbestimmt sein, ob ein geistiges Moment, je nachdem es ursprünglich stärker oder schwächer wäre, entweder in jenem Falle ein expandierteres, in diesem ein kontrahierteres Gehirnorgan besitzen müßte, oder auch gerade umgekehrt.",
+   "en": "Then, even if the brain were to take up the differences of spirit into itself as existent differences and were a multiplicity of inner organs occupying a different space — which contradicts nature, which gives the moments of the concept a determinate being of their own and therefore places the fluid simplicity of organic life purely on one side and its articulation and division likewise in its differences on the other side, so that they, as they are here to be grasped, show themselves as particular anatomical things —, it would be indeterminate whether a spiritual moment, according as it were originally stronger or weaker, would in that case have to possess a more expanded brain organ, in this case a more contracted one, or also precisely the reverse.",
+   "zh": "其次，即使脑把精神的那些差别作为存在着的差别接受到自身之中，并且是一个由占据不同空间的内部器官构成的多的东西，——这与自然相矛盾，因为自然给予概念的各个环节一种自己的定在，因而把有机生命的流动的单纯性完全放到一边，而把它的分节和划分同样在其差别中放到另一边，以至于它们，像它们在这里应当被把握的那样，显现为特殊的解剖学的东西——，那么也会是不确定的：一个精神环节，按照它原本是较强还是较弱，究竟在那种情况下必须拥有一个更扩张的脑器官、在这种情况下拥有一个更收缩的脑器官，还是恰好相反。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 3,
+   "de": "– Ebenso ob seine Ausbildung das Organ vergrößerte oder verkleinerte, ob es dasselbe plumper und dicker oder feiner machte.",
+   "en": "— Likewise whether its formation enlarged or diminished the organ, whether it made the same clumsier and thicker or finer.",
+   "zh": "——同样也说不准：它的形成是使器官变大还是变小，是使同一个器官更粗笨、更厚，还是更精细。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 4,
+   "de": "Dadurch, daß es unbestimmt bleibe, wie die Ursache beschaffen ist, ist es ebenso unbestimmt gelassen, wie die Einwirkung auf den Schädel geschieht, ob sie ein Erweitern oder Verengern und Zusammenfallenlassen ist.",
+   "en": "By the fact that it remains indeterminate how the cause is constituted, it is likewise left indeterminate how the influence on the skull occurs, whether it is an expanding or a narrowing and a letting-collapse.",
+   "zh": "由于原因是怎样的这一点始终不确定，对头颅的作用如何发生也就同样被留作不确定的，无论它是一种扩张，还是一种收窄和塌陷。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 5,
+   "de": "Wird diese Einwirkung etwa vornehmer als ein Erregen bestimmt, so ist es unbestimmt, ob es nach der Weise eines Kantharidenpflasters auftreibend oder eines Essigs einschrumpfend geschieht.",
+   "en": "If this influence is perhaps more nobly determined as an excitation, then it is indeterminate whether it happens in the manner of a blistering plaster, swelling up, or of vinegar, shrinking.",
+   "zh": "如果这种作用被更高贵地规定为一种激发，那么它究竟是以斑蝥硬膏的方式使其胀起，还是以醋的方式使其收缩，就是不确定的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 34,
+   "si": 6,
+   "de": "– Für alle dergleichen Ansichten lassen sich plausible Gründe vorbringen, denn die organische Beziehung, welche ebensosehr eingreift, läßt den einen so gut passieren als den anderen und ist gleichgültig gegen allen diesen Verstand.",
+   "en": "— For all such views plausible grounds can be adduced, for the organic relation, which intervenes just as much, lets the one pass as well as the other and is indifferent to all this understanding.",
+   "zh": "——对于所有这类看法，都可以提出一些显得有道理的理由，因为那种同样也参与进来的有机关系，让这一种和那一种一样行得通，并且对所有这一套知性都漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 35,
+   "si": 0,
+   "de": "Dem beobachtenden Bewußtsein ist es aber nicht darum zu tun, diese Beziehung bestimmen zu wollen.",
+   "en": "But the observing consciousness is not concerned with wanting to determine this relation.",
+   "zh": "但观察的意识所关心的并不是要去规定这种关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 35,
+   "si": 1,
+   "de": "Denn es ist ohnehin nicht das Gehirn, was als animalischer Teil auf der einen Seite steht, sondern dasselbe als Sein der selbstbewußten Individualität.",
+   "en": "For in any case it is not the brain that stands on the one side as animal part, but the same as the being of self-conscious individuality.",
+   "zh": "因为站在一面上的，反正并不是作为动物性部分的脑，而是它作为自我意识的个体性的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 35,
+   "si": 2,
+   "de": "– Sie als stehender Charakter und sich bewegendes bewußtes Tun ist für sich und in sich, diesem Für und Insichsein steht ihre Wirklichkeit und Dasein für Anderes entgegen; das Für- und Insichsein ist das Wesen und Subjekt, welches am Gehirne ein Sein hat, das unter es subsumiert ist und seinen Wert nur durch die inwohnende Bedeutung erhält.",
+   "en": "— As standing character and self-moving conscious doing, it is for itself and in itself; over against this being-for-and-in-itself stands its actuality and determinate being for another; the being-for-and-in-itself is the essence and subject that has on the brain a being which is subsumed under it and receives its value only through the indwelling meaning.",
+   "zh": "——它作为持存的性格和自身运动着的意识活动，是自为的并且在自身之中；同这种自为和在自身之中相对立的，是它的现实性和为他的定在；这种自为和在自身之中是本质和主体，它在脑上拥有一种存在，这种存在被归摄在它之下，并且只有通过内寓的含义才获得自己的价值。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 35,
+   "si": 3,
+   "de": "Die andere Seite der selbstbewußten Individualität aber, die Seite ihres Daseins ist das Sein als selbständig und Subjekt oder als ein Ding, nämlich ein Knochen; die Wirklichkeit und Dasein des Menschen ist sein Schädelknochen.",
+   "en": "But the other side of self-conscious individuality, the side of its determinate being, is being as independent and subject, or as a thing, namely a bone; the actuality and determinate being of man is his skull bone.",
+   "zh": "而自我意识的个体性的另一面，即它的定在那一面，则是作为独立者与主体、或作为一个物、即一块骨头的那种存在；人的现实性和定在就是他的头颅骨。"
+  }
+ ]
+}

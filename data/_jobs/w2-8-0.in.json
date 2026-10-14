@@ -1,0 +1,111 @@
+{
+ "id": "w2-8-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "B. Jacobische Philosophie",
+ "heading": "B. Jacobische Philosophie",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1a720im2k3",
+   "text": "B. Jacobische Philosophie"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "efbwce4t52",
+   "sents": [
+    "Die Jacobische Philosophie hat mit der Kantischen Philosophie das Gemeinschaftliche der absoluten Endlichkeit, derselben in ideeller Form als formalen Wissens, in reeller als eines absoluten Empirismus, - und des Integrierens beider durch den ein absolutes Jenseits setzenden Glauben.",
+    "Sie bildet aber innerhalb dieser gemeinschaftlichen Sphäre den entgegengesetzten Pol zu der Kantischen Philosophie, in welcher Endlichkeit und Subjektivität eine objektive Form des Begriffs hat; die Jacobische macht dagegen die Subjektivität ganz subjektiv zur Individualität.",
+    "Dies Subjektive des Subjektiven gewinnt als solches wieder ein inneres Leben und scheint damit der Schönheit der Empfindung fähig zu werden."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "sn72i911c8",
+   "sents": [
+    "Wir betrachten zuerst die Subjektivität des Wissens, dessen formale Seite Jacobi unmittelbar mit Bewußtsein und in der Abstraktion erkennt und rein darstellt; so wie er positiv das Wissen in dieser Form allein behauptet und die Objektivität der Vernunft im Wissen leugnet, ebenso macht er, wo er polemisiert, dieses Wissen geltend und bestreitet die Wissenschaft der Vernunft durch dasselbe."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "183obnn147",
+   "sents": [
+    "Daß Jacobi allenthalben nur von formalem Wissen weiß, von einer Verstandesidentität, deren Inhalt durch Empirie erfüllt wird, von einem Denken, zu welchem die Realität überhaupt auf eine unbegreifliche Weise hinzukommt, ist einer der wenigen oder eigentlich der einzige Punkt, worüber die Jacobische Philosophie objektiv ist und der Wissenschaft angehört; und dieser Punkt ist in deutlichen Begriffen vorgestellt.",
+    "Meine Philosophie, sagt Jacobi (David Hume [1787], Vorr.",
+    "S. V), schränkt die Vernunft, für sich allein betrachtet, auf das bloße Vermögen, Verhältnisse deutlich wahrzunehmen, d. i. den Satz des Widerspruchs zu formieren und danach zu urteilen, ein; nun muß ich aber eingestehen, daß die Bejahung bloß identischer Sätze allein apodiktisch sei und eine absolute Gewißheit mit sich führe.",
+    "Ebenso (Briefe über Spinoza, S. 215 f., 2.",
+    "Ausg., 1789151) ): Die Überzeugung aus Gründen ist eine Gewißheit aus der zweiten Hand (die erste Hand ist der Glaube, wovon nachher); Gründe sind nur Merkmale der Ähnlichkeit mit einem Dinge, dessen wir gewiß (nämlich durch Glauben) sind; die Überzeugung, welche sie hervorbringen, entspringt aus Vergleichung und kann nie recht sicher und vollkommen sein.",
+    "Eine der fünf Thesen (ebenda S. 225) des Inbegriffs seiner Behauptungen ist: Wir können nur Ähnlichkeiten demonstrieren - denn Demonstration ist Fortschritt in identischen Sätzen -, und jeder Erweis setzt etwas schon Erwiesenes zum voraus, wovon das Prinzip nur Offenbarung ist.152) Vgl. S. 421153) : \"Das Geschäft der Vernunft überhaupt ist progressive Verknüpfung und ihr spekulatives Geschäft Verknüpfung nach erkannten Gesetzen der Notwendigkeit ...",
+    "Die wesentliche Unbestimmtheit menschlicher Sprache und Bezeichnung und das Wandelbare sinnlicher Gestalten läßt aber fast durchgängig diese Sätze ein äußerliches Ansehen gewinnen, als sagten sie etwas mehr als das bloße quicquid est, illud est, mehr als ein bloßes Faktum aus, welches wahrgenommen, beobachtet, verglichen, wiedererkannt und mit anderen Begriffen verknüpft wurde.\"",
+    "(Siehe auch S. 238, auch David Hume, S. 94.154) )"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "77sz3o1kdo",
+   "sents": [
+    "Das notwendige Gegenstück zu dem Satze der Identität ist der Satz des Grundes, es werde nun darunter der Satz des Grundes überhaupt oder der Satz der Ursache und Wirkung oder einer Vereinigung von beiden nach den Jacobischen Unterscheidungen (Briefe über Spinoza, S. 415155) ) verstanden; und in Ansehung der Materie werde er betrachtet, insofern von Begriffen zu Begriffen oder vom Begriff zu seiner Realität oder von objektiven Realitäten zu anderen fortgegangen wird."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "g3pq2f1k1s",
+   "sents": [
+    "Die ältere philosophische Bildung hat in den Ausdruck des Satzes des Grundes das Zeugnis ihrer vernünftigen Bestrebungen niedergelegt, und sein Schwanken zwischen Vernunft und Reflexion sowie sein Übergang zur letzteren bezeichnet sich sehr treffend in der Unterscheidung, welche Jacobi zwischen ihm als logischem Satze des Grundes und als Kausalverhältnis macht und an welcher er sowohl den Weg des Verständnisses als des Bekämpfens der Philosophie macht, dem wir nachgehen wollen.",
+    "Jacobi erkennt im Satze des Grundes seine Bedeutung als Prinzips der vernünftigen Erkenntnis, totum parte prius esse necesse est (David Hume, S. 94)156) ; oder das Einzelne ist nur im Ganzen bestimmt; es hat seine Realität nur in der absoluten Identität, die, insofern Unterscheidbares in ihr gesetzt ist, absolute Totalität ist.",
+    "In einer Beziehung, sagt Jacobi, sei das totum parte prius esse necesse est nichts anderes als idem est idem, in anderer aber nicht, und hiervon, daß diese beiden Beziehungen wesentlich unterschieden, absolut auseinandergehalten werden sollen, fängt sogleich dieser Grunddogmatismus an.",
+    "Jacobi begreift nämlich den Satz des Grundes als reinen Satz des Widerspruchs und nennt ihn in diesem Sinne logisch, - als abstrakte Einheit, zu welcher es freilich notwendig ist, daß das Differente als ein Empirisches hinzutrete, und unterscheidet ein ursächliches Verhältnis, in welchem auf das Heterogene, das zur Identität des Begriffs hinzukommt und das ein empirisch Gegebenes ist, reflektiert wird, und behauptet das ursächliche Verhältnis nach dieser Eigentümlichkeit als einen Erfahrungsbegriff.",
+    "Die Art, wie er dies dartut (David Hume S. 99 f.157) und worauf er sich Briefe über Spinoza, S. 415 beruft), ist ein merkwürdiges Stück des Lockeschen und Humeschen Empirismus, in welchen ein ebenso grelles Stück von deutschem analysierenden Dogmatismus, schlimmer als nach Mendelssohnscher Art, hineingeknetet ist, von welcher befreit worden zu sein die Welt den Göttern, nächst Kant, nicht genug danken kann.",
+    "Im Satze des Grundes und in der Totalität nämlich vermißt Jacobi die Teile, und er hat sich diese noch außer dem Ganzen irgendwoher zu holen; oder, wie er dies begreift, alle Teile sind zu einem Ganzen wirklich schon vereinigt und darin vorhanden; aber eine solche intuitive Erkenntnis der Teile aus dem Ganzen ist nur etwas Subjektives und Unvollständiges, denn es fehlt noch das objektive Werden und die Sukzession, und um dieser willen muß zu der Totalität noch das Kausalverhältnis hinzukommen.",
+    "Man höre nun die Deduktion der, wie Jacobi es nennt, absoluten Notwendigkeit des Begriffs von Ursache und Wirkung und von Sukzession (David Hume, S. 111 ff.158) ) in folgender Reihe von Sätzen:"
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1aqalrg1ef",
+   "sents": [
+    "\"Zu unserem menschlichen Bewußtsein (und ich darf nur gleich hinzusetzen, zu dem Bewußtsein eines jeden endlichen Wesens) ist außer dem empfindenden Dinge noch ein wirkliches Ding, welches empfunden wird, notwendig.\""
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1dq5txz1ez",
+   "sents": [
+    "\"Wo zwei erschaffene Wesen, die außereinander sind, in solchem Verhältnisse gegeneinander stehen, daß eins in das andere wirkt, da ist ein ausgedehntes Wesen.\""
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1lxhwec1hg",
+   "sents": [
+    "\"Wir fühlen das Mannigfaltige unseres Wesens in einer reinen Einheit verknüpft, die wir unser Ich nennen. - Das Unzertrennliche in einem Wesen bestimmt seine Individualität oder macht es zu einem wirklichen Ganzen ...",
+    "Etwas der Individualität einigermaßen Analoges nehmen wir in der körperlichen Ausdehnung überhaupt wahr, indem das ausgedehnte Wesen als solches nie geteilt werden kann, sondern überall dieselbige Einheit, die eine Vielheit unzertrennlich in sich verknüpft, vor Augen stellt.\""
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1wyq76l17t",
+   "sents": [
+    "\"Wenn Individua auch das Vermögen haben, außer sich zu wirken ... , so müssen sie, wenn die Wirkung erfolgen soll, andere Wesen mittelbar oder unmittelbar berühren.\""
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/8.p0.json"
+}

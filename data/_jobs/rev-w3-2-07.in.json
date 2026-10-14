@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-07",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 32,
+   "si": 0,
+   "de": "Zur Vervollständigung der Einsicht in den Begriff dieser Bewegung kann noch darauf aufmerksam gemacht werden, daß sich die Unterschiede selbst in einem gedoppelten Unterschiede zeigen, einmal als Unterschiede des Inhalts, indem das eine Extrem in sich reflektierte Kraft, das andere aber Medium der Materien ist; das andere Mal als Unterschiede der Form, indem das eine Sollizitierendes, das andere Sollizitiertes, Jenes tätig, dies passiv ist.",
+   "en": "For the completion of the insight into the concept of this movement, attention may still be drawn to the fact that the differences themselves show themselves in a doubled difference, once as differences of content, in that the one extreme is force reflected into itself, while the other is the medium of the matters; the other time as differences of form, in that the one is soliciting, the other solicited, the former active, the latter passive.",
+   "zh": "为了完整地洞见这一运动的概念，还可以提醒一点：这些差别本身表现为一种加倍的差别，一方面作为内容的差别，即一个极端是在自身中反思的力，另一个则是诸质料的介质；另一方面作为形式的差别，即一个是推动者，另一个是被推动者，前者主动，后者被动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 32,
+   "si": 1,
+   "de": "Nach dem Unterschiede des Inhalts sind sie überhaupt oder für uns unterschieden; nach dem Unterschiede der Form aber sind sie selbständig, in ihrer Beziehung sich voneinander selbst abscheidend und entgegengesetzt.",
+   "en": "According to the difference of content they are distinguished on the whole, or for us; according to the difference of form, however, they are independent, in their relation separating themselves from each other and opposed.",
+   "zh": "按内容的差别，它们整个说来或对我们来说是有差别的；但按形式的差别，它们是独立的，在它们的关联中自己把自己彼此分开，并且相互对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 32,
+   "si": 2,
+   "de": "Daß so die Extreme nach diesen beiden Seiten nichts an sich, sondern diese Seiten, worin ihr unterschiedenes Wesen bestehen sollte, nur verschwindende Momente, ein unmittelbares Übergehen Jeder in die entgegengesetzte sind, dies wird für das Bewußtsein in der Wahrnehmung der Bewegung der Kraft.",
+   "en": "That thus the extremes, according to these two sides, are nothing in themselves, but that these sides, in which their distinguished essence was supposed to consist, are only vanishing moments, an immediate transition of each into the opposite, – this becomes [evident] for consciousness in the perception of the movement of force.",
+   "zh": "于是，两个极端按这两个方面说来自在什么也不是，而这两个本应构成它们有差别的本质的方面，只是正在消失的环节，是每一个直接向对立面的过渡——这一点在知觉中成为意识所看到的力的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 32,
+   "si": 3,
+   "de": "Für uns aber war, wie oben erinnert, auch noch dies, daß an sich die Unterschiede als Unterschiede des Inhalts und der Form verschwanden und auf der Seite der Form dem Wesen nach das Tätige, Sollizitierende oder Fürsichseiende dasselbe [war], was auf der Seite des Inhalts als in sich zurückgedrängte Kraft; das Passive, Sollizitierte oder für ein Anderes Seiende auf der Seite der Form dasselbe, was auf der Seite des Inhalts als allgemeines Medium der vielen Materien sich darstellte.",
+   "en": "For us, however, as recalled above, there was also this: that in themselves the differences vanished as differences of content and of form, and that on the side of form the active, soliciting or being-for-itself [factor] was essentially the same as what on the side of content [was] force driven back into itself; the passive, solicited or being-for-an-other [factor] on the side of form the same as what on the side of content presented itself as the universal medium of the many matters.",
+   "zh": "但对我们来说，正如上面已经提醒过的，还有一点：自在说来，内容和形式的差别都消失了，而在形式这一侧，本质上主动的、推动的或自为存在着的，就是内容那一侧作为被逼回自身之中的力所是的东西；形式这一侧被动的、被推动的或为他存在着的，就是内容那一侧表现为许多质料的一般介质的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 0,
+   "de": "Es ergibt sich hieraus, daß der Begriff der Kraft durch die Verdopplung in zwei Kräfte wirklich wird und wie er dies wird.",
+   "en": "It follows from this that the concept of force becomes actual through the doubling into two forces, and how it becomes so.",
+   "zh": "由此得出：力的概念通过分裂为两个力而成为现实的，以及它是如何成为现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 1,
+   "de": "Diese zwei Kräfte existieren als für sich seiende Wesen; aber ihre Existenz ist eine solche Bewegung gegeneinander, daß ihr Sein viel mehr ein reines Gesetztsein durch ein Anderes ist, d.h. daß ihr Sein vielmehr die reine Bedeutung des Verschwindens hat.",
+   "en": "These two forces exist as essences that are for themselves; but their existence is a movement against each other such that their being is much more a pure being-posited through an other, i.e., that their being has much more the pure meaning of vanishing.",
+   "zh": "这两个力作为自为存在着的本质而存在；但它们的存在是一种彼此相对的运动，以致它们的存在毋宁说是通过一个他者而被纯粹设定，也就是说，它们的存在毋宁说具有消失这一纯粹含义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 2,
+   "de": "Sie sind nicht als Extreme, die etwas Festes für sich behielten und nur eine äußere Eigenschaft gegeneinander in die Mitte und in ihre Berührung schickten; sondern was sie sind, sind sie nur in dieser Mitte und Berührung.",
+   "en": "They are not [present] as extremes that retained something firm for themselves and only sent an external property against each other into the middle and into their contact; but what they are, they are only in this middle and contact.",
+   "zh": "它们并不是作为这样的极端而存在：这些极端各自保留着某种坚固的东西，只是把一种外在属性彼此送到中间和它们的接触之中；它们是什么，它们只是在中间和接触之中才是。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 3,
+   "de": "Es ist darin unmittelbar ebensowohl das in sich Zurückgedrängt- oder das Fürsichsein der Kraft wie die Äußerung, das Sollizitieren wie das Sollizitiertsein; diese Momente hiermit nicht an zwei selbständige Extreme verteilt, welche sich nur eine entgegengesetzte Spitze böten, sondern ihr Wesen ist dies schlechthin, jede nur durchs andere und [das], was jede so durchs andere ist, unmittelbar nicht mehr zu sein, indem sie es ist.",
+   "en": "In this there is immediately just as much the being-driven-back-into-itself or the being-for-itself of force as the expression, the soliciting as the being-solicited; these moments are hereby not distributed over two independent extremes, which would only offer each other an opposed point, but their essence is this absolutely: each to be only through the other, and [that] what each is thus through the other, it immediately no longer is, in that it is it.",
+   "zh": "在这种中间和接触之中，直接既有力被逼回自身之中或力的自为存在，也有表现，既有推动也有被推动；这些环节由此并没有分配给两个独立的极端，好像这两个极端只是各自向对方提供一个相反的尖端，它们的本质毋宁说恰恰是：每一个都只通过另一个而存在，而每一个这样通过另一个而成为的东西，当它是它时，就直接不再是它了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 4,
+   "de": "Sie haben hiermit in der Tat keine eigenen Substanzen, welche sie trügen und erhielten.",
+   "en": "They have hereby in fact no substances of their own that carried and preserved them.",
+   "zh": "它们由此事实上并没有自己的实体来承载和保持它们。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 5,
+   "de": "Der Begriff der Kraft erhält sich vielmehr als das Wesen in seiner Wirklichkeit selbst; die Kraft als wirkliche ist schlechthin nur in der Äußerung, welche zugleich nichts anderes als ein Sichselbstaufheben ist.",
+   "en": "The concept of force rather preserves itself as the essence in its actuality itself; force as actual is absolutely only in the expression, which is at the same time nothing other than a self-sublating.",
+   "zh": "力的概念毋宁说在其现实性本身之中作为本质而保持自身；作为现实的力，它绝对只是在表现之中，而表现同时无非是一种自我扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 6,
+   "de": "Diese wirkliche Kraft, vorgestellt als frei von ihrer Äußerung und für sich seiend, ist sie die in sich zurückgedrängte Kraft; aber diese Bestimmtheit ist In der Tat, wie sich ergeben hat, selbst nur ein Moment der Äußerung.",
+   "en": "This actual force, represented as free of its expression and as being for itself, is the force driven back into itself; but this determinacy is in fact, as has resulted, itself only a moment of expression.",
+   "zh": "这种现实的力，被表象为脱离了自己的表现并自为存在着，就是被逼回自身之中的力；但正如已经得出的结果那样，这个规定性事实上本身只是表现的一个环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 7,
+   "de": "Die Wahrheit der Kraft bleibt also nur der Gedanke derselben; und haltungslos stürzen die Momente ihrer Wirklichkeit, ihre Substanzen und ihre Bewegung in eine ununterschiedene Einheit zusammen, welche nicht die in sich zurückgedrängte Kraft ist (denn diese ist selbst nur ein solches Moment), sondern diese Einheit ist ihr Begriff als Begriff.",
+   "en": "The truth of force therefore remains only the thought of it; and without support the moments of its actuality, its substances and its movement, collapse together into an undifferentiated unity, which is not the force driven back into itself (for this is itself only such a moment), but this unity is its concept as concept.",
+   "zh": "所以力的真理只留下对力的思想；而力的现实性的诸环节，它的实体和它的运动，都无持守地崩塌为一种无差别的统一，这种统一不是被逼回自身之中的力（因为这种力本身也只是这样一个环节），而这种统一是力作为概念的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 33,
+   "si": 8,
+   "de": "Die Realisierung der Kraft ist also zugleich Verlust der Realität; sie ist darin vielmehr ein ganz Anderes geworden, nämlich diese Allgemeinheit, welche der Verstand zuerst oder unmittelbar als ihr Wesen erkennt und welche sich auch als ihr Wesen an ihrer seinsollenden Realität [,] an den wirklichen Substanzen erweist.",
+   "en": "The realization of force is therefore at the same time loss of reality; in this it has rather become a wholly other, namely this universality, which the understanding cognizes first or immediately as its essence and which also proves itself as its essence on its supposed reality, on the actual substances.",
+   "zh": "力的实现所以同时就是实在性的丧失；力在这方面毋宁说已经变成了一个完全不同的东西，即这种普遍性，知性首先或直接把它认作力的本质，而它在力应有的实在性上、在现实的实体上也表明自己是力的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 34,
+   "si": 0,
+   "de": "Insofern wir das erste Allgemeine als den Begriff des Verstandes betrachten, worin die Kraft noch nicht für sich ist, so ist das zweite Jetzt ihr Wesen, wie es sich an und für sich darstellt.",
+   "en": "Insofar as we regard the first universal as the concept of the understanding, in which force is not yet for itself, the second is now its essence as it presents itself in and for itself.",
+   "zh": "既然我们把第一个普遍者看作知性的概念，而力在其中还不是自为的，那么第二个普遍者现在就是力的本质，即它自在自为地呈现出来的样子。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 34,
+   "si": 1,
+   "de": "Oder umgekehrt, betrachten wir das erste Allgemeine als das Unmittelbare, das ein wirklicher Gegenstand für das Bewußtsein sein sollte, so ist dies zweite als das Negative der sinnlich gegenständlichen Kraft bestimmt; es ist sie, wie sie in ihrem wahren Wesen nur als Gegenstand des Verstandes ist; jenes erste wäre die in sich zurückgedrängte Kraft oder sie als Substanz; dies zweite aber ist das Innere der Dinge, als Inneres, welches mit dem Begriffe als Begriff dasselbe ist.",
+   "en": "Or conversely, if we regard the first universal as the immediate, which was supposed to be an actual object for consciousness, then this second is determined as the negative of the sensuously objective force; it is force as it is in its true essence only as object of the understanding; that first one would be force driven back into itself, or force as substance; but this second is the inner of things, as inner, which is the same as the concept as concept.",
+   "zh": "或者反过来，如果我们把第一个普遍者看作直接的东西，而它本该是意识的一个现实对象，那么这第二个就被规定为感性对象性的力的否定物；它就是力本身，正如力在其真正的本质中只是作为知性的对象那样；那第一个会是逼回自身之中的力，或者说力作为实体；而这第二个则是物的内在，作为内在，它与作为概念的概念是同一个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 0,
+   "de": "Dieses wahrhafte Wesen der Dinge hat sich Jetzt so bestimmt, daß es nicht unmittelbar für das Bewußtsein ist, sondern daß dieses ein mittelbares Verhältnis zu dem Innern hat und als Verstand durch diese Mitte des Spiels der Kräfte in den wahren Hintergrund der Dinge blickt.",
+   "en": "This true essence of things has now determined itself in such a way that it is not immediately for consciousness, but that the latter has a mediated relation to the inner and, as understanding, looks through this middle of the play of forces into the true background of things.",
+   "zh": "物的这个真正的本质现在已把自己规定成这样：它不是直接地为意识的，而是意识与内在有一种中介性的关系，并且作为知性，透过力的游戏的这一中间项，看入物的真正背景。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 1,
+   "de": "Die Mitte, welche die beiden Extreme, den Verstand und das Innere, zusammenschließt, ist das entwickelte Sein der Kraft, das für den Verstand selbst nunmehr ein Verschwinden ist.",
+   "en": "The middle that closes together the two extremes, understanding and the inner, is the developed being of force, which for the understanding itself is now a vanishing.",
+   "zh": "把两个极端，即知性和内在，联结起来的这个中间项，就是力的已经展开的存在，而这对知性本身来说如今是一种消失。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 2,
+   "de": "Es heißt darum Erscheinung, denn Schein nennen wir das Sein, das unmittelbar an ihm selbst ein Nichtsein ist.",
+   "en": "It is therefore called appearance, for we call semblance the being that is immediately in itself a non-being.",
+   "zh": "它因此叫做现象，因为我们把直接在自己身上就是非存在的那种存在叫做假象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 3,
+   "de": "Es ist aber nicht nur ein Schein, sondern Erscheinung, ein Ganzes des Scheins.",
+   "en": "But it is not only a semblance, but appearance, a whole of semblance.",
+   "zh": "但它不只是假象，而是现象，是假象的一个整体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 4,
+   "de": "Dies Ganze als Ganzes oder Allgemeines ist es, was das Innere ausmacht, das Spiel der Kräfte, als Reflexion desselben in sich selbst.",
+   "en": "It is this whole, as whole or universal, that constitutes the inner, the play of forces, as the reflection of the same into itself.",
+   "zh": "正是这个整体，作为整体或普遍者，构成了内在，即力的游戏，作为它在自身中的反思。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 5,
+   "de": "In ihm sind für das Bewußtsein auf gegenständliche Weise die Wesen der Wahrnehmung so gesetzt, wie sie an sich sind, nämlich als unmittelbar in das Gegenteil ohne Ruhe und Sein sich verwandelnde Momente, das Eins unmittelbar in das Allgemeine, das Wesentliche unmittelbar in das Unwesentliche und umgekehrt.",
+   "en": "In it, for consciousness, the essences of perception are posited in an objective way as they are in themselves, namely as moments that, without rest and being, immediately transform themselves into the opposite, the One immediately into the universal, the essential immediately into the unessential, and conversely.",
+   "zh": "在它之中，知觉的诸本质为意识以对象性的方式被设定为它们自在所是的样子，即作为没有静止和存在而直接转变为对立面的诸环节，一直接转变为普遍者，本质的东西直接转变为非本质的东西，反过来也一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 6,
+   "de": "Dies Spiel der Kräfte ist daher das entwickelte Negative; aber die Wahrheit desselben ist das Positive, nämlich das Allgemeine, der ansichseiende Gegenstand.",
+   "en": "This play of forces is therefore the developed negative; but its truth is the positive, namely the universal, the object that is in itself.",
+   "zh": "所以力的游戏就是展开的否定物；但它的真理却是肯定物，即普遍者，自在存在着的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 7,
+   "de": "– Das Sein desselben für das Bewußtsein ist vermittelt durch die Bewegung der Erscheinung, worin das Sein der Wahrnehmung und das Sinnlichgegenständliche überhaupt nur negative Bedeutung hat, das Bewußtsein also daraus sich in sich als in das Wahre reflektiert, aber als Bewußtsein wieder dies Wahre zum gegenständlichen Innern macht und diese Reflexion der Dinge von seiner Reflexion in sich selbst unterscheidet; wie ihm die vermittelnde Bewegung ebenso noch eine gegenständliche ist.",
+   "en": "– Its being for consciousness is mediated through the movement of appearance, in which the being of perception and the sensuously objective in general have only a negative meaning, so that consciousness reflects itself out of it into itself as into the true, but as consciousness again makes this true into the objective inner and distinguishes this reflection of things from its reflection into itself; just as the mediating movement is likewise still an objective one for it.",
+   "zh": "——它之为意识而存在，是由现象的运动会中介起来的，在这个运动里，知觉的存在和一般感性对象性的东西都只有否定的含义，所以意识从中反思到自身之中，即反思到真的东西之中，但意识作为意识又把这个真的东西重新弄成对象性的内在，并把物的这种反思与它自己向自身之中的反思区别开来；正如那种进行中介的运动对它来说同样还是对象性的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 35,
+   "si": 8,
+   "de": "Dies Innere ist ihm daher ein Extrem gegen es; aber es ist ihm darum das Wahre, weil es darin als in dem Ansich zugleich die Gewißheit seiner selbst oder das Moment seines Fürsichseins hat; aber dieses Grundes ist es sich noch nicht bewußt, denn das Fürsichsein, welches das Innere an ihm selbst haben sollte, wäre nichts anderes als die negative Bewegung; aber diese ist dem Bewußtsein noch die gegenständliche verschwindende Erscheinung, noch nicht sein eigenes Fürsichsein; das Innere ist ihm daher wohl Begriff, aber es kennt die Natur des Begriffes noch nicht.",
+   "en": "This inner is therefore an extreme over against consciousness; but it is for that reason the true for it, because in it, as in the in-itself, consciousness at the same time has the certainty of itself, or the moment of its being-for-itself; but of this ground it is not yet conscious, for the being-for-itself that the inner should have in itself would be nothing other than the negative movement; but this movement is for consciousness still the objectively vanishing appearance, not yet its own being-for-itself; the inner is therefore indeed concept for it, but it does not yet know the nature of the concept.",
+   "zh": "所以这个内在对意识来说是一个与它相对的极端；但它因此对意识来说就是真的东西，因为意识在内在之中，如同在自在之中，同时拥有它自己的确定性，或者说拥有它的自为存在的环节；但意识还没有意识到这个根据，因为内在本应在自己身上具有的自为存在，无非就是那否定的运动；但这种运动对意识来说还是对象性地消失着的现象，还不是它自己的自为存在；所以内在对意识来说诚然是概念，但意识还不认识概念的本性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 36,
+   "si": 0,
+   "de": "In diesem inneren Wahren, als dem Absolut-Allgemeinen, welches vom Gegensatze des Allgemeinen und Einzelnen gereinigt und für den Verstand geworden ist, schließt sich erst über der sinnlichen als der erscheinenden Welt nunmehr eine übersinnliche als die wahre Welt auf, über dem verschwindenden Diesseits das bleibende Jenseits, ein Ansich, welches die erste und darum selbst unvollkommene Erscheinung der Vernunft oder nur das reine Element ist, worin die Wahrheit ihr Wesen hat.",
+   "en": "In this inner true, as the absolutely universal, which has been purified of the opposition of the universal and the singular and has become for the understanding, there now first opens up, above the sensuous world as the appearing world, a supersensuous world as the true world, above the vanishing this-side the abiding beyond, an in-itself that is the first and therefore itself imperfect appearance of reason, or only the pure element in which truth has its essence.",
+   "zh": "在这个内在的真的东西里，作为绝对普遍者——它已经清除了普遍者与个别者的对立，并已成为知性的东西——，现在才在感性世界作为显现着的世界之上，敞开出一个超感性的世界作为真的世界，在消逝着的此岸之上则是持存的彼岸，一个自在，它是理性的最初的现象、因而本身还不完善的现象，或者只是真理在其中拥有自己本质的那个纯粹元素。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 37,
+   "si": 0,
+   "de": "Unser Gegenstand ist hiermit nunmehr der Schluß, welcher zu seinen Extremen das Innere der Dinge und den Verstand und zu seiner Mitte die Erscheinung hat; die Bewegung dieses Schlusses aber gibt die weitere Bestimmung dessen, was der Verstand durch die Mitte hindurch im Innern erblickt, und die Erfahrung, welche er über dieses Verhältnis des Zusammengeschlossenseins macht.",
+   "en": "Our object is hereby now the syllogism that has as its extremes the inner of things and the understanding and as its middle appearance; but the movement of this syllogism gives the further determination of what the understanding, through the middle, beholds in the inner, and the experience that it makes concerning this relation of being-closed-together.",
+   "zh": "我们的对象由此现在就是那个推论：它以物的内在和知性为自己的两个极端，以现象为自己的中间项；但这个推论的运动却给出了进一步的规定，即知性透过中间项在内在里所看到的东西，以及知性关于这种被联结在一起的关系所取得的经验。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 38,
+   "si": 0,
+   "de": "Noch ist das Innere reines Jenseits für das Bewußtsein, denn es findet sich selbst in ihm noch nicht; es ist leer, denn es ist nur das Nichts der Erscheinung und positiv das einfache Allgemeine.",
+   "en": "The inner is still a pure beyond for consciousness, for it does not yet find itself in it; it is empty, for it is only the nothing of appearance, and positively the simple universal.",
+   "zh": "内在对意识来说还纯粹是彼岸，因为意识还没有在它里面找到自己；它是空的，因为它只是现象的无，而肯定地说则是单纯的普遍者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 38,
+   "si": 1,
+   "de": "Diese Weise des Innern, zu sein, stimmt unmittelbar denjenigen bei, welche sagen, daß das Innere der Dinge nicht zu erkennen sei; aber der Grund würde anders gefaßt werden müssen.",
+   "en": "This way of the inner's being agrees immediately with those who say that the inner of things cannot be cognized; but the ground would have to be conceived differently.",
+   "zh": "内在的这种存在方式直接附和那些说物的内在不可认识的人；但那个根据却必须另作把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 38,
+   "si": 2,
+   "de": "Von diesem Innern, wie es hier unmittelbar ist, ist allerdings keine Kenntnis vorhanden, aber nicht deswegen, weil die Vernunft zu kurzsichtig oder beschränkt, oder wie man es sonst nennen will, wäre (worüber hier noch nichts bekannt ist, denn so tief sind wir noch nicht eingedrungen), sondern um der einfachen Natur der Sache selbst willen, weil nämlich im Leeren nichts erkannt wird oder, von der ändern Seite ausgesprochen, weil es eben als das Jenseits des Bewußtseins bestimmt ist.",
+   "en": "Of this inner as it is here immediately there is indeed no knowledge, but not because reason would be too short-sighted or limited, or whatever else one wants to call it (about which nothing is yet known here, for we have not yet penetrated so deep), but for the sake of the simple nature of the matter itself, because in the empty nothing is cognized, or, expressed from the other side, because it is precisely determined as the beyond of consciousness.",
+   "zh": "关于这个内在，如它在这里是直接的，诚然没有知识，但这并不是因为理性太短视或太狭隘，或者人们想怎么称呼它（关于这一点这里还一无所知，因为我们还没有深入到那么深），而是由于事情本身的单纯本性，因为在空无中什么都认识不到，或者从另一面来说，因为内在恰恰被规定为意识的彼岸。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 38,
+   "si": 3,
+   "de": "– Das Resultat ist freilich dasselbe, wenn ein Blinder in den Reichtum der übersinnlichen Welt – wenn sie einen hat, er sei nun eigentümlicher Inhalt derselben, oder das Bewußtsein selbst sei dieser Inhalt – und wenn ein Sehender in die reine Finsternis oder, wenn man will, in das reine Licht, wenn sie nur dieses ist, gestellt wird; der Sehende sieht in seinem reinen Lichte sowenig als in seiner reinen Finsternis und gerade soviel als der Blinde in der Fülle des Reichtums, der vor ihm läge.",
+   "en": "– The result is admittedly the same if a blind man is placed in the wealth of the supersensuous world – if it has one, whether it be its own proper content, or consciousness itself be this content – and if a seeing man is placed in pure darkness or, if you will, in pure light, if it is only this; the seeing man sees in his pure light as little as in his pure darkness, and just as much as the blind man in the fullness of the wealth that would lie before him.",
+   "zh": "——结果诚然是同样的：如果把一个盲人放进超感性世界的财富里——如果它有财富的话，不管那是超感性世界自己特有的内容，还是意识本身就是这个内容——，又把一个看得见的人放进纯粹的黑暗里，或者随你怎么说，放进纯粹的光明里，只要它只是这个；那么看得见的人在纯粹的光明里看到的并不比在纯粹的黑暗里多，恰好和盲人在他面前摆着的那份财富的丰盈里所看到的一样多。"
+  }
+ ]
+}

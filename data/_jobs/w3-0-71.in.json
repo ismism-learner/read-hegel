@@ -1,0 +1,53 @@
+{
+ "id": "w3-0-71",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "14h4yu61tb",
+   "sents": [
+    "Wenn nach einem königlichen Wege zur Wissenschaft gefragt würde, so kann kein bequemerer angegeben werden als der, sich auf den gesunden Menschenverstand zu verlassen und, um übrigens auch mit der Zeit und mit der Philosophie fortzuschreiten, Rezensionen von philosophischen Schriften, etwa gar die Vorreden und ersten Paragraphen derselben zu lesen; denn diese geben die allgemeinen Grundsätze, worauf alles ankommt, und jene neben der historischen Notiz noch die Beurteilung, die sogar, weil sie Beurteilung ist, über das Beurteilte hinaus ist.",
+    "Dieser gemeine Weg macht sich im Hausrocke; aber im hohenpriesterlichen Gewände schreitet das Hochgefühl des Ewigen, Heiligen, Unendlichen einher – einen Weg, der vielmehr schon selbst das unmittelbare Sein im Zentrum, die Genialität tiefer origineller Ideen und hoher Gedankenblitze ist.",
+    "Wie Jedoch solche Tiefe noch nicht den Quell des Wesens offenbart, so sind diese Raketen noch nicht das Empyreum.",
+    "Wahre Gedanken und wissenschaftliche Einsicht ist nur in der Arbeit des Begriffs zu gewinnen.",
+    "Er allein kann die Allgemeinheit des Wissens hervorbringen, welche weder die gemeine Unbestimmtheit und Dürftigkeit des gemeinen Menschenverstandes, sondern gebildete und vollständige Erkenntnis, noch die ungemeine Allgemeinheit der durch Trägheit und Eigendünkel von Genie sich verderbenden Anlage der Vernunft, sondern die zu ihrer einheimischen Form gediehene Wahrheit [ist], – welche fähig ist, das Eigentum aller selbstbewußten Vernunft zu sein."
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "mp9u3t1ujh",
+   "sents": [
+    "Indem ich das, wodurch die Wissenschaft existiert, in die Selbstbewegung des Begriffs setze, so scheint die Betrachtung, daß die angeführten und noch andere äußere Seiten der Vorstellungen unserer Zeit über die Natur und Gestalt der Wahrheit hiervon abweichen, ja ganz entgegen sind, einem Versuche, das System der Wissenschaft in jener Bestimmung darzustellen, keine günstige Aufnahme zu versprechen.",
+    "Inzwischen kann ich bedenken, daß, wenn z.B. zuweilen das Vortreffliche der Philosophie Platons in seine wissenschaftlich wertlosen Mythen gesetzt wird, es auch Zeiten gegeben, welche sogar Zeiten der Schwärmerei genannt werden, worin die Aristotelische Philosophie um ihrer spekulativen Tiefe willen geachtet und der Parmenides des Platon, wohl das größte Kunstwerk der alten Dialektik, für die wahre Enthüllung und den positiven Ausdruck des göttlichen Lebens gehalten wurde und sogar bei vieler Trübheit dessen, was die Ekstase erzeugte, diese mißverstandene Ekstase in der Tat nichts anderes als der reine Begriff sein sollte, – daß ferner das Vortreffliche der Philosophie unserer Zeit seinen Wert selbst in die Wissenschaftlichkeit setzt und, wenn auch die anderen es anders nehmen, nur durch sie in der Tat sich geltend macht.",
+    "Somit kann ich auch hoffen, daß dieser Versuch, die Wissenschaft dem Begriffe zu vindizieren und sie in diesem ihrem eigentümlichen Elemente darzustellen, sich durch die innere Wahrheit der Sache Eingang zu verschaffen wissen werde.",
+    "Wir müssen überzeugt sein, daß das Wahre die Natur hat, durchzudringen, wenn seine Zeit gekommen, und daß es nur erscheint, wenn diese gekommen, und deswegen nie zu früh erscheint noch ein unreifes Publikum findet; auch daß das Individuum dieses Effekts bedarf, um das, was noch seine einsame Sache ist, daran sich zu bewähren und die Überzeugung, die nur erst der Besonderheit angehört, als etwas Allgemeines zu erfahren.",
+    "Hierbei aber ist häufig das Publikum von denen zu unterscheiden, welche sich als seine Repräsentanten und Sprecher betragen.",
+    "Jenes verhält sich in manchen Rücksichten anders als diese, ja selbst entgegengesetzt.",
+    "Wenn es gutmütigerweise die Schuld, daß ihm eine philosophische Schrift nicht zusagt, eher auf sich nimmt, so schieben hingegen diese, ihrer Kompetenz gewiß, alle Schuld auf den Schriftsteller.",
+    "Die Wirkung ist in jenem stiller als das Tun dieser Toten, wenn sie ihre Toten begraben.",
+    "Wenn jetzt die allgemeine Einsicht überhaupt gebildeter, ihre Neugierde wachsamer und ihr Urteil schneller bestimmt ist, so daß die Füße derer, die dich hinaustragen werden, schon vor der Tür stehen, so ist hiervon oft die langsamere Wirkung zu unterscheiden, welche die Aufmerksamkeit, die durch imponierende Versicherungen erzwungen wurde, sowie den wegwerfenden Tadel berichtigt und einem Teile eine Mitwelt erst in einiger Zeit gibt, während ein anderer nach dieser keine Nachwelt mehr hat."
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "1wr7sga1pv",
+   "sents": [
+    "Weil übrigens in einer Zeit, worin die Allgemeinheit des Geistes so sehr erstarkt und die Einzelheit, wie sich gebührt, um soviel gleichgültiger geworden ist, auch jene an ihrem vollen Umfang und gebildeten Reichtum hält und ihn fordert, der Anteil, der an dem gesamten Werke des Geistes auf die Tätigkeit des Individuums fällt, nur gering sein kann, so muß dieses, wie die Natur der Wissenschaft schon es mit sich bringt, sich um so mehr vergessen, und zwar werden und tun, was es kann, aber es muß ebenso weniger von ihm gefordert werden, wie es selbst weniger von sich erwarten und für sich fordern darf."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p71.json"
+}

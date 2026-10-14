@@ -1,0 +1,56 @@
+{
+ "id": "w1-14-17",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "14.",
+ "heading": "14.",
+ "blocks": [
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1890u1hlhv",
+   "sents": [
+    "Die Charaktergemälde sind vortrefflich.",
+    "Für sie sind große Perioden, in denen sich viele Züge zur Einheit versammeln, am tauglichsten.",
+    "Dies wird aber zur Manier, wenn Schiller es zur Darstellung einer Situation gebraucht, die aus vielen äußeren Umständen zusammengesetzt ist, und besonders wenn es eine Situation für einen als Zusammenhang von Ursache und Wirkung in Zeit und Raum nicht zu einer Tat koordinierten Umstand ist.",
+    "Die Züge sind dann zu sehr auseinander getrennt, zu verschiedenartig.",
+    "Ihre Einheit ist nur der Punkt, auf den sie als vorhergegangenen bezogen werden; z. B. S. 501: \"Durch die Mannschaft verstärkt, welche von der feindlichen Garnison zu ihm übertrat, richtete der Sächsische General von Arnheim seinen Marsch nach der Lausitz, welche Provinz ein kaiserlicher General, Rudolph von Tiefenbach, mit einer Armee überschwemmt hatte, den Kurfürsten von Sachsen wegen seines Übertritts zu der Partei des Feindes zu züchtigen.\"",
+    "Welche disparaten Dinge sind hier versammelt!",
+    "Das \"Übertreten\" sollte um so mehr vor dem \"Verstärkt\" stehen, weil dies nur ein Nebenumstand ist.",
+    "Alsdann steht das Übertreten der feindlichen Garnison von Leipzig unmittelbar neben dem Richten des Marsches nach der Lausitz, und das Ende der Periode ist das Züchtigen des Kurfürsten durch den kaiserlichen General - Dinge, die weit genug auseinanderliegen.",
+    "Der grammatikalische Zusammenhang ist nur für den Verstand, nicht für die Einbildungskraft.",
+    "Das Nebeneinanderstellen der Sätze ohne Pronomen relativum ist der wahre, der Reihe der Begebenheiten naturgemäße Zusammenhang.",
+    "Die Römer haben im historischen Stil oft viele Sätze im Infinitiv."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1m51fen1dv",
+   "sents": [
+    "S. 508.",
+    "\"Dieser unerwartete, unerklärbare Mangel an Widerstand erregte Arnheims Mißtrauen um so mehr, da ihm die eilfertige Annäherung des Entsatzes aus Schlesien kein Geheimnis und die Sächsische Armee mit Belagerungswerkzeugen zu wenig versehen, auch an Anzahl bei weitem zu schwach war, um eine so große Stadt zu bestürmen.",
+    "Vor einem Hinterhalt bang usf.\"",
+    "Arnheims Mißtrauen ist die Hauptidee, die durch die Gründe seines Mißtrauens noch erhöht wird.",
+    "Diese Gründe sind Gedanken in der Seele Arnheims.",
+    "Durch ihre Aufzählung aber werden sie uns Begebenheiten und Umstände.",
+    "Wir vergessen, sie nur in Arnheims Seele zu sehen, wir sehen sie selbst und verlieren dadurch die Hauptidee, Arnheims Mißtrauen.",
+    "Dies sollte deswegen hinten stehen.",
+    "Oft werden so, die Lage eines Helden zu schildern, die disparatesten Dinge in der Einheit seines Denkens als Zweck und Mittel zusammengestellt.",
+    "Die Griechen erzählen fort.",
+    "Man sieht nur die äußere Handlung des Täters, nicht sie als seinen Gedanken, als seinen Zweck.",
+    "Aber es charakterisiert immer sehr gut, ob die Tat Zweck war, und noch wichtiger ist es, ob der Zweck groß war.",
+    "Dies erkennt sich aus der Tat.",
+    "War jener groß und diese klein, so ist der Mensch ein kleiner Geist. - Das Ineinanderstecken der Sätze durch das Pronomen relativum verrückt die natürliche Folge in der Ordnung der Sätze und hat seinen Grund teils in der Unbehilflichkeit der Relativpartikeln, teils in dem Mangel der absoluten usw."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/14.p17.json"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "w3-0-1",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 1,
+   "k": "h",
+   "hash": "nejrh21xut",
+   "text": "Vorrede"
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "wkqruy1yi1",
+   "sents": [
+    "Eine Erklärung, wie sie einer Schrift in einer Vorrede nach der Gewohnheit vorausgeschickt wird – über den Zweck, den der Verfasser sich in ihr vorgesetzt, sowie über die Veranlassungen und das Verhältnis, worin er sie zu anderen früheren oder gleichzeitigen Behandlungen desselben Gegenstandes zu stehen glaubt –, scheint bei einer philosophischen Schrift nicht nur überflüssig, sondern um der Natur der Sache willen sogar unpassend und zweckwidrig zu sein.",
+    "Denn wie und was von Philosophie in einer Vorrede zu sagen schicklich wäre – etwa eine historische Angabe der Tendenz und des Standpunkts, des allgemeinen Inhalts und der Resultate, eine Verbindung von hin und her sprechenden Behauptungen und Versicherungen über das Wahre –, kann nicht für die Art und Weise gelten, in der die philosophische Wahrheit darzustellen sei.",
+    "Auch weil die Philosophie wesentlich im Elemente der Allgemeinheit ist, die das Besondere in sich schließt, so findet bei ihr mehr als bei anderen Wissenschaften der Schein statt, als ob in dem Zwecke oder den letzten Resultaten die Sache selbst und sogar in ihrem vollkommenen Wesen ausgedrückt wäre, gegen welches die Ausführung eigentlich das Unwesentliche sei.",
+    "In der allgemeinen Vorstellung hingegen, was z.B. Anatomie sei, etwa die Kenntnis der Teile des Körpers nach ihrem unlebendigen Dasein betrachtet, ist man überzeugt, die Sache selbst, den Inhalt dieser Wissenschaft, noch nicht zu besitzen, sondern außerdem um das Besondere sich bemühen zu müssen.",
+    "– Ferner pflegt bei einem solchen Aggregate von Kenntnissen, das den Namen Wissenschaft nicht mit Recht führt, eine Konversation über Zweck und dergleichen Allgemeinheiten nicht von der historischen und begrifflosen Weise verschieden zu sein, in der auch von dem Inhalte selbst, diesen Nerven, Muskeln usf., gesprochen wird.",
+    "Bei der Philosophie hingegen würde die Ungleichheit entstehen, daß von einer solchen Weise Gebrauch gemacht und diese doch von ihr selbst als unfähig, die Wahrheit zu fassen, aufgezeigt würde."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1fgyewe1ta",
+   "sents": [
+    "So wird auch durch die Bestimmung des Verhältnisses, das ein philosophisches Werk zu anderen Bestrebungen über denselben Gegenstand zu haben glaubt, ein fremdartiges Interesse hereingezogen und das, worauf es bei der Erkenntnis der Wahrheit ankommt, verdunkelt.",
+    "So fest der Meinung der Gegensatz des Wahren und des Falschen wird, so pflegt sie auch entweder Beistimmung oder Widerspruch gegen ein vorhandenes philosophisches System zu erwarten und in einer Erklärung über ein solches nur entweder das eine oder das andere zu sehen.",
+    "Sie begreift die Verschiedenheit philosophischer Systeme nicht so sehr als die fortschreitende Entwicklung der Wahrheit, als sie in der Verschiedenheit nur den Widerspruch sieht.",
+    "Die Knospe verschwindet in dem Hervorbrechen der Blüte, und man könnte sagen, daß Jene von dieser widerlegt wird; ebenso wird durch die Frucht die Blüte für ein falsches Dasein der Pflanze erklärt, und als ihre Wahrheit tritt jene an die Stelle von dieser.",
+    "Diese Formen unterscheiden sich nicht nur, sondern verdrängen sich auch als unverträglich miteinander.",
+    "Aber ihre flüssige Natur macht sie zugleich zu Momenten der organischen Einheit, worin sie sich nicht nur nicht widerstreiten, sondern eins so notwendig als das andere ist, und diese gleiche Notwendigkeit macht erst das Leben des Ganzen aus.",
+    "Aber der Widerspruch gegen ein philosophisches System pflegt teils sich selbst nicht auf diese Weise zu begreifen, teils auch weiß das auffassende Bewußtsein gemeinhin nicht, ihn von seiner Einseitigkeit zu befreien oder frei zu erhalten und in der Gestalt des streitend und sich zuwider Scheinenden gegenseitig notwendige Momente zu erkennen."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "14fd8ci10l",
+   "sents": [
+    "Die Forderung von dergleichen Erklärungen sowie die Befriedigungen derselben gelten leicht dafür, das Wesentliche zu betreiben.",
+    "Worin könnte mehr das Innere einer philosophischen Schrift ausgesprochen sein als in den Zwecken und Resultaten derselben, und wodurch diese bestimmter erkannt werden als durch ihre Verschiedenheit von dem, was das Zeitalter sonst in derselben Sphäre hervorbringt?",
+    "Wenn aber ein solches Tun für mehr als für den Anfang des Erkennens, wenn es für das wirkliche Erkennen gelten soll, ist es in der Tat zu den Erfindungen zu rechnen, die Sache selbst zu umgehen und dieses beides zu verbinden, den Anschein des Ernstes und Bemühens um sie und die wirkliche Ersparung desselben,",
+    "– Denn die Sache Ist nicht in ihrem Zwecke erschöpft, sondern in ihrer Ausführung, noch ist das Resultat das wirkliche Ganze, sondern es zusammen mit seinem Werden; der Zweck für sich ist das unlebendige Allgemeine, wie die Tendenz das bloße Treiben, das seiner Wirklichkeit noch entbehrt, und das nackte Resultat ist der Leichnam, der die Tendenz hinter sich gelassen.",
+    "– Ebenso ist die Verschiedenheit vielmehr die Grenze der Sache; sie ist da, wo die Sache aufhört, oder sie ist das, was diese nicht ist.",
+    "Solche Bemühungen mit dem Zwecke oder den Resultaten sowie mit den Verschiedenheiten und Beurteilungen des einen und des anderen sind daher eine leichtere Arbeit, als sie vielleicht scheinen.",
+    "Denn statt mit der Sache sich zu befassen, ist solches Tun immer über sie hinaus; statt in ihr zu verweilen und sich in ihr zu vergessen, greift solches Wissen immer nach einem Anderen und bleibt vielmehr bei sich selbst, als daß es bei der Sache ist und sich ihr hingibt.",
+    "– Das leichteste ist, was Gehalt und Gediegenheit hat, zu beurteilen, schwerer, es zu fassen, das schwerste, was beides vereinigt, seine Darstellung hervorzubringen."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "ylvpy51heu",
+   "sents": [
+    "Der Anfang der Bildung und des Herausarbeitens aus der Unmittelbarkeit des substantiellen Lebens wird immer damit gemacht werden müssen, Kenntnisse allgemeiner Grundsätze und Gesichtspunkte zu erwerben, sich nur erst zu dem Gedanken der Sache überhaupt heraufzuarbeiten, nicht weniger sie mit Gründen zu unterstützen oder zu widerlegen, die konkrete und reiche Fülle nach Bestimmtheiten aufzufassen und ordentlichen Bescheid und ernsthaftes Urteil über sie zu erteilen zu wissen.",
+    "Dieser Anfang der Bildung wird aber zunächst dem Ernste des erfüllten Lebens Platz machen, der in die Erfahrung der Sache selbst hineinführt; und wenn auch dies noch hinzukommt, daß der Ernst des Begriffs in ihre Tiefe steigt, so wird eine solche Kenntnis und Beurteilung In der Konversation ihre schickliche Stelle behalten."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "4qxszu1in8",
+   "sents": [
+    "Die wahre Gestalt, in welcher die Wahrheit existiert, kann allein das wissenschaftliche System derselben sein.",
+    "Daran mitzuarbeiten, daß die Philosophie der Form der Wissenschaft näherkomme – dem Ziele, ihren Namen der Liebe zum Wissen ablegen zu können und wirkliches Wissen zu sein –, ist es, was ich mir vorgesetzt.",
+    "Die innere Notwendigkeit, daß das Wissen Wissenschaft sei, liegt in seiner Natur, und die befriedigende Erklärung hierüber ist allein die Darstellung der Philosophie selbst.",
+    "Die äußere Notwendigkeit aber, insofern sie, abgesehen von der Zufälligkeit der Person und der individuellen Veranlassungen, auf eine allgemeine Weise gefaßt wird, ist dasselbe, was die innere [ist], in der Gestalt nämlich, wie die Zeit das Dasein ihrer Momente vorstellt.",
+    "Daß die Erhebung der Philosophie zur Wissenschaft an der Zeit ist, dies aufzuzeigen würde daher die einzig wahre Rechtfertigung der Versuche sein, die diesen Zweck haben, weil sie dessen Notwendigkeit dartun, ja sie ihn zugleich ausführen würde."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p1.json"
+}

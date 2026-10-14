@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-05",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 7,
+   "de": "Wozu diesen Verstand eigentlich die Natur dieser unwahren Wesen treiben will, die Gedanken von jener Allgemeinheit und Einzelheit, vom Auch und Eins, von jener Wesentlichkeit, die mit einer Unwesentlichkeit notwendig verknüpft ist, und von einem Unwesentlichen, das doch notwendig ist, – die Gedanken von diesen Unwesen zusammenzubringen und sie dadurch aufzuheben, dagegen sträubt er sich durch die Stützen des Insofern und der verschiedenen Rücksichten oder dadurch, den einen Gedanken auf sich zu nehmen, um den anderen getrennt und als den wahren zu erhalten.",
+   "en": "To what this understanding is properly to be driven by the nature of these untrue essences — to bring together the thoughts of that universality and singularity, of the “also” and the One, of that essentiality that is necessarily linked with an unessentiality, and of an unessential that is nevertheless necessary, the thoughts of these non-essences, and thereby to sublate them — against this it struggles by means of the props of the “insofar” and of the different respects, or by taking the one thought upon itself in order to keep the other separate and as the true one.",
+   "zh": "这些不真的本质的本性究竟要把这种知性逼向什么，——把关于那种普遍性和个别性、关于“也”和一、关于那种与非本质性必然结合在一起的本质性、关于一种毕竟必然的非本质的东西的诸思想，把关于这些非本质物的诸思想聚合起来，并由此扬弃它们，——知性就凭“就……而言”和各个不同方面的支撑来抵抗这件事，或者靠把其中一个思想承担到自己身上，以便把另一个思想分离出来并作为真的东西保留下来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 8,
+   "de": "Aber die Natur dieser Abstraktionen bringt sie an und für sich zusammen; der gesunde Verstand ist der Raub derselben, die ihn in ihrem wirbelnden Kreise umhertreiben.",
+   "en": "But the nature of these abstractions brings them together in and for themselves; sound common sense is their prey, which drives it around in their whirling circle.",
+   "zh": "但这些抽象的本性却使它们自在自为地聚合起来；健全的人类知性就是它们的猎物，而它们就在自己那旋转的圆圈中把它赶来赶去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 22,
+   "si": 9,
+   "de": "Indem er ihnen die Wahrheit dadurch geben will, daß er bald die Unwahrheit derselben auf sich nimmt, bald aber auch die Täuschung einen Schein der unzuverlässigen Dinge nennt und das Wesentliche von einem ihnen Notwendigen und doch Unwesentlichseinsollenden abtrennt und jenes als ihre Wahrheit gegen dieses festhält, erhält er ihnen nicht ihre Wahrheit, sich aber gibt er die Unwahrheit.",
+   "en": "While it wants to give them the truth by now taking their untruth upon itself, now again calling the deception a semblance of the unreliable things and separating the essential from something that is necessary to them and yet is supposed to be unessential, and holding fast to the former as their truth against the latter, it thereby does not preserve their truth for them, but gives itself the untruth.",
+   "zh": "它想由此给它们真理，即时而把它们的非真承担到自己身上，时而又把错觉称为不可靠的物的假象，并把本质的东西与一种对它们来说是必然的、却又应当是非本质的东西分离开来，把前者作为它们的真理而与后者对立地坚持住，这样一来它却并没有为它们保住它们的真理，反倒把非真给了自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 0,
+   "de": "Dem Bewußtsein ist in der Dialektik der sinnlichen Gewißheit das Hören und Sehen usw. vergangen, und als Wahrnehmen ist es zu Gedanken gekommen, welche es aber erst im Unbedingt-Allgemeinen zusammenbringt.",
+   "en": "In the dialectic of sense-certainty, hearing and seeing, etc., have passed away for consciousness, and as perception it has come to thoughts, which however it first brings together in the unconditioned universal.",
+   "zh": "在感性确定性的辩证运动里，对意识来说，听和看等等已经消逝了，而作为知觉，意识已经达到了思想，只是它要到无条件的普遍者那里才把这些思想聚合起来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 1,
+   "de": "Dies Unbedingte wäre nun selbst wieder nichts anderes als das auf eine Seite tretende Extrem des Fürsichseins, wenn es als ruhiges einfaches Wesen genommen würde, denn so träte ihm das Unwesen gegenüber; aber auf dieses bezogen wäre es selbst unwesentlich und das Bewußtsein nicht aus der Täuschung des Wahrnehmens herausgekommen; allein es hat sich als ein solches ergeben, welches aus einem solchen bedingten Fürsichsein in sich zurückgegangen ist.",
+   "en": "This unconditioned would now itself again be nothing other than the extreme of being-for-itself stepping to one side, if it were taken as a calm simple essence, for then the non-essence would stand opposed to it; but related to this, it would itself be unessential and consciousness would not have got beyond the deception of perception; however, it has turned out to be such a one as has returned into itself out of such a conditioned being-for-itself.",
+   "zh": "这个无条件者本身现在又会无非是退到一边去的自为存在那一极端，如果它被当作平静而单纯的本质的话，因为这样一来，非本质就与它对立了；但如果与这个非本质相关，它自己就会是非本质的，意识也就没有从知觉的错觉里走出来；不过它已经表明自己是这样的东西，即它从这样一种有条件的自为存在返回到自身之内了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 2,
+   "de": "– Dies unbedingte Allgemeine, das nunmehr der wahre Gegenstand des Bewußtseins ist, ist noch als Gegenstand desselben; es hat seinen Begriff als Begriff noch nicht erfaßt.",
+   "en": "– This unconditioned universal, which is now the true object of consciousness, is still as an object of it; it has not yet grasped its concept as concept.",
+   "zh": "——这个无条件的普遍者现在已经是意识的真的对象，它还只是作为意识的对象；它还没有把自己的概念作为概念来把握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 3,
+   "de": "Beides ist wesentlich zu unterscheiden; dem Bewußtsein ist der Gegenstand aus dem Verhältnisse zu einem anderen in sich zurückgegangen und hiermit an sich Begriff geworden; aber das Bewußtsein ist noch nicht für sich selbst der Begriff, und deswegen erkennt es in jenem reflektierten Gegenstande nicht sich.",
+   "en": "The two are essentially to be distinguished; for consciousness the object has returned into itself out of the relation to an other and has thereby become concept in itself; but consciousness is not yet for itself itself the concept, and therefore it does not recognize itself in that reflected object.",
+   "zh": "两者必须本质上区别开来；对意识来说，对象已经从与一个他物的关系中返回到自身之内，并因此自在成了概念；但意识还不是为它自己的概念，因此它在那被反思的对象里认不出自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 4,
+   "de": "Für uns ist dieser Gegenstand durch die Bewegung des Bewußtseins so geworden, daß dieses in das Werden desselben verflochten und die Reflexion auf beiden Seiten dieselbe oder nur eine ist.",
+   "en": "For us this object has become such through the movement of consciousness that the latter is interwoven with the becoming of the object and the reflection on both sides is the same, or only one.",
+   "zh": "对我们来说，这个对象是通过意识的运动才这样生成的：意识被编织进了对象的生成过程，而双方的反思是同一个，或者说只是一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 24,
+   "si": 5,
+   "de": "Weil aber das Bewußtsein in dieser Bewegung nur das gegenständliche Miesen, nicht das Bewußtsein als solches zu seinem Inhalte hatte, so ist für es das Resultat in gegenständlicher Bedeutung zu setzen und das Bewußtsein noch von dem Gewordenen zurücktretend, so daß ihm dasselbe als Gegenständliches das Wesen ist.",
+   "en": "But because in this movement consciousness had as its content only the objective meaning, not consciousness as such, the result is for it to be posited in objective significance and consciousness still to step back from what has come to be, so that for it the same, as something objective, is the essence.",
+   "zh": "但是，因为意识在这场运动里只把对象性的意谓、而不是把意识本身当作自己的内容，所以对它来说，结果必须以对象性的意义来设定，而意识还从生成之物那里退回来，以致这生成之物作为对象性的东西就是本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 25,
+   "si": 0,
+   "de": "Der Verstand hat damit zwar seine eigene Unwahrheit und die Unwahrheit des Gegenstandes aufgehoben; und was ihm dadurch geworden, ist der Begriff des Wahren, als an sich seiendes Wahres, das noch nicht Begriff ist oder das des Fürsichseins des Bewußtseins entbehrt und das der Verstand, ohne sich darin zu wissen, gewähren läßt.",
+   "en": "The understanding has thereby indeed sublated its own untruth and the untruth of the object; and what has come to be for it thereby is the concept of the true, as the true that is in itself, which is not yet concept or which lacks the being-for-itself of consciousness and which the understanding, without knowing itself therein, lets be granted.",
+   "zh": "知性由此虽然扬弃了它自己的不真和对象的不真；而它由此所得到的东西，就是真的东西的概念，作为自在存在着的真的东西，这个真的东西还不是概念，或者说还缺少意识的自为存在，而知性并不知道自己在其中，就任它自行其是。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 25,
+   "si": 1,
+   "de": "Dieses treibt sein Wesen für sich selbst, so daß das Bewußtsein keinen Anteil an seiner freien Realisierung hat, sondern ihr nur zusieht und sie rein auffaßt.",
+   "en": "This drives its essence for itself, so that consciousness has no share in its free realization, but merely looks on at it and purely apprehends it.",
+   "zh": "这个真的东西自为地推动它自己的本质，以致意识对它的自由实在化没有任何份，而只是旁观它，并纯粹地把握它。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 25,
+   "si": 2,
+   "de": "Wir haben hiermit noch fürs erste an seine Stelle zu treten und der Begriff zu sein, welcher das ausbildet, was in dem Resultate enthalten ist; an diesem ausgebildeten Gegenstande, der dem Bewußtsein als ein Seiendes sich darbietet, wird es sich erst zum begreifenden Bewußtsein.",
+   "en": "We have herewith for the present still to take its place and to be the concept which develops what is contained in the result; on this developed object, which offers itself to consciousness as a being, consciousness will first become comprehending consciousness.",
+   "zh": "我们由此还首先得站到它的位置上，成为那个把结果中包含的东西展开出来的概念；在这个展开出来的、作为存在者呈现给意识的对象上，意识才第一次成为以概念把握的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 0,
+   "de": "Das Resultat war das Unbedingt-Allgemeine, zunächst in dem negativen und abstrakten Sinne, daß das Bewußtsein seine einseitigen Begriffe negierte und sie abstrahierte, nämlich sie aufgab.",
+   "en": "The result was the unconditioned universal, at first in the negative and abstract sense that consciousness negated its one-sided concepts and abstracted them, namely gave them up.",
+   "zh": "这个结果就是无条件的普遍者，首先是在否定的、抽象的意义上，即意识否定了自己那些片面的概念，把它们抽象掉，也就是把它们放弃了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 1,
+   "de": "Das Resultat hat aber an sich die positive Bedeutung, daß darin die Einheit des Fürsichseins und des Für-ein-Anderes-Seins oder der absolute Gegensatz unmittelbar als dasselbe Wesen gesetzt ist.",
+   "en": "But the result has in itself the positive meaning that in it the unity of being-for-itself and being-for-another, or the absolute opposition, is immediately posited as the same essence.",
+   "zh": "但这个结果自在地具有肯定的意义，即其中自为存在与为他存在的统一，或者说绝对对立，是直接作为同一个本质被设定起来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 2,
+   "de": "Es scheint zunächst nur die Form der Momente zueinander zu betreffen; aber das Fürsichsein und das Für-Anderes-Sein ist ebensowohl der Inhalt selbst, weil der Gegensatz in seiner Wahrheit keine andere Natur haben kann, als die sich im Resultate ergeben hat, daß nämlich der in der Wahrnehmung für wahr gehaltene Inhalt in der Tat nur der Form angehört und in ihre Einheit sich auflöst.",
+   "en": "It seems at first to concern only the form of the moments in relation to one another; but being-for-itself and being-for-another is just as much the content itself, because the opposition in its truth cannot have any other nature than that which has resulted in the result, namely that the content held to be true in perception in fact belongs only to the form and resolves itself into its unity.",
+   "zh": "这起初似乎只涉及各环节相互之间的形式；但自为存在和为他存在同样也是内容本身，因为对立在其真理中不可能有别的本性，只能是结果里已经得出的那种本性，即知觉里被当作真的内容实际上只属于形式，并消解到形式的统一里去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 3,
+   "de": "Dieser Inhalt ist zugleich allgemein; es kann keinen anderen Inhalt geben, der durch seine besondere Beschaffenheit sich dem entzöge, in diese unbedingte Allgemeinheit zurückzugehen.",
+   "en": "This content is at the same time universal; there can be no other content that through its particular constitution would withdraw itself from returning into this unconditioned universality.",
+   "zh": "这个内容同时是普遍的；不可能有别的什么内容，凭着自己特殊的性状就能逃避回到这种无条件的普遍性里去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 4,
+   "de": "Ein solcher Inhalt wäre irgendeine bestimmte Weise, für sich zu sein und zu Anderem sich zu verhalten.",
+   "en": "Such a content would be some determinate way of being for itself and of relating itself to others.",
+   "zh": "这样一个内容会是某种特定的方式，去自为存在并与他物发生关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 26,
+   "si": 5,
+   "de": "Allein für sich zu sein und zu Anderem sich zu verhalten überhaupt, macht seine Natur und Wesen aus, deren Wahrheit ist, Unbedingt-Allgemeines zu sein; und das Resultat ist schlechthin allgemein.",
+   "en": "But to be for itself and to relate itself to others in general constitutes its nature and essence, whose truth is to be unconditioned universal; and the result is absolutely universal.",
+   "zh": "但一般地自为存在并与他物发生关系，就构成它的本性和本质，而它们的真理就是成为无条件的普遍者；这个结果则是彻底普遍的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 27,
+   "si": 0,
+   "de": "Weil aber dies Unbedingt-Allgemeine Gegenstand für das Bewußtsein ist, so tritt an ihm der Unterschied der Form und des Inhalts hervor, und in der Gestalt des Inhalts haben die Momente das Aussehen, in welchem sie sich zuerst darboten, einerseits allgemeines Medium vieler bestehender Materien und andererseits in sich reflektiertes Eins, worin ihre Selbständigkeit vertilgt ist, zu sein.",
+   "en": "But because this unconditioned universal is object for consciousness, the difference of form and content emerges in it, and in the shape of the content the moments have the appearance in which they first presented themselves, namely to be on the one hand the universal medium of many existing matters and on the other hand the one reflected into itself, in which their independence is extinguished.",
+   "zh": "但因为这个无条件的普遍者是意识的对象，所以形式与内容的差别就在它身上出现了，而在内容的形态里，各环节具有它们最初呈现时的那种样子，即一方面是多条现存质料的普遍媒介，另一方面是自身反思的一，其中它们的独立性被消灭了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 27,
+   "si": 1,
+   "de": "Jenes ist die Auflösung der Selbständigkeit des Dinges oder die Passivität, die ein Sein für ein Anderes ist, dies aber das Fürsichsein.",
+   "en": "The former is the dissolution of the independence of the thing, or the passivity that is a being for another, the latter however being-for-itself.",
+   "zh": "前者是物的独立性的消解，或者说被动性，即一种为他存在，后者则是自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 27,
+   "si": 2,
+   "de": "Es ist zu sehen, wie diese Momente in der unbedingten Allgemeinheit, die ihr Wesen ist, sich darstellen.",
+   "en": "It is to be seen how these moments present themselves in the unconditioned universality that is their essence.",
+   "zh": "必须看看，这些环节在无条件的普遍性里、也就是在它们的本质里，是怎样呈现出来的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 27,
+   "si": 3,
+   "de": "Es erhellt zunächst, daß sie dadurch, daß sie nur in dieser sind, überhaupt nicht mehr auseinanderliegen, sondern wesentlich an ihnen selbst sich aufhebende Seiten sind und nur das Übergehen derselben ineinander gesetzt ist.",
+   "en": "It is evident at first that, just because they are only in this, they no longer lie apart at all, but are essentially sides that sublate themselves in themselves, and only their transition into one another is posited.",
+   "zh": "首先可以看出，它们由于只存在于这种普遍性里，就根本不再彼此分开，而是本质上在它们自身中自我扬弃的方面，并且被设定的只是它们向彼此的过渡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 0,
+   "de": "Das eine Moment erscheint also als das auf die Seite getretene Wesen, als allgemeines Medium oder als das Bestehen selbständiger Materien.",
+   "en": "The one moment thus appears as the essence that has stepped to one side, as universal medium or as the subsistence of independent matters.",
+   "zh": "所以，其中一个环节表现为退到一边去的本质，表现为普遍的媒介，或者表现为独立质料的持存。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 1,
+   "de": "Die Selbständigkeit dieser Materien aber ist nichts anderes als dies Medium; oder dies Allgemeine ist durchaus die Vielheit solcher verschiedenen Allgemeinen.",
+   "en": "But the independence of these matters is nothing other than this medium; or this universal is thoroughly the multiplicity of such different universals.",
+   "zh": "但这些质料的独立性无非就是这个媒介；或者说，这个普遍者完全就是这类不同普遍者的杂多。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 2,
+   "de": "Das Allgemeine ist an ihm selbst in ungetrennter Einheit mit dieser Vielheit, heißt aber: diese Materien sind, jede wo die andere ist; sie durchdringen sich gegenseitig, – ohne aber sich zu berühren, weil umgekehrt das viele Unterschiedene ebenso selbständig ist.",
+   "en": "The universal is in itself in inseparable unity with this multiplicity, but this means: these matters are, each where the other is; they interpenetrate one another, – but without touching one another, because conversely the many differentiated ones are just as independent.",
+   "zh": "这个普遍者自在地与这种杂多处于不可分离的统一中，但这等于说：这些质料存在着，每一个都在另一个所在的地方；它们相互渗透，但并不相互接触，因为反过来，那许多有差别的东西同样是独立的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 3,
+   "de": "Damit ist zugleich auch ihre reine Porosität oder ihr Aufgehobensein gesetzt.",
+   "en": "Thereby their pure porosity or their being-sublated is at the same time posited.",
+   "zh": "由此同时也就设定了它们纯粹的孔隙性，或者说它们的被扬弃状态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 4,
+   "de": "Dies Aufgehobensein wieder oder die Reduktion dieser Verschiedenheit zum reinen Fürsichsein ist nichts anderes als das Medium selbst und dies die Selbständigkeit der Unterschiede.",
+   "en": "This being-sublated again, or the reduction of this diversity to pure being-for-itself, is nothing other than the medium itself, and this is the independence of the differences.",
+   "zh": "这个被扬弃状态，或者说把这种差别还原为纯粹自为存在，又无非就是媒介本身，而这个媒介就是各种差别的独立性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 5,
+   "de": "Oder die selbständig gesetzten gehen unmittelbar in ihre Einheit und ihre Einheit unmittelbar in die Entfaltung über und diese wieder zurück in die Reduktion.",
+   "en": "Or the independently posited pass immediately into their unity, and their unity immediately into the unfolding, and this again back into the reduction.",
+   "zh": "或者说，被设定为独立的东西直接过渡到它们的统一，而它们的统一又直接过渡到展开，这展开再返回到还原。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 6,
+   "de": "Diese Bewegung ist aber dasjenige, was Kraft genannt wird: das eine Moment derselben, nämlich sie als Ausbreitung der selbständigen Materien in ihrem Sein, ist ihre Äußerung, sie aber als das Verschwundensein derselben ist die in sich aus ihrer Äußerung zurückgedrängte oder die eigentliche Kraft.",
+   "en": "But this movement is what is called force: the one moment of it, namely it as the spreading out of the independent matters in their being, is its expression, but it as the disappearance of these is the force driven back into itself out of its expression, or the proper force.",
+   "zh": "但这种运动就是被称为力的东西：它的一个环节，即它作为独立质料在其存在中的铺开，是力的表现，而它作为这些质料的消失状态，则是从其表现中被推回到自身之内的力，或者说本真的力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 7,
+   "de": "Aber erstens die in sich zurückgedrängte Kraft muß sich äußern; und zweitens in der Äußerung ist sie ebenso in sich selbst seiende Kraft, als sie in diesem Insichselbstsein Äußerung ist.",
+   "en": "But first, the force driven back into itself must express itself; and secondly, in the expression it is just as much a force that is in itself, as in this being-in-itself it is expression.",
+   "zh": "但第一，被推回到自身之内的力必须表现出来；第二，在表现中，它同样是存在于自身之内的力，正如它在这种存在于自身之内就是表现。"
+  }
+ ]
+}

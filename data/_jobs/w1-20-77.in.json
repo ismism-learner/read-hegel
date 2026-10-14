@@ -1,0 +1,110 @@
+{
+ "id": "w1-20-77",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 20,
+ "chunkTitle": "II.",
+ "heading": "5.",
+ "blocks": [
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "p25o5h1t0z",
+   "sents": [
+    "E. Fortgang seit dem Westfälischen Frieden."
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1tkqbad1bu",
+   "sents": [
+    "Bürgerliche Kriege in England für zwei königliche Familien."
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1sxfg29ipi",
+   "sents": [
+    "Landstände, Sinken ihrer Macht ..."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "h",
+   "hash": "18wzahmpgz",
+   "text": "5."
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "ah1p4a1bon",
+   "sents": [
+    "[Justiz]"
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "t8mrd91msp",
+   "sents": [
+    "Im Deutschen Reich gibts keine Staatsbeamte - Erbtruchseß usw. Bürger verlangt Sicherheit des Eigentums und Gerechtigkeitspflege, so wenig Abgaben als möglich - er läßt für alles den Staat sorgen; auch der Beamte, s. Zusammenhang, s. Verhältnis aufs Ganze usw., er sucht sein Brot.",
+    "Ehemals wollte jeder freie Mann daran teilhaben.",
+    "Nun eine Klasse, in der die Staatspflichten Privatrechte geworden sind.",
+    "In dieser Sonderung vom Staat liegt die Möglichkeit, einen Staat zu formen."
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "h",
+   "hash": "wqdkqmw41j",
+   "text": "Anhang"
+  },
+  {
+   "bi": 84,
+   "k": "h",
+   "hash": "e79qavl3l4",
+   "text": "[Über Lessings Briefwechsel mit seiner Frau]186)"
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1ghp5jgxnc",
+   "sents": [
+    "Ich las neulich Lessings Briefwechsel mit seiner Frau187) ; - die Empfindung, die ich teils während des Lesens hatte, teils zurückbehielt, war ganz eigen; es war Interesse mit Vergnügen und Wehmut vermischt; nach einem langen Romanlesen kann nichts erwünschter kommen als so eine ganz aus dem wirklichen Leben genommene Unterhaltung.",
+    "Man ist immer auf die Entwicklung begierig; obgleich keine Intrige und große Hindernisse die Entwicklung aufhalten - gewöhnliche Erfordernisse in einem Roman, um die Aufmerksamkeit des Lesers zu spannen -, so fehlt doch das Interesse nie und ist um so viel herzlicher und teilnehmender, weil die Umstände so ganz natürlich und menschlich sind; das einzige Hindernis, das sich in den Weg legt, bezieht sich auf den Punkt, der heutzutage am meisten, oft fast allein (hier freilich nicht) in Betracht kommt, nämlich das hinlängliche Auskommen (denn die Liebe ist nimmer so stark, daß man miteinander in Wüsteneien zieht, aller Bequemlichkeiten sich entschlägt und nur von der Liebe lebt), und da jenes Erfordernis noch nicht hinlänglich gesichert war, so wird die Verbindung immer aufgeschoben. - Kein grausamer Vater, kein harter Onkel oder Vormund, kein der Unschuld nachstellender Lord ist es, der die Heirat aufhält; die Zeit, in welcher der Briefwechsel fortdauert, ist sechs Jahre - welche lange Zeit für einen Bräutigam und eine Braut! -, und in diesem Zwischenraum fast nichts als Verdruß und Leiden durch Krankheiten, und dann die Dauer der Ehe - war nur drei Jahre; stoßen einem hier nicht Betrachtungen über die Nichtigkeit des Menschen und seiner angenehmsten Sorgen auf? - Sollte man nicht denken, wenn ein Mensch dies voraus wüßte, würde er [dann] nicht einen früheren Tod, als ihm die Natur bestimmt hat, einem solchen Leben vorziehen? - Vielleicht, wenn man sich ein Leben voll lauter Elend und Mühseligkeit denkt, - aber man bringt nicht in Anschlag, was das Leben in concreto ist, [vielmehr] die angenehme Gewohnheit des Wirkens und Tätigseins, wie es Goethe nennt, - das uns beständig beschäftigende unaufhörliche Einströmen von Empfindungen in die körperliche Behaglichkeit; - bei einem Menschen, der den Gedanken, sich selbst außer allen diesen Verhältnissen zu setzen, ausführen kann, müssen die Vorstellungen und das Wirken der Seele fast bloß nach innen gehen, und das Band, das durch die Sinne ihn an die ganze Natur knüpft, muß sehr schwach sein. - Doch von dieser Digression wieder auf Lessings Briefwechsel zu kommen, so ist der ganze Ton desselben, wenigstens größtenteils, mehr geschickt, den Leser zu Wehmut als zu angenehmer Empfindung zu stimmen. - Aber die Sprache des Schmerzes und der Leiden ist viel beredter als die Sprache der Freude und der Genuß der letzteren nicht so bemerkbar wie die Empfindung des ersteren.",
+    "Der trübe Augenblick, in dem wir schreiben, überzieht auch das Andenken an frohe Stunden mit einem schwarzen Flor, außerdem daß er das Traurige noch hervorhebt, stärkere Farben aufträgt und zuviel Schatten ins Gemälde bringt. - Oft mischt sich auch eine kleine - heimliche, dem Angesteckten selbst unbemerkte - Eitelkeit ins Spiel, die uns aus dem hintersten Winkel des Herzens überredet, es erwecke mehr Interesse, die Teilnahme sei größer, wenn man uns leiden, als wenn man uns fröhlich sieht, wir erscheinen etwas größer im Schmerz als in der Freude usf.",
+    "Noch eine Bemerkung war mir sehr auffallend: wenn Lessings Geliebte von ihrer üblen Laune, ihrer verdrießlichen Lage u. dgl. schreibt und er gerade guten Humors ist, so kommt er mit Lebensregeln angezogen, mit Vorschriften aus der arte bene vivendi, - als ob er die vergnügte Laune, in die ihn die Umstände versetzten (vielleicht ein schöner Tag, verbunden mit dem Gefühl der Gesundheit), sich selber, der Befolgung seiner weisen Maximen allein zu danken hätte. - Hierin betrügt sich das liebe eitle Herzchen oft. - Durch Fröhlichkeit wird Zufriedenheit mit sich selbst über sein Tun und Lassen, über das Gelingen kluger Pläne, über seine äußeren Umstände befördert; - man glaubt aber, es sei immer der Fall umgekehrt, nur wenn wir mit unserm Gewissen, mit unserer Klugheit zufrieden zu sein Ursache zu haben vermeinen, so soll die Folge davon Heiterkeit des Gemüts und wahres Vergnügen sein; - wie gesagt, meist ist es umgekehrt; - Gefühl der Gesundheit - schönes Wetter - Freiheit von gegenwärtigen Sorgen - eine Aussicht auf ein fröhliches Mahl setzt uns in einen Zustand von Frohheit, und dieser täuscht uns gar zu gern; nur Unglück erweckt die Stacheln des Gewissens, häuft das Andenken aller zu bereuenden Unbesonnenheiten zusammen und läßt es selten dabei bewenden, die Seele mit dem Gefühl der traurigen Lage, der Schmerzen usf. erfüllt zu haben, sondern ruft auch Unzufriedenheit mit sich selbst, Selbstanklage zu Hilfe, um der Seele vollends den Mut zu rauben, der standhaft, stolz auf seine Unschuld, dem Schmerze trotzt. - Aber hier hebst du allen Unterschied zwischen guten und bösen Menschen auf?",
+    "Nur bei den letzteren mag dein hier entworfenes Gemälde passen.",
+    "Nein, aber der Unterschied ist hier nicht spezifisch, - sondern nur den Graden nach.",
+    "Wo finden wir den Menschen, der das Bewußtsein hat, immer mit der besten Absicht, immer nach der ewigen Regel des Rechts und zugleich immer mit der größten Klugheit gehandelt zu haben, und der sich in Ansehung dieser Punkte nichts vorzuwerfen hat.",
+    "Der Unmut ruft oft längst abgetane Sachen zurück, - und sosehr wir oft streben, dergleichen Bilder schnell wegzuhauchen, so bleibt doch das nachfolgende Gefühl, das sich mit dem vorhandenen Unmut vermischt, zurück. - Doch zurückzukommen auf Lessings Moralien, so finden wir oft gleich im nächsten Briefe - durch Umstände die Wirksamkeit derselben ganz aufgehoben und den auffallendsten Beweis, wie wenig Maximen über den Eindruck, der sich auf Vergnügen und Unlust bezieht, vermögen. -"
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "1l8na2qlr7",
+   "sents": [
+    "Der Ton der Briefe ist gegenseitige Teilnahme, Mitteilung seiner Angelegenheiten und Geschäfte, seines Kummers und seiner Freude - und Anteil daran auf der andern Seite. - Der Ausdruck ist ungekünstelt und bleibt bei dem Allgemeinen stehen, - er zergliedert die Empfindung nicht; sie gibt den Totaleindruck an, - gerade wie wir es bei den Griechen sehen, wo eine Tragödie kein Kompendium der empirischen Psychologie in nuce ist, wie oft heutzutage; - dies ist Natur, - diese geht auf Genuß und Empfindung. - Die frühen Umstände der Jugend und der Erziehung hemmen den Eindruck der Natur in uns, - wir werden zuviel daran gewöhnt, daß die Seele sich mit sich selbst beschäftige, - die äußeren Gegenstände zuviel nach Begriffen beurteile, nicht nach den Empfindungen der Schönheit; - das Herz wird verschlossen und nur der kalte, berechnende Verstand bleibt übrig, - der am Ende bloß an den Mitteln kleben bleibt und des Zwecks nie gedenkt. - Ein schneidender Unterschied unserer Sitten und unseres Charakters von dem griechischen ist wohl dadurch abgezeichnet, daß der Dichter, der zum Genuß des Lebens durch Erinnerung an den Tod aufriefe: \"Mensch, genieße dein Leben!\" usf., bei uns sehr abgeschmackt erscheinen würde. - Wie würde ich heute das Leben genießen können, wenn morgen der Tod mich abriefe!"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "13u9gam1a6",
+   "sents": [
+    "Nur der Grieche konnte so genießen, sich für ein jedes Wesen, das Leben und Empfindung äußert, interessieren; - überall entdeckte der reine Geist der Griechen ein ungekünsteltes Verhältnis, woran das Herz teilnahm; er zeigt sich von dieser Seite am edelsten in ihren Sinngedichten, er scheint sich zu dem unsrigen zu verhalten wie ein Knabe, der an einer Rose riecht, zu dem Apotheker, der Rosenwasser daraus macht.",
+    "Keusche Reinheit und liebliche Schamhaftigkeit scheint überhaupt ein Eigentum des griechischen Genius gewesen zu sein."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/20.p77.json"
+}

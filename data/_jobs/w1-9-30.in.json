@@ -1,0 +1,105 @@
+{
+ "id": "w1-9-30",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Anmerkung zum 7. Brief (S. 138 f.)",
+ "heading": "[Der Geist des Christentums und sein Schicksal]",
+ "blocks": [
+  {
+   "bi": 30,
+   "k": "h",
+   "hash": "1bkfzt21g8",
+   "text": "[Der Geist des Christentums und sein Schicksal]"
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "kq1huj10om",
+   "sents": [
+    "(1798-1800)"
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "h",
+   "hash": "15s22ol1ei",
+   "text": "[Der Geist des Judentums]"
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1k7q2rt7w5",
+   "sents": [
+    "85) Mit Abraham, dem wahren Stammvater der Juden, beginnt die Geschichte dieses Volks, d. h. sein Geist ist die Einheit, die Seele, die alle Schicksale seiner Nachkommenschaft regierte, er erscheint in verschiedener Gestalt, je nachdem er gegen verschiedene Kräfte kämpfte oder, wenn er durch Gewalt oder Verführung unterlag, durch Aufnahme eines fremdartigen Wesens sich verunreinigte; also in verschiedener Form der Waffenrüstung und des Streits oder der Art, wie er Fesseln des Stärkeren trägt; welche Form das Schicksal genannt wird."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "11gu2javsf",
+   "sents": [
+    "Von dem Gange, den die Entwicklung des Menschengeschlechts vor Abraham nahm, von dieser wichtigen Periode, in welcher die Roheit, die auf den Verlust des Naturzustandes folgte, auf verschiedenen Wegen wieder zur zerstörten Vereinigung zurückzukehren strebte, von diesem Gange sind uns nur wenige dunkle Spuren aufbehalten worden.",
+    "Der Eindruck, den die noahische Flut auf die Gemüter der Menschen machte, mußte ein tief[es] Zerreißen und die Wirkung der ungeheuerste Unglaube an die Natur sein86) , die vorhin freundlich oder ruhig, nun aus dem Gleichgewicht ihrer Elemente trat, den Glauben, den das Menschengeschlecht an sie hatte, nun mit der zerstörendsten, unzuüberwältigenden, unwiderstehbarsten Feindschaft erwiderte und in ihrem Toben nichts durch einen Unterschied der Liebe verschonte, sondern die wilde Verwüstung über alles ergoß.",
+    "Einige Erscheinungen, Rückwirkungen gegen den Eindruck jenes allgemeinen, durch feindselige Elemente bewirkten Menschenmordes hat uns die Geschichte angedeutet.",
+    "Damit der Mensch gegen die Ausbrüche der nun feindlichen Natur bestehen könnte, so mußte sie beherrscht werden; und da das entzweite Ganze nur in Idee und Wirklichkeit entzweit sein kann, so ist die höchste Einheit der Beherrschung entweder in einem Gedachten oder in einem Wirklichen.",
+    "In jenem baute Noah die zerrissene Welt zusammen; sein gedachtes Ideal machte er zum Seienden, und ihm dann gegenüber setzte er alles als Gedachtes, d. h. als Beherrschtes, es versprach ihm, die ihm dienenden Elemente so in ihren Schranken zu halten, daß keine Wasserflut mehr die Menschen verderben sollte; unter dem Lebendigen, das einer solchen Beherrschung fähig ist, legte es den Menschen das Gesetz auf, das Gebot, sich selbst so zu beschränken, daß sie einander nicht mordeten; wer diese Schranken überträte, der falle seiner Macht anheim und werde also zum Leblosen; dieses Beherrschtwerden des Menschen vergütete es ihm dagegen auch durch Herrschaft über die Tiere; aber wenn es zwar diese eine Zerreißung des Lebendigen, die Tötung der Gewächse und Tiere sanktionierte und die durch Not abgedrungenen Feindseligkeiten zur gesetzmäßigen Herrschaft machte, so wurde doch das Lebendige noch insoweit geehrt, daß das Blut der Tiere zu essen verboten wurde, weil in demselben das Leben, die Seele der Tiere wäre, Gen."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "1rldha1xd6",
+   "sents": [
+    "Auf die entgegengesetzte Art legte Nimrod (wenn es erlaubt ist, hier mit den mosaischen Nachrichten auch die passende Darstellung zu verbinden, die Josephus, Jüd[ische] Altert[ümer], 1.",
+    "B., 4. Kap. von seiner Geschichte macht) in den Menschen die Einheit, setzte ihn zum Seienden ein, das die übrigen Wirklichen zu Gedachten mache, d. h. tötete, beherrschte; er versuchte es, die Natur so weit zu beherrschen, daß sie den Menschen nicht mehr gefährlich werden könnte; er setzte sich in Verteidigungszustand gegen sie, \"ein tollkühner und auf seinen starken Arm trotzender Mann; im Fall Gott es sich wieder gelüsten ließe, die Welt mit einer Wasserflut zu überschwemmen, drohte er, es nicht an Macht und Mitteln fehlen zu lassen, ihm genügsamen Widerstand zu tun; denn er hätte beschlossen, einen Turm zu bauen, der weit höher werden sollte, als die Wasserwogen und Wellen je sich auftürmen könnten, und auf solche Art den Untergang seiner Voreltern zu rächen (nach einer anderen Sage, Eupol[emos] bei Eusebios87) , sollen von der Flut selbst Übriggebliebene den Turm gebaut haben); er beredete die Menschen, alles Gute hätten sie sich selbst durch ihre Tapferkeit und Stärke erworben; und so veränderte er alles und gründete in kurzem eine tyrannische Herrschaft.\"",
+    "Er vereinigte die mißtrauisch gewordenen, einander entfremdeten Menschen, die sich nun zerstreuen wollten, nicht wieder zur frohen, einander und der Natur vertrauenden Geselligkeit, sondern hielt sie zwar zusammen, aber durch Gewalt.",
+    "Er verteidigte sich gegen das Wasser mit Mauern, war ein Jäger und ein König.",
+    "So mußten im Kampf gegen die Not die Elemente, die Tiere und die Menschen das Gesetz des Stärkeren, aber eines Lebendigen tragen."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1p8knvl1tw",
+   "sents": [
+    "Gegen die feindselige Macht sicherte sich Noah dadurch, daß er sie und sich einem Mächtigeren unterwarf, Nimrod, daß er selbst sie bändigte; beide schlossen mit dem Feinde einen Frieden der Not und verewigten so die Feindschaft; keiner versöhnte sich mit ihm, nicht wie ein schöneres Paar, Deukalion und Pyrrha nach ihrer Flut es taten, [die] die Menschen wieder zur Freundschaft mit der Welt, zur Natur einluden, sie durch Freude und Genuß der Not und Feindschaft vergessen machten, Frieden der Liebe schlossen, die Stammeltern schöner Nationen wurden und ihre Zeit zur Mutter einer neugeborenen, ihre Jugendblüte erhaltenden Natur machten."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "112cnymh7j",
+   "sents": [
+    "88) Abraham, in Chaldäa geboren, hatte schon in der Jugend mit seinem Vater ein Vaterland verlassen; nun riß er sich auch in den Ebenen Mesopotamiens vollends von seiner Familie los, um ein ganz selbständiger, unabhängiger Mann, selbst Oberhaupt zu sein, ohne beleidigt oder verstoßen zu sein, ohne den Schmerz, der nach einem Unrecht oder einer Grausamkeit das bleibende Bedürfnis der Liebe kundtut, die zwar verletzt, aber nicht verloren, ein neues Vaterland aufsucht, um dort zu blühen und ihrer selbst froh zu werden.",
+    "Der erste Akt, durch den Abraham zum Stammvater einer Nation wird, ist eine Trennung, welche die Bande des Zusammenlebens und der Liebe zerreißt, das Ganze der Beziehungen, in denen er mit Menschen und Natur bisher gelebt hatte; diese schönen Beziehungen seiner Jugend (Jos.",
+    "24, 3) stieß er von sich."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "ablnj8q6z4",
+   "sents": [
+    "Auch Kadmos, Danaos usw. hatten ihr Vaterland, aber [sie hatten es] im Kampf verlassen; sie suchten einen Boden auf, wo sie frei wären, um lieben zu können; Abraham wollte nicht lieben und darum frei sein; jene, um in unbefleckten schönen Vereinigungen, was ihnen in ihrem Lande nicht mehr vergönnt war, leben zu können, sie trugen diese Götter mit sich fort, - Abraham wollte frei von diesen Beziehungen selbst sein; jene lockten durch ihre milden Künste und Sitten die roheren Eingeborenen an sich und vermischten sich mit ihnen zu einem frohen und geselligen Volke.",
+    "Eben der Geist der Abraham von seiner Verwandtschaft weggeführt hatte, leitete ihn durch die fremden Nationen, mit denen [er] in der Folge seines Lebens zusammenstieß, - der Geist, sich in strenger Entgegensetzung gegen alles fest zu erhalten, das Gedachte erhoben zur herrschenden Einheit über die unendliche feindselige Natur, denn Feindseliges kann nur in die Beziehung der Herrschaft kommen.",
+    "Abraham irrte mit seinen Herden auf einem grenzenlosen Boden umher, von dem er nicht einzelne Stücke sich durch Bebauung, Verschönerung nähergebracht und so liebgewonnen und als Teile seiner Welt aufgenommen hätte; den Boden weidete nur sein Vieh ab.",
+    "Das Wasser ruhte in tiefen Brunnen, ohne lebende Bewegung; mühsam war es gegraben, teuer erkauft oder erstritten, ein erzwungenes Eigentum, ein Bedürfnis der Not für ihn und sein Vieh.",
+    "Die Haine, die ihm oft Schatten und Kühlung gaben, verließ er bald wieder, er hatte zwar Theophanien, Erscheinungen seines ganzen hohen Objekts in ihnen, aber auf ihnen selbst verweilte er nicht mit der Liebe, welche sie der Göttlichkeit wert und teilhaftig gemacht hätte.",
+    "Er war ein Fremdling auf Erden, wie gegen [den] Boden, so auch gegen die Menschen, unter denen er immer ein Fremder war und blieb; von ihnen [aber] nicht so entfernt und unabhängig, daß er gar nichts von ihnen zu wissen gebraucht, gar nichts mit ihnen zu tun gehabt hätte; das Land war schon so bevölkert, daß er auf seinen Zügen immer an Menschen anstieß, die sich bereits in kleine Völkerschaften vereinigt hatten, [aber] er ließ sich in keine solche Beziehungen ein; auch brauchte er Korn von ihnen, und dessenungeachtet sträubte er sich gegen sein Schicksal, das ihm ein stillstehendes Zusammenleben mit anderen geboten hätte.",
+    "Er hielt an seiner Absonderung fest, die er auch durch eine sich und seinen Nachkommen auferlegte körperliche Eigenheit auffallend machte.",
+    "Um Mächtigere herum, wie in Ägypten und in Gerar, bei den nichts Böses denkenden Königen, behalf er sich mißtrauisch durch List und Zweideutigkeiten, - wo Er der Stärkere zu sein glaubte, wie gegen die fünf Könige, da schlug er mit dem Schwert drein.",
+    "Mit anderen, durch die er nicht in Not kam, erhielt er sich sorgfältig in der rechtlichen Beziehung.",
+    "Was er brauchte, kaufte er; von dem gutmütigen Ephron ließ er sich den Begräbnisplatz für Sara schlechterdings nicht schenken und vermied es, [sich] gegen einen ihm gleichen Mann in die Beziehung dankbarer Empfindungen zu setzen.",
+    "Seinen Sohn ließ er ja keine Kanaaniterin heiraten, sondern ihm von seinen Verwandten, die weit entfernt von ihm wohnten, eine Frau holen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/9.p30.json"
+}

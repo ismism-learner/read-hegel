@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-01",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 1,
+   "si": 0,
+   "de": "Die Naturbeobachtung findet den Begriff in der unorganischen Natur realisiert, Gesetze, deren Momente Dinge sind, welche sich zugleich als Abstraktionen verhalten; aber dieser Begriff ist nicht eine in sich reflektierte Einfachheit, Das Leben der organischen Natur ist dagegen nur diese in sich reflektierte Einfachheit; der Gegensatz seiner selbst, als des Allgemeinen und des Einzelnen, tritt nicht im Wesen dieses Lebens selbst auseinander; das Wesen ist nicht die Gattung, welche in ihrem unterschiedslosen Elemente sich trennte und bewegte und in ihrer Entgegensetzung für sich selbst zugleich ununterschieden wäre.",
+   "en": "The observation of nature finds the concept realized in inorganic nature, namely laws whose moments are things that at the same time comport themselves as abstractions; but this concept is not a simplicity reflected into itself, the life of organic nature is on the other hand only this simplicity reflected into itself; the opposition of itself, as that of the universal and the individual, does not fall apart within the essence of this life itself; the essence is not the genus, which in its undifferentiated element would divide and move itself and in its opposition would at the same time be undifferentiated for itself.",
+   "zh": "对自然的观察发现概念在无机自然中得到了实现，也就是那些规律，它们的各个环节是物，而这些物同时又作为抽象物在活动；但这个概念并不是一种在自身中反思过的单一性，有机自然的生命则只是这种在自身中反思过的单一性；它自身作为普遍物与个别物的对立，并没有在这种生命本身的本质中分离开来；这个本质并不是类，即那个在其无差别的元素中会分裂并运动、并在其对立中同时自为地是无差别的类。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 1,
+   "si": 1,
+   "de": "Die Beobachtung findet diesen freien Begriff, dessen Allgemeinheit die entwickelte Einzelheit ebenso absolut in ihr selbst hat, nur in dem als Begriff existierenden Begriffe selbst oder in dem Selbstbewußtsein.",
+   "en": "Observation finds this free concept, whose universality has developed individuality just as absolutely within itself, only in the concept itself that exists as concept, or in self-consciousness.",
+   "zh": "观察发现，这个自由的概念，也就是其普遍性同样绝对地在自身中拥有展开的个别性的概念，只存在于那个作为概念而存在着的概念本身中，或者只存在于自我意识中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 0,
+   "de": "Indem sie sich nun in sich selbst kehrt und auf den als freien Begriff wirklichen Begriff richtet, findet sie zuerst die Gesetze des Denkens.",
+   "en": "Now, in that it turns into itself and directs itself upon the concept that is actual as free concept, it first finds the laws of thought.",
+   "zh": "当它现在转向自身之内，并指向那个作为自由概念而现实的概念时，它首先找到的是思维的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 1,
+   "de": "Diese Einzelheit, welche das Denken an ihm selbst ist, ist die abstrakte, ganz in die Einfachheit zurückgenommene Bewegung des Negativen, und die Gesetze sind außerhalb der Realität.",
+   "en": "This individuality, which thinking is on its own account, is the abstract movement of the negative wholly taken back into simplicity, and the laws are outside reality.",
+   "zh": "这种个别性，即思维在它自身上所是的个别性，就是那种抽象的、完全被收回到单一性之中的否定物的运动，而这些规律则在实在性之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 2,
+   "de": "– Sie haben keine Realität, heißt überhaupt nichts anderes als: sie sind ohne Wahrheit.",
+   "en": "– That they have no reality means, quite generally, nothing other than: they are without truth.",
+   "zh": "——它们没有实在性，一般说来无非意味着：它们没有真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 3,
+   "de": "Sie sollen auch zwar nicht ganze, aber doch formelle Wahrheit sein.",
+   "en": "They are indeed supposed to be not whole truth, but still formal truth.",
+   "zh": "它们虽然也不应当是完整的真理，但毕竟应当是形式的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 4,
+   "de": "Allein das rein Formelle ohne Realität ist das Gedankending oder die leere Abstraktion ohne die Entzweiung an ihr, welche nichts anderes als der Inhalt wäre.",
+   "en": "But the purely formal without reality is the thought-thing, or the empty abstraction without the division in it, which would be nothing other than the content.",
+   "zh": "但纯粹形式的东西若没有实在性，就是思想物，或者说就是那种在自身上没有分裂的空洞抽象，而这种分裂无非就是内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 5,
+   "de": "Auf der ändern Seite aber, indem sie Gesetze des reinen Denkens sind, dieses aber das an sich Allgemeine und also ein Wissen ist, welches unmittelbar das Sein und darin alle Realität an ihm hat, sind diese Gesetze absolute Begriffe und ungetrennt die Wesenheiten der Form wie der Dinge.",
+   "en": "But on the other side, since they are laws of pure thinking, while this is the universal in itself and hence a knowing that immediately has being, and therein all reality, on it, these laws are absolute concepts and inseparably the essentialities of form as of things.",
+   "zh": "但在另一方面，由于它们是纯粹思维的规律，而纯粹思维又是自在地普遍的东西，因而是一种知识，这种知识直接在自身上拥有存在、并在其中拥有一切实在性，所以这些规律是绝对的概念，并且不可分离地是形式和物的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 6,
+   "de": "Da die sich in sich bewegende Allgemeinheit der entzweite einfache Begriff ist, hat er auf diese Weise Inhalt an sich, und einen solchen, welcher aller Inhalt, nur nicht ein sinnliches Sein ist.",
+   "en": "Since the universality that moves within itself is the self-divided simple concept, it thereby has content in itself, and a content that is all content, only not a sensuous being.",
+   "zh": "由于在自身中运动着的普遍性是那自身分裂了的简单概念，所以它以这种方式在自身上拥有内容，而且是一种这样的内容：它是一切内容，只是不是感性的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 2,
+   "si": 7,
+   "de": "Es ist ein Inhalt, der weder im Widerspruche mit der Form noch überhaupt von ihr getrennt, sondern vielmehr wesentlich sie selbst ist; denn diese ist nichts anderes als das in seine reinen Momente sich trennende Allgemeine.",
+   "en": "It is a content that is neither in contradiction with the form nor at all separated from it, but is rather essentially the form itself; for this is nothing other than the universal that divides itself into its pure moments.",
+   "zh": "这是一种内容，它既不与形式相矛盾，也根本不与形式分离，而毋宁说本质上就是形式本身；因为形式无非就是那个把自己分裂成它那些纯粹环节的普遍物。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 0,
+   "de": "Wie aber diese Form oder Inhalt für die Beobachtung als Beobachtung ist, erhält sie die Bestimmung eines gefundenen, gegebenen, d. i. nur seienden Inhalts.",
+   "en": "But as this form or content is for observation as observation, it receives the determination of a found, given, that is, merely existing content.",
+   "zh": "但就这种形式或内容对于作为观察的观察而言所是的样子来说，它获得的是被找到的、被给予的、也就是说仅仅存在着的内容的规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 1,
+   "de": "Er wird ruhiges Sein von Beziehungen, eine Menge abgesonderter Notwendigkeiten, die als ein fester Inhalt an und für sich, in ihrer Bestimmtheit, Wahrheit haben sollen und so in der Tat der Form entzogen sind.",
+   "en": "It becomes the calm being of relations, a multitude of separated necessities, which as a firm content are supposed to have truth in and for themselves, in their determinacy, and are thus in fact withdrawn from the form.",
+   "zh": "它变成了种种关系的静止的存在，一大堆被分离出来的必然性，这些必然性作为固定的内容应当自在自为地、在其规定性中拥有真理，因此实际上被抽离了形式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 2,
+   "de": "– Diese absolute Wahrheit fixer Bestimmtheiten oder vieler verschiedener Gesetze widerspricht aber der Einheit des Selbstbewußtseins oder des Denkens und der Form überhaupt.",
+   "en": "– But this absolute truth of fixed determinacies, or of many different laws, contradicts the unity of self-consciousness, or of thinking and of form in general.",
+   "zh": "——但这种固定规定性的、或许多不同规律的绝对真理，却与自我意识的统一，或者说与思维以及一般意义上的形式的统一相矛盾。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 3,
+   "de": "Was für festes, an sich bleibendes Gesetz ausgesagt wird, kann nur ein Moment der sich in sich reflektierenden Einheit sein, nur als eine verschwindende Größe auftreten.",
+   "en": "Whatever is asserted as a firm law that persists in itself can only be a moment of the unity reflecting itself into itself, and can appear only as a vanishing magnitude.",
+   "zh": "凡被说成是固定的、自在地持存的规律的东西，都只能是那种在自身中反思自身的统一的一个环节，只能作为一种消逝着的量出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 4,
+   "de": "Aus diesem Zusammenhang der Bewegung aber von der Betrachtung herausgerissen und einzeln hingestellt, fehlt ihnen nicht der Inhalt, denn sie haben einen bestimmten Inhalt, sondern sie entbehren vielmehr der Form, welche ihr Wesen ist.",
+   "en": "But torn out of this context of movement by observation and placed singly, they do not lack content, for they have a determinate content, but rather they lack the form, which is their essence.",
+   "zh": "但如果被考察从这种运动的联系中抽出来、被单独地摆在那里，它们缺的就不是内容，因为它们有一种特定的内容，而是毋宁说缺少形式，而形式才是它们的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 5,
+   "de": "In der Tat nicht darum, weil sie nur formell sein und keinen Inhalt haben sollen, sondern vielmehr aus dem entgegengesetzten Grunde, weil sie in ihrer Bestimmtheit oder eben als ein Inhalt, dem die Form genommen ist, für etwas Absolutes gelten sollen, sind diese Gesetze nicht die Wahrheit des Denkens.",
+   "en": "In fact it is not because they are supposed to be merely formal and to have no content, but rather for the opposite reason, because in their determinacy, or precisely as a content from which the form has been taken, they are supposed to count as something absolute, that these laws are not the truth of thinking.",
+   "zh": "实际上，这些规律之所以不是思维的真理，并不是因为它们应当只是形式的、不应当有内容，而是毋宁说出自相反的理由，因为它们在它们的规定性中、或者说恰恰作为被拿掉了形式的内容，应当被视为某种绝对的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 6,
+   "de": "In ihrer Wahrheit, als in der Einheit des Denkens verschwindende Momente, müßten sie als Wissen oder denkende Bewegung, nicht aber als Gesetze des Wissens genommen werden.",
+   "en": "In their truth, as moments vanishing in the unity of thinking, they would have to be taken as knowing, or as thinking movement, but not as laws of knowing.",
+   "zh": "在它们的真理中，即作为在思维的统一中消逝着的环节，它们就必须被当作知识或思维的运动，而不是被当作知识的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 7,
+   "de": "Das Beobachten aber ist nicht das Wissen selbst und kennt es nicht, sondern verkehrt seine Natur in die Gestalt des Seins, d.h. faßt seine Negativität nur als Gesetze desselben auf.",
+   "en": "But observing is not knowing itself and does not know it, but rather inverts its nature into the shape of being, that is, it grasps its negativity only as laws of being.",
+   "zh": "但观察并不是知识本身，也不认识知识，而是把知识的本性颠倒成存在的形态，也就是说，只把它的否定性把握为存在的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 8,
+   "de": "– Es ist hier hinreichend, die Ungültigkeit der sogenannten Denkgesetze aus der allgemeinen Natur der Sache aufgezeigt zu haben.",
+   "en": "– Here it is sufficient to have shown the invalidity of the so-called laws of thought from the general nature of the matter.",
+   "zh": "——在这里，从事情的一般本性出发指明所谓思维规律的无效性，就已经足够了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 3,
+   "si": 9,
+   "de": "Die nähere Entwicklung gehört in die spekulative Philosophie, worin sie sich als dasjenige zeigen, was sie in Wahrheit sind, nämlich einzelne verschwindende Momente, deren Wahrheit nur das Ganze der denkenden Bewegung, das Wissen selbst ist.",
+   "en": "The closer development belongs in speculative philosophy, in which they show themselves as what they are in truth, namely individual vanishing moments, whose truth is only the whole of the thinking movement, knowing itself.",
+   "zh": "更切近的展开属于思辨哲学，在那里它们会显示出它们真正所是的东西，即一些个别的、消逝着的环节，而这些环节的真理只是思维运动的整体，即知识本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 4,
+   "si": 0,
+   "de": "Diese negative Einheit des Denkens ist für sich selbst, oder vielmehr sie ist das Fürsichselbstsein, das Prinzip der Individualität, und in seiner Realität tuendes Bewußtsein.",
+   "en": "This negative unity of thinking is for itself, or rather it is being-for-itself, the principle of individuality, and in its reality doing consciousness.",
+   "zh": "思维的这个否定性的统一是自为的，或者毋宁说，它就是自为存在，是个体性的原则，并且在它的实在性中就是行动着的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 4,
+   "si": 1,
+   "de": "Zu ihm als der Realität jener Gesetze wird daher das beobachtende Bewußtsein durch die Natur der Sache fortgeführt.",
+   "en": "To it, as the reality of those laws, observing consciousness is therefore led on by the nature of the matter.",
+   "zh": "因此，观察的意识被事情的本性继续引向它，即引向那些规律的实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 4,
+   "si": 2,
+   "de": "Indem dieser Zusammenhang nicht für es ist, so meint es, das Denken in seinen Gesetzen bleibe ihm auf der einen Seite stehen, und auf der ändern Seite erhalte es ein anderes Sein an dem, was ihm jetzt Gegenstand ist, nämlich das tuende Bewußtsein, welches so für sich ist, daß es das Anderssein aufhebt und in dieser Anschauung seiner selbst als des Negativen seine Wirklichkeit hat.",
+   "en": "Since this connection is not for it, it supposes that thinking with its laws remains standing for it on the one side, and that on the other side it obtains another being in what is now its object, namely doing consciousness, which is for itself in such a way that it sublates otherness and in this intuition of itself as the negative has its actuality.",
+   "zh": "由于这种联系不是为它的，它就以为，思维连同它的规律在它这一边停住不动，而在另一边它则在那个现在成为它对象的东西上获得另一种存在，即行动着的意识，这种意识如此自为地存在，以致它扬弃了他在，并且在这种把自己当作否定物的直观中拥有自己的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 5,
+   "si": 0,
+   "de": "Es eröffnet sich also für die Beobachtung ein neues Feld an der handelnden Wirklichkeit des Bewußtseins.",
+   "en": "Thus a new field opens up for observation in the acting actuality of consciousness.",
+   "zh": "于是，在意识的行动着的现实性那里，为观察打开了一片新的领域。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 5,
+   "si": 1,
+   "de": "Die Psychologie enthält die Menge von Gesetzen, nach welchen der Geist gegen die verschiedenen Weisen seiner Wirklichkeit, als eines vorgefundenen Andersseins, sich verschieden verhält; teils diese in sich zu empfangen und den vorgefundenen Gewohnheiten, Sitten und Denkungsart, als worin er sich als Wirklichkeit Gegenstand ist, gemäß zu werden, teils gegen sie sich selbsttätig zu wissen, mit Neigung und Leidenschaft nur Besonderes daraus für sich herauszugreifen und das Gegenständliche sich gemäß zu machen, – dort sich gegen sich selbst als Einzelheit, hier gegen sich als allgemeines Sein negativ zu verhalten.",
+   "en": "Psychology contains the multitude of laws according to which spirit comports itself differently toward the various modes of its actuality, as toward a found otherness; partly to receive these into itself and to become conformable to the found habits, customs and way of thinking, as that in which it is an object to itself as actuality, partly to know itself as self-active against them, to pick out for itself, with inclination and passion, only something particular from them, and to make the objective conformable to itself, – there to comport itself negatively toward itself as individuality, here toward itself as universal being.",
+   "zh": "心理学包含着大量规律，精神依照这些规律而对它的现实性的各种方式，即作为一种被找到的他在，采取不同的态度；它一方面要把这些方式接纳到自身中，并变得符合那些被找到的习惯、风俗和思维方式，即在其中它作为现实性而对自己成为对象的东西，另一方面则要针对它们而知道自己是在自主活动的，带着爱好和激情只从中为自己挑出特殊的东西，并使那些对象性的东西符合自己，——在那里是对作为个别性的自己、在这里则是对作为普遍存在的自己采取否定的态度。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 5,
+   "si": 2,
+   "de": "– Die Selbständigkeit gibt dem Vorgefundenen nach der ersten Seite nur die Form bewußter Individualität überhaupt und bleibt in Ansehung des Inhalts innerhalb der vorgefundenen allgemeinen Wirklichkeit stehen; nach der ändern Seite aber gibt sie ihr wenigstens eine eigentümliche Modifikation, die ihrem wesentlichen Inhalte nicht widerspricht, oder auch eine solche, wodurch das Individuum als besondere Wirklichkeit und eigentümlicher Inhalt sich ihr entgegensetzt – und zum Verbrechen wird, indem es sie auf eine nur einzelne Weise aufhebt, oder indem es dies auf eine allgemeine Weise und damit für alle tut, eine andere Welt, anderes Recht, Gesetz und Sitten an die Stelle der vorhandenen bringt.",
+   "en": "– Independence, on the first side, gives to the found material only the form of conscious individuality in general and, as regards the content, remains standing within the found universal actuality; but on the other side it gives it at least a peculiar modification that does not contradict its essential content, or also one through which the individual, as particular actuality and peculiar content, opposes itself to it – and becomes crime, in that it sublates it in a merely individual way, or in that it does this in a universal way and thereby for all, and brings another world, another right, law and customs in the place of the existing ones.",
+   "zh": "——独立性按照第一方面只给被找到的东西赋予一般意义上的有意识的个体性这一形式，并且在内容方面停留在被找到的普遍现实性之内；但按照另一方面，它至少给它一种独特的改变，这种改变并不与它的本质内容相矛盾，或者也给它这样一种改变：通过这种改变，个体作为特殊的现实性和独特的内容而与它对立起来——并且成为犯罪，因为它以一种仅仅个别的方式扬弃它，或者因为它以普遍的方式、从而为所有人这样做，把另一个世界、另一种法权、规律和风俗搬到现存的东西的位置上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 6,
+   "si": 0,
+   "de": "Die beobachtende Psychologie, welche zuerst ihre Wahrnehmungen von den allgemeinen Weisen, die ihr an dem tätigen Bewußtsein vorkommen, ausspricht, findet mancherlei Vermögen, Neigungen und Leidenschaften, und indem sich die Erinnerung an die Einheit des Selbstbewußtseins bei der Hererzählung dieser Kollektion nicht unterdrücken läßt, muß sie wenigstens bis zur Verwunderung fortgehen, daß in dem Geiste, wie in einem Sacke, so vielerlei und solche heterogene, einander zufällige Dinge beisammen sein können, besonders auch da sie sich nicht als tote ruhende Dinge, sondern als unruhige Bewegungen zeigen.",
+   "en": "Observing psychology, which first expresses its perceptions of the universal ways that occur to it in acting consciousness, finds various faculties, inclinations and passions, and since the recollection of the unity of self-consciousness cannot be suppressed in the recounting of this collection, it must at least proceed to astonishment that in the spirit, as in a sack, so much and such heterogeneous, mutually contingent stuff can be together, especially since these show themselves not as dead, resting things but as restless movements.",
+   "zh": "观察的心理学首先说出它对于在行动的意识身上出现的那些普遍方式的知觉，它找到各种各样的能力、倾向和激情，而由于在讲述这一堆东西时，对自我意识之统一的回忆无法被压制下去，它至少必须一直走到惊奇：在精神里，就像在一个袋子里，竟能有如此多种多样的、如此不同类而彼此偶然的东西凑在一起，尤其是因为它们并不表现为死的、静止的东西，而是表现为不安的运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 7,
+   "si": 0,
+   "de": "In der Hererzählung dieser verschiedenen Vermögen ist die Beobachtung in der allgemeinen Seite; die Einheit dieser vielfachen Fähigkeiten ist die dieser Allgemeinheit entgegengesetzte Seite, die wirkliche Individualität.",
+   "en": "In the recounting of these various faculties, observation is on the universal side; the unity of these manifold capacities is the side opposed to this universality, actual individuality.",
+   "zh": "在讲述这些不同的能力时，观察处在普遍的那一面；这些多种多样能力的统一则是与这种普遍性相对立的那一面，即现实的个体性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 7,
+   "si": 1,
+   "de": "– Die unterschiedenen wirklichen Individualitäten wieder so aufzufassen und zu erzählen, daß der eine Mensch mehr Neigung zu diesem, der andere mehr zu jenem, der eine mehr Verstand als der andere habe, hat aber etwas viel Uninteressanteres, als selbst die Arten von Insekten, Moosen usf. aufzuzählen; denn diese geben der Beobachtung das Recht, sie so einzeln und begrifflos zu nehmen, weil sie wesentlich dem Elemente der zufälligen Vereinzelung angehören.",
+   "en": "– But to grasp and recount the distinct actual individualities in such a way that the one human being has more inclination to this, the other more to that, the one more understanding than the other, has something far more uninteresting than even to enumerate the species of insects, mosses, etc.; for these give observation the right to take them thus singly and without concept, because they essentially belong to the element of contingent singling-out.",
+   "zh": "——但把这些有区别的、现实的个体性又这样来领会和讲述：这一个人更多地倾向于这种，另一个人更多地倾向于那种，这一个人比另一个人更有知性——这却比列举昆虫、苔藓等等的种还要无聊得多；因为后者给了观察以权利，把它们这样单个地、无概念地来看待，因为它们本质上属于偶然的个别化这一要素。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 7,
+   "si": 2,
+   "de": "Die bewußte Individualität hingegen geistlos als einzelne seiende Erscheinung zu nehmen, hat das Widersprechende, daß ihr Wesen das Allgemeine des Geistes ist.",
+   "en": "To take conscious individuality, by contrast, spiritlessly as a single existing appearance, has the contradictory character that its essence is the universal of spirit.",
+   "zh": "与此相反，把有意识的个体性无精神地当作单个存在着的现象来把握，却含有这样的矛盾：它的本质是精神的普遍之物。"
+  }
+ ]
+}

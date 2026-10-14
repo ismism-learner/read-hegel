@@ -1,0 +1,71 @@
+{
+ "id": "w2-13-66",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "7nwmbv36k1",
+   "sents": [
+    "Vergebens!",
+    "Er eilt auf die Bühne des Lebens, wo Tugend und Laster verschlungen, Gutes aus Bösem, Böses aus Gutem herkommt.",
+    "Immer mehr verwirrt sich der Geist.",
+    "Er sieht die Kette der Notwendigkeit um die freien Geschöpfe geschlungen, knirscht, daß keiner Herr seiner Taten ist, und kann's nicht ändern.",
+    "Er muß alles seinen ewigen Lauf gehen lassen, dahingegen jene Macht, die er nicht sieht, die nur seiner zu spotten scheint, tiefes Dunkel, finsteres Schweigen einhüllt.",
+    "Dem Geist des Menschen ist alles dunkel, er ist sich selbst ein Rätsel."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "11rz5x01h8",
+   "sents": [
+    "Theologie gewährt, was die Spekulation versagt: Was tat ich Eurem Gott, der ich nur strebte, die Gesetze der Menschheit nach der Leitung des Herzens zu erfüllen, Eurem Gotte, der auf kein Opfer Euren Wünschen beistand, keines Eurer Leiden stillte, zu dem der von Euch Geplagte vergebens ruft?",
+    "Notwendigkeit ist der Name der gewaltigen, unbekannten Macht.",
+    "Dies ist alles, was du fassest.",
+    "Unterwirf dich und stirb."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "1482sqc4qf",
+   "sents": [
+    "Nicht die Gottheit, sondern die Menschheit selbst durch Mißbrauch ihrer Gaben, durch falsche Anwendung ihrer Fähigkeiten, durch Kleinmut und Trägheit, trägt die Schuld von allem.",
+    "Der Mensch mißbraucht, was ihm zu seinem Glück gegeben ist, Religion, Regierung und die Wissenschaft.",
+    "Am glücklichsten, der in stiller Ruhe, fern von der rauschenden Tätigkeit der Menschen, seine Tage hinlebt, ohne zu wissen, wie die Menschen regiert werden, und ohne nachzuforschen, warum Gott vor unseren Augen Dinge geschehen läßt, wie wir sie täglich geschehen sehen.",
+    "Kann das aber der Mensch?",
+    "Bestimmt er seine Lage und sein Schicksal?",
+    "Wird er nicht gewaltsam hineingerissen in den Strudel des Lebens?",
+    "Das große Warum kehrt wieder."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "5ldusj1rzs",
+   "sents": [
+    "Der Gott nicht mehr anklagende, seine Abhängigkeit aber anerkennende Mensch will wissen, zu welchem Zweck er da ist.",
+    "Und kann er keine Antwort erzwingen, so möchte er doch wissen, warum die Natur mit ihm auf halbem Wege stehengeblieben und ihn da nur ahnen läßt, wo er Gewißheit fordert.",
+    "Der Mensch ist Herr seines Schicksals und seiner Bestimmung.",
+    "Er kann durch sein Wirken den schönen Gang der moralischen Welt befördern und stören, und das ganze Menschengeschlecht vom Bettler bis zum König ist Werkmeister der moralischen Welt.",
+    "Der Mensch entwickelt nur das in ihn gelegte Streben, wie jedes Ding der sichtbaren Welt, nur mit dem Unterschiede, daß nur ihn sein freier Wille und sein das Böse und Gute begreifender Sinn der Strafe und der Belohnung fähig machen. - Ich habe die Neigung zum Bösen besiegt.",
+    "Die Reinheit meines Willens ist es, das Gefühl, nach den Gesetzen der Vernunft gehandelt zu haben, die Überzeugung, daß ein Wesen nicht vergehen kann, das durch den Verstand gewirkt hat, sind es, die mich erheben. - Rastloser, kühner, oft fruchtloser Kampf des Edlen mit den von diesen Göttern erzeugten Gespenstern: Entzweiung des Herzens und des Verstandes; die erhabenen Träume und die tierischen, verderbten; der reine und hohe Sinn, Heldentaten und Verbrechen; Klugheit und Wahnsinn; Gewalt und seufzende Unterwerfung; die ganze menschliche Gesellschaft mit ihren Wundern und Torheiten, Scheußlichkeiten und Vorzügen. - Allein - ist jener Enthusiasmus wohl mehr als der Traum eines Schwärmers?",
+    "Rechtfertigt ihn der kalte Verstand?",
+    "Jagen wir nicht, ihm folgend, leeren Schatten nach und verlieren darüber die Wesenheit?",
+    "Ja, läßt sich, so wie die Welt nun einmal ist, wie ihre jetzigen Verhältnisse sind, überhaupt ein solcher Traum realisieren?"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p66.json"
+}

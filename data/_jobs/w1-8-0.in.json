@@ -1,0 +1,95 @@
+{
+ "id": "w1-8-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "Eleusis 66)",
+ "heading": "Eleusis66)",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1inzip81lg",
+   "text": "Eleusis66)"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1pk40w5iim",
+   "sents": [
+    "An Hölderlin (August 1796)"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "3tjrw7mq5k",
+   "sents": [
+    "Um mich, in mir wohnt Ruhe, - der geschäft'gen Menschen Nie müde Sorge schläft, sie geben Freiheit Und Muse mir - Dank dir, du meine Befreierin, o Nacht!",
+    "Mit weißem Nebelflor Umzieht der Mond die ungewissen Grenzen Der fernen Hügel; freundlich blinkt Der helle Streif des Sees herüber, Des Tags langweil'ges Lärmen fernt Erinnerung, Als lägen Jahre zwischen ihm und jetzt.",
+    "Dein Bild, Geliebter, tritt vor mich, Und der entfloh'nen Tage Lust; doch bald weicht sie Des Wiedersehens süßern Hoffnungen - Schon malt sich mir der langersehnten, feurigen Umarmung Szene; dann der Fragen, des geheimern Des wechselseitigen Ausspähens Szene, Was hier an Haltung, Ausdruck, Sinnesart am Freund Sich seit der Zeit geändert, - der Gewißheit Wonne, Des alten Bundes Treue fester, reifer noch zu finden, Des Bundes, den kein Eid besiegelte, Der freien Wahrheit nur zu leben, Frieden mit der Satzung, Die Meinung und Empfindung regelt, nie, nie einzugehn.",
+    "Nun unterhandelt mit der trägern Wirklichkeit der Wunsch, Der über Berge, Flüsse leicht mich zu dir trug, - Doch ihren Zwist verkündet bald ein Seufzer, und mit ihm Entflieht der süßen Phantasien Traum."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "6hltrs1mwn",
+   "sents": [
+    "Mein Aug' erhebt sich zu des ew'gen Himmels Wölbung, Zu dir, o glänzendes Gestirn der Nacht!",
+    "Und aller Wünsche, aller Hoffnungen Vergessen strömt aus deiner Ewigkeit herab; (Der Sinn verliert sich in dem Anschaun, Was mein ich nannte, schwindet, Ich gebe mich dem Unermeßlichen dahin, Ich bin in ihm, bin alles, bin nur es.",
+    "Dem wiederkehrenden Gedanken fremdet, Ihm graut vor dem Unendlichen, und staunend faßt Er dieses Anschauns Tiefe nicht.",
+    "Dem Sinne nähert Phantasie das Ewige, Vermählt es mit Gestalt)67) - Willkommen, ihr Erhab'ne Geister, hohe Schatten, Von deren Stirne die Vollendung strahlt!",
+    "Er schrecket nicht, - ich fühl, es ist auch meiner Heimat Äther Der Ernst, der Glanz, der euch umfließt.",
+    "Ha! sprängen jetzt die Pforten deines Heiligtums von selbst O Ceres, die du in Eleusis throntest!",
+    "Begeistrung trunken fühlt' ich jetzt Die Schauer deiner Nähe, Verstände deine Offenbarungen, Ich deutete der Bilder hohen Sinn, vernähme Die Hymnen bei der Götter Mahlen, Die hohen Sprüche ihres Rats. -"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "nf5k8h17u9",
+   "sents": [
+    "Doch deine Hallen sind verstummt, o Göttin!",
+    "Geflohen ist der Götter Kreis zurück in den Olymp Von den geheiligten Altären, Geflohn von der entweihten Menschheit Grab Der Unschuld Genius, der her sie zauberte! - Die Weisheit Deiner Priester schweigt; kein Ton der heil'gen Weihn"
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "xrh5cc1t99",
+   "sents": [
+    "Hat sich zu uns gerettet - und vergebens sucht Des Forschers Neugier mehr als Liebe Zur Weisheit (sie besitzen die Sucher und Verachten dich) - um sie zu meistern, graben sie nach Worten, In die Dein hoher Sinn gepräget wär!",
+    "Vergebens!",
+    "Etwa Staub und Asche nur erhaschten sie, Worein dein Leben ihnen ewig nimmer wiederkehrt.",
+    "Doch unter Moder und Entseeltem auch gefielen sich Die ewig Toten! - die Genügsamen - Umsonst - es blieb Kein Zeichen deiner Feste, keines Bildes Spur.",
+    "Dem Sohn der Weihe war der hohen Lehren Fülle, Des unaussprechlichen Gefühles Tiefe viel zu heilig, Als daß er trockne Zeichen ihrer würdigte.",
+    "Schon der Gedanke faßt die Seele nicht, Die außer Zeit und Raum in Ahndung der Unendlichkeit Versunken, sich vergißt, und wieder zum Bewußtsein nun Erwacht.",
+    "Wer gar davon zu andern sprechen wollte, Spräch er mit Engelzungen, fühlt' der Worte Armut.",
+    "Ihm graut, das Heilige so klein gedacht, Durch sie so klein gemacht zu haben, daß die Red' ihm Sünde deucht"
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "188fp1b14j",
+   "sents": [
+    "Und daß er lebend sich den Mund verschließt.",
+    "Was der Geweihte sich so selbst verbot, verbot ein weises Gesetz den ärmern Geistern, das nicht kund zu tun, Was er in heil'ger Nacht gesehn, gehört, gefühlt: Daß nicht den Bessern selbst auch ihres Unfugs Lärm In seiner Andacht stört', ihr hohler Wörterkram Ihn auf das Heil'ge selbst erzürnen machte, dieses nicht So in den Kot getreten würde, daß man dem Gedächtnis gar es anvertraute, - daß es nicht [Zum] Spielzeug und zur Ware des Sophisten, Die er obolenweis verkaufte, Zu des beredten Heuchlers Mantel oder gar Zur Rute schon des frohen Knaben, und so leer Am Ende würde, daß es nur im Widerhall Von fremden Zungen seines Lebens Wurzel hätte.",
+    "Es trugen geizig deine Söhne, Göttin, Nicht deine Ehr' auf Gass' und Markt, verwahrten sie Im innern Heiligtum der Brust.",
+    "Drum lebtest du auf ihrem Munde nicht.",
+    "Ihr Leben ehrte dich.",
+    "In ihren Taten lebst du noch.",
+    "Auch diese Nacht vernahm ich, heil'ge Gottheit, Dich, Dich offenbart oft mir auch deiner Kinder Leben, Dich ahn' ich oft als Seele ihrer Taten!",
+    "Du bist der hohe Sinn, der treue Glauben, Der, eine Gottheit, wenn auch Alles untergeht, nicht wankt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/8.p0.json"
+}

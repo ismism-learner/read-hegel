@@ -1,0 +1,54 @@
+{
+ "id": "rev-w3-3-12",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 5,
+   "de": "Es wird daher für es sein Willen wohl zum allgemeinen und an sich seienden Willen, aber es selbst ist sich nicht dies Ansich; das Aufgeben des seinigen als einzelnen ist ihm nicht dem Begriffe nach das Positive des allgemeinen Willens.",
+   "en": "Its will therefore indeed becomes for it a universal and in-itself-existing will, but it itself is not, for itself, this in-itself; the giving up of its own as singular is not, according to the concept, for it the positive of the universal will.",
+   "zh": "因此它的意志对它来说固然成了普遍的、自在存在着的意志，但它自己对自己来说并不是这种自在；而它把自己的意志当作个别的来放弃，按照概念来说对它并不是普遍意志的肯定的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 6,
+   "de": "Ebenso sein Aufgeben des Besitzes und Genusses hat nur dieselbe negative Bedeutung, und das Allgemeine, das für es dadurch wird, ist ihm nicht sein eigenes Tun.",
+   "en": "Likewise its giving up of possession and enjoyment has only the same negative meaning, and the universal that thereby comes to be for it is not its own doing.",
+   "zh": "同样，它放弃占有和享受也只有同样的否定意义，而由此为它产生的普遍，对它来说并不是它自己的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 7,
+   "de": "Diese Einheit des Gegenständlichen und des Fürsichseins, welche im Begriffe des Tuns ist und welche darum dem Bewußtsein als das Wesen und Gegenstand wird, – wie sie ihm nicht der Begriff seines Tuns ist, so ist ihm auch dies nicht, daß sie als Gegenstand für es wird, unmittelbar und durch es selbst, sondern es läßt sich von dem vermittelnden Diener diese selbst noch gebrochene Gewißheit aussprechen, daß nur an sich sein Unglück das verkehrte, nämlich sich in seinem Tun selbstbefriedigendes Tun oder seliger Genuß, sein ärmliches Tun ebenso an sich das verkehrte, nämlich absolutes Tun, dem Begriffe nach das Tun nur als Tun des Einzelnen überhaupt Tun ist.",
+   "en": "This unity of the objective and of being-for-itself, which is in the concept of the doing and which therefore becomes for consciousness the essence and the object — just as it is not for consciousness the concept of its doing, so neither is this for it, that it becomes object for it immediately and through itself; on the contrary, it lets the mediating servant express to it this still broken certainty: that only in itself is its unhappiness the inverted one, namely a doing that satisfies itself in its doing, or blessed enjoyment; that its wretched doing is likewise in itself the inverted one, namely absolute doing; that, according to the concept, doing is doing only as the doing of the singular in general.",
+   "zh": "这种对象性的东西与自为存在的统一，存在于行动的概念中，并因此对意识成为本质和对象，——正如这种统一对它来说并不是它行动的概念，它作为对象直接地并通过它自身而成为为它的对象这一点，对它来说也不是〔事实〕，相反，它是让中介的仆人向它说出这种本身还破碎的确定性：即只是自在地，它的不幸才是颠倒的东西，也就是在它的行动中自我满足的行动或至福的享受，它可怜的行动同样自在地是颠倒的东西，也就是绝对的行动，而按照概念来说，行动只有作为个别者的行动才一般地是行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 8,
+   "de": "Aber für es selbst bleibt das Tun und sein wirkliches Tun ein ärmliches und sein Genuß der Schmerz und das Aufgehobensein derselben in der positiven Bedeutung ein Jenseits.",
+   "en": "But for it itself the doing, and its actual doing, remains a wretched one, and its enjoyment remains pain, and the being-sublated of these in the positive meaning remains a beyond.",
+   "zh": "但对它自己来说，行动以及它现实的行动仍然是一种可怜的行动，它的享受仍然是痛苦，而它们之被扬弃在肯定意义中仍然是一个彼岸。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 68,
+   "si": 9,
+   "de": "Aber in diesem Gegenstande, worin ihm sein Tun und Sein, als dieses einzelnen Bewußtseins, Sein und Tun an sich ist, ist ihm die Vorstellung der Vernunft geworden, der Gewißheit des Bewußtseins, in seiner Einzelheit absolut an sich oder alle Realität zu sein.",
+   "en": "But in this object, in which its doing and being, as that of this singular consciousness, is being and doing in itself, the representation of reason has come to be for it, namely that of the certainty of consciousness, that in its singularity it is absolutely in itself, or all reality.",
+   "zh": "但在这个对象中，在其中它的行动和存在作为这个个别意识的东西自在地就是存在和行动，理性的表象已经为它形成了，也就是意识的那种确定性：它在自己的个别性中绝对自在地，或者说就是一切实在性。"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-06",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 8,
+   "de": "– Indem wir so beide Momente in ihrer unmittelbaren Einheit erhalten, so ist eigentlich der Verstand, dem der Begriff der Kraft angehört, der Begriff, welcher die unterschiedenen Momente als unterschiedene trägt; denn an ihr selbst sollen sie nicht unterschieden sein; der Unterschied ist hiermit nur im Gedanken.",
+   "en": "– If we thus hold both moments in their immediate unity, then properly the understanding, to which the concept of force belongs, is the concept that bears the differentiated moments as differentiated; for in force itself they are not to be differentiated; the difference is herewith only in thought.",
+   "zh": "——我们这样把两个环节保持在它们的直接统一中，那么其实，力这个概念所隶属的知性，就是那个把有差别的各环节作为有差别的东西来承载的概念；因为就力自身来说，它们不应当有差别；所以差别仅仅在思想里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 9,
+   "de": "– Oder es ist im Obigen nur erst der Begriff der Kraft, nicht ihre Realität gesetzt worden.",
+   "en": "– Or in the above only the concept of force has as yet been posited, not its reality.",
+   "zh": "——或者说，上面所设定的还只是力的概念，而不是它的实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 10,
+   "de": "In der Tat aber ist die Kraft das Unbedingt-Allgemeine, welches, was es für ein Anderes, ebenso an sich selbst ist; oder welches den Unterschied – denn er ist nichts anderes als das Für-ein-Anderes-Sein – an ihm selbst hat.",
+   "en": "In fact, however, force is the unconditioned universal, which is for an other just as much as it is in itself; or which has the difference – for it is nothing other than being-for-another – in itself.",
+   "zh": "但实际上，力就是无条件的普遍者，它对他物而言是什么，同样也就自在地是什么；或者说，它在自己身上就具有差别——因为差别无非就是为他存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 11,
+   "de": "Daß also die Kraft in ihrer Wahrheit sei, muß sie ganz vom Gedanken frei gelassen und als die Substanz dieser Unterschiede gesetzt werden, d.h. einmal: sie als diese ganze Kraft wesentlich an und für sich bleibend, und dann: ihre Unterschiede als substantiell oder als für sich bestehende Momente.",
+   "en": "So that force may be in its truth, it must be entirely set free from thought and posited as the substance of these differences, i.e. first: it as this whole force remaining essentially in and for itself, and then: its differences as substantial or as moments subsisting for themselves.",
+   "zh": "所以，力要存在于其真理中，就必须完全从思想中解放出来，被设定为这些差别的实体，也就是说：一方面，它作为这整个力本质上自在自为地持存着，另一方面，它的各种差别是实体性的，或者是自为地持存着的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 12,
+   "de": "Die Kraft als solche oder als in sich zurückgedrängte ist. hiermit für sich als ein ausschließendes Eins, welchem die Entfaltung der Materien ein anderes bestehendes Wesen ist, und es sind so zwei unterschiedene selbständige Seiten gesetzt.",
+   "en": "Force as such, or as driven back into itself, is herewith for itself as an excluding one, for which the unfolding of the matters is another subsisting essence, and thus two distinct independent sides are posited.",
+   "zh": "力作为这样的力，或者作为被推回到自身之内的力，因此是自为的、排斥性的一，对它来说，质料的展开是另一个持存着的本质，这样就设定了两个有差别的、独立的方面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 13,
+   "de": "Aber die Kraft ist auch das Ganze, oder sie bleibt, was sie ihrem Begriffe nach ist, nämlich diese Unterschiede bleiben reine Formen, oberflächliche verschwindende Momente.",
+   "en": "But force is also the whole, or it remains what it is according to its concept, namely these differences remain pure forms, superficial vanishing moments.",
+   "zh": "但力也是整体，或者说，力保持着它按自己的概念所是的东西，即这些差别保持为纯粹的形式，表面的、消逝着的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 14,
+   "de": "Die Unterschiede der in sich zurückgedrängten eigentlichen Kraft und der Entfaltung der selbständigen Materien wären zugleich gar nicht, wenn sie nicht ein Bestehen hätten, oder die Kraft wäre nicht, wenn sie nicht auf diese entgegengesetzte Weise existierte, aber, sie existiert auf diese entgegengesetzte Weise, heißt nichts anderes als: beide Momente sind selbst zugleich selbständig.",
+   "en": "The differences of the force driven back into itself, the proper force, and of the unfolding of the independent matters would at the same time not be at all, if they had no subsistence, or force would not be, if it did not exist in this opposed way, but that it exists in this opposed way means nothing other than: both moments are themselves at the same time independent.",
+   "zh": "被推回到自身之内的本真的力与独立质料的展开之间的那些差别，如果它们没有一种持存，也就同时根本不会存在；或者说，力如果不在这种对立的方式上存在，它就不会存在，但它在这样对立的方式上存在，无非是说：两个环节本身同时是独立的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 15,
+   "de": "– Diese Bewegung des sich beständig Verselbständigens der beiden Momente und ihres sich wieder Aufhebens ist es also, was zu betrachten ist.",
+   "en": "– It is thus this movement of the constant self-empowerment of the two moments and of their sublating themselves again that is to be considered.",
+   "zh": "——所以，要考察的就是两个环节不断独立化、又不断自我扬弃的这种运动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 16,
+   "de": "– Es erhellt im allgemeinen, daß diese Bewegung nichts anderes ist als die Bewegung des Wahrnehmens, worin die beiden Seiten, das Wahrnehmende und das Wahrgenommene zugleich, einmal als das Auffassen des Wahren eins und Ununterschieden, dabei aber ebensowohl jede Seite in sich reflektiert oder für sich ist.",
+   "en": "– It is evident in general that this movement is nothing other than the movement of perception, in which the two sides, the perceiving and the perceived, are at the same time, once as the apprehension of the true, one and undifferentiated, but thereby just as much each side is reflected into itself or for itself.",
+   "zh": "——一般可以看出，这种运动无非就是知觉的运动，其中两个方面，即知觉者和被知觉者，同时一度作为真的东西的把握而是一体的、无差别的，但与此同时，每一方面又同样是自身反思的，或者说是自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 17,
+   "de": "Hier sind diese beiden Seiten Momente der Kraft; sie sind ebensowohl in einer Einheit, als diese Einheit, welche gegen die für sich seienden Extreme als die Mitte erscheint, sich immer in eben diese Extreme zersetzt, die erst dadurch sind.",
+   "en": "Here these two sides are moments of force; they are just as much in a unity, as this unity, which appears against the extremes that are for themselves as the middle, always decomposes into precisely these extremes, which only thereby are.",
+   "zh": "在这里，这两个方面是力的环节；它们同样处于一个统一体中，而这个统一体相对于那些自为存在的极端表现为中间项，它又总是分解为正是这些极端，而极端只有通过这种分解才存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 28,
+   "si": 18,
+   "de": "– Die Bewegung, welche sich vorhin als das Sichselbstvernichten widersprechender Begriffe darstellte, hat also hier die gegenständliche Form und ist Bewegung der Kraft, als deren Resultat das Unbedingt-Allgemeine als Ungegenständliches oder als Inneres der Dinge hervorgeht.",
+   "en": "– The movement that previously presented itself as the self-destruction of contradictory concepts thus has here the objective form and is the movement of force, as whose result the unconditioned universal emerges as non-objective or as the inner of things.",
+   "zh": "——先前表现为互相矛盾的概念之自我消灭的那种运动，在这里因此具有了对象性的形式，并且是力的运动，作为它的结果，无条件的普遍者作为非对象性的东西、或者说作为物的内在而出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 0,
+   "de": "Die Kraft ist, wie sie bestimmt worden, indem sie als solche oder als in sich reflektiert vorgestellt wird, die eine Seite ihres Begriffs; aber als ein substantiiertes Extrem, und zwar das unter der Bestimmtheit des Eins gesetzte.",
+   "en": "Force, as it has been determined, in that it is represented as such or as reflected into itself, is the one side of its concept; but [it is represented] as a substantiated extreme, and indeed the one posited under the determinacy of the One.",
+   "zh": "力，正如它已被规定的那样，当它被表象为力本身或表象为在自身中反思着的时候，就是它的概念的一面；但却是被实体化的极端，而且是被设定在“一”的规定性之下的那个极端。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 1,
+   "de": "Hiermit ist das Bestehen der entfalteten Materien aus ihr ausgeschlossen und ein Anderes als sie.",
+   "en": "Hereby the subsistence of the developed matters is excluded from it and is an other than it.",
+   "zh": "这样一来，已经展开的质料的持存就被排除在力之外，而且是不同于力的他者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 2,
+   "de": "Indem es notwendig ist, daß sie selbst dieses Bestehen sei oder daß sie sich äußere, so stellt sich ihre Äußerung so vor, daß jenes Andere zu ihr hinzutritt und sie sollizitiert.",
+   "en": "Since it is necessary that it itself be this subsistence, or that it express itself, its expression presents itself in such a way that that other accedes to it and solicits it.",
+   "zh": "既然力本身必然是这种持存，或者说力必然表现自己，那么力的表现就呈现为这样：那个他者加到力身上来，并推动力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 3,
+   "de": "Aber in der Tat, indem sie notwendig sich äußert, hat sie dies, was als ein anderes Wesen gesetzt war, an ihr selbst.",
+   "en": "But in fact, since it necessarily expresses itself, it has this, which was posited as another essence, on itself.",
+   "zh": "但事实上，既然力必然表现自己，它就在自身身上具有那个曾被设定为另一个本质的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 4,
+   "de": "Es muß zurückgenommen werden, daß sie als ein Eins und ihr Wesen, sich zu äußern, als ein Anderes, zu ihr von außen Hinzutretendes gesetzt wurde; sie ist vielmehr selbst dies allgemeine Medium des Bestehens der Momente als Materien; oder sie hat sich geäußert, und was das andere Sollizitierende sein sollte, ist sie vielmehr.",
+   "en": "It must be retracted that it was posited as a One and its essence, to express itself, as an other acceding to it from outside; it is rather itself this universal medium of the subsistence of the moments as matters; or it has expressed itself, and what was supposed to be the other, the soliciting [factor], is rather it.",
+   "zh": "必须收回这一点：力曾被设定为一个“一”，而它表现自己这一本质曾被设定为一个从外面加到它身上来的他者；力毋宁说本身就是诸环节作为质料而持存的这个普遍介质；或者说，力已经表现了自己，而那个本该是另一个推动者的东西，毋宁说就是力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 5,
+   "de": "Sie existiert also jetzt als das Medium der entfalteten Materien.",
+   "en": "It therefore now exists as the medium of the developed matters.",
+   "zh": "所以力现在作为已经展开的质料的介质而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 6,
+   "de": "Aber sie hat gleich wesentlich die Form des Aufgehobenseins der bestehenden Materien oder ist wesentlich Eins; dies Einssein ist hiermit jetzt, da sie gesetzt ist als das Medium von Materien, ein Anderes als sie, und sie hat dies ihr Wesen außer ihr.",
+   "en": "But it equally essentially has the form of the sublatedness of the subsisting matters, or is essentially One; this being-one is hereby now, since it is posited as the medium of matters, an other than it, and it has this its essence outside it.",
+   "zh": "但力同样本质上具有持存着的质料被扬弃这一形式，或者说本质上是一个“一”；既然力现在被设定为质料的介质，这个“一”之为一现在就成了不同于力的他者，而力把这个本质放在自己之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 7,
+   "de": "Indem sie aber notwendig dies sein muß, als was sie noch nicht gesetzt ist, so tritt dies Andere hinzu und sollizitiert sie zur Reflexion in sich selbst oder hebt ihre Äußerung auf.",
+   "en": "But since it must necessarily be this, as which it is not yet posited, this other accedes and solicits it to reflection into itself, or sublates its expression.",
+   "zh": "但既然力必然必须是它尚未被设定为的那个东西，这个他者就加进来，并推动力反思到自身之中，或者说扬弃力的表现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 29,
+   "si": 8,
+   "de": "In der Tat aber ist sie selbst dieses Insichreflektiertsein oder dies Aufgehobensein der Äußerung; das Einssein verschwindet, wie es erschien, nämlich als ein Anderes, sie ist es selbst, sie ist in sich zurückgedrängte Kraft.",
+   "en": "But in fact it is itself this being-reflected-into-itself or this sublatedness of expression; the being-one vanishes, as it appeared, namely as an other, it is it itself, it is force driven back into itself.",
+   "zh": "但事实上，力本身就是这种在自身中反思，或者说这种表现的被扬弃；那个“一”之为一像它显现的那样消失了，即作为他者消失了，它就是它自己，它是被逼回自身之中的力。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 0,
+   "de": "Das, was als Anderes auftritt und sie sowohl zur Äußerung als zur Rückkehr in sich selbst sollizitiert, ist, wie sich unmittelbar ergibt, selbst Kraft; denn das Andere zeigt sich ebensowohl als allgemeines Medium wie als Eins und so, daß jede dieser Gestalten zugleich nur als verschwindendes Moment auftritt.",
+   "en": "That which appears as other and solicits it both to expression and to the return into itself is, as immediately results, itself force; for the other shows itself just as much as universal medium as as One, and in such a way that each of these shapes appears at the same time only as a vanishing moment.",
+   "zh": "那个作为他者出现、并且既推动力去表现、又推动力返回自身的东西，正如直接得出的那样，本身就是力；因为那另一个既表现为普遍介质，又表现为“一”，而且是如此表现：这两种形态中的每一种都同时只作为正在消失的环节出现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 1,
+   "de": "Die Kraft ist hiermit dadurch, daß ein Anderes für sie und sie für ein Anderes ist, überhaupt noch nicht aus ihrem Begriffe herausgetreten.",
+   "en": "Force has hereby, through the fact that an other is for it and it is for an other, on the whole not yet stepped outside its concept.",
+   "zh": "这样一来，力由于有一个他者是为它的、而它又是为另一个他者的，就整个说来还没有走出它的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 2,
+   "de": "Es sind aber zugleich zwei Kräfte vorhanden, der Begriff beider zwar derselbe, aber aus seiner Einheit in die Zweiheit herausgegangen.",
+   "en": "But at the same time two forces are present, the concept of both is indeed the same, but has gone out of its unity into duality.",
+   "zh": "但同时又存在着两个力，两者的概念诚然是同一个，但它已经走出了自己的统一而进入二重性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 3,
+   "de": "Statt daß der Gegensatz durchaus wesentlich nur Moment bliebe, scheint er sich durch die Entzweiung in ganz selbständige Kräfte der Herrschaft der Einheit entzogen zu haben.",
+   "en": "Instead of the opposition remaining throughout essentially only a moment, it seems, through the diremption into wholly independent forces, to have withdrawn itself from the rule of unity.",
+   "zh": "对立本来完全本质上只是一个环节，现在它却通过分裂成完全独立的力，似乎已经摆脱了统一的统治。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 4,
+   "de": "Was es mit dieser Selbständigkeit für eine Bewandtnis hat, ist näher zu sehen.",
+   "en": "What the state of affairs is with this independence is to be seen more closely.",
+   "zh": "这种独立性到底是怎么回事，还要更仔细地看一看。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 5,
+   "de": "Zunächst tritt die zweite Kraft als das Sollizitierende, und zwar als allgemeines Medium seinem Inhalte nach gegen die auf, welche als sollizitierte bestimmt ist; indem aber jene wesentlich Abwechslung dieser beiden Momente und selbst Kraft ist, so ist sie in der Tat gleichfalls nur erst allgemeines Medium, indem sie dazu sollizitiert wird, und ebenso auch nur negative Einheit, oder zum Zurückgehen der Kraft Sollizitierendes, dadurch, daß sie sollizitiert wird.",
+   "en": "First, the second force steps forth as the soliciting one, and indeed, as regards its content, as universal medium, over against the one which is determined as the solicited; but since that first one is essentially the alternation of these two moments and itself force, it is in fact likewise at first only universal medium, in that it is solicited thereto, and equally also only negative unity, or the soliciting [factor] for the return of force, through the fact that it is solicited.",
+   "zh": "首先，第二个力作为推动者出现，而且按其内容来说是作为普遍介质，与那个被规定为被推动者的力相对立；但既然前一个本质上就是这两个环节的交替，并且本身就是力，那么它事实上同样首先只是普遍介质，因为它是被推动去成为普遍介质的，同样也只是否定的统一，或者说只是使力返回自身的推动者，因为它是被推动的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 30,
+   "si": 6,
+   "de": "Es verwandelt sich hiermit auch dieser Unterschied, der zwischen beiden stattfand, daß das eine das Sollizitierende, das andere das Sollizitierte sein sollte, in dieselbe Austauschung der Bestimmtheiten gegeneinander.",
+   "en": "Hereby this difference too, which took place between the two, that the one was supposed to be the soliciting and the other the solicited, transforms itself into the same exchange of the determinacies against each other.",
+   "zh": "于是，两者之间曾有的这个差别，即一个该是推动者、另一个该是被推动者，也就转变为双方规定性的同一种互换。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 31,
+   "si": 0,
+   "de": "Das Spiel der beiden Kräfte besteht hiermit in diesem entgegengesetzten Bestimmtsein beider, ihrem Füreinandersein in dieser Bestimmung und der absoluten unmittelbaren Verwechslung der Bestimmungen, – einem Übergange, wodurch allein diese Bestimmungen sind, in denen die Kräfte selbständig aufzutreten scheinen.",
+   "en": "The play of the two forces hereby consists in this opposed determinateness of both, in their being-for-each-other within this determination, and in the absolute immediate confounding of the determinations, – a transition through which alone these determinations are, in which the forces seem to appear independently.",
+   "zh": "两个力的游戏由此就在于两者这种相反的规定，就在于它们在这种规定中的彼此为对方存在，以及诸规定的绝对直接的混淆——一种过渡，唯有通过这种过渡，这些规定才存在，而在这些规定中，两个力看起来是独立出现的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 31,
+   "si": 1,
+   "de": "Das Sollizitierende ist z.B. als allgemeines Medium und dagegen das Sollizitierte als zurückgedrängte Kraft gesetzt; aber jenes ist allgemeines Medium selbst nur dadurch, daß das andere zurückgedrängte Kraft ist; oder diese ist vielmehr das Sollizitierende für jenes und macht dasselbe erst zum Medium.",
+   "en": "The soliciting force, e.g., is posited as universal medium, and on the other hand the solicited one as force driven back; but the former is itself universal medium only through the fact that the other is force driven back; or the latter is rather the soliciting [factor] for the former and first makes the same into a medium.",
+   "zh": "例如，推动者被设定为普遍介质，而被推动者则被设定为被逼回自身之中的力；但前者之所以本身是普遍介质，只是由于另一个是被逼回自身之中的力；或者说，后者毋宁说才是前者的推动者，并且才把前者弄成介质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 31,
+   "si": 2,
+   "de": "Jenes hat nur durch das andere seine Bestimmtheit und ist sollizitierend nur, insofern es vom anderen dazu sollizitiert wird, sollizitierend zu sein; und es verliert ebenso unmittelbar diese ihm gegebene Bestimmtheit; denn diese geht an das andere über oder vielmehr ist schon an dasselbe übergegangen; das fremde die Kraft Sollizitierende tritt als allgemeines Medium auf, aber nur dadurch, daß es von ihr dazu sollizitiert worden ist; d.h. aber, sie setzt es so und ist vielmehr selbst wesentlich allgemeines Medium; sie setzt das Sollizitierende so, darum weil diese andere Bestimmung ihr wesentlich, d.h. weil sie vielmehr sie selbst ist.",
+   "en": "The former has its determinacy only through the other and is soliciting only insofar as it is solicited by the other to be soliciting; and it just as immediately loses this determinacy given to it; for this passes over to the other, or rather has already passed over to it; the alien [factor] soliciting the force appears as universal medium, but only through the fact that it has been solicited thereto by it; i.e., however, it posits it thus and is rather itself essentially universal medium; it posits the soliciting [factor] thus, because this other determination is essential to it, i.e., because it is rather itself.",
+   "zh": "前者只有通过另一个才有自己的规定性，并且只有当它被另一个推动去成为推动者时，它才是推动者；它同样直接失去这个被给予它的规定性；因为这个规定性过渡到另一个那里，或者毋宁说已经过渡到另一个那里去了；这个外来的、推动着力的东西作为普遍介质出现，但只是由于它被力推动才如此；也就是说，力把它如此设定，而力本身毋宁说本质上就是普遍介质；力这样设定那个推动者，是因为这个另一个规定性对力来说是本质性的，也就是说，因为力毋宁说就是那个推动者本身。"
+  }
+ ]
+}

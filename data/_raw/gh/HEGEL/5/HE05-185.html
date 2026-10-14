@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C. Der absolute Mechanismus - MLCLASSIC</title>
+<script>(function(){var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);var f=parseFloat(localStorage.getItem('fontSize'));if(f&&f!==1)document.documentElement.style.setProperty('--fs-user',Math.round(16*f)+'px');var lh=parseFloat(localStorage.getItem('lineHeight'));if(lh)document.documentElement.style.setProperty('--lh-user',lh);})();</script>
+<link rel="modulepreload" href="./index.js">
+<link rel="stylesheet" href="/assets/reader.css">
+<link rel="stylesheet" type="text/css" href="../hegel.css">
+<script>window.__PAGE_META__={"path":"docs/HEGEL/5/HE05-185.html","collection":"hegel","title":"C. Der absolute Mechanismus","lang":"de","prev":{"file":"HE05-184.html","title":"c. Das Produkt des mechanischen Prozesses"},"next":{"file":"HE05-186.html","title":"b. Das Gesetz"},"volPath":"/docs/HEGEL/5/index.html","parentDir":null,"indexJsPath":"./index.js"};</script>
+</head>
+<body data-site="">
+<div class="scroll-indicator" id="progress-bar"></div>
+<nav class="navbar" id="navbar">
+  <div class="navbar__brand">
+    <button type="button" class="clean-btn" id="sidebar-toggle" title="TOC (Ctrl+S)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+    <a class="navbar__logo" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+  </div>
+  <div class="navbar__items" id="nav-actions">
+    <div class="navbar__item">
+      <div class="font-control">
+        <button type="button" class="font-btn" id="font-dec-btn" title="Decrease font">A-</button>
+        <input type="range" id="font-slider" min="0.75" max="1.5" step="0.05" value="1">
+        <button type="button" class="font-btn" id="font-inc-btn" title="Increase font">A+</button>
+      </div>
+      <div class="lh-control">
+        <button type="button" class="font-btn" id="lh-dec-btn" title="Decrease line height">↕-</button>
+        <input type="range" id="lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+        <button type="button" class="font-btn" id="lh-inc-btn" title="Increase line height">↕+</button>
+      </div>
+      <button type="button" class="clean-btn" id="remember-btn" title="Remember scroll position"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button>
+      <button type="button" class="clean-btn" id="theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+    </div>
+    <button type="button" class="clean-btn navbar__toggle" id="mobile-menu-toggle" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="1"/><circle cx="12" cy="12" r="1"/><circle cx="12" cy="18" r="1"/></svg></button>
+  </div>
+</nav>
+<div class="dropdown" id="mobile-menu">
+  <div class="dropdown__label">Font Size</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-font-dec">-</button>
+    <input type="range" id="mobile-font-slider" min="0.75" max="1.5" step="0.05" value="1">
+    <button type="button" class="stepper" id="mobile-font-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__label">Line Height</div>
+  <div class="dropdown__row">
+    <button type="button" class="stepper" id="mobile-lh-dec">-</button>
+    <input type="range" id="mobile-lh-slider" min="1.4" max="2.6" step="0.1" value="2.0">
+    <button type="button" class="stepper" id="mobile-lh-inc">+</button>
+  </div>
+  <div class="dropdown__rule"></div>
+  <div class="dropdown__item" id="mobile-remember"><span>Remember Position</span><span class="toggle-indicator" id="mobile-remember-indicator">○</span></div>
+  <div class="dropdown__item" id="mobile-theme"><span>Dark Mode</span><span class="toggle-indicator" id="mobile-theme-indicator">○</span></div>
+</div>
+<div class="sidebar-overlay" id="sidebar-backdrop"></div>
+<div class="doc-wrapper" id="shell">
+  <div class="doc-root">
+    <aside class="doc-sidebar" id="lsidebar">
+  <div class="doc-sidebar__header">
+    <a class="doc-sidebar__brand" href="/" style="text-decoration:none;"><img src="/favicon.ico"/><span>MLCLASSIC</span></a>
+    <div style="display:flex;align-items:center;gap:4px;">
+      <button type="button" class="clean-btn" id="sidebar-theme-btn" title="Toggle theme"><svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <button type="button" class="clean-btn" id="sidebar-close-btn" title="Close menu"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+    </div>
+  </div>
+  <nav class="sidebar-nav" id="nav-tree"></nav>
+</aside>
+    <main class="doc-main" id="main">
+      <div class="doc-main-inner">
+        <div id="doc-view" style="display:block">
+          <div class="doc-content">
+            <header class="doc-header" id="doc-header">
+              <div class="doc-header__pathbar" id="doc-pathbar"><a class="crumb" href="/docs/">docs</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/">HEGEL</a><span class="crumb-sep">/</span><a class="crumb" href="/docs/HEGEL/5/">Werke 5</a><span class="crumb-sep">/</span><span class="crumb current">HE05-185.html</span></div>
+            </header>
+            <div class="prose" id="content">
+<h3 id="h185-1">C. Der absolute Mechanismus</h3>
+<h4 id="h185-2">a. Das Zentrum</h4>
+<p>Die leere Mannigfaltigkeit des Objekts ist nun erstens in die objektive Einzelheit, in den einfachen selbstbestimmenden <i>Mittelpunkt</i> gesammelt. Insofern zweitens das Objekt als unmittelbare Totalität seine Gleichgültigkeit gegen die Bestimmtheit behält, so ist diese an ihm auch als unwesentliche oder als ein <i>Außereinander</i> von vielen Objekten vorhanden. Die erstere, die wesentliche Bestimmtheit macht dagegen die <i>reelle Mitte</i> zwischen den vielen mechanisch aufeinanderwirkenden Objekten aus, durch welche sie<i> an und für sich</i> zusammengeschlossen sind, und ist deren objektive Allgemeinheit. Die Allgemeinheit zeigte sich zuerst im Verhältnisse der <i>Mitteilung</i> als eine nur durchs <i>Setzen</i> vorhandene; als <i>objektive</i> aber ist sie das durchdringende, immanente Wesen der Objekte.</p>
+<p>In der materiellen Welt ist es der <i>Zentralkörper</i>, der die <i>Gattung</i>, aber <i>individuelle</i> Allgemeinheit der einzelnen Objekte und ihres mechanischen Prozesses ist. Die unwesentlichen einzelnen Körper verhalten sich <i>stoßend</i> und <i>drückend</i> zueinander; solches Verhältnis findet nicht zwischen dem <i>Zentralkörper</i> und den Objekten statt, deren Wesen er ist; denn ihre Äußerlichkeit macht nicht mehr ihre Grundbestimmung aus. Ihre Identität mit ihm ist also vielmehr die Ruhe, nämlich das <i>Sein in ihrem Zentrum</i>; diese Einheit ist ihr an und für sich seiender Begriff. Sie bleibt jedoch nur ein <i>Sollen</i>, da die zugleich noch gesetzte Äußerlichkeit der Objekte jener Einheit nicht entspricht. Das <i>Streiken</i>, das sie daher nach dem Zentrum haben, ist ihre absolute, nicht durch <i>Mitteilung</i> gesetzte Allgemeinheit; sie macht die wahre, selbst <i>konkrete</i>, nicht <i>von außen gesetzte Ruhe</i> aus, in welche der Prozeß der Unselbständigkeit zurückgehen muß. – Es ist deswegen eine leere Abstraktion, wenn in der Mechanik angenommen wird, daß ein in Bewegung gesetzter<a id="S423"></a> Körper überhaupt sich in gerader Linie ins Unendliche fortbewegen würde, wenn er nicht durch äußerlichen Widerstand seine Bewegung verlöre. Die<i> Reibung</i>, oder welche Form der Widerstand sonst hat, ist nur die Erscheinung der <i>Zentralität</i>; diese ist es, welche ihn absolut zu sich zurückbringt; denn das, woran sich der bewegte Körper reibt, hat allein die Kraft eines Widerstands durch sein Einssein mit dem Zentrum. – Im <i>Geistigen</i> nimmt das Zentrum und das Einssein mit demselben höhere Formen an; aber die Einheit des Begriffs und deren Realität, welche hier zunächst mechanische Zentralität ist, muß auch dort die Grundbestimmung ausmachen.</p>
+<p>Der Zentralkörper hat insofern aufgehört, ein bloßes <i>Objekt</i> zu sein, da an diesem die Bestimmtheit ein Unwesentliches ist; denn er hat nicht mehr nur das<i> Ansich</i>-, sondern auch das <i>Fürsichsein</i> der objektiven Totalität. Er kann deswegen als ein <i>Individuum</i> angesehen werden. Seine Bestimmtheit ist wesentlich von einer bloßen <i>Ordnung</i> oder <i>Arrangement</i> und <i>äußerlichem Zusammenhang</i> von Teilen verschieden; sie ist als an und für sich seiende Bestimmtheit eine <i>immanente</i> Form, selbstbestimmendes Prinzip, welchem die Objekte inhärieren und wodurch sie zu einem wahrhaften Eins verbunden sind.</p>
+<p>Dieses Zentralindividuum ist aber so nur erst <i>Mitte</i>, welche noch keine wahrhaften Extreme hat; als negative Einheit des totalen Begriffs dirimiert es sich aber in solche. Oder die vorhin unselbständigen, sich äußerlichen Objekte werden durch den Rückgang des Begriffs gleichfalls zu Individuen bestimmt; die Identität des Zentralkörpers mit sich, die noch ein <i>Streben</i> ist, ist mit <i>Äußerlichkeit</i> behaftet, welcher, da sie in seine <i>objektive Einzelheit</i> aufgenommen ist, diese mitgeteilt ist. Durch diese eigene Zentralität sind sie, außer jenem ersten Zentrum gestellt, selbst Zentra für die unselbständigen Objekte. Diese zweiten Zentra und die unselbständigen Objekte sind durch jene absolute Mitte zusammengeschlossen.<a id="S424"></a></p>
+<p> Die relativen Zentralindividuen machen aber auch selbst die Mitte <i>eines zweiten Schlusses</i> aus, welche einerseits unter ein höheres Extrem, die objektive <i>Allgemeinheit</i> und <i>Macht</i> des absoluten Zentrums, subsumiert ist, auf der ändern Seite die unselbständigen Objekte unter sich subsumiert, deren oberflächliche oder formale Vereinzelung von ihr getragen werden. – Auch diese Unselbständigen sind die Mitte eines <i>dritten</i>, des <i>formalen Schlusses</i>, indem sie das Band zwischen der absoluten und der relativen Zentralindividualität insofern sind, als die letztere in ihnen ihre Äußerlichkeit hat, durch welche die <i>Beziehung auf sich</i> zugleich ein <i>Streben</i> nach einem absoluten Mittelpunkt ist. Die formalen Objekte haben zu ihrem Wesen die identische <i>Schwere</i> ihres unmittelbaren Zentralkörpers, dem sie als ihrem Subjekte und Extreme der Einzelheit inhärieren; durch die Äußerlichkeit, welche sie ausmachen, ist er unter den absoluten Zentralkörper subsumiert; sie sind also die formale Mitte der <i>Besonderheit</i>. – Das absolute Individuum aber ist die objektiv allgemeine Mitte, welche das Insichsein des relativen Individuums und seine Äußerlichkeit zusammenschließt und festhält. – So sind auch die <i>Regierung</i>, die <i>Bürgerindividuen</i> und die <i>Bedürfnisse</i> oder <i>das äußerliche Leben</i> der Einzelnen drei Termini, deren jeder die Mitte der zwei anderen ist. Die <i>Regierung</i> ist das absolute Zentrum, worin das Extrem der Einzelnen mit ihrem äußerlichen Bestehen zusammengeschlossen wird; ebenso sind die <i>Einzelnen</i> Mitte, welche jenes allgemeine Individuum zur äußerlichen Existenz betätigen und ihr sittliches Wesen in das Extrem der Wirklichkeit übersetzen. Der dritte Schluß ist der formale, der Schluß des Scheins, daß die Einzelnen durch ihre <i>Bedürfnisse</i> und das äußerliche Dasein an diese allgemeine absolute Individualität geknüpft sind, – ein Schluß, der als der bloß subjektive in die anderen übergeht und in ihnen seine Wahrheit hat.</p>
+<p>Diese Totalität, deren Momente selbst die vollständigen Verhältnisse des Begriffes, die <i>Schlüsse</i>, sind, worin jedes der drei unterschiedenen Objekte die Bestimmung der Mitte und<a id="S425"></a> der Extreme durchläuft, macht den <i>freien Mechanismus</i> aus. In ihm haben die unterschiedenen Objekte die objektive Allgemeinheit, die <i>durchdringende</i>, in der <i>Besonderung sich identisch</i> erhaltende Schwere zu ihrer Grundbestimmung. Die Beziehungen von <i>Druck, Stoß, Anziehen</i> und dergleichen sowie <i>Aggregierungen</i> oder <i>Vermischungen</i> gehören dem Verhältnisse der Äußerlichkeit an, die den dritten der zusammengestellten Schlüsse begründet. Die <i>Ordnung</i>, welches die bloß äußerliche Bestimmtheit der Objekte ist, ist in die immanente und objektive Bestimmung übergegangen; diese ist das<i> Gesetz</i>.<a id="S426"></a></p>
+            </div>
+            <nav class="doc-footer" id="doc-footer">
+              <a href="./HE05-184.html" class="pagination-link" id="prev-btn"><span class="pagination-link__dir">←</span><span class="pagination-link__label">c. Das Produkt des mechanischen Prozesses</span></a>
+              <a href="./HE05-186.html" class="pagination-link pagination-link--next" id="next-btn"><span class="pagination-link__dir">→</span><span class="pagination-link__label">b. Das Gesetz</span></a>
+            </nav>
+          </div>
+        </div>
+        <div class="theme-doc-toc-desktop" id="toc-desktop">
+          <nav class="theme-doc-toc-desktop-nav" id="toc-desktop-nav"></nav>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<div class="popover" id="fn-tooltip">
+  <div class="popover__body"></div>
+  <a class="popover__jump" href="#" style="display:none"></a>
+</div>
+<script src="/assets/libmap.js"></script>
+<script src="/assets/nav.js"></script>
+<script src="/assets/reader.js"></script>
+<script>(function(){
+  function syncFill(el){
+    var min=parseFloat(el.min)||0,max=parseFloat(el.max)||100,val=parseFloat(el.value)||0;
+    el.style.setProperty('--_fill',((val-min)/(max-min)*100).toFixed(2)+'%');
+  }
+  document.querySelectorAll('input[type="range"]').forEach(function(el){
+    syncFill(el);
+    el.addEventListener('input',function(){syncFill(this);});
+  });
+  var orig=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value');
+  if(orig&&orig.set){
+    Object.defineProperty(HTMLInputElement.prototype,'value',{
+      set:function(v){orig.set.call(this,v);if(this.type==='range')syncFill(this);},
+      get:orig.get,configurable:true
+    });
+  }
+})();</script>
+</body>
+</html>

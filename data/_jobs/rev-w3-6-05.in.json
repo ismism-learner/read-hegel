@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-05",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 5,
+   "de": "– Durch seine Tat setzt es sich in oder vielmehr als das allgemeine Element der seienden Wirklichkeit, und seine Tat soll selbst nach seinem Sinne den Wert einer allgemeinen Ordnung haben.",
+   "en": "– Through its deed it posits itself in, or rather as, the universal element of existing actuality, and its deed, according to its own sense, is itself to have the value of a universal order.",
+   "zh": "——通过自己的行动，它把自己置入存在着的现实性的普遍元素之中，或者更确切地说，把自己设定为这种普遍元素，而它的行动按照它自己的意思，本身应当具有一种普遍秩序的价值。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 6,
+   "de": "Aber damit hat es sich von sich selbst freigelassen, es wächst als Allgemeinheit für sich fort und reinigt sich von der Einzelheit; das Individuum, welches die Allgemeinheit nur in der Form seines unmittelbaren Fürsichseins erkennen will, erkennt sich also nicht in dieser freien Allgemeinheit, während es ihr zugleich angehört, denn sie ist sein Tun.",
+   "en": "But thereby it has let itself loose from itself; it grows on as universality for itself and purifies itself of singularity; the individual, which wants to cognize universality only in the form of its immediate being-for-itself, therefore does not cognize itself in this free universality, while it at the same time belongs to it, for this universality is its doing.",
+   "zh": "但这样一来，它就把自己从自身那里释放了出来，它作为自为的普遍性继续生长，并从单一性中净化出来；那个只愿在自己的直接自为存在的形式中认识普遍性的个体，因此在这种自由的普遍性中并不认识自己，尽管它同时属于这种普遍性，因为这种普遍性就是它的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 33,
+   "si": 7,
+   "de": "Dies Tun hat daher die verkehrte Bedeutung, der allgemeinen Ordnung zu widersprechen, denn seine Tat soll Tat seines einzelnen Herzens, nicht freie allgemeine Wirklichkeit sein; und zugleich hat es sie in der Tat anerkannt, denn das Tun hat den Sinn, sein Wesen als freie Wirklichkeit zu setzen, d.h. die Wirklichkeit als sein Wesen anzuerkennen.",
+   "en": "This doing therefore has the inverted meaning of contradicting the universal order, for its deed is to be the deed of its single heart, not free universal actuality; and at the same time it has in fact recognized the order, for the doing has the sense of positing its essence as free actuality, i.e. of recognizing actuality as its essence.",
+   "zh": "所以这种行动有一种颠倒的意义，即与普遍秩序相矛盾，因为它的行动应当是它那颗单个的心的行动，而不是自由的普遍现实性；同时它实际上又承认了这种秩序，因为这种行动的意义就在于把自己的本质设定为自由的现实性，也就是说，把现实性承认为自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 0,
+   "de": "Das Individuum hat durch den Begriff seines Tuns die nähere Weise bestimmt, in welcher die wirkliche Allgemeinheit, der es sich angehörig gemacht, sich gegen es kehrt.",
+   "en": "Through the concept of its deed the individual has determined the more precise way in which the actual universality, to which it has made itself belong, turns against it.",
+   "zh": "个体通过自己行动的概念，规定了那种它已使自己从属于其中的现实的普遍性转而反对它的更切近的方式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 1,
+   "de": "Seine Tat gehört als Wirklichkeit dem Allgemeinen an; ihr Inhalt aber ist die eigene Individualität, welche sich als diese einzelne, dem Allgemeinen entgegengesetzte erhalten will.",
+   "en": "Its deed belongs, as actuality, to the universal; but its content is its own individuality, which wants to preserve itself as this single one opposed to the universal.",
+   "zh": "它的行动作为现实性属于普遍者；但它的内容却是它自己的个体性，这种个体性想作为这个与普遍者相对立的单个者而保持自身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 2,
+   "de": "Es ist nicht irgendein bestimmtes Gesetz, von dessen Aufstellung die Rede wäre, sondern die unmittelbare Einheit des einzelnen Herzens mit der Allgemeinheit ist der zum Gesetze erhobene und geltensollende Gedanke, daß in dem, was Gesetz ist, jedes Herz sich selbst erkennen muß.",
+   "en": "It is not some determinate law whose establishment would be at issue, but the immediate unity of the single heart with universality is the thought raised to a law and meant to hold, that in what is law every heart must recognize itself.",
+   "zh": "这里说的并不是某个特定规律的建立，而是单个的心与普遍性的直接统一，这就是那个被提升为规律、并且应当有效的思想：在是规律的东西里，每一颗心都必须认识自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 3,
+   "de": "Aber nur das Herz dieses Individuums hat seine Wirklichkeit in seiner Tat, welche ihm sein Fürsichsein oder seine Lust ausdrückt, gesetzt.",
+   "en": "But only the heart of this individual has posited its actuality in its deed, which expresses to it its being-for-itself or its pleasure.",
+   "zh": "但只有这个个体的心，才在自己的行动中设定了自己的现实性，这个行动向它表达出它的自为存在或它的快乐。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 4,
+   "de": "Sie soll unmittelbar als Allgemeines gelten, d.h. sie ist in Wahrheit etwas Besonderes und hat nur die Form der Allgemeinheit: sein besonderer Inhalt soll als solcher für allgemein gelten.",
+   "en": "It is to hold immediately as universal, i.e. it is in truth something particular and has only the form of universality: its particular content as such is to hold as universal.",
+   "zh": "它应当直接作为普遍者而有效，也就是说，它实际上是某种特殊的东西，只具有普遍性的形式：它的特殊内容作为这样的内容，应当作为普遍者而有效。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 5,
+   "de": "Daher finden in diesem Inhalte die anderen nicht das Gesetz ihres Herzens, sondern vielmehr das eines anderen vollbracht; und eben nach dem allgemeinen Gesetze, daß in dem, was Gesetz ist, jedes sein Herz finden soll, kehren sie sich ebenso gegen die Wirklichkeit, welche es aufstellte, als es sich gegen die ihrige kehrte.",
+   "en": "Therefore in this content the others find accomplished not the law of their heart, but rather that of another; and precisely according to the universal law that in what is law each is to find its heart, they turn just as much against the actuality which it set up as it turned against theirs.",
+   "zh": "因此，在这种内容里，其他人发现得到实现的并不是他们自己心的规律，而毋宁是另一个人的心的规律；而且正是按照那条普遍规律——在是规律的东西里，每个人都应当找到自己的心——他们同样转而反对它所建立起来的现实性，就像它曾转而反对他们的现实性一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 34,
+   "si": 6,
+   "de": "Das Individuum findet also, wie zuerst nur das starre Gesetz, jetzt die Herzen der Menschen selbst seinen vortrefflichen Absichten entgegen und zu verabscheuen.",
+   "en": "The individual therefore finds, just as at first only the rigid law, now the hearts of human beings themselves opposed to its excellent intentions and to be abhorred.",
+   "zh": "于是个体现在发现，人们的那些心本身，就像起初只有僵硬的规律那样，与自己的卓越意图相对立，并且是令人憎恶的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 35,
+   "si": 0,
+   "de": "Weil dies Bewußtsein die Allgemeinheit nur erst als unmittelbare und die Notwendigkeit als Notwendigkeit des Herzens kennt, ist ihm die Natur der Verwirklichung und der Wirksamkeit unbekannt, daß sie als das Seiende in ihrer Wahrheit vielmehr das an sich Allgemeine ist, worin die Einzelheit des Bewußtseins, die sich ihr anvertraut, um als diese unmittelbare Einzelheit zu sein, vielmehr untergeht; statt dieses seines Seins erlangt es also in dem Sein die Entfremdung seiner selbst.",
+   "en": "Because this consciousness knows universality only as immediate and necessity as the necessity of the heart, the nature of actualization and of efficaciousness is unknown to it, namely that as what is, it is in its truth rather the in-itself universal, in which the singularity of consciousness, which entrusts itself to it in order to be as this immediate singularity, rather perishes; instead of this its being it therefore attains in being the estrangement of itself.",
+   "zh": "因为这种意识只知道普遍性还是直接的，只知道必然性是心的必然性，所以它不知道现实化和有效活动的本性：这种现实化作为存在者，在它的真理中毋宁是自在的普遍者，而意识的单一性——它把自己托付给这种普遍者，为的是作为这个直接的单一性而存在——在这种普遍者中却毋宁是消亡了；所以它在这种存在中得到的不是它的这种存在，而是它自身的异化。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 35,
+   "si": 1,
+   "de": "Dasjenige, worin es sich nicht erkennt, ist aber nicht mehr die tote Notwendigkeit, sondern die Notwendigkeit als belebt durch die allgemeine Individualität.",
+   "en": "But that in which it does not recognize itself is no longer dead necessity, but necessity as animated by universal individuality.",
+   "zh": "但那种它在其中不认识自己的东西，已经不再是死的必然性，而是被普遍个体性赋予了生命的必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 35,
+   "si": 2,
+   "de": "Es nahm diese göttliche und menschliche Ordnung, die es geltend vorfand, für eine tote Wirklichkeit, worin wie es selbst, das sich als dieses für sich seiende, dem Allgemeinen entgegengesetzte Herz fixiert, so [auch die,] die ihr angehören, das Bewußtsein ihrer selbst nicht hätten; es findet sie aber vielmehr von dem Bewußtsein aller belebt und als Gesetz aller Herzen.",
+   "en": "It took this divine and human order, which it found in force, for a dead actuality, in which, just as it itself, which fixes itself as this heart that is for itself and opposed to the universal, so [also those] who belong to it would not have the consciousness of themselves; but it finds it rather animated by the consciousness of all and as the law of all hearts.",
+   "zh": "它把这种它发现正在有效存在的神的和人的秩序，当成了一种死的现实性，在其中，正如它自己——它把自己固定为这颗自为存在着的、与普遍者相对立的心——一样，[也]属于这种秩序的人不会有对自己的意识；但它却发现这种秩序毋宁是被所有人的意识赋予了生命的，并且是所有人的心的规律。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 35,
+   "si": 3,
+   "de": "Es macht die Erfahrung, daß die Wirklichkeit belebte Ordnung ist, zugleich in der Tat eben dadurch, daß es das Gesetz seines Herzens verwirklicht; denn dies heißt nichts anderes, als daß die Individualität sich als Allgemeines zum Gegenstande wird, worin es sich aber nicht erkennt.",
+   "en": "It makes the experience that actuality is animated order, at the same time in fact precisely through the fact that it actualizes the law of its heart; for this means nothing other than that individuality becomes an object to itself as universal, in which, however, it does not recognize itself.",
+   "zh": "它同时实际上恰恰由于实现自己心的规律，而获得了这样的经验：现实性是赋予了生命的秩序；因为这不外是说，个体性作为普遍者而对自己成为对象，但它在其中却不认识自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 36,
+   "si": 0,
+   "de": "Was also dieser Gestalt des Selbstbewußtseins aus ihrer Erfahrung als das Wahre hervorgeht, widerspricht dem, was sie für sich ist.",
+   "en": "What therefore emerges for this shape of self-consciousness from its experience as the true contradicts what it is for itself.",
+   "zh": "所以，对自我意识的这种形态来说，从它的经验中作为真的东西而出现的东西，与它自为地所是的东西相矛盾。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 36,
+   "si": 1,
+   "de": "Was sie aber für sich ist, hat selbst die Form absoluter Allgemeinheit für sie, und es ist das Gesetz des Herzens, welches mit dem Selbstbewußtsein unmittelbar eins ist.",
+   "en": "But what it is for itself has itself, for it, the form of absolute universality, and it is the law of the heart, which is immediately one with self-consciousness.",
+   "zh": "但它自为地所是的东西，对它来说本身就具有绝对普遍性的形式，而这东西就是心的规律，它直接地与自我意识是同一个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 36,
+   "si": 2,
+   "de": "Zugleich ist die bestehende und lebendige Ordnung ebenso sein eigenes Wesen und Werk, es bringt nichts anderes hervor als sie; sie ist in gleich unmittelbarer Einheit mit dem Selbstbewußtsein.",
+   "en": "At the same time the existing and living order is likewise its own essence and work; it brings forth nothing other than it; it stands in equally immediate unity with self-consciousness.",
+   "zh": "同时，那存在着的、活生生的秩序同样是它自己的本质和作品，它产生出来的不是别的，正是这种秩序；这种秩序同样直接地处在与自我意识的统一之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 36,
+   "si": 3,
+   "de": "Dieses ist auf diese Weise, einer gedoppelten entgegengesetzten Wesenheit angehörend, an sich selbst widersprechend und im Innersten zerrüttet.",
+   "en": "In this way, belonging to a doubled, opposed essentiality, it is in itself contradictory and shattered in its innermost being.",
+   "zh": "它这样属于一种双重的、对立着的本质性，自身就是矛盾的，并且在最内心里被搅得支离破碎。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 36,
+   "si": 4,
+   "de": "Das Gesetz dieses Herzens ist nur dasjenige, worin das Selbstbewußtsein sich selbst erkennt; aber die allgemeine gültige Ordnung ist durch die Verwirklichung jenes Gesetzes ebenso ihm sein eigenes Wesen und seine eigene Wirklichkeit geworden; was in seinem Bewußtsein sich also widerspricht, ist beides in der Form des Wesens und seiner eigenen Wirklichkeit für es.",
+   "en": "The law of this heart is only that in which self-consciousness recognizes itself; but the universally valid order has, through the actualization of that law, likewise become for it its own essence and its own actuality; what therefore contradicts itself in its consciousness is both, in the form of essence and of its own actuality, for it.",
+   "zh": "这颗心的规律只是那种自我意识在其中认识自身的东西；但那种普遍有效的秩序，通过那条规律的现实化，同样已经变成了它自己的本质和它自己的现实性；所以，在它的意识中自相矛盾的东西，对它来说就是两者，而且是处于本质的形式和它自己现实性的形式中的两者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 37,
+   "si": 0,
+   "de": "Indem es dies Moment seines sich bewußten Untergangs und darin das Resultat seiner Erfahrung ausspricht, zeigt es sich als diese innere Verkehrung seiner selbst, als die Verrücktheit des Bewußtseins, welchem sein Wesen unmittelbar Unwesen, seine Wirklichkeit unmittelbar Unwirklichkeit ist.",
+   "en": "In expressing this moment of its consciously aware downfall, and therein the result of its experience, it shows itself as this inner perversion of itself, as the madness of consciousness, for which its essence is immediately non-essence, its actuality immediately non-actuality.",
+   "zh": "当它说出自己那种自觉的沉沦这一环节，并在其中说出自己经验的结果时，它就把自己表明为自身的这种内在颠倒，表明为意识的疯癫；对这种意识来说，它的本质直接就是非本质，它的现实性直接就是非现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 37,
+   "si": 1,
+   "de": "– Die Verrücktheit kann nicht dafür gehalten werden, daß überhaupt etwas Wesenloses für wesentlich, etwas Nichtwirkliches für wirklich gehalten werde, so daß das, was für den einen wesentlich oder wirklich ist, es für einen anderen nicht wäre und das Bewußtsein der Wirklichkeit und Nichtwirklichkeit oder der Wesenheit und Unwesenheit auseinanderfielen.",
+   "en": "– Madness cannot be taken to mean that something essenceless is held to be essential at all, something non-actual held to be actual, so that what is essential or actual for one would not be so for another, and the consciousness of actuality and non-actuality, or of essentiality and non-essentiality, would fall apart.",
+   "zh": "——疯癫不能被看作是说，一般地有某种无本质的东西被当作本质的东西、某种非现实的东西被当作现实的东西，以致对一个人来说是本质的或现实的东西，对另一个人来说却不是，而现实性和非现实性、或者说本质性和非本质性的意识就会分裂开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 37,
+   "si": 2,
+   "de": "– Wenn etwas in der Tat für das Bewußtsein überhaupt wirklich und wesentlich, für mich aber nicht ist, so habe ich in dem Bewußtsein seiner Nichtigkeit zugleich, da ich Bewußtsein überhaupt bin, das Bewußtsein seiner Wirklichkeit, – und indem sie beide fixiert sind, so ist dies eine Einheit, welche der Wahnsinn im allgemeinen ist.",
+   "en": "– If something is in fact actual and essential for consciousness in general, but not for me, then in the consciousness of its nullity I simultaneously have, since I am consciousness in general, the consciousness of its actuality, – and since both are fixed, this is a unity which is madness in general.",
+   "zh": "——如果某物实际上对一般意识来说是现实的、本质的，对我却不是，那么我在对它的虚无性的意识中，由于我是一般意识，就同时具有对它的现实性的意识，——而既然这两者都被固定下来，这就是一种统一，它一般地就是疯狂。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 37,
+   "si": 3,
+   "de": "In diesem ist aber nur ein Gegenstand für das Bewußtsein verrückt, nicht das Bewußtsein als solches in und für sich selbst.",
+   "en": "In this, however, only an object is deranged for consciousness, not consciousness as such in and for itself.",
+   "zh": "但在这里，对意识来说疯癫的只是一个对象，而不是意识本身自在自为地就是疯癫的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 37,
+   "si": 4,
+   "de": "In dem Resultate des Erfahrens, das sich hier ergeben hat, ist aber das Bewußtsein in seinem Gesetze sich seiner selbst als dieses Wirklichen bewußt; und zugleich, indem ihm ebendieselbe Wesenheit, dieselbe Wirklichkeit entfremdet ist, ist es als Selbstbewußtsein, als absolute Wirklichkeit sich seiner Unwirklichkeit bewußt, oder die beiden Seiten gelten ihm nach ihrem Widerspruche unmittelbar als sein Wesen, das also im Innersten verrückt ist.",
+   "en": "But in the result of the experiencing that has here emerged, consciousness in its law is conscious of itself as this actual one; and at the same time, since the very same essence, the same actuality is estranged from it, it is as self-consciousness, as absolute actuality conscious of its non-actuality, or the two sides hold for it according to their contradiction immediately as its essence, which is therefore deranged in its innermost core.",
+   "zh": "但是，在由这里得出的经验的结果中，意识在自己的规律里意识到自己就是这个现实的东西；而同时，由于正是同一个本质、同一个现实性对它来说成了异化了的，它作为自我意识、作为绝对现实性就意识到自己的非现实性，或者说，这两个方面按照它们的矛盾直接地对它来说就是它的本质，因此这个本质在内心深处是疯癫的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 0,
+   "de": "Das Herzklopfen für das Wohl der Menschheit geht darum in das Toben des verrückten Eigendünkels über, in die Wut des Bewußtseins, gegen seine Zerstörung sich zu erhalten, und dies dadurch, daß es die Verkehrtheit, welche es selbst ist, aus sich herauswirft und sie als ein Anderes anzusehen und auszusprechen sich anstrengt.",
+   "en": "The heart-throb for the welfare of humanity therefore passes over into the raging of deranged self-conceit, into the fury of consciousness to preserve itself against its destruction, and this by throwing out of itself the perversity that it itself is and striving to regard and express it as an other.",
+   "zh": "因此，为人类福祉而跳动的心，就转变为疯癫的自负的咆哮，转变为意识为抗拒自己的毁灭而保存自己的愤怒，而这是通过下述方式发生的：它把自身所是的颠倒抛出自身之外，并竭力把它看作、说成另一个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 1,
+   "de": "Es spricht also die allgemeine Ordnung aus als eine von fanatischen Priestern, schwelgenden Despoten und für ihre Erniedrigung hinabwärts durch Erniedrigen und Unterdrücken sich entschädigenden Dienern derselben erfundene und zum namenlosen Elende der betrogenen Menschheit gehandhabte Verkehrung des Gesetzes des Herzens und seines Glücks.",
+   "en": "It therefore declares the universal order to be a perversion of the law of the heart and of its happiness, invented by fanatical priests, revelling despots and their servants, who compensate themselves for their degradation by degrading and oppressing, and handled to the nameless misery of deceived humanity.",
+   "zh": "于是它把普遍秩序说成是对心的规律及其幸福的颠倒，这种颠倒是由狂热的教士、纵情享乐的专制君主以及那些靠贬低和压制来为自己所受的贬低作补偿的君主仆从发明出来的，并被用来把被欺骗的人类推入无名的苦难。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 2,
+   "de": "– Das Bewußtsein spricht in dieser seiner Verrücktheit die Individualität als das Verrückende und Verkehrte aus, aber eine fremde und zufällige.",
+   "en": "– In this its madness consciousness declares individuality to be the deranging and perverted element, but a foreign and contingent one.",
+   "zh": "——意识在它的这种疯癫中把个体性说成是造成疯癫的东西和颠倒了的东西，但是一个外来的、偶然的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 3,
+   "de": "Aber das Herz oder die unmittelbar allgemeinseinwollende Einzelheit des Bewußtseins ist dies Verrückende und Verkehrte selbst und sein Tun nur die Hervorbringung dessen, daß dieser Widerspruch seinem Bewußtsein wird.",
+   "en": "But the heart, or the singleness of consciousness that immediately wants to be universal, is itself this deranging and perverted element, and its doing is only the production of the fact that this contradiction becomes its consciousness.",
+   "zh": "但是，心、或者说意识那种直接想要成为普遍的个别性，本身就是这个造成疯癫的东西和颠倒了的东西，而它的作为只不过是产生出这一点：这个矛盾成为它的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 4,
+   "de": "Denn das Wahre ist ihm das Gesetz des Herzens, – ein bloß Gemeintes, das nicht, wie die bestehende Ordnung, den Tag ausgehalten hat, sondern vielmehr, wie es sich diesem zeigt, zugrunde geht.",
+   "en": "For the true is for it the law of the heart, – something merely meant, which has not endured the day, as the existing order has, but rather, as it shows itself to this order, perishes.",
+   "zh": "因为对它来说，真的东西就是心的规律，——一个仅仅被意谓的东西，它不像现成的秩序那样经受了白昼，而是恰恰相反，正如它向这种秩序显现的那样，走向毁灭。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 38,
+   "si": 5,
+   "de": "Dies sein Gesetz sollte Wirklichkeit haben; hierin ist ihm das Gesetz als Wirklichkeit, als geltende Ordnung Zweck und Wesen; aber unmittelbar ist ihm ebenso die Wirklichkeit, eben das Gesetz als geltende Ordnung, vielmehr das Nichtige.",
+   "en": "This law of its was to have actuality; herein the law as actuality, as valid order, is for it purpose and essence; but immediately actuality, precisely the law as valid order, is for it likewise rather the null.",
+   "zh": "它的这一规律本应具有现实性；在此，规律作为现实性、作为有效的秩序，对它是目的和本质；但直接地，现实性、即作为有效的秩序的规律，对它同样毋宁是虚无的东西。"
+  }
+ ]
+}

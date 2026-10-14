@@ -1,0 +1,155 @@
+{
+ "id": "w2-6-8",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "Notizenblatt. 128)",
+ "heading": "[Göttingen]",
+ "blocks": [
+  {
+   "bi": 8,
+   "k": "h",
+   "hash": "7o5rzp13ut",
+   "text": "[Göttingen]"
+  },
+  {
+   "bi": 9,
+   "k": "h",
+   "hash": "tpjaxk1hly",
+   "text": "A. Aufnahme, welche die durchaus praktische Philosophie in Göttingen gefunden hat"
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1mzlvxy1th",
+   "sents": [
+    "Wir machten uns oben, in der Anzeige der Rückert- und Weißischen Schriften131) , anheischig, eine Anzahl Philosophen namhaft zu machen, mit deren Philosophie es gerade ebenso beschaffen wäre wie mit der der beiden angeführten Verfasser.",
+    "Nachdem obige Anzeige schon abgedruckt war, lesen wir eine Beurteilung dieser Philosophie, welche nicht zunächst auf den Verstand wirkt, in den Göttingischen gelehrten Anzeigen [6.",
+    "1802], woraus wir folgende Stellen auszuheben uns nun veranlaßt sehen."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "jrwbky1ch8",
+   "sents": [
+    "\"Die Verfasser der Schriften, die wir hier anzeigen, scheinen noch ganz kürzlich dem idealistischen Dogmatismus des Herrn Fichte und seiner Mitstreiter angehangen und, als ihnen auf die Länge bei dieser Philosophie nicht wohl wurde, sich nach einer anderen umgesehen zu haben.\""
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "ljxil11p2k",
+   "sents": [
+    "Nach welcher anderen als der, welche, schon früher in Göttingen aufgegangen, auch meinte, daß nach ihr den Philosophen nun nichts mehr übrig bliebe, als zur Heimat der Mutter Natur zurückzukehren."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1otvmkz183",
+   "sents": [
+    "\"Herr R. zwar neigt sich noch mit einer Art von Heimweh zu den idealistischen Spekulationen.",
+    "Herr Weiß dagegen lehrt entschiedenen Anti-Fichtianismus\"; er ist daher auch der wahre Liebling dieses Rezensenten; in seiner Abhandlung sind recht viele vortreffliche Gedanken, die auch Rezensent gern unterschreibt.",
+    "Rezensent kann dagegen um so weniger disputieren, da er ungefähr dieselben Resultate, besonders so, wie sie Herr W. ausdrückt, auf ganz anderen Wegen am Ende (jawohl am Ende; wenn etwas, das keinen Anfang hat, ein Ende haben könnte), seines Spekulierens gewonnen hat, 'die Einsicht als etwas Theoretisches ist in dem Menschen', (Rezensent bringt hier die Verbesserung bei: in der Vernunft), 'gar nicht das Höchste usw., die Richtung unseres Geistes ist praktisch, selbst die Wissenschaft, wenn sie in Ehren bleiben soll usw., - durch die Ich-Wissenschaftslehre wird das Heiligste und Beste verdreht, die wahre Tätigkeit ist ein Bestreben aus sich heraus'."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "lsgi7p6jab",
+   "sents": [
+    "Was es mit dem Bestreben aus sich heraus dieses Rezensenten für eine Bewandtnis habe, werden wir vielleicht bei anderer Gelegenheit kennenlernen.",
+    "Es verdient aber doch, da dieser Rezensent insbesondere von Fichte in dem ungescheutesten Tone einer aufs höchste erbitterten Arroganz spricht (z. B. \"Rezensent hat die (obigen) Stellen um so lieber abgeschrieben, da er in ihnen besonders den guten Geist der Verfasser erkennt, der denn aber, wenn nach Herrn Rückert der gute Geist dem Herrn Fichte eigentümlich einwohnt, notwendig ein böser Geist heißen muß\" usf.) - es verdient, sage ich, in dieser Rücksicht bemerkt zu werden, daß dieser Rezensent, der eine solche Sprache führt, gleichwohl ohne die Wissenschaftslehre noch vielleicht bis diesen Augenblick bei Kants Kritik stehen, sie kommentieren und das kritische Stroh mit seinen verwelkten ästhetischen und Schöngeisterischen Blümchen aufzuschmücken suchen würde und daß eben dieser Idealismus, der das Beste verdreht, und dieser Dogmatismus es ist, der dem vermeinten Skeptizismus dieses Rezensenten - man kann nicht sagen: auf die Beine geholfen hat, da er in jeder Rücksicht lahm ist, aber doch wenigstens so viel Herz gegeben hat, auch die Kantische Krücke wegzuwerfen und sich ganz paralytisch zu bekennen, welches denn doch, wie wir denken, kein geringer Dienst ist, da es immer besser ist, die absolute Negativität zu gestehen, als sie auf eine schlechte Weise zu verbergen."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "h",
+   "hash": "rxfc6zghhy",
+   "text": "B. Ansicht des Idealismus daselbst"
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1uv6b0q1a5",
+   "sents": [
+    "In denselbigen Göttingischen Anzeigen [16.",
+    "1802] hat wahrscheinlich derselbe Rezensent auch von einigen im vorigen Jahr zu Bamberg verteidigten philosophischen Inaugural-Thesen Notiz genommen, welche, wie wir hören, auch in den Reichsanzeiger eingerückt worden sind.",
+    "Daß der Reichsanzeiger sein Publikum damit zu belustigen meint, ist billig; daß aber gelehrte Anzeigen, die unter der Aufsicht der königlichen Sozietät der Wissenschaften herausgegeben werden, sich dazu herablassen, beweist an dieser königlichen Sozietät eine ganz besondere gute Laune."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1wv2uhfp86",
+   "sents": [
+    "Aller Ernst des Unterrichts kann in einem Zeitalter, wo der Dilettantismus so besonderen Beifall findet und in allen Fächern so viele Beispiele vor sich hat, nicht verhindern, daß er nicht auch in der Philosophie sich versuchte."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "lz25f9ut85",
+   "sents": [
+    "Wo aber die Lehrer schon Dilettanten sind, oder nicht einmal dies, sondern zu ihrer Qual Philosophie treiben und lehren, ist man freilich sicher, daß sich der Dilettantismus auch nicht einmal nach unten verbreite. - Was übrigens dieser Rezensent sich untersteht zu sagen: daß die Sätze, welche er dort ausgezogen hat, im System des transzendentalen Idealismus heilige Wahrheiten sein sollen, leide keinen Zweifel, ist eine zu abgeschmackte und platte Lüge, als daß wir etwas anderes dagegen nötig fänden, als ermeldete königliche Sozietät auf diesen Mitarbeiter aufmerksam zu machen, dessen böse Laune gegen die Philosophie auch die gute der Sozietät verdächtig machen könnte."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "h",
+   "hash": "t0b9g41ogb",
+   "text": "Notizenblatt.132)"
+  },
+  {
+   "bi": 20,
+   "k": "h",
+   "hash": "16vea5f1bf",
+   "text": "Göttingen"
+  },
+  {
+   "bi": 21,
+   "k": "h",
+   "hash": "1km61k4uek",
+   "text": "I"
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1jnylchhu8",
+   "sents": [
+    "In einer Beilage zu seinem Schriftchen Logik und allgemeine Enzyklopädie der Wissenschaften im Grundriß erklärt Herr Prof. und Assessor der Königlichen Sozietät der Wissenschaften daselbst, J. C. D. Wildt, wiederholt seine vollkommene Überzeugung, daß sein System der Philosophie das einzig richtige sei, und setzt hinzu: Sollte Schelling oder ein anderer ähnlicher Kopf sich in einen Kampf einlassen wollen, so erkläre ich hier öffentlich, um - Kants Vorschlag gemäß - einen Maßstab der Überzeugung zu haben, soviel von meinem Vermögen als Preis desselben gerichtlich zu deponieren, als man in gleicher Absicht dagegensetzen will.",
+    "Es ist nicht um Ausflüchte zu suchen, eine so großmütige Aufforderung abzulehnen, wenn man vom Herrn Prof. W. vorläufig folgende zwei Fragen beantwortet wünscht."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "8nqo4h1t0n",
+   "sents": [
+    "Erstens.",
+    "Herr W. begreift die Erkenntnisse als Kenntnisse, Systeme als Aggregate von Kenntnissen.",
+    "Die Zusammenstellung der einzelnen philosophischen Sätze ist nach ihm großen Schwierigkeiten unterworfen, da sie teils auf den ersten Anblick so verschiedenartig sind, teils selbst nach dem Vortrag großer Philosophen untereinander im Widerspruch stehen.",
+    "Die einzelnen Sätze können ferner nur als Postulate vorgetragen werden, wo man erwarten muß, daß jeder sie in seiner eigenen Erfahrung aufsucht, und die Philosophie ist ferner eine ästhetische Wissenschaft.",
+    "Ferner müssen die Erkenntnisse unter Kapitel und Titel gebracht werden; einzig für die richtige Einregistrierung derselben bedarf es allgemeine Regeln.",
+    "Nur unter dieser Bedingung ist jeder Streit den Augenblick wieder aufgehoben, weil der Punkt nur unter das gehörige Kapitel gebracht werden darf.",
+    "Man sieht, daß nach Herrn W. das einzig richtige System der menschlichen Kenntnisse in einem guten Realcatalogus der Göttingischen Universitätsbibliothek bestehen würde."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1gb4e52mfs",
+   "sents": [
+    "Die Hauptfrage hierbei ist nun: auf welchen dieser verschiedenen Punkte eigentlich der Kampfpreis gesetzt sei, ob darauf, daß die Philosophie eine ästhetische Wissenschaft ist, oder darauf, daß sie die Kenntnisse unter Kapitel und Titel zu bringen hat, oder ob auch auf einzelne Sätze (in welchem Fall noch die besondere Frage einträte, wie hier Entscheidung möglich sein werde, da diese Sätze nur Postulate sind, wegen denen man erwarten muß, daß sie jeder in seiner Erfahrung aufsucht), ferner ob auf die einzelne Anordnung und Aufnahme unter Rubriken, nach welcher z. B. für jeden Bestandteil der Kenntnis eine eigene Kraft und überhaupt sechs Aggregate menschlicher Kenntnisse angenommen werden müssen, und unter die Rubrik der metaphysischen Wissenschaften auch Geographie, Geschichte, Antiquitäten, Statistik und Metaphysik gehören; wobei denn ohne Zweifel als ausgemacht angenommen werden könnte, daß man sich wegen der Klassifikationen an die letzte Abschrift seiner Kategorientafel vom 29. Juli 1800, seit welcher, nach seiner Versicherung, zu seiner Freude nichts mehr daran zu ändern gewesen, zu halten hätte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/6.p8.json"
+}

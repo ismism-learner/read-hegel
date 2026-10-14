@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-08",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 1,
+   "de": "– Das Sein des Geistes kann wenigstens nicht als so etwas schlechthin Unverrücktes und Unverrückbares genommen werden.",
+   "en": "– The being of the spirit can at least not be taken as something absolutely fixed and immovable.",
+   "zh": "——精神的存在至少不能被当作某种绝对固定不动、不可移动的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 2,
+   "de": "Der Mensch ist frei; es wird zugegeben, daß das ursprüngliche Sein nur Anlagen sind, über welche er viel vermag oder welche günstiger Umstände bedürfen, um entwickelt zu werden; d.h. ein ursprüngliches Sein des Geistes ist ebensowohl als ein solches auszusprechen, das nicht als Sein existiert.",
+   "en": "The human being is free; it is conceded that the original being is only predispositions, over which he has much power or which need favorable circumstances in order to be developed; i.e. an original being of the spirit is just as much to be expressed as such a one that does not exist as being.",
+   "zh": "人是自由的；人们承认，那原初的存在只是些禀赋，人对它们有很大支配力，或者它们需要有利的情况才能被发展出来；也就是说，精神的一种原初存在同样要表述为这样一种东西：它并不作为存在而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 3,
+   "de": "Widersprächen also Beobachtungen demjenigen, was irgendeinem als Gesetz zu versichern einfällt, wäre es schön Wetter am Jahrmarkte oder bei der Wäsche, so könnten Krämer und Hausfrau sprechen, daß es eigentlich regnen sollte und die Anlage doch dazu vorhanden sei; ebenso das Schädelbeobachten, – daß dies Individuum eigentlich so sein sollte, wie der Schädel nach dem Gesetze aussagt, und eine ursprüngliche Anlage habe, die aber nicht ausgebildet worden sei; vorhanden ist diese Qualität nicht, aber sie sollte vorhanden sein.",
+   "en": "If, then, observations contradicted that which occurs to someone to assure as law — be it fine weather at the fair or at the washing — then shopkeeper and housewife could say that it really ought to rain and that the predisposition to it is nevertheless present; likewise the skull-observing, — that this individual really ought to be as the skull declares according to the law, and has an original predisposition which, however, has not been developed; this quality is not present, but it ought to be present.",
+   "zh": "因此，如果观察与某人想起要当作规律来担保的东西相矛盾——不管是集市上或洗衣时的好天气——，那么小贩和主妇就可以说：其实本该下雨，而对此的禀赋毕竟现成存在；颅骨观察也同样可以这样说：这个个体其实本该像颅骨按规律所说的那样，并且具有一种原初的禀赋，只是这种禀赋没有被培养出来；这种品质并不现成存在，但它本该现成存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 4,
+   "de": "– Das Gesetz und das Sollen gründet sich auf das Beobachten des wirklichen Regens und des wirklichen Sinnes bei dieser Bestimmtheit des Schädels; ist aber die Wirklichkeit nicht vorhanden, so gilt die leere Möglichkeit für ebensoviel.",
+   "en": "– The law and the ought ground themselves on the observation of the actual rain and of the actual sense in this determinacy of the skull; but if the actuality is not present, then the empty possibility counts for just as much.",
+   "zh": "——规律和应当建立在对于现实的雨、以及对于颅骨的这种规定性身上现实的意义的观察之上；但如果现实性并不现成存在，那么空洞的可能性就同样算数。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 41,
+   "si": 5,
+   "de": "– Diese Möglichkeit, d. i. die Nichtwirklichkeit des aufgestellten Gesetzes und hiermit ihm widersprechende Beobachtungen müssen eben dadurch hereinkommen, daß die Freiheit des Individuums und die entwickelnden Umstände gleichgültig gegen das Sein überhaupt sind, sowohl gegen es als ursprüngliches Inneres wie als äußeres Knöchernes, und daß das Individuum auch etwas anderes sein kann, als es innerlich ursprünglich und noch mehr als ein Knochen ist.",
+   "en": "– This possibility, i.e. the non-actuality of the posited law and thereby observations contradicting it, must come in precisely through this: that the freedom of the individual and the developing circumstances are indifferent toward being in general, both toward it as original inner being and as outer bony being, and that the individual can also be something other than it is inwardly originally and still more than a bone is.",
+   "zh": "——这种可能性，即所建立的规律之非现实性以及由此与它相矛盾的观察，必然恰恰由此进来：个体的自由和那些起发展作用的情况对一般存在漠不关心，既对作为原初内在东西的存在漠不关心，也对作为外在骨质东西的存在漠不关心，并且个体也可以成为某种别的东西，既不同于它内在地原初所是的东西，更不同于一块骨头。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 42,
+   "si": 0,
+   "de": "Wir erhalten also die Möglichkeit, daß dieser Knorren oder Vertiefung des Schädels sowohl etwas Wirkliches als auch nur eine Anlage, und zwar unbestimmt zu irgend etwas, daß er etwas Nichtwirkliches bezeichne; wir sehen es einer schlechten Ausrede wie immer ergehen, daß sie wider dasjenige, dem sie aufhelfen soll, selbst zu gebrauchen steht.",
+   "en": "We thus obtain the possibility that this bump or depression of the skull designates both something actual and also merely a disposition, and indeed one that is indeterminate with respect to anything whatever, that it designates something non-actual; we see a bad excuse fare as always, namely that it must itself be used against that very thing which it is supposed to help up.",
+   "zh": "于是我们就得到这样一种可能：颅骨的这种隆起或凹陷既标示某种现实的东西，又只标示一种禀赋，而且是对随便什么东西都不确定的禀赋，也就是说，它标示某种非现实的东西；我们看到，一个糟糕的借口总是同样的下场：它不得不被用来对付它本该扶助的那个东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 42,
+   "si": 1,
+   "de": "Wir sehen das Meinen durch die Natur der Sache dahin gebracht, das Gegenteil dessen, aber gedankenlos, selbst zu sagen, was es festhält; – zu sagen, es wird durch diesen Knochen irgend etwas angedeutet, aber ebensogut auch nicht.",
+   "en": "We see meaning brought by the nature of the matter to itself say, though thoughtlessly, the opposite of what it holds fast; – to say that through this bone something or other is intimated, but just as well not.",
+   "zh": "我们看到，意谓被事情的本性弄到竟然自己说出它所坚持的那个东西的反面，不过是无思想地说出；——说出：通过这块骨头暗示出某种东西，但同样地也并非如此。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 0,
+   "de": "Was der Meinung selbst bei dieser Ausrede vorschwebt, ist der wahre, sie gerade vertilgende Gedanke, daß das Sein als solches überhaupt nicht die Wahrheit des Geistes ist.",
+   "en": "What hovers before the opinion itself in this excuse is the true thought, which precisely annihilates it, that being as such is not at all the truth of spirit.",
+   "zh": "意见自己在这个借口里所浮现出来的，恰恰是那个真实的、恰好把它消灭掉的思想：存在本身根本不是精神的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 1,
+   "de": "Wie schon die Anlage ein ursprüngliches Sein ist, das an der Tätigkeit des Geistes keinen Anteil hat, ein eben solches ist seinerseits auch der Knochen.",
+   "en": "Just as the disposition is already an original being that has no share in the activity of spirit, so the bone in its turn is likewise such a one.",
+   "zh": "正如禀赋已经是一种原初的存在，它在精神的活动中没有任何份，骨头这边同样也是这样一种东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 2,
+   "de": "Das Seiende ohne die geistige Tätigkeit ist ein Ding für das Bewußtsein und so wenig sein Wesen, daß es vielmehr das Gegenteil desselben und das Bewußtsein sich allein wirklich ist durch die Negation und Vertilgung eines solchen Seins.",
+   "en": "The existent without spiritual activity is a thing for consciousness, and so little is it its essence that it is rather the opposite of the same, and consciousness is alone actual only through the negation and annihilation of such a being.",
+   "zh": "没有精神活动的存在者，对意识来说是一个物，它远不是意识的本质，反倒恰恰是意识的反面，而意识只有通过对这样一种存在的否定和消灭才是现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 3,
+   "de": "– Es ist von dieser Seite für völlige Verleugnung der Vernunft anzusehen, für das wirkliche Dasein des Bewußtseins einen Knochen auszugeben; und dafür wird er ausgegeben, indem er als das Äußere des Geistes betrachtet wird, denn das Äußere ist eben die seiende Wirklichkeit.",
+   "en": "– From this side it is to be regarded as a complete denial of reason to pass off a bone as the actual determinate being of consciousness; and it is passed off as such in that it is considered as the outer of spirit, for the outer is precisely existing actuality.",
+   "zh": "——从这一方面看，把一块骨头冒充为意识的现实定在，要算作对理性的完全否认；而它之所以被这样冒充，是因为它被看作精神的外在，因为外在恰恰就是存在着的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 4,
+   "de": "Es hilft nichts zu sagen, daß von diesem Äußeren nur auf das Innere, das etwas anderes sei, geschlossen werde, das Äußere nicht das Innere selbst, sondern nur dessen Ausdruck sei.",
+   "en": "It helps nothing to say that from this outer one only infers the inner, which is something else; that the outer is not the inner itself but only its expression.",
+   "zh": "说从这个外在只能推论出内在，而内在是某种别的东西，说外在并不是内在本身、而只是它的表达，这都无济于事。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 5,
+   "de": "Denn in dem Verhältnisse beider zueinander fällt eben auf die Seite des Inneren die Bestimmung der sich denkenden und gedachten, auf die Seite des Äußeren aber die der seienden Wirklichkeit.",
+   "en": "For in the relation of the two to each other, the determination of the self-thinking and thought falls precisely on the side of the inner, but that of existing actuality on the side of the outer.",
+   "zh": "因为在这两者彼此的关系中，恰恰是思维着自身并被思维的规定落在内在这一边，而存在着的现实性的规定则落在外在这一边。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 6,
+   "de": "– Wenn also einem Menschen gesagt wird: du (dein Inneres) bist dies, weil dein Knochen so beschaffen ist, so heißt es nichts anderes als: ich sehe einen Knochen für deine Wirklichkeit an.",
+   "en": "– If, then, it is said to a human being: you (your inner) are this, because your bone is so constituted, it means nothing other than: I regard a bone as your actuality.",
+   "zh": "——所以，如果对一个人说：你（你的内在）是这样，因为你的骨头生得如此，那么这无非是说：我把一块骨头看作你的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 43,
+   "si": 7,
+   "de": "Die bei der Physiognomik erwähnte Erwiderung eines solchen Urteils durch die Ohrfeige bringt zunächst die weichen Teile aus Ihrem Ansehen und Lage und erweist nur, daß diese kein wahres Ansich, nicht die Wirklichkeit des Geistes sind; hier müßte die Erwiderung eigentlich so weit gehen, einem, der so urteilt, den Schädel einzuschlagen, um gerade so greiflich, als seine Weisheit ist, zu erweisen, daß ein Knochen für den Menschen nichts an sich, viel weniger seine wahre Wirklichkeit ist.",
+   "en": "The rejoinder to such a judgment by a box on the ear, mentioned in connection with physiognomy, first brings the soft parts out of their look and position and only proves that these are no true in-itself, not the actuality of spirit; here the rejoinder would really have to go so far as to smash in the skull of one who judges thus, in order to prove, just as palpably as his wisdom is, that a bone is nothing in itself for the human being, much less his true actuality.",
+   "zh": "面相学那里提到过用一记耳光来回应这样一种判断，这首先把柔软的部分打出它们原来的样子和位置，只证明这些部分不是真正的自在，不是精神的现实性；在这里，这种回应其实还必须走得更远，把这样作判断的人的颅骨敲碎，以便恰恰像他的智慧那样可触地证明：一块骨头对人来说并不是什么自在的东西，更不是他真正的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 0,
+   "de": "Der rohe Instinkt der selbstbewußten Vernunft wird eine Schädelwissenschaft unbesehen verwerfen, – diesen anderen beobachtenden Instinkt derselben, der zur Ahnung des Erkennens gediehen, es auf die geistlose Weise, daß das Äußere Ausdruck des Inneren sei, erfaßt hat.",
+   "en": "The crude instinct of self-conscious reason will reject a skull-science without looking at it – this other observing instinct of the same, which has ripened to a presentiment of cognition and has grasped it in the spirit-less way that the outer is the expression of the inner.",
+   "zh": "自我意识着的理性的粗野本能会不加审视地抛弃一门颅骨科学，——即抛弃理性的另一种观察的本能，这种本能已经成长为对认识的一种预感，并且以无精神的方式把握了认识，认为外在是内在的表达。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 1,
+   "de": "Aber je schlechter der Gedanke ist, desto weniger fällt es zuweilen auf, worin bestimmt seine Schlechtigkeit liegt, und desto schwerer ist es, sie auseinanderzulegen.",
+   "en": "But the worse the thought is, the less it sometimes strikes one wherein its badness precisely lies, and the harder it is to take it apart.",
+   "zh": "但思想越是糟糕，它的糟糕究竟在哪里，有时就越不引人注意，也就越难把它拆解开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 2,
+   "de": "Denn der Gedanke heißt um so schlechter, je reiner und leerer die Abstraktion ist, welche ihm für das Wesen gilt.",
+   "en": "For the thought counts as so much the worse, the purer and emptier the abstraction is that counts as essence for it.",
+   "zh": "因为那种被它当作本质的抽象越是纯粹、越是空洞，思想就被称为越糟糕。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 3,
+   "de": "Der Gegensatz aber, auf den es hier ankommt, hat zu seinen Gliedern die ihrer bewußte Individualität und die Abstraktion der ganz zum Dinge gewordenen Äußerlichkeit, – jenes innere Sein des Geistes als festes geistloses Sein aufgefaßt, eben solchem Sein entgegengesetzt.",
+   "en": "But the opposition that matters here has as its members the individuality conscious of itself and the abstraction of the outwardness that has wholly become a thing – that inner being of spirit conceived as fixed spirit-less being, opposed to just such a being.",
+   "zh": "但这里所关涉的对立，其两端是意识到自身的个体性和完全变成了物的外在性的抽象，——精神的那个内在存在被理解为固定的、无精神的存在，与正是这样一种存在相对立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 4,
+   "de": "– Damit scheint aber auch die beobachtende Vernunft in der Tat ihre Spitze erreicht zu haben, von welcher sie sich selbst verlassen und sich überschlagen muß; denn erst das ganz Schlechte hat die unmittelbare Notwendigkeit an sich, sich zu verkehren.",
+   "en": "– But with this, observing reason seems in fact to have reached its peak, from which it must leave itself and tumble over; for only the wholly bad has in itself the immediate necessity of inverting itself.",
+   "zh": "——但这样一来，观察的理性似乎确实已经达到了它的顶点，从那里它必须离开自己并翻倒过去；因为只有完全糟糕的东西才自身带有直接翻转自己的必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 5,
+   "de": "– Wie von dem jüdischen Volke gesagt werden kann, daß es gerade darum, weil es unmittelbar vor der Pforte des Heils stehe, das verworfenste sei und gewesen sei; was es an und für sich sein sollte, diese Selbstwesenheit ist es sich nicht, sondern verlegt sie jenseits seiner; es macht sich durch diese Entäußerung ein höheres Dasein möglich, wenn es seinen Gegenstand wieder in sich zurücknehmen könnte, als wenn es innerhalb der Unmittelbarkeit des Seins stehengeblieben [wäre], weil der Geist um so größer ist, aus je größerem Gegensatze er in sich zurückkehrt; diesen Gegensatz aber macht er sich in dem Aufheben seiner unmittelbaren Einheit und in der Entäußerung seines Fürsichseins.",
+   "en": "– As it can be said of the Jewish people that, precisely because it stands immediately before the gate of salvation, it is and has been the most rejected; what it should be in and for itself, this self-essentiality, it is not for itself, but places it beyond itself; through this externalization it makes a higher determinate being possible for itself, if it could take its object back into itself again, than if it had remained within the immediacy of being, because spirit is the greater the greater the opposition out of which it returns into itself; but this opposition it makes for itself in the sublating of its immediate unity and in the externalization of its being-for-itself.",
+   "zh": "——就像可以说犹太民族那样：正因为它直接站在得救之门前，它才是最被弃绝的，并且一直是最被弃绝的；它自在自为地应当是的那个东西，这种自身本质性，它并不为自己拥有，而是把它放到自己之外；通过这种外化，如果它能够把它的对象重新收回自身之内，它就为自己使一种更高的定在成为可能，这比它停留在存在的直接性之内时更高，因为精神从越大的对立中返回自身，它就越伟大；而它是在扬弃自己的直接统一、在外化自己的自为存在时，为自己造出这个对立的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 6,
+   "de": "Allein wenn ein solches Bewußtsein sich nicht reflektiert, ist die Mitte, worin es steht, die unselige Leere, indem dasjenige, was sie erfüllen sollte, zum festen Extreme geworden ist.",
+   "en": "But if such a consciousness does not reflect itself, the middle in which it stands is the unhappy emptiness, since that which should fill it has become a fixed extreme.",
+   "zh": "但只要这样一种意识不反思自身，它所处的那个中项就是不幸的空虚，因为本该填充它的那个东西已经变成了固定的极端。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 44,
+   "si": 7,
+   "de": "So ist diese letzte Stufe der beobachtenden Vernunft ihre schlechteste, aber darum ihre Umkehrung notwendig.",
+   "en": "Thus this last stage of observing reason is its worst, but for that very reason its inversion is necessary.",
+   "zh": "所以观察的理性的这最后一个阶段是它最糟糕的阶段，但正因如此，它的翻转是必然的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 45,
+   "si": 0,
+   "de": "Denn die Übersicht der bisher betrachteten Reihe von Verhältnissen, welche den Inhalt und Gegenstand der Beobachtung ausmachen, zeigt, daß in ihrer ersten Weise, in der Beobachtung der Verhältnisse der unorganischen Natur ihr schon das sinnliche Sein verschwindet, die Momente ihres Verhältnisses stellen sich als reine Abstraktionen und als einfache Begriffe dar, welche an das Dasein von Dingen festgeknüpft sein sollten, das aber verlorengeht, so daß das Moment sich als reine Bewegung und als Allgemeines erweist.",
+   "en": "For the survey of the series of relations considered so far, which constitute the content and object of observation, shows that in its first mode, in the observation of the relations of inorganic nature, sensuous being already disappears for it; the moments of its relation present themselves as pure abstractions and as simple concepts, which were supposed to be firmly tied to the determinate being of things, but that is lost, so that the moment proves to be pure movement and the universal.",
+   "zh": "因为概观迄今所考察的这一系列关系——它们构成观察的内容和对象——就表明：在它的第一种方式中，即在观察无机自然的关系时，感性存在对它来说就已经消失，它的关系的各个环节表现为纯粹抽象和简单概念，这些概念本该牢牢系在物的定在上，而定在却失去了，以致环节表明自己是纯粹的运动和普遍的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 45,
+   "si": 1,
+   "de": "Dieser freie in sich vollendete Prozeß behält die Bedeutung eines Gegenständlichen, tritt aber nur als ein Eins auf; im Prozesse des Unorganischen ist das Eins das nicht existierende Innere; als Eins aber existierend ist er das Organische.",
+   "en": "This free process, completed in itself, retains the significance of something objective, but appears only as a one; in the process of the inorganic, the one is the non-existing inner; but existing as one, it is the organic.",
+   "zh": "这个自由的、在自身中完成了的过程保留着一种对象性的含义，但它只作为一个一而出现；在无机物的过程中，这个一是并不存在的内在；但作为一而存在着，它就是有机的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 45,
+   "si": 2,
+   "de": "– Das Eins steht als Fürsichsein oder negatives Wesen dem Allgemeinen gegenüber, entzieht sich diesem und bleibt frei für sich, so daß der Begriff, nur im Elemente der absoluten Vereinzelung realisiert, in der organischen Existenz seinen wahrhaften Ausdruck, als Allgemeines da zu sein, nicht findet, sondern ein Äußeres oder, was dasselbe ist, ein Inneres der organischen Natur bleibt.",
+   "en": "– The one stands as being-for-itself or negative essence over against the universal, withdraws from it and remains free for itself, so that the concept, realized only in the element of absolute singleness, does not find in organic existence its true expression of being there as universal, but remains an outer or, what is the same, an inner of organic nature.",
+   "zh": "——这个一作为自为存在或否定的本质与普遍的东西相对立，从后者那里抽身，并自为地保持自由，以致概念——它只在绝对单一化的要素中才得到实现——在有机的存在中找不到它作为普遍的东西而在场的真正表达，反而始终是有机自然的一个外在，或者，这同一回事，是有机自然的一个内在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 45,
+   "si": 3,
+   "de": "– Der organische Prozeß ist nur frei an sich, ist es aber nicht für sich selbst, im Zwecke tritt das Fürsichsein seiner Freiheit ein, existiert als ein anderes Wesen, als eine ihrer selbst bewußte Weisheit, die außer jenem ist.",
+   "en": "– The organic process is free only in itself, but is not so for itself; in the purpose the being-for-itself of its freedom enters, exists as another essence, as a wisdom conscious of itself, which is outside that [process].",
+   "zh": "——有机的过程只是自在地自由，而不是自为地自由；在目的中，它的自由的自为存在出现了，它作为另一个本质而存在，作为一种意识到自身的智慧而存在，而这智慧在那个过程之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 45,
+   "si": 4,
+   "de": "Die beobachtende Vernunft wendet sich also an diese, an den Geist, den als Allgemeinheit existierenden Begriff oder als Zweck existierenden Zweck; und ihr eigenes Wesen ist ihr nunmehr der Gegenstand.",
+   "en": "Observing reason therefore turns to this [wisdom], to spirit, to the concept existing as universality or the purpose existing as purpose; and its own essence is now the object for it.",
+   "zh": "所以观察的理性转向这个智慧，转向精神，转向作为普遍性而存在的概念，或者作为目的而存在的目的；而它自己的本质现在成了它的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 46,
+   "si": 0,
+   "de": "Sie wendet sich zuerst an seine Reinheit; aber indem sie Auffassen des in seinen Unterschieden sich bewegenden Gegenstandes als eines Seienden ist, werden ihr Gesetze des Denkens, Beziehungen von Bleibendem auf Bleibendes; aber da der Inhalt dieser Gesetze nur Momente sind, verlaufen sie sich in das Eins des Selbstbewußtseins.",
+   "en": "It turns first to its purity; but since it is an apprehending of the object moving in its differences as an existent, laws of thinking become for it, relations of something persisting to something persisting; but since the content of these laws is only moments, they run out into the one of self-consciousness.",
+   "zh": "它首先转向精神的纯粹性；但由于它是在把在自身差别中运动着的对象当作存在者来把握，思维规律就为它而出现，即持存者与持存者的关系；可是既然这些规律的内容只是环节，它们就消散进自我意识的那个一之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 46,
+   "si": 1,
+   "de": "– Dieser neue Gegenstand ebenso als Seiendes genommen, ist das einzelne, zufällige Selbstbewußtsein; das Beobachten steht daher innerhalb des gemeinten Geistes und des zufälligen Verhältnisses von bewußter Wirklichkeit auf unbewußte.",
+   "en": "– This new object, taken likewise as an existent, is the single, contingent self-consciousness; observation therefore stands within the meant spirit and within the contingent relation of conscious actuality to unconscious.",
+   "zh": "——这个新的对象同样被当作存在者来把握，就是单个的、偶然的自我意识；所以观察就站在被意谓的精神之内，站在有意识的现实性与无意识的东西的偶然关系之内。"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "w2-13-62",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "mj9xlf8fo8",
+   "sents": [
+    "Der Zorn Gottes über sich selbst in seinem Andersein, der gefallene Luzifer, hier fixiert, empört sich gegen Gott, und seine Schönheit macht ihn hoffärtig.",
+    "Die Natur mit dem Bewußtsein über ihre Gestalt trägt sie zur Schau und gefällt sich selbst in ihr.",
+    "Aber dies ihr Für-sich-selbst-Sein oder ihr Sein als Bewußtsein ist nicht ihr Sein in immer ruhiger Vorstellung ihrer selbst, so daß der Gedanke nur das Sekundäre wäre, der leere untätige Raum, der seinen Inhalt empfängt, sondern dies Bewußtsein ist unmittelbar absolute Tätigkeit.",
+    "Es ist der Zorn selbst, die Entzündung des Grimmes in ihm, der sich aufreibt und seine hoffärtige Pracht verzehrt.",
+    "Die verzehrte Natur steigt in neuer idealer Gestalt als ein Schattenreich empor, das jenes erste Leben verloren hat, die Erscheinung ihres Geistes nach dem Tode ihres Lebens.",
+    "Diese neue Gestalt ist aber die Überwindung des Bösen, das Ausgehaltenhaben in der Glut des Schmerzes im Mittelpunkte, wo sie geläutert alle Flocken im Tiegel zurückgelassen hat, ein Residuum, das das reine Nichts ist.",
+    "Sie erhebt sich als freier Geist, der nur in der Natur diese seine Verklärung sieht. -"
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "fmh27n150o",
+   "sents": [
+    "Solche Mythen, solche Anschauungen sind die Anschauungen der Barbarei.",
+    "Die Gestalt dieser Anschauungen vernichtet das Individuum, oder es ist hier vielmehr der Grimm gegen dieses gewordene, selbst wieder bestehende Absolute.",
+    "Denn das Individuum ist nichts darin.",
+    "Es geht nicht unter, sondern ist untergegangen, und jene Anschauung muß noch einen zweiten Prozeß durchgehen, um absolut zu sein.",
+    "Dieser ist die Wissenschaft oder das Erkennen, daß jenes sich in sich hinein Imaginieren, jener Lebenslauf Gottes aus dem Erkennen selbst hervorgeht; daß die Natur in ihrem Wesen nicht das Anderssein ist, worüber der Geist, daß er sich so verloren, ergrimmt, sondern ihre Anschauung, sie als sie, der Geist ist.",
+    "Das Individuum ist als solches selbst Natur und die Anschanung des göttlichen Wesens eine natürliche, ob ihr Inhalt gleich der Geist ist.",
+    "Das Individuum macht selbst diesen Weg im Aufzehren seiner selbst oder in der Wissenschaft, denn in dieser geht das natürliche Wesen des Subjekts zugrunde.",
+    "Und es ist nicht nur die Erhebung des Individuums dazu oder eine Bildung desselben; es ist nicht bloß ein Ansehen von seiner Seite, eine Beziehung auf es: sondern der zweite Kreislauf des Absoluten selbst, das, sich zum Geist geworden, als solcher, als herausgeborene Totalität, als Geist, als Bewußtsein in jenen Schmerz eingeht, so daß der Geist als Bewußtsein jenes sein Werden an ihm selbst als einem gewordenen erzeugt. - Jene Anschauung der Religion ist allgemeine Religion, und sie ist dies nur als Wissenschaft.",
+    "Nicht ein Hindurchgehen, ein Produzieren jenes ersten Weges in sich selbst als eines anschauenden Kreislaufes; sondern die Wissenschaft erhebt sich über den Glauben und sein Anschauen, verläßt sich als Geist und kommt zu sich als Geist.",
+    "Die Bildung, wissenschaftliche Entwicklung jener Anschauung ist dies, daß sie immer Geist bleibt, den Geist nicht verliert und als dieser sich nicht verlierende Geist sich ein Anderes wird und sich wiederfindet.",
+    "Das Wissen macht jedes Moment der Anschauung, das für sich eine undurchdringliche, bestimmte Gestalt ist, die ihr Inneres nicht aufschließt, sondern hervorgeht, handelt und verschwindet durch ein anderes Handelndes, zu einem Prozesse in sich selbst oder zu einer geistigen Natur."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "rfd8eb77ct",
+   "sents": [
+    "Die schlechte Reflexion ist die Furcht, sich in die Sache zu vertiefen, [sie will] immer über sie hinaus und in sich zurückkehren.",
+    "Der Analyst, wie Laplace sagt, überläßt sich dem Kalkül, und es verschwindet ihm die Aufgabe, d. h. die Übersicht und die Abhängigkeit der einzelnen Momente der Rechnung von dem Ganzen.",
+    "Nicht nur die Einsicht in die Abhängigkeit des Einzelnen vom Ganzen ist allein das Wesentliche, [sondern] ebenso, daß jedes Moment selbst, unabhängig vom Ganzen, das Ganze ist, und dies ist das Vertiefen in die Sache."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "btbuzm8i1k",
+   "sents": [
+    "Faust fand die Grenzen der Menschheit zu enge und stieß mit wilder Kraft dagegen an, um sie über die Wirklichkeit hinüberzurücken.",
+    "Er fand den edlen Kopf unterdrückt und vernachlässigt, den Dummkopf und Schurken zu Ehren erhoben.",
+    "Er will den Grund des moralischen Übels erforschen, das Verhältnis des Menschen zum Ewigen, ob er sei, der das Menschengeschlecht leite, und woher die es plagenden Widersprüche entstehen.",
+    "Er will den Grund der Dinge, die geheimen Springfedern der Erscheinungen der physischen und moralischen Welt und den faßlich haben, der alles geordnet."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p62.json"
+}

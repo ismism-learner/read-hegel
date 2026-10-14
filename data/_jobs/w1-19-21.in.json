@@ -1,0 +1,156 @@
+{
+ "id": "w1-19-21",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 19,
+ "chunkTitle": "[10. Staatsbürgerliche und ständische Freiheit]",
+ "heading": "C",
+ "blocks": [
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "ayh7xu1346",
+   "sents": [
+    "Diese Abgeordneten bildeten für diesen Zweck ein Korps mit der Städtebank des Reichstags, - diese Städtebank hat ohnedies durch den Verlust von mehreren Städten wieder eine Verminderung erlitten, und es ist die Frage, ob [sie] nicht noch andre Verminderungen zum eigenen Besten mancher kleineren derselben in dem Entschädigungsgeschäfte erleiden [wird], - Hamburg müßte auch angehalten werden, seinen Deputierten zu schicken. - Die kleinsten Reichsstädte von einem oder ein paar tausend Bürgern haben Stimmen in dem Reichstag, und ein ganzes Land wie Böhmen, Sachsen hat gar keine Stimme.",
+    "Solche kleine Reichsstädte, die noch bleiben, müßten an der Eigenschaft, einen Deputierten zu schicken, die um sie her liegenden Landschaften teilnehmen lassen."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1ud8vexi05",
+   "sents": [
+    "Ohnehin weiß man nicht, was die Städtebank zu bedeuten hat.",
+    "Es sind drei Kollegien auf dem Reichstag, aber die Mehrheit der Stimmen entscheidet nicht; stimmt das Kurfürsten- und das Fürstenkollegium nicht überein, so bleibt die Sache liegen, und das Städtekollegium gibt keinen Ausschlag."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "klf9ry12de",
+   "sents": [
+    "Die ganze Veränderung wäre, daß die Länder das Geld, das sie unmittelbar den Fürsten bewilligen und nur mittelbar dem Kaiser und Reich beitragen, jetzt unmittelbar an Kaiser und Reich abgeben."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1h27q01ac1",
+   "sents": [
+    "Der Kaiser wäre wieder an die Spitze des Deutschen Reichs gestellt."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1fyunygbgd",
+   "sents": [
+    "Es wäre die Frage, ob die Ritterkantone Deputierte in den Fürstenrat oder ins Städtekollegium schicken würden.",
+    "Sie würden ihre Karitativsubsidien gemeinschaftlich mit den anderen bewilligen, und als Herrschaftsherren müßten sie notwendig dem Fürstenkollegium zugesellt werden."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "1si89151ph",
+   "sents": [
+    "Es wäre [ferner] die Frage, ob die Fürsten aus ihren Domänen und sonstigen Territorialeinkünften gemeinschaftlich einen Beitrag zu liefern beschließen würden oder ob jeder sein Regiment oder seine Garde zum Teil davon bestreiten würde.",
+    "Überhaupt stünde es jedem frei, an dieses Regiment noch außer dem Allgemeinen, was dazu vom Ganzen gegeben würde, von seinem Eigenen zur Schönheit desselben soviel beizutun, als ihm beliebte.",
+    "In jenem, wenn die Fürsten Beiträge aus den Domänen in einen gemeinschaftlichen Punkt bewilligten und abgäben, würden die Ritter ihnen beigesellt werden müssen; wie denn ohnedies ursprünglich wahrer Adel, d. h. Herrschaftsherren von unmittelbaren Rittergütern ganz in die Kategorie der Fürsten gehörten und in ihrem Ursprung nicht davon verschieden waren."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "4e9ca81k5d",
+   "sents": [
+    "Auch würde die Frage eintreten, ob nicht in dem Kurfürsten- und Fürstenkollegium die Fürsten, wenn sie nicht selbst erscheinen wollten, sich durch Prinzen ihres Hauses oder wenigstens durch ihre vornehmsten Vasallen sollten repräsentieren lassen.",
+    "In einer solchen Versammlung würde auch die Art der Verhandlungen, das Protokolldiktieren, nicht anwendbar [sein], sondern mündlich beratschlagt und gestimmt werden, und die Talente und der Glanz der Repräsentanten, wenn sie nur aus fürstlichen und den edelsten Geschlechtern sind, würden einer solchen fürstlichen Versammlung eine erhabene Stellung und Anblick gewähren."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "xbpxo3f5dl",
+   "sents": [
+    "Wenn alle Teile dadurch gewännen, daß Deutschland zu einem Staat würde, so ist eine solche Begebenheit nie die Frucht der Überlegung gewesen, sondern der Gewalt, und wenn sie auch der allgemeinen Bildung gemäß [wäre] und das Bedürfnis derselben tief und bestimmt gefühlt würde.",
+    "Der gemeine Haufen des deutschen Volks nebst ihren Landständen, die von gar nichts anderem als von Trennung der deutschen Völkerschaften wissen und denen die Vereinigung derselben etwas ganz Fremdes ist, müßte durch die Gewalt eines Eroberers in eine Masse versammelt, sie müßten gezwungen werden, sich zu Deutschland gehörig zu betrachten."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "94vc8s724h",
+   "sents": [
+    "Dieser Theseus müßte Großmut haben, dem Volk, das er aus zerstreuten Völkern geschaffen hätte, einen Anteil an dem, was alle betrifft, ein[zu]räumen - weil eine demokratische Verfassung, als Theseus seinem Volke gab, in unseren Zeiten und großen Staaten ein Widerspruch in sich selbst ist, so würde der Anteil eine Organisation sein -, [sowie] Charakter genug, um - wenn er auch nicht mit Undank wie Theseus belohnt zu werden, sich durch die Direktion der Staatsmacht, die er in Händen hätte, versichert sein könnte - den Haß tragen zu wollen, den Richelieu und andere große Menschen auf sich luden, welche die Besonderheiten und Eigentümlichkeiten der Menschen zertrümmerten."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1nqtap9yhg",
+   "sents": [
+    "Wenn die gesellige Natur des Menschen einmal ist gestört und gezwungen worden, sich in Eigentümlichkeiten zu werfen, so kommt eine so tiefe Verkehrtheit in sie, daß sie ihre Kraft jetzt auf diese Entzweiung von anderen verwendet und in der Behauptung ihrer Absonderung bis zum Wahnsinn fortgeht; denn der Wahnsinn ist nichts anderes als die vollendete Absonderung des Einzelnen von seinem Geschlecht, und wenn die deutsche Nation [auch] nicht fähig ist, ihre Hartnäckigkeit in dem Besonderen bis zum Wahnsinn der jüdischen Nation zu steigern, dieser mit anderen zu Geselligkeit und Gemeinschaftlichkeit unvereinbaren Nation, wenn sie [auch] nicht zu dieser Verruchtheit der Absonderung, zu morden und sich morden zu lassen, bis der Staat zertrümmert ist, kommen kann, so ist [doch] das Besondere und Vorrecht und Vorzug so was innig Persönliches, daß der Begriff und die Einsicht der Notwendigkeit viel zu schwach ist, um aufs Handeln selbst zu wirken; der Begriff und Einsicht führt etwas so Mißtrauisches gegen sich mit, daß er durch die Gewalt gerechtfertigt werden muß, dann unterwirft sich ihm der Mensch."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "h",
+   "hash": "1iy8feadz5",
+   "text": "C"
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "o5hj78riet",
+   "sents": [
+    "[Parallelstellen zur Verfassungsschrift]"
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "h",
+   "hash": "9eszau1e7p",
+   "text": "1."
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1rdp0rz1o7",
+   "sents": [
+    "179) Wir können eine Menschenmenge nur dann einen Staat nennen, wenn sie zur gemeinschaftlichen Verteidigung ihres Eigentums überhaupt verbunden ist.",
+    "Es versteht sich zwar von selbst, ist aber nötig angemerkt zu werden, daß diese Verbindung nicht ein leeres Wort sein darf; nämlich diese Verbindung zur gemeinschaftlichen Verteidigung muß nicht eine Verbindung sein, wodurch nichts verteidigt und einem Feinde ohne Versuch der Verteidigung das Eigentum überlassen wird, sondern durch diese Verbindung zur Verteidigung muß eine wirkliche Verteidigung zustande kommen.",
+    "Die Einrichtung zu dieser wirklichen Verteidigung ist die Staatsmacht; diese muß teils hinreichend, den Staat gegen innere oder äußere Feinde [zu schützen] sein, teils sich selbst gegen den allgemeinen Andrang der Einzelnen zu erhalten.",
+    "Was das letztere betrifft, so wünscht jeder Einzelne freilich vermittels des Staats in Sicherheit seines Eigentums zu leben, die Staatsmacht erscheint ihm aber besonders unter einem großen Volk als etwas Fremdes, außer ihm Vorhandenes; er läßt dieses außer ihm sich Befindende für sich sorgen, wie er für sich sorgt, und sein Beitrag gegen ein so ungeheures Ganzes muß ihm so unverhältnismäßig vorkommen, daß er ihn nicht für wichtig hält und also sein Gewissen über seine Nachlässigkeit leicht befriedigt."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "zf5j731rl3",
+   "sents": [
+    "Gegen diese natürliche zentrifugale Tendenz der Einzelnen muß der Staat Macht genug haben, sich zu erhalten, und wenn sonst nur der Staat überhaupt organisiert ist und nur die gesetzlichen Pflichten in Anspruch nimmt, so tut Ordnung und Strenge hier zunächst ohne weiteren Rückgang an die eigentliche Macht ihre Wirkung.",
+    "Wenn aber die Macht der Einzelnen so groß ist, daß sie sich dem Staat zu widersetzen vermöchten, also in der Möglichkeit sich befinden, seine Feinde zu werden, [so] ist gegen sie dieselbe Art von Macht erforderlich wie gegen äußere Feinde, so wie auch die besondere Macht gegen Verbrecher überhaupt keiner besonderen Erwähnung verdient."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1mxbcud18a",
+   "sents": [
+    "Die Einheit der Staatsmacht zum allgemeinen Zweck der Verteidigung ist das Wesentliche eines Staats.",
+    "Alle anderen Zwecke und Wirkungen der Vereinigung können auf eine höchst mannigfaltige und einheitslose Art vorhanden sein.",
+    "Schon die Art, wie die gesamte Staatsmacht in eine oberste Staatsgewalt übergegangen ist, in den Händen derjenigen, die über sie disponieren, sich befindet, ist dazu, daß ein Volk einen Staat bildet, völlig gleichgültig; es ist gleich, ob der oberste Gewalthaber einer oder mehrere und zu dieser Majestät erwählt oder geboren ist, - ob überhaupt eine Gleichförmigkeit für die einzelnen Teile des Staats hierin stattfindet; der Monarch von Rußland hat Leibeigene unter seinen Untertanen, Bürger von Städten, die Munizipalverfassungen haben, freie Edelleute und Fürsten, die selbst wieder Untertanen haben, so wilde, noch natürlich freie Völker, daß sie Gesetze und Regierung kaum dem Namen nach kennen; so ist auch in jedem anderen europäischen Staate das Verhältnis der Staatsbürger zur obersten Staatsgewalt höchst ungleichförmig.",
+    "Jedes kleinere, im allgemeinen Gesetze enthaltene Ganze, einzelne Stände, Städte, Provinzen haben ihre eigene Verfassung und Rechte.",
+    "Aber so wie alle eine oberste Macht bilden helfen und einer obersten Macht gehorchen, so machen sie einen Staat zusammen aus."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/19.p21.json"
+}

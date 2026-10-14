@@ -1,0 +1,33 @@
+{
+ "id": "w1-7-49",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Unterschied zwischen griechischer Phantasie- und christlicher positiver Religion 59)",
+ "heading": "Unterschied zwischen griechischer Phantasie- und christlicher positiver Religion59)",
+ "blocks": [
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "gt53vz1o2g",
+   "sents": [
+    "Was ist nun das Zufällige, das in der Handlungs- und Sprechart des Jesus vorkommt und fähig war, für sich als Zufälliges, für ein Heiliges genommen und so verehrt zu werden?"
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "8i0myt1i7w",
+   "sents": [
+    "Da unsere Absicht nicht ist, zu untersuchen, wie diese oder jene positive Lehre in das Christentum gekommen ist oder welche Veränderungen mit ihr nach und nach vorgegangen sind etc."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/7.p49.json"
+}

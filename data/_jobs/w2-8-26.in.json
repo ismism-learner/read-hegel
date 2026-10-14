@@ -1,0 +1,48 @@
+{
+ "id": "w2-8-26",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "B. Jacobische Philosophie",
+ "heading": "B. Jacobische Philosophie",
+ "blocks": [
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "ewih01qcj8",
+   "sents": [
+    "Es ergibt sich hieraus der wahre Charakter des Denkens, der Unendlichkeit ist; indem nämlich der absolute Begriff Unendlichkeit - an sich absolute Affirmation, aber gegen das Entgegengesetzte und Endliche gekehrt ist als ihre Identität, so ist es absolute Negation, und diese Negation als seiend, reell gesetzt ist das Setzen Entgegengesetzter: + A - A = 0.",
+    "Das Nichts existiert als + A - A und ist seinem Wesen nach Unendlichkeit, Denken, absoluter Begriff, absolute reine Affirmation.",
+    "Diese abstrahierte Unendlichkeit der absoluten Substanz ist dasjenige, was Fichte als Ich oder reines Selbstbewußtsein, reines Denken, nämlich als das ewige Tun oder Produzieren der Differenz, welche das reflektierte Denken immer nur als Produkt kennt, unserer neuen subjektiveren Kultur nähergebracht hat.",
+    "Das in der Erscheinung Außereinandergehaltene, Inkommensurable, die Differenz als Produkt ist sich in dem letzten Verhältnisse, in der Unendlichkeit, d. h. worin die Entgegengesetzten zugleich wegfallen, gleich, und die Identität in Beziehung auf die als für sich seiend (in Zahlen) gesetzten Inkommensurablen ist eine unendliche, ein Nichts; aber die Inkommensurablen nicht als diese Abstraktionen, für sich seiend (in Zahlen), noch als ohne das Ganze bestehende Teile, sondern nach dem, was sie an sich sind, nämlich sie nur im Ganzen gesetzt, so ist der wahrhafte Begriff, die wahrhafte Gleichheit des Ganzen und der Teile, und die affirmative Unendlichkeit, das actu Unendliche, für intuitive oder geometrische Erkenntnis vorhanden.",
+    "Diese Idee des Unendlichen ist eine der allerwichtigsten im Spinozistischen System, und in einer Darstellung desselben müßte sie eine größere Figur spielen, als - wie in den Jacobischen Sätzen - nur immer ein müßiges Prädikat zu Denken, Ausdehnung usw. ab[zu]geben.",
+    "Es liegt in ihr gerade das Wichtigste, nämlich die Erkenntnis des Vereinigungspunktes der Attribute; aber ohne diese Idee sind die höchsten Ideen Spinozas auf eine formelle, historische Weise dargestellt, wie in der 14.",
+    "These [in Jacobis Spinoza] die Attribute und Modi zu der absoluten Substanz in der gemeinen Reflexionsform von Eigenschaften hinzukommen.175)"
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "eedygp1skd",
+   "sents": [
+    "Wir stellen die Formen der Unendlichkeit kurz zusammen.",
+    "Das wahrhafte Unendliche ist die absolute Idee, Identität des Allgemeinen und Besonderen oder Identität des Unendlichen und Endlichen selbst, nämlich des Unendlichen, insofern es einem Endlichen entgegengesetzt ist.",
+    "Und dieses Unendliche ist reines Denken; gesetzt als diese Abstraktion, ist es reine absolut-formale Identität, reiner Begriff, Kantische Vernunft, Fichtesches Ich.",
+    "Aber gegen dieses Endliche gestellt, ist es ebendeswegen absolutes Nichts desselben: + A - A = 0; es ist die negative Seite der absoluten Idee.",
+    "Dieses Nichts als Realität gesetzt, die Unendlichkeit selbst nicht als Subjekt oder Produzieren, als welches sie reine Identität sowohl als Nichts ist, sondern als Objekt oder Produkt, ist sie das + A - A, das Setzen Entgegengesetzter.",
+    "Aber keine von diesen Formen der Unendlichkeit ist noch die Unendlichkeit der Einbildung oder die empirische.",
+    "Die erste Unendlichkeit ist die der absoluten Vernunft; die Unendlichkeit der reinen Identität oder der Negativität ist die der formalen oder negativen Vernunft.",
+    "Das Unendliche aber, in seiner Realität als + A - A, wovon das eine selbst als Unendliches, das andere als Endliches bestimmt wird, oder die Endlichkeit überhaupt, ist das der Reflexion und der Einbildung, wozu das oben Angezeigte gehört, wenn ein Endliches als absolut, d. h. zugleich als ein Anderes gesetzt werden soll.",
+    "Bei Jacobi findet sich Unendlichkeit entweder als etwas Müßiges oder als die empirische der Einbildung, und dies verleitet ihn zu meinen, Spinoza habe in seinem mathematischen Beispiel (Jacobi spricht von mehreren, aber im 29. Brief ist nur eins, und Ethik, P. I, Prop.",
+    "XV, Schol., ist es nicht Spinoza, der das dortige Beispiel gebraucht, sondern er führt es von den Gegnern an) eine empirische Unendlichkeit als actu existierend darstellen wollen, und ist durch das mathematische Beispiel insofern befriedigt, daß er zwar keine objektive und wirkliche, aber doch eine subjektive und idealische [Unendlichkeit] darin findet."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/8.p26.json"
+}

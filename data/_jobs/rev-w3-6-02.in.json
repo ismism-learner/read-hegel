@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-02",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 9,
+   "si": 3,
+   "de": "Indem es sich so fixiert – und jedes Moment, weil es Moment des Wesens ist, muß selbst dazu gelangen, als Wesen sich darzustellen –, so ist das Individuum den Gesetzen und Sitten gegenübergetreten; sie sind nur ein Gedanke ohne absolute Wesenheit, eine abstrakte Theorie ohne Wirklichkeit; es aber ist als dieses Ich sich die lebendige Wahrheit.",
+   "en": "In fixing itself thus – and every moment, because it is a moment of essence, must itself come to present itself as essence –, the individual has stepped over against the laws and customs; they are only a thought without absolute essentiality, an abstract theory without actuality; but it, as this I, is to itself the living truth.",
+   "zh": "当它这样把自己固定下来时——而每一个环节，因为它是本质的环节，本身也必须走到把自己表现为本质的地步——，个体就站到了法则和风俗的对面；它们只是一个没有绝对本质性的思想，一个没有现实性的抽象理论；而它作为这个我，对自己来说就是活生生的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 10,
+   "si": 0,
+   "de": "Oder das Selbstbewußtsein hat dieses Glück noch nicht erreicht, sittliche Substanz, der Geist eines Volks zu sein.",
+   "en": "Or self-consciousness has not yet attained this happiness, of being ethical substance, the spirit of a people.",
+   "zh": "或者，自我意识还没有达到这种幸福，即成为伦理实体、成为一个民族的精神。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 10,
+   "si": 1,
+   "de": "Denn aus der Beobachtung zurückgekehrt, ist der Geist zuerst noch nicht als solcher durch sich selbst verwirklicht; er ist nur als inneres Wesen oder als die Abstraktion gesetzt,",
+   "en": "For, returned from observation, spirit is at first not yet actualized as such through itself; it is posited only as inner essence or as the abstraction,",
+   "zh": "因为，从观察中返回之后，精神起初还不是作为精神、通过自身而现实化的；它只是被设定为内在的本质，或者被设定为抽象，"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 10,
+   "si": 2,
+   "de": "– Oder er ist erst unmittelbar, unmittelbar seiend aber ist er einzeln; er ist das praktische Bewußtsein, das in seine vorgefundene Welt mit dem Zweck einschreitet, sich in dieser Bestimmtheit eines Einzelnen zu verdoppeln, sich als Diesen, als sein seiendes Gegenbild zu erzeugen und [sich] dieser Einheit seiner Wirklichkeit mit dem gegenständlichen Wesen bewußt zu werden.",
+   "en": "– Or it is at first immediate, but as immediately existing it is single; it is practical consciousness, which steps into its found-at-hand world with the purpose of duplicating itself in this determinacy of a single one, of producing itself as this one, as its existing counterpart, and [of] becoming conscious of this unity of its actuality with the objective essence.",
+   "zh": "——或者它起初只是直接的，但直接存在着的它就是单个的；它是实践的意识，它带着目的介入它现成发现的世界，要在这种单个者的规定性中把自己倍增，把自己作为这一个、作为自己存在着的对应形象产生出来，并且意识到自己的现实性与对象性本质的这种统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 10,
+   "si": 3,
+   "de": "Es hat die Gewißheit dieser Einheit; es gilt ihm, daß sie an sich oder daß diese Übereinstimmung seiner und der Dingheit schon vorhanden ist, nur ihm noch durch es zu werden hat, oder daß sein Machen ebenso das Finden derselben ist.",
+   "en": "It has the certainty of this unity; it holds for it that this unity is in itself, or that this agreement of its own and thinghood is already present, only that it still has to become so for it through it, or that its making is likewise the finding of the same.",
+   "zh": "它拥有这种统一的确定性；在它看来，这种统一是自在的，或者说它自身与物性的这种一致已经现成存在，只是还必须通过它而对它生成，或者说它的制作同样就是这种一致的发现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 10,
+   "si": 4,
+   "de": "Indem diese Einheit Glück heißt, wird dies Individuum hiermit sein Glück zu suchen von seinem Geiste in die Welt hinausgeschickt.",
+   "en": "Since this unity is called happiness, this individual is hereby sent out from its spirit into the world to seek its happiness.",
+   "zh": "既然这种统一叫做幸福，这个个体于是就被自己的精神派到世界里去寻求自己的幸福。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 0,
+   "de": "Wenn also die Wahrheit dieses vernünftigen Selbstbewußtseins für uns die sittliche Substanz ist, so ist hier für es der Anfang seiner sittlichen Welterfahrung.",
+   "en": "If, therefore, the truth of this rational self-consciousness is for us the ethical substance, then here, for it, is the beginning of its ethical world-experience.",
+   "zh": "所以，如果这种理性自我意识的真理对我们来说就是伦理实体，那么在这里，对它来说就是它的伦理世界经验的开始。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 1,
+   "de": "Von der Seite, daß es noch nicht zu jener geworden, dringt diese Bewegung auf sie, und das, was in ihr sich aufhebt, sind die einzelnen Momente, die ihm isoliert gelten.",
+   "en": "From the side that it has not yet become that substance, this movement presses on toward it, and what sublates itself in this movement are the single moments that hold for it in isolation.",
+   "zh": "从它还没有成为伦理实体这一面看，这一运动向着实体推进，而在这一运动中扬弃自己的，就是那些孤立地对它有效的单个环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 2,
+   "de": "Sie haben die Form eines unmittelbaren Wollens oder Naturtriebs, der seine Befriedigung erreicht, welche selbst der Inhalt eines neuen Triebes ist.",
+   "en": "They have the form of an immediate willing or natural impulse that attains its satisfaction, which is itself the content of a new impulse.",
+   "zh": "它们具有一种直接的意欲或自然冲动的形式，这种冲动达到自己的满足，而满足本身又是一种新冲动的内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 3,
+   "de": "– Von der Seite aber, daß das Selbstbewußtsein das Glück, in der Substanz zu sein, verloren, sind diese Naturtriebe mit Bewußtsein ihres Zwecks als der wahren Bestimmung und Wesenheit verbunden; die sittliche Substanz ist zum selbstlosen Prädikate herabgesunken, dessen lebendige Subjekte die Individuen sind, die ihre Allgemeinheit durch sich selbst zu erfüllen und für ihre Bestimmung aus sich zu sorgen haben.",
+   "en": "– But from the side that self-consciousness has lost the happiness of being in the substance, these natural impulses are bound up with consciousness of their purpose as the true determination and essentiality; the ethical substance has sunk down to a selfless predicate, whose living subjects are the individuals, who have to fulfil their universality through themselves and to provide for their determination out of themselves.",
+   "zh": "——但从自我意识已经丧失了在实体中存在这一幸福这一面看，这些自然冲动就与对其目的的意识结合在一起，而这个目的是真正的规定和本质性；伦理实体已经降为一个无自我的谓词，它的活生生的主体就是那些个体，他们必须通过自身来充实自己的普遍性，并且从自身出发为自己的规定操心。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 4,
+   "de": "– In jener Bedeutung also sind jene Gestalten das Werden der sittlichen Substanz und gehen ihr vor; in dieser folgen sie und lösen es für das Selbstbewußtsein auf, was seine Bestimmung sei; nach jener Seite geht in der Bewegung, worin erfahren wird, was ihre Wahrheit ist, die Unmittelbarkeit oder Roheit der Triebe verloren und der Inhalt derselben in einen höheren über, nach dieser aber die falsche Vorstellung des Bewußseins, das in sie seine Bestimmung setzt.",
+   "en": "– In that meaning, then, those shapes are the becoming of the ethical substance and precede it; in this meaning they follow it and dissolve for self-consciousness what its determination is; according to the former side, in the movement in which it is experienced what their truth is, the immediacy or crudeness of the impulses is lost and their content passes over into a higher one, but according to the latter, the false representation of consciousness, which posits its determination in them.",
+   "zh": "——所以，在前一种意义下，那些形态是伦理实体的生成，并且先行于实体；在后一种意义下，它们则跟随其后，并且为自我意识分解出它的规定究竟是什么；按照前一面，在经验到它们的真理究竟是什么的这一运动中，冲动的直接性或粗陋丧失了，它们的内容过渡到一个更高的内容中，而按照后一面，丧失的则是意识的错误表象，这种表象把自己的规定放进那些冲动里。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 5,
+   "de": "Nach jener ist das Ziel, das sie erreichen, die unmittelbare sittliche Substanz, nach dieser aber das Bewußtsein derselben, und zwar ein solches, das sie als sein eigenes Wesen weiß; und insofern wäre diese Bewegung das Werden der Moralität, einer höheren Gestalt als jene.",
+   "en": "According to the former, the goal that they attain is the immediate ethical substance, but according to the latter it is the consciousness of it, and indeed such a consciousness as knows it as its own essence; and in this respect this movement would be the becoming of morality, a higher shape than those.",
+   "zh": "按照前一面，它们所达到的目标是直接的伦理实体，而按照后一面，则是关于伦理实体的意识，并且是这样一种意识，它知道伦理实体就是自己的本质；就此而言，这一运动就会是道德的生成，是一种比那些形态更高的形态。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 6,
+   "de": "Allein diese Gestalten machen zugleich nur eine Seite ihres Werdens aus, nämlich diejenige, welche in das Fürsichsein fällt oder worin das Bewußtsein seine Zwecke aufhebt, – nicht die Seite, nach welcher sie aus der Substanz selbst hervorgeht.",
+   "en": "But these shapes at the same time make up only one side of their becoming, namely the one that falls into being-for-itself or in which consciousness sublates its purposes, – not the side according to which it comes forth from the substance itself.",
+   "zh": "但这些形态同时只构成它们生成的一面，即落入自为存在的那一面，或者说意识在其中扬弃自己的那些目的的那一面，——而不是它从实体本身中产生出来的那一面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 7,
+   "de": "Da diese Momente noch nicht die Bedeutung haben können, im Gegensatze gegen die verlorene Sittlichkeit zu Zwecken gemacht zu werden, so gelten sie hier zwar nach ihrem unbefangenen Inhalte, und das Ziel, nach welchem sie dringen, ist die sittliche Substanz.",
+   "en": "Since these moments cannot yet have the significance of being made into purposes in opposition to lost ethical life, they here indeed hold according to their unbiased content, and the goal toward which they press is the ethical substance.",
+   "zh": "由于这些环节还不能具有这样的意义，即在同已经丧失的伦理的对立中被造成目的，所以它们在这里虽然按自己无成见的内容而有效，而它们所奔向的目标则是伦理实体。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 11,
+   "si": 8,
+   "de": "Aber indem unseren Zeiten jene Form derselben näherliegt, in welcher sie erscheinen, nachdem das Bewußtsein sein sittliches Leben verloren und es suchend jene Formen wiederholt, so mögen sie mehr in dem Ausdrucke dieser Weise vorgestellt werden.",
+   "en": "But since to our times that form of it lies closer in which they appear after consciousness has lost its ethical life and, seeking it, repeats those forms, they may be represented more in the expression of this manner.",
+   "zh": "但是，既然我们的时代更靠近它们的这样一种形式，即在意识丧失了自己的伦理生活并且在寻找它时重复那些形式之后、它们在其中显现的那种形式，那么它们也许更应该按这种方式的表达来被表象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 12,
+   "si": 0,
+   "de": "Das Selbstbewußtsein, welches nur erst der Begriff des Geistes ist, tritt diesen Weg in der Bestimmtheit an, sich als einzelner Geist das Wesen zu sein, und sein Zweck ist also, sich als einzelnes die Verwirklichung zu geben und als dieses in ihr sich zu genießen.",
+   "en": "Self-consciousness, which at first is only the concept of spirit, enters this path with the determinacy of being the essence to itself as a single spirit, and its purpose is therefore to give itself actualization as a single one and to enjoy itself as this one in that actualization.",
+   "zh": "自我意识，它起初还只是精神的概念，带着这样一种规定性踏上这条道路：作为单个的精神而对自己成为本质；所以它的目的就是，作为单个的东西给自己以现实化，并且作为这一个在现实化中享受自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 0,
+   "de": "In der Bestimmung, sich als Fürsichseiendes das Wesen zu sein, ist es die Negativität des Anderen; in seinem Bewußtsein tritt daher es selbst als das Positive einem solchen gegegenüber, das zwar ist, aber für es die Bedeutung eines Nichtansichseienden hat; das Bewußtsein erscheint entzweit in diese vorgefundene Wirklichkeit und in den Zweck, den es durch Aufheben derselben vollbringt und statt jener vielmehr zur Wirklichkeit macht.",
+   "en": "In the determination of being the essence to itself as something existing for itself, it is the negativity of the other; in its consciousness, therefore, it itself steps over against such a one as the positive, which indeed is, but has for it the significance of something not existing in itself; consciousness appears divided into this found-at-hand actuality and into the purpose, which it accomplishes by sublating that actuality and which it makes into actuality instead of that one.",
+   "zh": "在规定性中，即对自己来说作为自为存在者而成为本质，它就是他者的否定性；因此在它的意识中，它自己作为肯定的东西而与这样一种东西相对立，这种东西虽然存在着，但对它来说却具有非自在存在者的意义；意识显现为分裂的，分裂成这种现成发现的现实性和那种目的，后者是它通过扬弃前者而完成的，并且使它取代前者而成为现实。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 1,
+   "de": "Sein erster Zweck ist aber sein unmittelbares abstraktes Fürsichsein, oder sich als dieses Einzelne in einem Anderen oder ein anderes Selbstbewußtsein als sich anzuschauen.",
+   "en": "But its first purpose is its immediate abstract being-for-itself, or to intuit itself as this single one in an other or in another self-consciousness as itself.",
+   "zh": "但它的第一个目的就是它直接的、抽象的自为存在，或者说，在一个他者中、在一个作为它自己的另一个自我意识中把自己直观为这一个单个者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 2,
+   "de": "Die Erfahrung, was die Wahrheit dieses Zwecks ist, stellt das Selbstbewußtsein höher, und es ist sich nunmehr Zweck, insofern es zugleich allgemeines ist und das Gesetz unmittelbar an ihm hat.",
+   "en": "The experience of what the truth of this purpose is raises self-consciousness higher, and it is now a purpose to itself insofar as it is at the same time universal and has the law immediately on it.",
+   "zh": "关于这个目的的真理是什么的经验，把自我意识提升得更高，而它现在对自己来说就是目的，只要它同时是普遍的东西，并且直接在自身拥有法则。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 3,
+   "de": "In der Vollbringung dieses Gesetzes seines Herzens erfährt es aber, daß das einzelne Wesen hierbei sich nicht erhalten, sondern das Gute nur durch die Aufopferung desselben ausgeführt werden kann, und es wird zur Tugend.",
+   "en": "But in fulfilling this law of its heart, it experiences that the single essence does not preserve itself in this, but that the good can be carried out only through the sacrifice of it, and it becomes virtue.",
+   "zh": "但在完成它这颗心的规律时，它却经验到：单个的本质在这里并不能保持自己，善只有通过牺牲这个本质才能实现，于是它就成了德行。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 4,
+   "de": "Die Erfahrung, welche sie macht, kann keine andere sein, als daß ihr Zweck an sich schon ausgeführt ist, das Glück unmittelbar im Tun selbst sich findet und das Tun selbst das Gute ist.",
+   "en": "The experience that virtue makes can be no other than that its purpose is already carried out in itself, that happiness is found immediately in the deed itself, and that the deed itself is the good.",
+   "zh": "德行所获得的经验不能是别的，只能是：它的目的已经自在完成了，幸福直接在行动本身中被找到，而行动本身就是善。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 5,
+   "de": "Der Begriff dieser ganzen Sphäre, daß die Dingheit das Fürsichsein des Geistes selbst ist, wird in ihrer Bewegung für das Selbstbewußtsein.",
+   "en": "The concept of this whole sphere, that thinghood is the being-for-itself of spirit itself, becomes in its movement for self-consciousness.",
+   "zh": "这整个领域的概念，即物性就是精神自己的自为存在，在它的运动中对自我意识来说生成了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 13,
+   "si": 6,
+   "de": "Indem es ihn gefunden, ist es sich also Realität als unmittelbar sich aussprechende Individualität, die keinen Widerstand an einer entgegengesetzten Wirklichkeit mehr findet und der nur dies Aussprechen selbst Gegenstand und Zweck ist.",
+   "en": "Having found it, it is therefore actuality for itself as individuality that immediately expresses itself, which finds no resistance any longer in an opposed actuality and for which only this expressing itself is object and purpose.",
+   "zh": "当它找到了这个概念，对它来说，实在性就是直接把自己表达出来的个体性，这种个体性不再在对立着的现实性那里遇到任何阻力，对它来说，唯有这种表达本身才是对象和目的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 16,
+   "si": 0,
+   "de": "Das Selbstbewußtsein, welches sich überhaupt die Realität ist, hat seinen Gegenstand an ihm selbst, aber als einen solchen, welchen es nur erst für sich hat und der noch nicht seiend ist; das Sein steht ihm als eine andere Wirklichkeit, denn die seinige ist, gegenüber; und es geht darauf, durch Vollführung seines Fürsichseins sich als anderes selbständiges Wesen anzuschauen.",
+   "en": "Self-consciousness, which is in general reality to itself, has its object in itself, but as one which it only first has for itself and which is not yet existent; being stands over against it as another actuality than its own is; and it sets out, through the carrying-out of its being-for-itself, to intuit itself as another independent essence.",
+   "zh": "自我意识，它一般而言对自己来说就是实在性，所以它的对象就在它自身那里，但只是作为这样一个对象：它才只是为自己拥有这个对象，而这个对象还没有存在着；存在作为不同于它自己的现实性的另一种现实性与它相对立；它于是要去做的，就是通过把自己的自为存在付诸实行，把自己直观为另一个独立的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 16,
+   "si": 1,
+   "de": "Dieser erste Zweck ist, seiner als einzelnen Wesens in dem anderen Selbstbewußtsein bewußt zu werden oder dies Andere zu sich selbst zu machen; es hat die Gewißheit, daß an sich schon dies Andere es selbst ist.",
+   "en": "This first purpose is to become conscious of itself as a single essence in the other self-consciousness, or to make this other into itself; it has the certainty that in itself this other is already itself.",
+   "zh": "这第一个目的，就是在另一个自我意识中意识到自己是一个单个的本质，或者把这个他者变成自己；它拥有这种确定性：这个他者自在地已经是它自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 16,
+   "si": 2,
+   "de": "– Insofern es aus der sittlichen Substanz und dem ruhigen Sein des Denkens zu seinem Fürsichsein sich erhoben, so hat es das Gesetz der Sitte und des Daseins, die Kenntnisse der Beobachtung und die Theorie als einen grauen, eben verschwindenden Schatten hinter sich; denn dies ist vielmehr ein Wissen von einem solchen, dessen Fürsichsein und Wirklichkeit eine andere als die des Selbstbewußtseins ist.",
+   "en": "– Insofar as it has raised itself out of the ethical substance and the calm being of thinking into its being-for-itself, it has behind it the law of custom and of determinate being, the knowledge of observation and theory, as a grey, just vanishing shadow; for this is rather a knowing of something whose being-for-itself and actuality is another than that of self-consciousness.",
+   "zh": "——就它从伦理实体和思想的平静存在中上升到自己的自为存在而言，它就把风俗和定在的规律、观察的种种知识和理论，当作一个灰色的、刚刚消逝的阴影抛在自己身后；因为这一切其实是一种关于某个东西的知识：它的自为存在和现实性不同于自我意识的自为存在和现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 16,
+   "si": 3,
+   "de": "Es ist in es statt des himmlisch scheinenden Geistes der Allgemeinheit des Wissens und Tuns, worin die Empfindung und der Genuß der Einzelheit schweigt, der Erdgeist gefahren, dem das Sein nur, welches die Wirklichkeit des einzelnen Bewußtseins ist, als die wahre Wirklichkeit gilt.",
+   "en": "In place of the spirit, seemingly heavenly, of the universality of knowing and doing, in which sensation and the enjoyment of singleness are silent, the earth-spirit has entered into it, for which only the being that is the actuality of the individual consciousness counts as the true actuality.",
+   "zh": "进入它之中的，不是那显得像天上的、知识和行动的普遍性的精神（在那种精神里，感觉和单个性的享受沉默着），而是大地的精神；在它看来，只有那作为单个意识之现实性的存在，才算真的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 17,
+   "si": 0,
+   "de": "Es verachtet Verstand und Wissenschaft,",
+   "en": "It despises understanding and science,",
+   "zh": "它蔑视知性和科学，"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 18,
+   "si": 0,
+   "de": "des Menschen allerhöchste Gaben –",
+   "en": "man's highest gifts –",
+   "zh": "人的最高贵的禀赋——"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 19,
+   "si": 0,
+   "de": "es hat dem Teufel sich ergeben",
+   "en": "it has surrendered itself to the devil",
+   "zh": "它已经把自己交给了魔鬼"
+  }
+ ]
+}

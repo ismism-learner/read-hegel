@@ -1,0 +1,30 @@
+{
+ "id": "w3-2-57",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 2,
+ "chunkTitle": "II. Die Wahrnehmung oder das Ding und die Täuschung",
+ "heading": "II. Die Wahrnehmung oder das Ding und die Täuschung",
+ "blocks": [
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "7z9rcw1613",
+   "sents": [
+    "Wir sehen, daß im Innern der Erscheinung der Verstand in Wahrheit nicht etwas anderes als die Erscheinung selbst, aber nicht wie sie als Spiel der Kräfte ist, sondern dasselbe in seinen absolut-allgemeinen Momenten und deren Bewegung, und in der Tat nur sich selbst erfährt.",
+    "Erhoben über die Wahrnehmung stellt sich das Bewußtsein mit dem Übersinnlichen durch die Mitte der Erscheinung zusammengeschlossen dar, durch welche es in diesen Hintergrund schaut.",
+    "Die beiden Extreme, das eine des reinen Innern, das andere des in dies reine Innere schauenden Innern, sind nun zusammengefallen, und wie sie als Extreme, so ist auch die Mitte, als etwas anderes als sie, verschwunden.",
+    "Dieser Vorhang ist also vor dem Innern weggezogen und das Schauen des Innern in das Innere vorhanden; das Schauen des ununterschiedenen Gleichnamigen, welches sich selbst abstößt, als unterschiedenes Inneres setzt, aber für welches ebenso unmittelbar die Ununterschiedenheit beider ist, das Selbstbewußtsein.",
+    "Es zeigt sich, daß hinter dem sogenannten Vorhange, welcher das Innere verdecken soll, nichts zu sehen ist, wenn wir nicht selbst dahintergehen, ebensosehr damit gesehen werde, als daß etwas dahinter sei, das gesehen werden kann.",
+    "Aber es ergibt sich zugleich, daß nicht ohne alle Umstände geradezu dahintergegangen werden könne; denn dies Wissen, was die Wahrheit der Vorstellung der Erscheinung und ihres Innern ist, ist selbst nur Resultat einer umständlichen Bewegung, wodurch die Weisen des Bewußtseins, [das] Meinen, Wahrnehmen und der Verstand verschwinden; und es wird sich ebenso ergeben, daß das Erkennen dessen, was das Bewußtsein weiß, indem es sich selbst weiß, noch weiterer Umstände bedarf, deren Auseinanderlegung das Folgende ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/2.p57.json"
+}

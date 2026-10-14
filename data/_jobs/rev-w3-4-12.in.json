@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-12",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 2,
+   "de": "So daß also eine Reihe von Körpern, welche den Unterschied als Zahlenunterschied ihrer spezifischen Schweren ausdrückt, durchaus nicht einer Reihe des Unterschieds der anderen Eigenschaften parallel geht, wenn auch, um die Sache zu erleichtern, von ihnen nur eine einzelne oder etliche genommen werden.",
+   "en": "So that a series of bodies that expresses the difference as a numerical difference of their specific gravities by no means runs parallel to a series of the difference of the other properties, even if, to make the matter easier, only a single one or a few of them are taken.",
+   "zh": "所以，一个把差别表达为它们比重之数差的物体序列，绝不与另一个其他属性之差的序列平行，即使为了把事情弄容易些，只从这些属性中取出单独一个或若干个。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 3,
+   "de": "Denn in der Tat könnte es nur das ganze Konvolut derselben sein, was in dieser Parallele die andere Seite auszumachen hätte.",
+   "en": "For in fact it could only be the whole bundle of them that would have to make up the other side in this parallel.",
+   "zh": "因为实际上，只有它们的整个汇集才可能是在这种平行中必须构成另一方的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 4,
+   "de": "Dieses in sich zu ordnen und zu einem Ganzen zu verbinden, sind die Größenbestimmtheiten dieser vielerlei Eigenschaften für die Beobachtung einerseits vorhanden, andererseits aber treten ihre Unterschiede als qualitativ ein.",
+   "en": "To order this in itself and to combine it into a whole: the magnitude-determinacies of these manifold properties are on the one hand present for observation, but on the other hand their differences enter as qualitative.",
+   "zh": "要把这些整理在自身之中并结合成一个整体：这多种多样属性的大小规定性，一方面是为观察而现成存在的，但另一方面，它们的差别又是作为质的差别出现的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 5,
+   "de": "Was nun in diesem Haufen als positiv oder negativ bezeichnet werden müßte und sich gegenseitig aufhöbe, überhaupt die innere Figuration und Exposition der Formel, die sehr zusammengesetzt sein würde, gehörte dem Begriffe an, welcher eben in der Weise, wie die Eigenschaften als seiende daliegen und aufgenommen werden sollen, ausgeschlossen ist; in diesem Sein zeigt keine den Charakter eines Negativen gegen die andere, sondern die eine ist so gut als die andere, noch deutet sie sonst ihre Stelle in der Anordnung des Ganzen an.",
+   "en": "What in this heap would have to be designated as positive or negative and would mutually sublate itself, in short the inner figuration and exposition of the formula, which would be very composite, would belong to the concept, which is precisely excluded in the way the properties lie there as existing and are to be taken up; in this being, none shows the character of a negative as against another, but the one is just as good as the other, nor does it otherwise indicate its place in the arrangement of the whole.",
+   "zh": "在这个堆集里必须被标识为正的或负的、并且会相互扬弃的东西，总之，这个将会非常复合的公式的内在构形和展示，本来属于概念；而概念恰恰以这些属性作为存在者现成地摆在那里、并应被接纳的那种方式被排除了；在这种存在中，没有任何一个属性表现出相对于另一个属性的否定者的性格，而是这一个与另一个一样，它也不以别的方式暗示自己在整体安排中的位置。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 6,
+   "de": "– Bei einer Reihe, die in parallelen Unterschieden fortläuft – das Verhältnis möchte als auf beiden Seiten zugleich steigend, oder nur auf der einen, und auf der anderen abnehmend gemeint werden –, ist es nur um den letzten einfachen Ausdruck dieses zusammengefaßten Ganzen zu tun, welches die eine Seite des Gesetzes gegen die spezifische Schwere ausmachen sollte; aber diese eine Seite, als seiendes Resultat, ist eben nichts anderes, als was schon erwähnt worden, nämlich einzelne Eigenschaft, wie etwa auch die gemeine Kohäsion, neben welcher die anderen und darunter auch die spezifische Schwere gleichgültig vorhanden sind und jede andere mit dem gleichen Rechte, d.h. mit dem gleichen Unrechte zum Repräsentanten der ganzen anderen Seite gewählt werden kann; eine wie die andere würde das Wesen nur repräsentieren, auf deutsch: vorstellen, aber nicht die Sache selbst sein.",
+   "en": "– In a series that runs on in parallel differences – the relation may be meant as increasing on both sides at once, or as increasing only on one side and decreasing on the other –, it is only a matter of the last simple expression of this gathered whole, which was to make up the one side of the law as against specific gravity; but this one side, as an existing result, is precisely nothing other than what has already been mentioned, namely a single property, such as also ordinary cohesion, alongside which the others, and among them specific gravity too, are indifferently present, and every other can be chosen as representative of the whole other side with the same right, i.e. with the same wrong; the one as much as the other would only represent the essence, in German: represent [vorstellen], but not be the matter itself.",
+   "zh": "——在一个以平行的差别向前延伸的序列里——这种关系可以被理解为双方同时上升，或者只在一方上升而在另一方下降——，要紧的只是这个被统摄起来的整体的最后那个单纯表达，而这个整体本该构成规律中与比重相对的那一方；但这一方，作为存在者的结果，恰恰不是别的，正是已经提到过的东西，即单独的属性，例如通常的凝聚也是这样的属性；在它旁边，其他属性、其中包括比重，都漠不相关地现成存在着，而任何另一个属性都可以以同样的权利、也就是说以同样的无权被选作整个另一方的代表；这一个和那一个都只会代表本质——用德语说：表象——，而不是事情本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 7,
+   "de": "So daß der Versuch, Körperreihen zu finden, welche an der einfachen Parallele zweier Seiten fortliefen und die wesentliche Natur der Körper nach einem Gesetze dieser Seiten ausdrückten, für einen Gedanken genommen werden muß, welcher seine Aufgabe und die Mittel, wodurch sie ausgeführt werden sollte, nicht kennt.",
+   "en": "So that the attempt to find series of bodies that would run on in the simple parallel of two sides and express the essential nature of bodies according to a law of these sides must be taken for a thought that does not know its task and the means by which it was to be carried out.",
+   "zh": "所以，那种寻找物体序列的尝试——这些序列沿着两个方面的单纯平行向前延伸，并按照这两个方面的一个规律表达物体的本质自然——必须被看作一种并不认识自己的任务、也不认识本该用来完成这任务的手段的思想。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 0,
+   "de": "Es wurde vorhin die Beziehung des Äußeren und Inneren an der Gestalt, welche der Beobachtung sich darstellen soll, sogleich zu der Sphäre des Unorganischen herübergenommen; die Bestimmung, welche sie hierherzieht, kann jetzt näher angegeben werden, und es ergibt sich von da noch eine andere Form und Beziehung dieses Verhältnisses.",
+   "en": "Just now the relation of the outer and the inner in the shape that is to present itself to observation was taken over at once into the sphere of the inorganic; the determination that draws it hither can now be stated more closely, and from this there results yet another form and relation of this relationship.",
+   "zh": "刚才，外在与内在的关联在那种应当向观察呈现出来的形态上，径直被移用到无机物的领域里；把这种关联吸引到这里的那个规定，现在可以更切近地指出来，而由此还得出了这种关系的另一种形式和关联。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 1,
+   "de": "Bei dem Organischen nämlich fällt überhaupt das hinweg, was bei dem Unorganischen die Möglichkeit einer solchen Vergleichung des Inneren und Äußeren darzubieten scheint.",
+   "en": "For in the case of the organic, that which in the case of the inorganic seems to offer the possibility of such a comparison of inner and outer simply falls away.",
+   "zh": "因为就有机物而言，在无机物那里似乎提供出这样一种内在与外在之比较的可能性的东西，干脆就消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 2,
+   "de": "Das unorganische Innere ist ein einfaches Inneres, das für die Wahrnehmung als seiende Eigenschaft sich darbietet; seine Bestimmtheit ist daher wesentlich die Größe, und es erscheint als seiende Eigenschaft gleichgültig gegen das Äußere oder die vielen anderen sinnlichen Eigenschaften.",
+   "en": "The inorganic inner is a simple inner that presents itself to perception as a being property; its determinacy is therefore essentially magnitude, and as a being property it appears indifferent towards the outer or towards the many other sensuous properties.",
+   "zh": "无机的内在是一个单纯的内在，它向知觉呈现为存在着的属性；因此它的规定性本质上就是大小，而它作为存在着的属性，对那个外在的东西或许多别的感性属性显得漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 3,
+   "de": "Das Fürsichsein des Organisch-Lebendigen aber tritt nicht so auf die Seite gegen sein Äußeres, sondern hat das Prinzip des Andersseins an ihm selbst.",
+   "en": "The being-for-itself of the organically living, however, does not step aside in that way over against its outer, but has the principle of otherness in itself.",
+   "zh": "但有机的活的东西的自为存在，并不这样站到一边去与它的外在相对，而是在它自己身上就具有他在的原则。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 4,
+   "de": "Bestimmen wir das Fürsichsein als einfache sich erhaltende Beziehung auf sich selbst, so ist sein Anderssein die einfädle Negativität, und die organische Einheit ist die Einheit des sichselbstgleichen Sichaufsichbeziehens und der reinen Negativität.",
+   "en": "If we determine being-for-itself as the simple, self-maintaining relation to itself, then its otherness is simple negativity, and the organic unity is the unity of self-same self-relating and of pure negativity.",
+   "zh": "如果我们把自为存在规定为单纯的、自身保持着的对自身的关联，那么它的他在就是单纯的否定性，而有机的统一就是自身等同的对自身的关联与纯粹的否定性的统一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 5,
+   "de": "Diese Einheit ist als Einheit das Innere des Organischen; dies ist hierdurch an sich allgemein, oder es ist Gattung.",
+   "en": "As unity, this unity is the inner of the organic; thereby this inner is in itself universal, or it is the genus.",
+   "zh": "这种统一作为统一就是有机物的内在；这个内在由此自在地是普遍的，或者说它就是类。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 6,
+   "de": "Die Freiheit der Gattung gegen ihre Wirklichkeit aber ist eine andere als die Freiheit der spezifischen Schwere gegen die Gestalt.",
+   "en": "But the freedom of the genus over against its actuality is another than the freedom of specific gravity over against the shape.",
+   "zh": "但类对其现实性的自由，是另一种自由，不同于比重对形态的自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 7,
+   "de": "Die der letzteren ist eine seiende Freiheit, oder daß sie als besondere Eigenschaft auf die Seite tritt.",
+   "en": "The freedom of the latter is a being freedom, or that it steps aside as a particular property.",
+   "zh": "后者的自由是一种存在着的自由，也就是说，它作为一个特殊的属性站到一边去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 8,
+   "de": "Aber weil sie seiende Freiheit ist, ist sie auch nur eine Bestimmtheit, welche dieser Gestalt wesentlich angehört oder wodurch diese als Wesen ein Bestimmtes ist.",
+   "en": "But because it is a being freedom, it is also only a determinacy that essentially belongs to this shape, or through which this shape, as essence, is something determinate.",
+   "zh": "但正因为它是一种存在着的自由，它也就只是一个规定性，这个规定性本质上属于这个形态，或者说，这个形态凭它而作为本质是一个被规定的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 9,
+   "de": "Die Freiheit der Gattung aber ist eine allgemeine und gleichgültig gegen diese Gestalt oder gegen ihre Wirklichkeit.",
+   "en": "The freedom of the genus, however, is a universal one and is indifferent towards this shape or towards its actuality.",
+   "zh": "而类的自由却是一种普遍的自由，它对这个形态、或对它的现实性漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 10,
+   "de": "Die Bestimmtheit, welche dem Fürsichsein des Unorganischen als solchem zukommt, tritt daher an dem Organischen unter sein Fürsichsein, wie sie an dem Unorganischen nur unter das Sein desselben tritt; ob sie daher schon an diesem zugleich nur als Eigenschaft ist, so fällt ihr doch die Würde des Wesens zu, weil sie als das einfache Negative dem Dasein als dem Sein für Anderes gegenübersteht; und dies einfache Negative ist in seiner letzten einzelnen Bestimmtheit eine Zahl.",
+   "en": "The determinacy that belongs to the being-for-itself of the inorganic as such therefore falls, in the organic, under its being-for-itself, just as in the inorganic it falls only under its being; although, therefore, in the latter it is at the same time only a property, the dignity of essence nevertheless falls to it, because as the simple negative it stands opposed to determinate being as being-for-another; and this simple negative is, in its last single determinacy, a number.",
+   "zh": "因此，无机的自为存在作为这样的自为存在所具有的规定性，在有机物身上落到它的自为存在之下，正如这种规定性在无机物身上只落到无机物的存在之下；所以，即使它在这种无机物身上同时只是一个属性，本质的尊严却还是落到它头上，因为它作为单纯的否定物，与作为为他存在的定在相对立；而这个单纯的否定物在它最后的、个别的规定性中就是一个数。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 11,
+   "de": "Das Organische aber ist eine Einzelheit, welche selbst reine Negativität [ist] und daher die fixe Bestimmtheit der Zahl, welche dem gleichgültigen Sein zukommt, in sich vertilgt.",
+   "en": "But the organic is a singularity that is itself [is] pure negativity and therefore obliterates in itself the fixed determinacy of number that belongs to indifferent being.",
+   "zh": "但有机物却是一个个别性，它自身[是]纯粹的否定性，因此把漠不相关的存在所具有的数的固定规定性在自身中消灭掉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 62,
+   "si": 12,
+   "de": "Insofern es das Moment des gleichgültigen Seins und darin der Zahl an ihm hat, kann sie daher nur als ein Spiel an ihm, nicht aber als das Wesen seiner Lebendigkeit genommen werden.",
+   "en": "In so far as it has in itself the moment of indifferent being, and therein of number, the latter can therefore be taken only as a play on it, but not as the essence of its vitality.",
+   "zh": "既然它在自己身上具有漠不相关的存在这个环节，并因此在自身具有数的环节，那么数就只能被看作它身上的一种游戏，却不能看作它的生命性的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 0,
+   "de": "Wenn nun aber schon die reine Negativität, das Prinzip des Prozesses, nicht außer dem Organischen fällt und es sie also nicht als eine Bestimmtheit in seinem Wesen hat, sondern die Einzelheit selbst an sich allgemein ist, so ist doch diese reine Einzelheit nicht in ihren Momenten als selbst abstrakten oder allgemeinen an ihm entwickelt und wirklich.",
+   "en": "But if pure negativity, the principle of the process, does not fall outside the organic, and the latter therefore does not have it as a determinacy in its essence, but singularity itself is in itself universal, yet this pure singularity is not developed and actual in it in its moments as themselves abstract or universal.",
+   "zh": "但即使纯粹否定性、即过程的原则并不落在有机物之外，因而有机物并不把它作为自己本质中的一个规定性来拥有，而是个别性本身自在地就是普遍的，这种纯粹的个别性却仍然没有在它身上、在其各个环节作为本身抽象的或普遍的环节而得到展开并成为现实的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 1,
+   "de": "Sondern dieser Ausdruck tritt außer jener Allgemeinheit, welche in die Innerlichkeit zurückfällt; und zwischen die Wirklichkeit oder Gestalt, d.h. die sich entwickelnde Einzelheit, und das organische Allgemeine oder die Gattung [tritt] das bestimmte Allgemeine, die Art. Die Existenz, zu welcher die Negativität des Allgemeinen oder der Gattung gelangt, ist nur die entwickelte Bewegung eines Prozesses, welcher sich an den Teilen der seienden Gestalt verläuft.",
+   "en": "Rather, this expression falls outside that universality which falls back into inwardness; and between actuality or shape, i.e. the developing singularity, and the organic universal or the genus, there [steps] the determinate universal, the species. The existence to which the negativity of the universal or of the genus attains is only the developed movement of a process that runs its course on the parts of the existing shape.",
+   "zh": "相反，这种表达落在那种回落到内在性之中的普遍性之外；而在现实性或形态、即正在发展着的个别性，与有机的普遍之物或类之间，[出现]特定的普遍之物，即种。普遍之物或类的否定性所达到的存在，只是一个过程已经展开的运动，而这个运动是在存在着的形态的各个部分上流逝的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 2,
+   "de": "Hätte die Gattung an ihr als ruhender Einfachheit die unterschiedenen Teile und wäre somit ihre einfache Negativität als solche zugleich Bewegung, welche sich durch ebenso einfache, unmittelbar an ihnen allgemeine Teile verliefe, die als solche Momente hier wirklich wären, so wäre die organische Gattung Bewußtsein.",
+   "en": "If the genus had in it, as resting simplicity, the distinguished parts, and if thus its simple negativity as such were at the same time movement, which would run its course through parts equally simple, immediately universal in themselves, which as such moments would here be actual, then the organic genus would be consciousness.",
+   "zh": "如果类在自身那里作为静止的单纯性拥有那些有区别的部分，因而它的单纯否定性作为这样的东西同时就是运动——这运动沿着同样单纯、直接地在它们身上就是普遍的那些部分流逝，而这些部分作为这样的环节在这里会是现实的——，那么有机的类就会是意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 3,
+   "de": "So aber ist die einfache Bestimmtheit, als Bestimmtheit der Art, an ihr auf eine geistlose Weise vorhanden; die Wirklichkeit fängt von ihr an, oder was in die Wirklichkeit tritt, ist nicht die Gattung als solche, d.h. überhaupt nicht der Gedanke.",
+   "en": "But as it is, the simple determinacy, as determinacy of the species, is present in it in a spiritless way; actuality begins from it, or what enters into actuality is not the genus as such, i.e. not thought at all.",
+   "zh": "但实际情形是，这种单纯的规定性作为种的规定性，以无精神的方式在类身上现成存在着；现实性从它开始，或者说，进入现实性的并不是类本身，也就是说，根本不是思想。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 4,
+   "de": "Diese als wirkliches Organisches ist nur durch einen Repräsentanten vertreten.",
+   "en": "As actual organic being, this [genus] is represented only by a representative.",
+   "zh": "这个类作为现实的有机物，只是由一个代表来代表。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 5,
+   "de": "Dieser aber, die Zahl, welche den Übergang aus der Gattung in die individuelle Gestaltung zu bezeichnen und der Beobachtung die beiden Seiten der Notwendigkeit, einmal als einfädle Bestimmtheit, das andere Mal sie als entwickelte, zur Mannigfaltigkeit herausgeborene Gestalt zu geben scheint, bezeichnet vielmehr die Gleichgültigkeit und Freiheit des Allgemeinen und Einzelnen gegeneinander, das von der Gattung dem wesenlosen Unterschiede der Größe preisgegeben wird, selbst aber als Lebendiges von diesem Unterschiede sich ebenso frei erweist.",
+   "en": "But this representative, number, which seems to designate the transition from the genus into individual formation and to give observation the two sides of necessity, now as simple determinacy and then again as developed shape born out into multiplicity, rather designates the indifference and freedom of the universal and the singular over against one another, which is surrendered by the genus to the essenceless difference of magnitude, but itself, as living, proves itself equally free of this difference.",
+   "zh": "但这个代表、即数——它似乎标志着从类到个体形态塑造的过渡，并且似乎给观察提供必然性的两个方面，一个时候是作为单纯的规定性，另一个时候是作为已经展开、已经生成为杂多的形态——，倒不如说标志着普遍之物与个别之物彼此之间的漠不相关和自由，而个别之物被类交给大小那种无本质的差别，但它自己作为活的东西，同样表明自己不受这种差别的约束。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 6,
+   "de": "Die wahre Allgemeinheit, wie sie bestimmt worden, ist hier nur inneres Wesen; als Bestimmtheit der Art ist sie formale Allgemeinheit, und dieser gegenüber tritt jene wahre Allgemeinheit auf die Seite der Einzelheit, die dadurch eine lebendige ist und sich durch ihr Inneres über ihre Bestimmtheit als Art hinwegsetzt.",
+   "en": "True universality, as it has been determined, is here only inner essence; as determinacy of the species it is formal universality, and over against this, that true universality steps to the side of singularity, which thereby is a living one and, through its inner, sets itself beyond its determinacy as species.",
+   "zh": "真正的普遍性，像它已经被规定的那样，在这里只是内在的本质；作为种的规定性，它是形式的普遍性，而面对这种形式的普遍性，那种真正的普遍性站到个别性一边，个别性由此成为活的东西，并通过自己的内在而越出自己作为种的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 7,
+   "de": "Aber diese Einzelheit ist nicht zugleich allgemeines Individuum, d.h. an dem die Allgemeinheit ebenso äußere Wirklichkeit hätte, sondern dies fällt außer dem Organisch-Lebendigen.",
+   "en": "But this singularity is not at the same time a universal individual, i.e. one in which universality would likewise have outer actuality; rather, this falls outside the organically living.",
+   "zh": "但这种个别性并不是同时又是普遍的个体，也就是说，并不是那种在它身上普遍性同样会具有外在现实性的个体；相反，这种东西落在有机的活的东西之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 63,
+   "si": 8,
+   "de": "Dieses allgemeine Individuum aber, wie es unmittelbar das Individuum der natürlichen Gestaltungen ist, ist nicht das Bewußtsein selbst; sein Dasein als einzelnes organisches lebendiges Individuum müßte nicht außer ihm fallen, wenn es dieses sein sollte.",
+   "en": "But this universal individual, as it is immediately the individual of natural formations, is not consciousness itself; its determinate being as a single organic living individual would not have to fall outside it, if it were to be this.",
+   "zh": "但这个普遍的个体，像它直接就是自然诸形态的个体那样，并不是意识本身；如果它应当就是意识，那么它作为一个单独的、有机的、活的个体的定在就不必落在它之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 64,
+   "si": 0,
+   "de": "Wir sehen daher einen Schluß, worin das eine Extrem das allgemeine Leben als Allgemeines oder als Gattung, das andere Extrem aber dasselbe als Einzelnes oder als allgemeines Individuum ist; die Mitte aber ist aus beiden zusammengesetzt, das erste scheint in sie sich als bestimmte Allgemeinheit oder als Art, das andere aber als eigentliche oder einzelne Einzelheit zu schicken.",
+   "en": "We therefore see a syllogism in which the one extreme is universal life as universal or as genus, while the other extreme is the same as singular or as universal individual; the middle term, however, is composed of both, the first seeming to send itself into it as determinate universality or as species, the other, however, as proper or single singularity.",
+   "zh": "因此我们看到一个推论：其中一端是一般的生命作为普遍的东西或作为类，另一端则是同一个东西作为个别的东西或作为普遍的个体；而中项是由两者组合起来的，前者似乎把自己作为特定的普遍性或作为种送进中项，后者则把自己作为本真的或个别的个别性送进去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 64,
+   "si": 1,
+   "de": "– Und da dieser Schluß überhaupt der Seite der Gestaltung angehört, so ist unter ihm ebenso dasjenige begriffen, was als unorganische Natur unterschieden wird.",
+   "en": "- And since this syllogism belongs to the side of formation in general, what is distinguished as inorganic nature is likewise comprehended under it.",
+   "zh": "——而且，既然这个推论一般属于形态塑造这一方面，那么凡是被区分为无机自然的东西，也同样被包含在它之中。"
+  }
+ ]
+}

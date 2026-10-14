@@ -1,0 +1,126 @@
+{
+ "id": "w2-14-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "Maximen des Journals der deutschen Literatur 260)",
+ "heading": "Maximen des Journals der deutschen Literatur260)",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "158mcdfcsc",
+   "text": "Maximen des Journals der deutschen Literatur260)"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "8v857x89jf",
+   "sents": [
+    "[1807]"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "119vbm8ajr",
+   "sents": [
+    "Der allgemeine Zweck ist die Beförderung der wissenschaftlichen und ästhetischen Bildung, an welcher jeder, der nicht zur Gewerbsklasse gehört, Anteil nimmt durch Kritik der in Deutschland herauskommenden neuen Schriften, welche die Wissenschaften und die Kunst betreffen."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1ojkwh51oj",
+   "sents": [
+    "a) Alle Aufsätze, die nicht die Kritik einer Schrift enthalten, sind ausgeschlossen, da ihr Inhalt um der Unbestimmtheit seines Kreises willen zu heterogen wird und bei seiner Einzelheit ein zu eingeschränktes, bei seiner Allgemeinheit, die um der geringen Ausführung willen leicht Oberflächlichkeit wird, ein zu geringes Interesse enthält."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1u7s7lu1uv",
+   "sents": [
+    "b) Die Kritik hat nicht die Literaturkenntnis zum Zwecke, also auch nicht eine vollständige Anzeige aller erscheinenden Schriften, die von anderen Journalen ohnehin auch mehr nur versprochen als wirklich gegeben werden kann.",
+    "Geflissentlich wird also teils das Unwichtige übergangen, teils was nicht zur wissenschaftlichen und schönen Literatur gehört; es ist also das ökonomische, technologische und dergleichen Fächer ausgeschlossen."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "mwvb0w1fcs",
+   "sents": [
+    "c) Das Detail der besonderen eigentlichen Wissenschaften, der Theologie, Jurisprudenz usf. bleibt ebenso aus diesem Plane weg, insofern es nur denjenigen interessieren kann, der sich ausschließend und unmittelbar damit beschäftigt.",
+    "Aber bei allgemeinen Werken über diese Wissenschaften wie auch über Medizin, Physik, Naturgeschichte, Chemie, Mathematik, Gechichte, Philologie kann es nicht so sehr von ihrem Inhalte abhängen, ob eine Kritik derselben dem Zwecke dieses Instituts entspricht, als es vielmehr von der Art dieser Kritik selbst abhängt, ob die allgemeine geistige Bildung überhaupt und Wissenschaft und Geschmack dadurch gewinnt."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "10jgv67pt5",
+   "sents": [
+    "d) Diese werden nicht durch gewöhnlich so genannte Rezensionen und Beurteilungen gefördert, wodurch nur eine Schrift charakterisiert, aber nicht in den Inhalt derselben eingegangen wird, - wodurch man etwa erfährt, ob das Buch gut oder schlecht ist, und die Titel, die der Verfasser abhandelt, aber die Sache selbst nicht untersucht und mit ihm durchgesprochen wird.",
+    "Die Kritiken sollen daher mehr von der abhandelnden Art, wobei die Darstellung des Verfassers zum Grunde gelegt und ihr gefolgt wird, als von der rezensierenden Art an sich haben."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "8dpqqz168b",
+   "sents": [
+    "e) Insofern ein Werk, es sei empirischen oder theoretischen Inhalts, so beschaffen ist, daß es sich zwar interessant zeigt, aber die Neuheit seines Inhalts noch keine eigentliche Beurteilung gestattet, ist eine historische Darlegung seines Inhalts (Analyse) zu geben und die falsche Scham zu entfernen, die, weil der Rezensent sich nicht imstande fühlt, sich als einen bereits mit allem scibili fertigen und alles besser wissenden Meister daran zu zeigen, es verhindert, daß überhaupt die Rede davon wird, wie es z. B. mit [Jacob Joseph] Winterls und manchen anderen Schriften der Fall ist, bei denen die Rezensenten noch nicht dicktun zu können sich bewußt sind und doch nicht darauf Verzicht tun und mit einer Analyse sich begnügen wollen, die einstweilen das Publikum benachrichtigt und die ihm erwünscht ist und oft erwünschter als das Urteil; wenn es nur unter beidem, einer Analyse und einer reinen Rezension zu wählen hat, wird ihm gewiß die erstere willkommen sein."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1kq9yi01ru",
+   "sents": [
+    "f) Ebenso haben Rezensionen keinen Platz, die in der Absicht, dem Verfasser die Aufmerksamkeit, mit der seine Schrift gelesen worden sei, zu beweisen, außer dem allgemeinen Urteil ein Dialog mit dem Autor sind und ihm Mäkeleien machen und Berichtigungen an die Hand geben, die nur zwischen dem Verfasser und dem Rezensenten, aber für keinen Dritten ein Interesse haben.",
+    "Überhaupt fällt alles hinweg, was nur persönliche Meinung des Rezensenten sein sollte, ob er sich gleich dabei die Stellung eines Repräsentanten des Publikums gäbe."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1n2zcolyd7",
+   "sents": [
+    "g) Sich hingegen auf den wesentlichen Inhalt von Werken aus bestimmten Fächern einzulassen, hat ebensosehr allgemeines Interesse, als es der Wissenschaft förderlich ist.",
+    "Um ein bestimmtes Beispiel anzuführen, würde dies bei einer Rezension von einem Buche wie Paulus' Kommentar über das Neue Testament263) der Fall sein, wenn eine Rezension die Maximen desselben untersuchte. - In anderen besonderen Wissenschaften, z. B. der Jurisprudenz, gehört ebenso das Naturrechtliche, Staatsrechtliche, auch Pandektensysteme, Untersuchungen über Kriminaljustiz, Code Napoléon u. dgl. hierher.",
+    "So von der Medizin das Systematische derselben, wie geistreiche Ansichten und Behandlungen einzelner Krankheiten, das gelbe Fieber mit seinem temporären Interesse usf.",
+    "Von der Physik wie Chemie gehören wesentlich solche Werke hierher, die eine Bereicherung der Wissenschaften enthalten.",
+    "Alte Literatur soll ohnehin das Interesse jedes gebildeten Menschen für sich haben; es ist wichtig, diesem den Weg dazu zu bahnen und zu erleichtern, besonders durch Herabsetzung des Werts der bloß pedantischen Bemühungen damit und der scientiae arcane, deren Schein sich manche, die von der Profession sind, geben, die sich aber, näher untersucht, als ihre Grille und Willkür zeigt."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1vmpzgz1rb",
+   "sents": [
+    "h) Es steht gegenwärtig allen Wissenschaften eine Wiedergeburt in Ansehung ihrer Begriffe und der Geistlosigkeit bevor, die wissenschaftlichen Inhalt in bloßes Material verwandelt und die Begriffe, deren sie zu haben gewöhnlich nicht einmal weiß, unkritisch und bewußtlos handhabt.",
+    "Die theoretische und empirische Seite macht eine Tradition aus, die unbesehen als etwas längst Bewiesenes und in den Schatz Gelegtes von einer Hand in die andere überliefert wird.",
+    "Gegen diese Tradition, welche ohnehin schon, wenn nicht die Verachtung, doch die Langeweile des Publikums gegen sich hat, hat besonders die Kritik ihre Untersuchung zu richten.",
+    "Gerade das, was gang und gäbe ist, was das Herkommen für sich hat, was als längst bekannt gilt - eine Art alten Trödels, von dem der Gebrauch und gleichsam eine konventionelle Lebensart es mit sich bringt, daß man ihn gelten läßt, ohne daß es denen, die immer darin fortsprechen, eigentlich mehr Ernst damit ist als den Astronomen, wenn sie sich der Redensart vom Umlaufe der Sonne um die Erde bequemen -, gerade dies Althergebrachte bedarf es am meisten, auf den Kopf gestellt und in Anspruch genommen zu werden, um zunächst wenigstens Verwunderung und Stutzen zu erregen, und weiterhin Nachdenken zu veranlassen."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "xfkl2nldxg",
+   "sents": [
+    "i) Es ist damit nicht gemeint, in die Manier der gegenwärtigen Gärung der Wissenschaften einzugehen, die von der Philosophie aus sie überschwemmt und verwirrt.",
+    "Teils ist zum siegreichen Angriff der leeren und geistlosen Wissenschaftlichkeit nur der gesunde Menschenverstand nötig, wenn er die gebildete Sicherheit besitzt, die sich durch die ernsthafte Miene jener nicht irremachen noch imponieren läßt.",
+    "Teils ist jene philosophische Wissenschaftlichkeit, die eine Anwendung und der Übergang der abstrakten Ideen zum bestimmten Inhalte und den eigentlichen Wissenschaften sein sollte -als um was es gegenwärtig zu tun ist -, vielmehr größtenteils leerer Formalismus, unreifes Gebraue halb aufgefaßter Begriffe, seichte und meist sogar läppische Einfälle und eine Unwissenheit sowohl der Philosophie selbst als der Wissenschaften, wie - um bestimmter zu bezeichnen, was ich meine - das Windischmannsche, Görressche, auch größtenteils das Steffenssche Wesen sowie die Proben, welche die Jenaer Allgemeine Literatur-Zeitung besonders bei ihrem Anfange gegeben.",
+    "Diesem rohen Waldstrome, der Vernunft und Wissenschaft zu verwirren droht, dessen Manieren und Grundsätzen Schelling, nachdem er sie zum Teil angegeben und gebraucht, jetzt feierlich zu entsagen anfängt, hat sich eine wissenschaftliche Kritik vornehmlich zu widersetzen.",
+    "Wir werden dadurch dem Instinkte des Publikums, das von seinem ersten Staunen zu einer Gleichgültigkeit gegen jene Manier übergegangen, zu Hilfe kommen, die Achtung, welche der Philosophie wegen ihres allgemeinen Bedürfnisses noch immer im Grunde gewidmet wird, unterstützen, bei allen durch Insolenz und Unreife zum Stillschweigen und Wegsehen gebrachten Freunden der Einsicht Teilnahme finden sowie das zum Prüfen zu schüchterne Staunen, das um der allgemeinen Ideen, die in jenes Getue verwebt sind, willen Achtung dafür hatte, entwirren und durch die Scheidung des Unlauteren ihm den Gewinn des Echten verschaffen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/14.p0.json"
+}

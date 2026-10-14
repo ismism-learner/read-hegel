@@ -1,0 +1,45 @@
+{
+ "id": "w2-5-53",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "Notizenblatt. 108) Besonderer Zweck des Blatts",
+ "heading": "Notizenblatt.108) Besonderer Zweck des Blatts",
+ "blocks": [
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "2a042xlbxf",
+   "sents": [
+    "Sie lauten folgendermaßen (I. Teil, S. 613 ff.)",
+    "\"Erster Grund: inwiefern die Philosophie eine Wissenschaft sein soll, bedarf sie unbedingt wahrer Grundsätze.",
+    "Dergleichen Grundsätze sind aber unmöglich.\""
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "olecw5yh7q",
+   "sents": [
+    "\"Zweiter Grund (S. 620): Was der spekulative Philosoph von den obersten Gründen des bedingterweise Vorhandenen erkannt zu haben vorgibt, hat er bloß in Begriffen aufgefaßt und gedacht.",
+    "Der mit bloßen Begriffen beschäftigte Verstand ist aber kein Vermögen, etwas der Wirklichkeit gemäß auch nur vorstellig machen zu können.\""
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "u0p6k11blz",
+   "sents": [
+    "\"Dritter Grund (S. 627): Der spekulative Philosoph stützt seine vorgebliche Wissenschaft von den absoluten Gründen des bedingterweise Existierenden ganz vorzüglich auf den Schluß von der Beschaffenheit der Wirkung auf die Beschaffenheit einer angemessenen Ursache.",
+    "Von der Beschaffenheit der Wirkung läßt sich aber nicht im geringsten mit einiger Sicherheit auf die Beschaffenheit der Ursache schließen.\""
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/5.p53.json"
+}

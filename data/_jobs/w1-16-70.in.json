@@ -1,0 +1,74 @@
+{
+ "id": "w1-16-70",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 16,
+ "chunkTitle": "[3. Das Reichsgebiet]",
+ "heading": "[3. Das Reichsgebiet]",
+ "blocks": [
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "65oq1nnvl0",
+   "sents": [
+    "Indem aber die Religion den Staat vollständig zerrissen hat, hat sie auf eine wunderbare Weise doch zugleich die Ahnung einiger Grundsätze gegeben, worauf ein Staat beruhen kann.",
+    "Indem ihre Spaltung die Menschen in dem innersten Wesen auseinanderriß und doch noch eine Verbindung bleiben sollte, so muß sie sich über äußere Dinge, Kriegführen usw., äußerlich verbinden - eine Verbindung, die das Prinzip der modernen Staaten ist.",
+    "Eben damit, daß die wichtigsten Teile des Staatsrechts in die religiöse Spaltung verwebt wurden, sind doch zwei Religionen in den Staat verwebt worden und damit alle politischen Rechte von zwei oder eigentlich drei Religionen abhängig gemacht[; zwar] ist [so] dem Grundsatz der Unabhängigkeit des Staats von der Kirche und der Möglichkeit eines Staats, der Verschiedenheit der Religionen ungeachtet, zuwidergehandelt worden, aber in der Tat [dadurch], daß verschiedene Religionen vorhanden sind und Deutschland ein Staat sein soll, ist er anerkannt worden."
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "1ocdmye1no",
+   "sents": [
+    "Wichtiger ist eine andere Trennung, die gleichfalls durch die Religion hervorgebracht worden ist und der Möglichkeit des Staats noch näher liegt.",
+    "Ursprünglich beruhten nämlich die Stimmen bei den allgemeinen Beratschlagungen und Beschlüssen auf der vollen Persönlichkeit der Fürsten; sie hatten nur Stimmen, wenn sie in Person erschienen, und der Fürst verschiedener, sonst getrennter Länder hatte nur eine Stimme.",
+    "Ihre Person und ihr Land, die Persönlichkeit und die Eigenschaft der Repräsentation eines Landes erschien nicht getrennt.",
+    "Durch die religiöse Spaltung trat dieser Unterschied hervor.",
+    "Auf welche Seite sollte sich eine Stimme halten, wenn der Fürst und sein Land verschiedener Religion waren und wenn eine Stimme einmal reichsgrundgesetzmäßig zu einer Religionspartei gezählt wurde?"
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "1f6w2e136i",
+   "sents": [
+    "Als Staatsmacht sollte er überhaupt auf keiner von beiden Seiten sein, aber hierzu waren die Zeiten nicht gediehen.",
+    "Auch hierauf wurde anfangs nicht so reflektiert.",
+    "Der Fürst des evangelischen Pfalzneuburg, der im 17. Jahrhundert katholisch wurde, wurde auf dem Reichstag sowohl als in den Reichsgerichten zu den katholischen Stimmen gezählt, hingegen blieb die Stimme des Kurfürsten von Sachsen, der zu Ausgang ebendesselben Jahrhunderts156) die Religion veränderte, evangelisch, wie es auch bei später erfolgten Religionsveränderungen der Fürsten von Hessen [und] von Württemberg der Fall war."
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "borcgp1csu",
+   "sents": [
+    "Obgleich schon vorher nur Fürsten, die Land und Leute zu regieren hatten, Sitz und Stimme auf dem Reichstag zukam, also ein Land von dem Begriff eines Standes auf dem Reichstag unzertrennlich schien, so wurde dieser Unterschied zwischen Persönlichkeit des Fürsten und seiner Repräsentation eines Landes auch in Rücksicht auf den allgemeinen deutschen Staat sichtbarer und um so leichter, wenn innerhalb des Landes sich diese Trennung der Person des Fürsten und seiner Untertanen durch Landstände schon konstituiert hatte.",
+    "Die Pfalz, die keine Landstände hatte, ging ohne Widerstand zum katholischen Teil über, und der Kampf der Pfälzer mit ihren katholischen Fürsten wegen Religionsbeschwerden hat bis auf die neuesten Zeiten fortgedauert, dahingegen in Hessen und in Württemberg die Trennung durch Landstände schon legal geworden war, auch die Religion des Landes in Ansehung des Verhältnisses zum Deutschen Reiche geltend gemacht und der Persönlichkeit des Fürsten vorgesetzt [wurde] und dieser somit nicht als Individuum, sondern als Repräsentant auf dem Reichstage erscheint."
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "8z3w7713ua",
+   "sents": [
+    "Die Aufmerksamkeit auf diesen Unterschied, welchen die Religion veranlaßt hat, hat sich nun auf andere Verschiedenheiten ausgedehnt, und Länder, die unter einen Fürsten gekommen sind, haben dem Fürsten besondere Stimmen erhalten, und auch hierin ist nicht mehr, wie ehemals, da auch der Regent verschiedener Fürstentümer nur eine Stimme oder mehrere Fürsten, unter die ein Fürstentum geteilt wurde, auch jeder für sich eine Stimme hatte, die Einheit des Individuums, also nicht die Persönlichkeit, sondern seine Eigenschaft, Repräsentant zu sein, zum Prinzip gemacht worden."
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "1yof4291jc",
+   "sents": [
+    "Aber wie die Nahrung eines gesunden Körpers, von einem kranken Körper gebraucht, noch mehr verderben würde, so hat dies wahre und echte Prinzip, daß das Land Kraft und Recht der Stimme gibt, in den Zustand des Deutschen Reiches gebracht, zu seiner Auflösung um so mehr beigetragen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/16.p70.json"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "w2-9-19",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "C. Fichtesche Philosophie",
+ "heading": "C. Fichtesche Philosophie",
+ "blocks": [
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1it1ob21ol",
+   "sents": [
+    "Um dieser Form der Triplizität willen, in der das Wissen in der Differenz, das nicht Differente aber nur entweder Unendlichkeit, formale Identität, oder jenseits des Erkennens ist, tritt das Fichtesche System nicht aus dem Prinzip des allgemeinen Menschenverstandes heraus, und nachdem das falsche Vorurteil sich verbreitet hatte, daß es nicht das System des gemeinen Menschenverstandes, sondern ein spekulatives System sei, gibt es sich wie billig alle Mühe, in neueren Darstellungen dies Vorurteil auszureuten.",
+    "Es ist nichts klarer, als daß Jacobi dies System mißverstanden hat, wenn er in dem Brief an Fichte eine Philosophie aus einem Stück, ein wahrhaftes Vernunft-System, auf die Fichtesche Weise hervorgebracht, ja sogar auf die Fichtesche Weise allein möglich glaubt.",
+    "Jacobi setzt der Fichteschen Philosophie entgegen, daß er unter dem Wahren etwas verstehe, was vor und außer dem Wissen ist.217) Aber hierin kommt die Fichtesche Philosophie durchaus mit der Jacobischen überein; das Absolute ist ihr allein im Glauben, nicht im Erkennen.",
+    "Fichte versündigt sich, wie Jacobi (Vorrede zu dem Briefe, S. VIII) sagt, so wenig an der Majestät des Orts, wo das Wahre außerhalb des Erkennens ist218) , - er will ihn so wenig in den Bezirk der Wissenschaft einschließen, daß vielmehr die absolute Identität für ihn schlechthin außer dem Wissen, das Wissen nur, wie Jacobi es verlangt, formell und in der Differenz ist, daß Ich nicht gleich Ich sein, daß das Absolute nicht gedacht, sondern nur Subjekt und Objekt, eins nach dem anderen, eins bestimmend das andere, beide nur im Kausalzusammenhang gedacht werden können.",
+    "Hierüber, daß man die absolute Identität des Denkens und Seins nicht denken könne, sagt Spinoza Principiorum Philosophiae Cartesii Pars I, Prop.",
+    "VI, schol.: \"Quidam sunt, qui negant, se ullam Dei (d. i., wie Spinoza Gott definiert, des Wesens, in dessen Idee die Existenz notwendig ist oder dessen Idee und Sein eins ist) ideam habere, quem tamen, ut ipsi aiunt, colunt et amant.",
+    "Et quamvis ipsis Dei definitionem Deique attributa ob oculos ponas, nihil tamen proficies: non hercle magis quam si virum a nativitate coecum colorum differentias, prout ipsos videmus, docere moliaris.",
+    "Verum, nisi eos, tanquam pro novo animalium genere, medio silicet inter homines et bruta, habere velimus, eorum verba parum curare debemus.219)"
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1bdsmeg9gi",
+   "sents": [
+    "Das Erste bei der Integration vor allem aber muß dieses sein, die Realität beider Glieder des Gegensatzes gegeneinander wieder einzuführen oder die theoretische Abstraktion aufzuheben und den Glauben nach seinem Produkt zu konstituieren.",
+    "Das Theoretische besteht in der Idealität oder in der Reflexion auf die Unendlichkeit, welche sowohl Unendlichkeit als solche, leeres Wissen, reines Denken, als auch absolute Entgegensetzung 0 = + 1 - 1 ist, und jedes bestimmt, daß eins nicht ist, was das andere ist.",
+    "Eins ist nur, insofern das andere eintritt, und wie das andere eintritt, ist es nicht; die Realität der Unendlichkeit oder des leeren Denkens besteht in dem + 1 - 1, und das Bestehen dieses Gegensatzes gibt den Inhalt des Idealismus oder die logischen Formen; zugleich sind sie aber ideell = 0, und ihre wahre Wahrheit ist in der Unendlichkeit oder darin, daß sie nichts sind."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "1em5xiwsfw",
+   "sents": [
+    "Diese Idealität ist nun im Praktischen aufzuheben; das + 1 und - 1 soll nicht gleich Null sein, und die Realität, die sie erhalten, ist, daß die Unendlichkeit, das leere Denken, welches die Mitte + 1, 0, - 1 ist, worin sie untergehen, aus der Mitte auf die Seite tritt, und ihr gegenüber die Sinnenwelt, das Reich endlicher Existenz.",
+    "Dies Konstituieren beider als Realitäten heißt der reine Willensakt, welcher das Nichts des + 1 und - 1 zum absoluten Etwas dekretiert.",
+    "Hierein fallen alle die Popularitäten: daß du zum Handeln da bist und daß dein Handeln deinen Wert bestimmt, die Absolutheit der praktischen Vernunft, die absolute Freiheit usw."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/9.p19.json"
+}

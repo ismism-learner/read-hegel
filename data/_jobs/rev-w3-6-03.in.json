@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-03",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 20,
+   "si": 0,
+   "de": "und muß zugrunde gehn.",
+   "en": "and must go to ruin.",
+   "zh": "并且必定要毁灭。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 21,
+   "si": 0,
+   "de": "Es stürzt also ins Leben und bringt die reine Individualität, in welcher es auftritt, zur Ausführung.",
+   "en": "Thus it plunges into life and carries out the pure individuality in which it appears.",
+   "zh": "于是它一头扎进生命，并把它在其中出现的纯粹个体性付诸实行。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 21,
+   "si": 1,
+   "de": "Es macht sich weniger sein Glück, als daß es dasselbige unmittelbar nimmt und genießt.",
+   "en": "It makes its happiness for itself less than it immediately takes and enjoys the same.",
+   "zh": "它与其说是在为自己制造幸福，不如说是直接地取用并享受幸福。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 21,
+   "si": 2,
+   "de": "Die Schatten von Wissenschaft, Gesetzen und Grundsätzen, die allein zwischen ihm und seiner eigenen Wirklichkeit stehen, verschwinden als ein lebloser Nebel, der es nicht mit der Gewißheit seiner Realität aufnehmen kann; es nimmt sich das Leben, wie eine reife Frucht gepflückt wird, welche ebensosehr selbst entgegenkommt, als sie genommen wird.",
+   "en": "The shadows of science, of laws and of principles, which alone stand between it and its own actuality, disappear as a lifeless fog that cannot contend with the certainty of its reality; it takes life to itself as a ripe fruit is plucked, which comes to meet it just as much as it is taken.",
+   "zh": "科学、规律和原则的阴影——只有它们还挡在它和它自己的现实性之间——作为一片无生命的迷雾而消失，这迷雾无法同它对自己实在性的确定性相较量；它为自己取来生命，就像一枚成熟的果实被摘下，而这果实自己迎上来的程度，恰恰和它被摘取的程度一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 0,
+   "de": "Sein Tun ist nur nach einem Momente ein Tun der Begierde; es geht nicht auf die Vertilgung des ganzen gegenständlichen Wesens, sondern nur auf die Form seines Andersseins oder seiner Selbständigkeit, die ein wesenloser Schein ist; denn an sich gilt es ihm für dasselbe Wesen oder als seine Selbstheit.",
+   "en": "Its doing is a doing of desire only according to one moment; it aims not at the annihilation of the whole objective essence, but only at the form of its otherness or of its independence, which is an essenceless semblance; for in itself it counts to it as the same essence or as its own selfhood.",
+   "zh": "它的行动只在一个环节上是欲望的行动；它并不旨在消灭整个对象性的本质，而只旨在它的他在或它的独立性的形式，而这形式是一个无本质的假象；因为自在地，这个对象在它看来就是同一个本质，或者就是它自己的自我性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 1,
+   "de": "Das Element, worin die Begierde und ihr Gegenstand gleichgültig gegeneinander und selbständig bestehen, ist das lebendige Dasein; der Genuß der Begierde hebt dies, insofern es ihrem Gegenstande zukommt, auf.",
+   "en": "The element in which desire and its object subsist indifferently towards one another and independently is living determinate being; the enjoyment of desire sublates this, insofar as it belongs to its object.",
+   "zh": "欲望和它的对象在其中互不相干地、独立地持存的那个元素，就是活生生的定在；而欲望的享受，就这种元素属于欲望的对象而言，把它扬弃掉。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 2,
+   "de": "Aber hier ist dies Element, welches beiden die abgesonderte Wirklichkeit gibt, vielmehr die Kategorie, ein Sein, das wesentlich ein vorgestelltes ist; es ist daher das Bewußtsein der Selbständigkeit – sei es nur das natürliche oder das zu einem System von Gesetzen ausgebildete Bewußtsein –, welches die Individuen jedes für sich erhält.",
+   "en": "But here this element, which gives the two their separated actuality, is rather the category, a being that is essentially a represented one; it is therefore the consciousness of independence – be it only the natural consciousness or the consciousness developed into a system of laws – which maintains the individuals each for itself.",
+   "zh": "但在这里，这个给两者以分离的现实性的元素，其实却是范畴，是一种本质上被表象的存在；因此，正是那独立性的意识——不管它只是自然的意识，还是已经发展成一个规律体系的意识——把各个个体各自为自己地保持下来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 3,
+   "de": "Diese Trennung ist nicht an sich für das Selbstbewußtsein, welches als seine eigene Selbstheit das andere weiß.",
+   "en": "This separation is not in itself for the self-consciousness that knows the other as its own selfhood.",
+   "zh": "这种分离对那把另一个东西知为自己的自我性的自我意识来说，并不是自在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 4,
+   "de": "Es gelangt also zum Genüsse der Lust, zum Bewußtsein seiner Verwirklichung in einem als selbständig erscheinenden Bewußtsein oder zur Anschauung der Einheit beider selbständigen Selbstbewußtsein[e].",
+   "en": "It therefore arrives at the enjoyment of pleasure, at the consciousness of its realization in a consciousness appearing as independent, or at the intuition of the unity of the two independent self-consciousnesses.",
+   "zh": "于是它达到对快乐的享受，达到在一个显得独立的意识中对自己的现实化的意识，或者达到对两个独立自我意识之统一的直观。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 5,
+   "de": "Es erreicht seinen Zweck, erfährt aber eben darin, was die Wahrheit desselben ist.",
+   "en": "It attains its purpose, but precisely in this it experiences what the truth of that purpose is.",
+   "zh": "它达到了自己的目的，但恰恰在这当中经验到，这个目的的真理是什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 22,
+   "si": 6,
+   "de": "Es begreift sich als dieses einzelne fürsichseiende Wesen, aber die Verwirklichung dieses Zwecks ist selbst das Aufheben desselben, denn es wird sich nicht Gegenstand als dieses Einzelne, sondern vielmehr als Einheit seiner selbst und des anderen Selbstbewußtseins, hiermit als aufgehobenes Einzelnes oder als Allgemeines.",
+   "en": "It comprehends itself as this single, being-for-itself essence, but the realization of this purpose is itself the sublation of the same, for it becomes an object to itself not as this single one, but rather as the unity of itself and the other self-consciousness, and hence as a sublated single one or as a universal.",
+   "zh": "它以概念把握自己为这个单个的自为存在着的本质，但这个目的的现实化本身却是对这个目的的扬弃，因为它对自己来说并不成为作为这个单个者的对象，而毋宁成为它自己与另一个自我意识的统一，因而成为被扬弃的单个者，或者说成为普遍者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 0,
+   "de": "Die genossene Lust hat wohl die positive Bedeutung, sich selbst als gegenständliches Selbstbewußtsein geworden zu sein, aber ebensosehr die negative, sich selbst aufgehoben zu haben; und indem es seine Verwirklichung nur in jener Bedeutung begriff, tritt seine Erfahrung als Widerspruch in sein Bewußtsein ein, worin die erreichte Wirklichkeit seiner Einzelheit sich von dem negativen Wesen vernichtet werden sieht, das wirklichkeitslos jener leer gegenübersteht und doch die verzehrende Macht desselben ist.",
+   "en": "The pleasure enjoyed has indeed the positive meaning of having become objective self-consciousness to itself, but just as much the negative meaning of having sublated itself; and since it comprehended its realization only in that meaning, its experience enters its consciousness as a contradiction, in which the attained actuality of its singleness sees itself annihilated by the negative essence that stands over against that actuality devoid of actuality and empty, and yet is the consuming power of the same.",
+   "zh": "被享受的快乐固然有肯定的意义，即已经成为对象性的自我意识，但同样也有否定的意义，即已经把自己扬弃；而由于它只在那种意义上来领会自己的现实化，它的经验就作为矛盾进入它的意识：在其中，它的单个性所达到的现实性看到自己被那个否定的本质所消灭，而这个本质毫无现实性地、空空地与那种现实性相对而立，却又是那种现实性的吞噬力量。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 1,
+   "de": "Dieses Wesen ist nichts anderes als der Begriff dessen, was diese Individualität an sich ist.",
+   "en": "This essence is nothing other than the concept of what this individuality is in itself.",
+   "zh": "这个本质不是别的，就是这种个体性自在地所是的那个东西的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 2,
+   "de": "Sie ist aber noch die ärmste Gestalt des sich verwirklichenden Geistes; denn sie ist sich erst die Abstraktion der Vernunft oder die Unmittelbarkeit der Einheit des Fürsich– und des Ansichseins-, ihr Wesen ist also nur die abstrakte Kategorie.",
+   "en": "But it is still the poorest shape of the self-realizing spirit; for it is to itself only the abstraction of reason, or the immediacy of the unity of being-for-itself and being-in-itself; its essence is therefore only the abstract category.",
+   "zh": "但它还是自我实现着的精神的最贫乏的形态；因为它对自己来说还只是理性的抽象，或者自为存在与自在存在之统一的直接性，所以它的本质只是那抽象的范畴。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 3,
+   "de": "Jedoch hat sie nicht mehr die Form des unmittelbaren einfachen Seins, wie dem beobachtenden Geiste, wo sie das abstrakte Sein oder, als Fremdes gesetzt, die Dingheit überhaupt ist.",
+   "en": "However, it no longer has the form of immediate, simple being, as with the observing spirit, where it is abstract being or, posited as something alien, thinghood in general.",
+   "zh": "不过，它不再具有直接的、单纯的存在形式，像在观察的精神那里那样，在那里，它是抽象的存在，或者在被设定为陌生的东西时，就是一般的物性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 4,
+   "de": "Hier ist in diese Dingheit das Fürsichsein und die Vermittlung getreten.",
+   "en": "Here being-for-itself and mediation have entered into this thinghood.",
+   "zh": "在这里，自为存在和中介已经进入这种物性之中。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 5,
+   "de": "Sie tritt daher als Kreis auf, dessen Inhalt die entwickelte reine Beziehung der einfachen Wesenheiten ist.",
+   "en": "It therefore appears as a circle whose content is the developed pure relation of the simple essences.",
+   "zh": "因此它作为圆圈出现，其内容是那些单纯本质的已经展开的纯粹关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 6,
+   "de": "Die erlangte Verwirklichung dieser Individualität besteht daher in nichts anderem, als daß sie diesen Kreis von Abstraktionen aus der Eingeschlossenheit des einfachen Selbstbewußtseins in das Element des Für-es-Seins oder der gegenständlichen Ausbreitung herausgeworfen hat.",
+   "en": "The realization of this individuality that has been attained therefore consists in nothing other than that it has thrown this circle of abstractions out of the enclosedness of the simple self-consciousness into the element of being-for-it or of objective expansion.",
+   "zh": "所以，这种个体性所获得的现实化不是别的，就是：它把这个由抽象构成的圆圈，从单纯自我意识的封闭状态中抛进了为它存在的元素，或者说对象性展开的元素。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 7,
+   "de": "Was dem Selbstbewußtsein also in der genießenden Lust als sein Wesen zum Gegenstande wird, ist die Ausbreitung jener leeren Wesenheiten, der reinen Einheit, des reinen Unterschiedes und ihrer Beziehung; weiter hat der Gegenstand, den die Individualität als ihr Wesen erfährt, keinen Inhalt.",
+   "en": "What therefore becomes an object to self-consciousness in enjoyed pleasure as its essence is the expansion of those empty essences, of pure unity, of pure difference and of their relation; beyond that, the object that individuality experiences as its essence has no content.",
+   "zh": "所以，在享受着的快乐中作为自己的本质而成为自我意识的对象的东西，就是那些空洞本质的展开，即纯粹统一、纯粹差别以及它们的关系的展开；除此之外，个体性作为自己的本质而经验到的那个对象，再没有内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 8,
+   "de": "Er ist das, was die Notwendigkeit genannt wird; denn die Notwendigkeit, das Schicksal u. dgl., ist eben dieses, von dem man nicht zu sagen weiß, was es tue, welches seine bestimmten Gesetze und positiver Inhalt sei, weil es der absolute, als Sein angeschaute reine Begriff selbst ist, die einfache und leere, aber unaufhaltsame und unstörbare Beziehung, deren Werk nur das Nichts der Einzelheit ist.",
+   "en": "It is what is called necessity; for necessity, fate and the like are precisely this, of which one does not know how to say what it does, what its determinate laws and positive content are, because it is the absolute pure concept itself, intuited as being, the simple and empty but irresistible and undisturbable relation whose work is only the nothing of singleness.",
+   "zh": "它就是那个被称为必然性的东西；因为必然性、命运之类，恰恰就是这个东西：人们说不出它在做什么，也说不出它特定的规律和肯定的内容是什么，因为它是那绝对的、被直观为存在的纯粹概念本身，是那单纯而空洞、却不可阻挡、不可扰乱的关系，它的作品只是单个性的无。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 9,
+   "de": "Sie ist dieser feste Zusammenhang, weil das Zusammenhängende die reinen Wesenheiten oder die leeren Abstraktionen sind; Einheit, Unterschied und Beziehung sind Kategorien, deren jede nichts an und für sich, nur in Beziehung auf ihr Gegenteil ist und die daher nicht auseinanderkommen können.",
+   "en": "It is this firm connection, because what is connected are the pure essences or the empty abstractions; unity, difference and relation are categories, each of which is nothing in and for itself and is only in relation to its opposite, and which therefore cannot come apart.",
+   "zh": "它就是这样一种牢固的关联，因为相关联的东西就是那些纯粹本质或者空洞的抽象；统一、差别和关系都是范畴，其中每一个都并非自在自为地是什么，而只有在与自己的对立面的关系中才是，因此它们不能彼此分开。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 10,
+   "de": "Sie sind durch ihren Begriff aufeinander bezogen, denn sie sind die reinen Begriffe selbst; und diese absolute Beziehung und abstrakte Bewegung macht die Notwendigkeit aus.",
+   "en": "They are related to one another through their concept, for they are the pure concepts themselves; and this absolute relation and abstract movement constitutes necessity.",
+   "zh": "它们通过自己的概念而相互关联，因为它们就是那些纯粹概念本身；而这种绝对的关系和抽象的运动，就构成必然性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 23,
+   "si": 11,
+   "de": "Die nur einzelne Individualität, die nur erst den reinen Begriff der Vernunft zu ihrem Inhalte hat, statt aus der toten Theorie in das Leben sich gestürzt zu haben, hat sich also vielmehr nur in das Bewußtsein der eigenen Leblosigkeit gestürzt und wird sich nur als die leere und fremde Notwendigkeit, als die tote Wirklichkeit zuteil.",
+   "en": "The merely single individuality, which has only the pure concept of reason as its content, instead of having plunged from dead theory into life, has therefore rather plunged only into the consciousness of its own lifelessness, and comes to itself only as the empty and alien necessity, as dead actuality.",
+   "zh": "那仅仅单个的个体性，它才只是把理性的纯粹概念当作自己的内容，并没有从死的理论投身于生命，反而只是投身于对自身无生命状态的意识，而它所得的，也只是那空洞而陌生的必然性、那死的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 24,
+   "si": 0,
+   "de": "Der Übergang geschieht aus der Form des Eins in die der Allgemeinheit, aus einer absoluten Abstraktion in die andere, aus dem Zwecke des reinen Fürsichseins, das die Gemeinschaft mit anderen abgeworfen, in das reine Gegenteil, das dadurch ebenso abstrakte Ansichsein.",
+   "en": "The transition takes place from the form of the One into that of universality, from one absolute abstraction into the other, from the purpose of pure being-for-itself, which has cast off community with others, into the pure opposite, the being-in-itself that is thereby equally abstract.",
+   "zh": "这一过渡从单一的形式进入普遍性的形式，从一种绝对的抽象进入另一种绝对的抽象，从纯粹自为存在的目的——这种自为存在已经抛掉了与他者的共同体——进入那纯粹的对立面，即由此同样抽象的自在存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 24,
+   "si": 1,
+   "de": "Dies erscheint hiermit so, daß das Individuum nur zugrunde gegangen und die absolute Sprödigkeit der Einzelheit an der ebenso harten, aber kontinuierlichen Wirklichkeit zerstäubt ist.",
+   "en": "This appears here in such a way that the individual has merely perished and the absolute brittleness of singleness has been shattered to dust against the equally hard but continuous actuality.",
+   "zh": "这于是显得是这样：个体只是毁灭了，而个别性的绝对僵硬则在同样坚硬、但却连续的现实性上被撞成了粉末。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 24,
+   "si": 2,
+   "de": "– Indem es als Bewußtsein die Einheit seiner selbst und seines Gegenteils ist, ist dieser Untergang noch für es, sein Zweck und seine Verwirklichung, sowie der Widerspruch dessen, was ihm das Wesen war und was an sich das Wesen ist; – es erfährt den Doppelsinn, der in dem liegt, was es tat, nämlich sein Leben sich genommen zu haben; es nahm das Leben, aber vielmehr ergriff es damit den Tod.",
+   "en": "– Insofar as it, as consciousness, is the unity of itself and its opposite, this downfall is still for it, its purpose and its actualization, as well as the contradiction between what was the essence to it and what is the essence in itself; – it experiences the double meaning that lies in what it did, namely to have taken its own life; it took life, but rather it thereby grasped death.",
+   "zh": "——由于它作为意识是自己和它的对立面的统一，所以这种毁灭对它来说仍然存在，是它的目的和它的现实化，也是那对它来说曾经是本质的东西与自在就是本质的东西之间的矛盾；——它经验到它所做的事中的双重含义，即它夺去了自己的生命；它拿来了生命，但由此反而抓住了死亡。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 25,
+   "si": 0,
+   "de": "Dieser Übergang seines lebendigen Seins in die leblose Notwendigkeit erscheint ihm daher als eine Verkehrung, die durch nichts vermittelt ist.",
+   "en": "This transition of its living being into lifeless necessity therefore appears to it as an inversion that is mediated by nothing.",
+   "zh": "因此，它的活生生的存在向无生命的必然性的这一过渡，对它来说就显现为一种颠倒，而这种颠倒是没有经过任何中介的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 25,
+   "si": 1,
+   "de": "Das Vermittelnde müßte das sein, worin beide Seiten eins wären, das Bewußtsein also das eine Moment im anderen erkennte, seinen Zweck und Tun in dem Schicksale und sein Schicksal in seinem Zwecke und Tun, sein eigenes Wesen in dieser Notwendigkeit.",
+   "en": "The mediating element would have to be that in which both sides were one, so that consciousness would recognize the one moment in the other, its purpose and doing in its fate and its fate in its purpose and doing, its own essence in this necessity.",
+   "zh": "那起中介作用的东西必须是这样的东西：在它之中双方是同一个东西，于是意识就在一个环节中认出另一个环节，在命运中认出自己的目的和行动，在自己的目的和行动中认出自己的命运，在这种必然性中认出自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 25,
+   "si": 2,
+   "de": "Aber diese Einheit ist für dies Bewußtsein eben die Lust selbst oder das einfache einzelne Gefühl, und der Übergang von dem Momente dieses seines Zwecks in das Moment seines wahren Wesens [ist] für es ein reiner Sprung in das Entgegengesetzte; denn diese Momente sind nicht im Gefühle enthalten und verknüpft, sondern nur im reinen Selbst, das ein Allgemeines oder das Denken ist.",
+   "en": "But for this consciousness this unity is precisely pleasure itself, or the simple, single feeling, and the transition from the moment of this its purpose into the moment of its true essence is for it a pure leap into the opposite; for these moments are not contained and linked in feeling, but only in the pure self, which is a universal or thinking.",
+   "zh": "但是，对这种意识来说，这种统一恰恰就是快乐本身，或者说单纯的、单个的感觉，而从它的这一目的的环节向它的真正本质的环节的过渡，对它来说就是向对立面的纯粹跳跃；因为这两个环节并不是包含和连结在感觉里，而只是包含和连结在纯粹的自我里，而纯粹的自我是普遍的东西或思维。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 25,
+   "si": 3,
+   "de": "Das Bewußtsein ist sich daher durch seine Erfahrung, worin ihm seine Wahrheit werden sollte, vielmehr ein Rätsel geworden, die Folgen seiner Taten sind ihm nicht seine Taten selbst; was ihm widerfährt, [ist] für es nicht die Erfahrung dessen, was es an sich ist; der Übergang nicht eine bloße Formänderung desselben Inhalts und Wesens, einmal vorgestellt als Inhalt und Wesen des Bewußtseins, das andere Mal als Gegenstand oder angeschautes Wesen seiner selbst.",
+   "en": "Consciousness has therefore, through its experience, in which its truth was to become for it, rather become a riddle to itself; the consequences of its deeds are not its deeds themselves to it; what happens to it is not, for it, the experience of what it is in itself; the transition is not a mere change of form of the same content and essence, now represented as content and essence of consciousness, now as object or intuited essence of itself.",
+   "zh": "因此，意识通过自己的经验——在这种经验里，它的真理本当对它生成——反而对自己成了一个谜，它行为造成的后果对它来说并不是它行为本身；它遭遇的事情，对它来说并不是关于它的自在存在是什么的经验；这一过渡也不是同一内容和同一本质的单纯形式变化，即时而作为意识的内容和本质、时而作为对象或它自己的被直观的本质而被表象。"
+  }
+ ]
+}

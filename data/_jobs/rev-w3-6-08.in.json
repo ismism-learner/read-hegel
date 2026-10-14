@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-6-08",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "6",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 49,
+   "si": 0,
+   "de": "Diesem Feinde dagegen ist nicht das Ansich, sondern die Individualität das Wesen; seine Kraft also das negative Prinzip, welchem nichts bestehend und absolut heilig ist, sondern welches den Verlust von allem und jedem wagen und ertragen kann.",
+   "en": "For this enemy, by contrast, it is not the in-itself but individuality that is the essence; its force is therefore the negative principle, for which nothing is enduring and absolutely sacred, but which can risk and endure the loss of everything and of each particular thing.",
+   "zh": "相反，对这个敌人来说，本质不是自在，而是个体性；所以它的力就是那个否定的原则，对这个原则来说没有任何东西是持存的、绝对神圣的，它反倒能够拿一切和任何东西的丧失去冒险，并且能够承受这种丧失。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 49,
+   "si": 1,
+   "de": "Hierdurch ist ihm der Sieg ebensosehr an ihm selbst gewiß als durch den Widerspruch, in welchen sich sein Gegner verwickelt.",
+   "en": "Thereby victory is as certain to it in itself as it is through the contradiction in which its opponent entangles itself.",
+   "zh": "因此，胜利对世界进程来说，既在它自身中是确定的，也同样通过它的对手所陷入的矛盾而是确定的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 49,
+   "si": 2,
+   "de": "Was der Tugend an sich ist, ist dem Weltlaufe nur für ihn, er ist frei von jedem Momente, das für sie fest und woran sie gebunden ist.",
+   "en": "What is in itself for virtue is for the course of the world only for it; the course of the world is free from every moment that is fixed for virtue and to which virtue is bound.",
+   "zh": "对德行来说自在的东西，对世界进程来说只是为它而存在的；世界进程不受任何环节的约束，而这样的环节对德行来说是固定的，德行也被束缚在它上面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 49,
+   "si": 3,
+   "de": "Er hat ein solches Moment dadurch, daß es für ihn nur als ein solches gilt, das er ebensowohl aufheben als bestehen lassen kann, in seiner Gewalt und damit auch den daran befestigten tugendhaften Ritter.",
+   "en": "It has such a moment in its power through this, that the moment counts for it only as something that it can equally sublate and let persist, and thereby also the virtuous knight fastened to it.",
+   "zh": "它之所以能把这样一个环节握在手中，是因为这个环节对它来说只算作它可以同样加以扬弃、也可以让其继续存在的东西，于是连系在这个环节上的德行骑士也落入它的掌握。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 49,
+   "si": 4,
+   "de": "Dieser kann sich davon nicht als von einem äußerlich umgeworfenen Mantel loswickeln und durch Hinterlassung desselben sich frei machen; denn es ist ihm das nicht aufzugebende Wesen.",
+   "en": "The latter cannot unwind itself from it as from a cloak thrown over it from outside and make itself free by leaving it behind; for for it this is the essence that must not be given up.",
+   "zh": "这个骑士不能像摆脱一件从外面披上的斗篷那样从它里面挣脱出来，也不能靠把它留下而使自己自由；因为对他说来，这就是不可放弃的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 50,
+   "si": 0,
+   "de": "Was endlich den Hinterhalt betrifft, aus welchem das gute Ansich dem Weltlaufe listigerweise in den Rücken fallen soll, so ist diese Hoffnung an sich nichtig.",
+   "en": "Finally, as regards the ambush from which the good in-itself is cunningly to fall upon the back of the course of the world, this hope is in itself null.",
+   "zh": "最后，至于那个埋伏——善的自在应当诡诈地从那里袭击世界进程的背后——，这种希望自在地就是虚妄的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 50,
+   "si": 1,
+   "de": "Der Weltlauf ist das wache, seiner selbst gewisse Bewußtsein, das nicht von hinten an sich kommen läßt, sondern allenthalben die Stirne bietet; denn er ist dieses, daß alles für ihn ist, daß alles vor ihm steht.",
+   "en": "The course of the world is the wakeful consciousness certain of itself, which does not let anything come at it from behind, but everywhere offers its brow; for it is this, that everything is for it, that everything stands before it.",
+   "zh": "世界进程是清醒的、对自己有确定性的意识，它不让任何东西从背后靠近自己，而是处处正面相迎；因为它就是这样一回事：一切都为它而存在，一切都站在它面前。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 50,
+   "si": 2,
+   "de": "Das gute Ansich aber, ist es für seinen Feind, so ist es in dem Kampfe, den wir gesehen haben; insofern es aber nicht für ihn, sondern an sich ist, ist es das passive Werkzeug der Gaben und Fähigkeiten, die wirklichkeitslose Materie; als Dasein vorgestellt, wäre es ein schlafendes und dahinten, man weiß nicht wo, bleibendes Bewußtsein.",
+   "en": "But the good in-itself, if it is for its enemy, then it is in the struggle we have seen; but insofar as it is not for the enemy but in itself, it is the passive tool of the gifts and capacities, the actuality-less matter; represented as determinate being, it would be a sleeping consciousness, lingering back there one knows not where.",
+   "zh": "但善的自在，如果它是对它的敌人而存在的，那么它就处在我们已经看到的那种战斗之中；但就它不是对敌人而存在、而是自在而言，它就是天赋和能力的被动工具，是没有现实性的质料；如果把它表象为定在，那么它就会是一个睡着的、留在后面而谁也说不清在哪里的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 0,
+   "de": "Die Tugend wird also von dem Weltlaufe besiegt, weil das abstrakte unwirkliche Wesen in der Tat ihr Zweck ist und weil in Ansehung der Wirklichkeit ihr Tun auf Unterschieden beruht, die allein in den Worten liegen.",
+   "en": "Virtue is therefore defeated by the course of the world, because the abstract, unreal essence is in fact its purpose, and because with regard to actuality its doing rests on distinctions that lie only in words.",
+   "zh": "所以德行被世界进程战胜了，因为那个抽象的、非现实的本质实际上就是它的目的，而且因为就现实性而言，它的行动依据的是一些仅仅存在于词语之中的差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 1,
+   "de": "Sie wollte darin bestehen, durch Aufopferung der Individualität das Gute zur Wirklichkeit zu bringen, aber die Seite der Wirklichkeit ist selbst nichts anderes als die Seite der Individualität.",
+   "en": "It wanted to consist in bringing the good to actuality through the sacrifice of individuality, but the side of actuality is itself nothing other than the side of individuality.",
+   "zh": "它想靠牺牲个体性来把善带向现实性，但现实性这一面本身不是别的，正是个体性这一面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 2,
+   "de": "Das Gute sollte dasjenige sein, was an sich und dem, was ist, entgegengesetzt ist, aber das Ansich ist, nach seiner Realität und Wahrheit genommen, vielmehr das Sein selbst.",
+   "en": "The good was supposed to be that which is in itself opposed to what is, but the in-itself, taken according to its reality and truth, is rather being itself.",
+   "zh": "善本应是那种自在地与存在的东西相对立的东西，但自在如果按其实在性和真理来看，倒不如说就是存在本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 3,
+   "de": "Das Ansich ist zunächst die Abstraktion des Wesens gegen die Wirklichkeit; aber die Abstraktion ist eben dasjenige, was nicht wahrhaft, sondern nur für das Bewußtsein ist; d.h. aber, es ist selbst dasjenige, was wirklich genannt wird; denn das Wirkliche ist, was wesentlich für ein Anderes ist, oder es ist das Sein.",
+   "en": "The in-itself is at first the abstraction of the essence over against actuality; but the abstraction is precisely that which is not truly, but only for consciousness; that is, however, it is itself that which is called actual; for the actual is what is essentially for an other, or it is being.",
+   "zh": "自在首先是本质相对于现实性的抽象；但抽象恰恰是那种并非真正存在、而只是为意识而存在的东西；不过这也就是说，它本身就是那个被称为现实的东西；因为现实的东西就是本质上为一个他者而存在的东西，或者它就是存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 4,
+   "de": "Das Bewußtsein der Tugend aber beruht auf diesem Unterschiede des Ansich und des Seins, der keine Wahrheit hat.",
+   "en": "But the consciousness of virtue rests on this distinction of the in-itself and of being, which has no truth.",
+   "zh": "但德行的意识却建立在这种自在与存在的差别之上，而这种差别没有任何真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 51,
+   "si": 5,
+   "de": "– Der Weltlauf sollte die Verkehrung des Guten sein, weil er die Individualität zu seinem Prinzip hatte; allein diese ist das Prinzip der Wirklichkeit; denn eben sie ist das Bewußtsein, wodurch das Ansichseiende ebensosehr für ein Anderes ist; er verkehrt das Unwandelbare, aber er verkehrt es in der Tat aus dem Nichts der Abstraktion in das Sein der Realität.",
+   "en": "— The course of the world was supposed to be the perversion of the good, because it had individuality as its principle; but individuality is the principle of actuality; for precisely it is the consciousness through which what is in itself is just as much for an other; the course of the world perverts the unchangeable, but in fact it perverts it out of the nothing of abstraction into the being of reality.",
+   "zh": "——世界进程本应是善的颠倒，因为它把个体性当作自己的原则；但个体性正是现实性的原则；因为正是它才是那种意识，通过它，自在存在的东西同样是为一个他者而存在的；世界进程颠倒了不变的东西，但它实际上是把不变的东西从抽象的无颠倒成了实在性的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 0,
+   "de": "Der Weltlauf siegt also über das, was die Tugend im Gegensatze gegen ihn ausmacht; er siegt über sie, der die wesenlose Abstraktion das Wesen ist.",
+   "en": "The course of the world therefore triumphs over what virtue constitutes in opposition to it; it triumphs over virtue, to which the essence-less abstraction is the essence.",
+   "zh": "所以世界进程战胜了德行在与它对立时构成的那种东西；世界进程战胜了德行，而对德行来说，没有本质的抽象就是本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 1,
+   "de": "Er siegt aber nicht über etwas Reales, sondern über das Erschaffen von Unterschieden, welche keine sind, über diese pomphaften Reden vom Besten der Menschheit und der Unterdrückung derselben, von der Aufopferung fürs Gute und dem Mißbrauche der Gaben; solcherlei ideale Wesen und Zwecke sinken als leere Worte zusammen, welche das Herz erheben und die Vernunft leer lassen, erbauen, aber nichts aufbauen; Deklamationen, welche nur diesen Inhalt bestimmt aussprechen, daß das Individuum, welches für solche edle Zwecke zu handeln vorgibt und solche vortreffliche Redensarten führt, sich für ein vortreffliches Wesen gilt, – eine Aufschwellung, welche sich und anderen den Kopf groß macht, aber groß von einer leeren Aufgeblasenheit.",
+   "en": "But it does not triumph over anything real, but over the creation of distinctions that are none, over these pompous speeches about the best of humanity and its oppression, about sacrifice for the good and the misuse of the gifts; such ideal beings and purposes collapse as empty words, which lift up the heart and leave reason empty, edify but build nothing up; declamations that expressly state only this content, that the individual who pretends to act for such noble purposes and utters such excellent phrases takes itself for an excellent being, – a puffing-up that makes its own and others' heads big, but big with an empty bloatedness.",
+   "zh": "但它战胜的并不是什么实在的东西，而是战胜了制造那些根本不成其为差别的差别，战胜了这些浮夸的言论——关于人类的最善和人类所受的压迫，关于为善而牺牲和天赋被滥用；这类理想的存在物和目的作为空洞的词语垮塌下来，这些词语让人心振奋却使理性空空如也，给人教益却什么也建不起来；这些慷慨陈词明确说出的内容仅此一点：那个自称为了这样一些高贵目的而行动、说着这样一些卓越辞令的个体，把自己看作一个卓越的存在物，——一种自我膨胀，它把自己和别人的脑袋都撑大了，但撑大它的是空洞的虚胀。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 2,
+   "de": "– Die antike Tugend hatte ihre bestimmte sichere Bedeutung, denn sie hatte an der Substanz des Volks ihre inhaltsvolle Grundlage und ein wirkliches, schon existierendes Gutes zu ihrem Zwecke; sie war daher auch nicht gegen die Wirklichkeit als eine allgemeine Verkehrtheit und gegen einen Weltlauf gerichtet.",
+   "en": "– Ancient virtue had its determinate, secure meaning, for it had its content-full foundation in the substance of the people and a real, already existing good as its purpose; it was therefore also not directed against actuality as a universal perversity and against a course of the world.",
+   "zh": "——古代的德行有它确定而可靠的意义，因为它在人民的实体那里有自己的、充满内容的根据，并且以一个现实的、已经存在着的善作为自己的目的；所以它也不是针对作为普遍颠倒的现实性、针对一种世界进程而发的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 3,
+   "de": "Die betrachtete aber ist aus der Substanz heraus, eine wesenlose Tugend, eine Tugend nur der Vorstellung und der Worte, die jenes Inhalts entbehren.",
+   "en": "But the one just considered has come out of the substance, an essence-less virtue, a virtue only of representation and of words, which lack that content.",
+   "zh": "但这里所考察的德行却已经离开了实体，是一种没有本质的德行，一种只属于表象和词语的德行，而表象和词语缺少那种内容。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 4,
+   "de": "– Diese Leerheit der mit dem Weltlaufe kämpfenden Rednerei würde sich sogleich aufdecken, wenn gesagt werden sollte, was ihre Redensarten bedeuten; – sie werden daher als bekannt vorausgesetzt.",
+   "en": "– This emptiness of the rhetoric that fights with the course of the world would at once reveal itself if it were to be said what its phrases mean; – they are therefore presupposed as known.",
+   "zh": "——这种与世界进程搏斗的夸夸其谈的空洞，如果人们应当说出它那些辞令意味着什么，马上就会暴露出来；——所以这些辞令被预设为已知的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 5,
+   "de": "Die Forderung, dies Bekannte zu sagen, würde entweder durch einen neuen Schwall von Redensarten erfüllt oder ihr die Berufung auf das Herz entgegengesetzt, welches innerhalb sage, was sie bedeuten; d.h. die Unvermögenheit, es in der Tat zu sagen, würde eingestanden.",
+   "en": "The demand to say this known [content] would either be fulfilled by a new torrent of phrases, or the appeal to the heart would be opposed to it, [the heart] which says inwardly what they mean; i.e., the inability to say it in deed would be admitted.",
+   "zh": "要说出这个已知的东西，这一要求要么会被新的一阵辞令洪流所满足，要么人们会拿对内心的援引与它对立，说内心在自己内部说出这些辞令意味着什么；也就是说，没有能力在事实上把它说出来，这一点会被承认下来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 52,
+   "si": 6,
+   "de": "– Die Nichtigkeit jener Rednerei scheint auch auf eine bewußtlose Art für die Bildung unseres Zeitalters Gewißheit erlangt zu haben, indem aus der ganzen Masse jener Redensarten und der Weise, sich damit aufzuspreizen, alles Interesse verschwunden ist; ein Verlust, der sich darin ausdrückt, daß sie nur Langeweile machen.",
+   "en": "– The nullity of that rhetoric seems also to have attained certainty in an unconscious way for the culture of our age, in that from the whole mass of those phrases and the way of puffing oneself up with them all interest has disappeared; a loss that expresses itself in this, that they only produce boredom.",
+   "zh": "——那种夸夸其谈的虚妄，似乎也以一种无意识的方式对我们这个时代的教养获得了确定性，因为从那一大堆辞令以及用它们自我吹嘘的方式中，一切兴趣都消失了；这是一种损失，它表现在：这些辞令只让人感到无聊。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 53,
+   "si": 0,
+   "de": "Das Resultat also, welches aus diesem Gegensatze hervorgeht, besteht darin, daß das Bewußtsein die Vorstellung von einem an sich Guten, das noch keine Wirklichkeit hätte, als einen leeren Mantel fahren läßt.",
+   "en": "The result, then, that emerges from this opposition consists in this, that consciousness lets go the representation of a good in itself, which as yet would have no actuality, as an empty cloak.",
+   "zh": "所以，从这个对立中产生的结果就在于：意识把关于一个自在的善——这个善还没有任何现实性——的表象当作一件空斗篷丢掉了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 53,
+   "si": 1,
+   "de": "Es hat in seinem Kampfe die Erfahrung gemacht, daß der Weltlauf so übel nicht ist, als er aussah; denn seine Wirklichkeit ist die Wirklichkeit des Allgemeinen.",
+   "en": "It has in its struggle had the experience that the course of the world is not so bad as it looked; for its actuality is the actuality of the universal.",
+   "zh": "它在自己的斗争中取得了经验：世界进程并不像它看起来那么坏；因为世界进程的现实性就是普遍的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 53,
+   "si": 2,
+   "de": "Es fällt mit dieser Erfahrung das Mittel, durch Aufopferung der Individualität das Gute hervorzubringen, hinweg, denn die Individualität ist gerade die Verwirklichung des Ansichseienden; und die Verkehrung hört auf, als eine Verkehrung des Guten angesehen zu werden, denn sie ist vielmehr eben die Verkehrung desselben, als eines bloßen Zwecks, in die Wirklichkeit: die Bewegung der Individualität ist die Realität des Allgemeinen.",
+   "en": "With this experience the means of bringing forth the good through the sacrifice of individuality falls away, for individuality is precisely the actualization of what is in itself; and the perversion ceases to be regarded as a perversion of the good, for it is rather precisely the perversion of the same, as a mere purpose, into actuality: the movement of individuality is the reality of the universal.",
+   "zh": "随着这一经验，靠牺牲个体性来产生善的手段也就消失了，因为个体性恰恰是自在存在的东西的现实化；而颠倒也不再被看作对善的颠倒，因为它倒不如说恰恰是把善、把仅仅作为目的的善颠倒进现实性之中：个体性的运动就是普遍的实在性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 0,
+   "de": "In der Tat ist hiermit aber ebenso dasjenige besiegt worden und verschwunden, was als Weltlauf dem Bewußtsein des Ansichseienden gegenüberstand.",
+   "en": "In fact, however, thereby that too has been defeated and has disappeared, which stood over against the consciousness of what is in itself as the course of the world.",
+   "zh": "但实际上，这样一来，那个作为世界进程与自在存在的东西的意识相对立的东西，也同样被战胜了、消失了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 1,
+   "de": "Das Fürsichsein der Individualität war daran dem Wesen oder Allgemeinen entgegengesetzt und erschien als eine von dem Ansichsein getrennte Wirklichkeit.",
+   "en": "The being-for-itself of individuality was in this opposed to the essence or the universal and appeared as an actuality separated from being-in-itself.",
+   "zh": "个体性的自为存在在这一点上与本质或普遍相对立，并且显现为一种与自在存在分离了的现实性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 2,
+   "de": "Indem aber sich gezeigt hat, daß die Wirklichkeit in ungetrennter Einheit mit dem Allgemeinen ist, so erweist sich das Fürsichsein des Weltlaufs, ebenso wie das Ansich der Tugend nur eine Ansicht ist, auch nicht mehr zu sein.",
+   "en": "But since it has shown itself that actuality is in inseparable unity with the universal, the being-for-itself of the course of the world proves itself, just as the in-itself of virtue is only a view, also no longer to be.",
+   "zh": "但既然已经表明，现实性与普遍处于不可分离的统一之中，那么世界进程的自为存在就表明自己也不再存在，正如德行的自在只是一种看法一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 3,
+   "de": "Die Individualität des Weltlaufs mag wohl nur für sich oder eigennützig zu handeln meinen; sie ist besser als sie meint, ihr Tun ist zugleich ansichseiendes, allgemeines Tun.",
+   "en": "The individuality of the course of the world may well mean to act only for itself or self-interestedly; it is better than it means, its doing is at the same time in-itself, universal doing.",
+   "zh": "世界进程的个体性也许以为自己在仅仅为自己、在自私地行动；但它比它以为的要好，它的行动同时是自在存在的、普遍的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 4,
+   "de": "Wenn sie eigennützig handelt, so weiß sie nur nicht, was sie tut; und wenn sie versichert, alle Menschen handeln eigennützig, so behauptet sie nur, alle Menschen haben kein Bewußtsein darüber, was das Tun ist.",
+   "en": "If it acts self-interestedly, it only does not know what it does; and if it assures us that all human beings act self-interestedly, it only asserts that all human beings have no consciousness of what doing is.",
+   "zh": "如果它自私地行动，那它只是不知道自己在做什么；而如果它断言所有人都在自私地行动，那它只是主张，所有人对行动是什么都没有意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "6",
+   "bi": 54,
+   "si": 5,
+   "de": "– Wenn sie für sich handelt, so ist dies eben die Hervorbringung des nur erst Ansichseienden zur Wirklichkeit; der Zweck des Fürsichseins also, der dem Ansich sich entgegengesetzt meint, – seine leere Pfiffigkeit sowie seine feinen Erklärungen, die den Eigennutz überall aufzuzeigen wissen, sind ebenso verschwunden als der Zweck des Ansich und seine Rednerei.",
+   "en": "– When it acts for itself, this is precisely the bringing forth of what is only first in itself into actuality; the purpose of being-for-itself, therefore, which means [itself] opposed to the in-itself, – its empty cunning as well as its fine explanations, which know how to point out self-interest everywhere, have disappeared just as much as the purpose of the in-itself and its rhetoric.",
+   "zh": "——当它为自己而行动时，这恰恰是把最初仅仅自在存在的东西产生出来、使之成为现实性；所以，那自以为与自在相对立的、自为存在的目的——它空洞的狡黠以及它那些精巧的解释，这些解释到处都能指出私利——也已经消失了，正如自在的目的和它的夸夸其谈消失了一样。"
+  }
+ ]
+}

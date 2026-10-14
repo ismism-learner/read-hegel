@@ -1,0 +1,75 @@
+{
+ "id": "w2-13-58",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "cctvvk1m3y",
+   "sents": [
+    "Der Grundsatz eines Systems der Philosophie ist ihr Resultat.",
+    "Wie wir die letzte Szene eines Schauspiels, das letzte Blatt eines Romans lesen oder Sancho die Auflösung des Rätsels vorher zu sagen für besser hielt, so ist der Anfang einer Philosophie allerdings auch ihr Ausgang, was bei jenen nicht der Fall ist.",
+    "Aber niemand wird sich mit diesem Ende jener oder dem Worte des Rätsels begnügen, sondern die Bewegung, durch welche es zustande kommt, wird für das Wesentliche gehalten. - Daß das Besondere im Allgemeinen sei, leugnen die Gegner der Philosophie, und sie selbst üben dies aus, indem sie allein an dem Prinzip, weil in diesem das Ganze sei, hin und her zerren.",
+    "Sie besitzen das Ganze, wie sie die Mathematik besitzen, wenn sie ein Exemplar Euklids oder einen Sklaven gekauft haben, der ein Mathematiker ist.",
+    "Die Sache selbst kann man nicht geschenkt, gleichsam in den Kauf obenein erhalten, indem man das Prinzip oder Resultat sich anschaffte.",
+    "Bei der Anschauung dagegen, z. B. Jakob Böhmes, stehenbleiben, ist Barbarei, wie bei den Grundsätzen Oberflächlichkeit.",
+    "Die Entwicklung des Wissens ist nicht ein Wegschaffen jener Anschauungen, sowenig als des Grundsatzes, sondern ein von innen heraus oder von außen hinein Ausbilden derselben.",
+    "Böhmes Anschauung ist eine tiefere, als Jacobis Glauben offenbart.",
+    "Die, welche so etwas als besondere verschwindende Meinung nehmen und die Barbarei in die Sache selbst setzen, irren ebensosehr als die, welche den Grundsatz nicht für wesentlich halten.",
+    "Jene machen die Form des Barbarischen zum Wesen der Sache, diese im Gegenteil die Gediegenheit des Glaubens.",
+    "(Jacobi: wir sind im Glauben geboren; Händedrücken; lieber Mendelssohn usw.; wie leere Pietisten mit krummen Köpfen und verdrehten Augen sich die Hände drücken, ohne etwas zu sagen zu wissen.)"
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "7c6bkc1xoo",
+   "sents": [
+    "Der Barbar verwundert sich, wenn er hört, daß das Quadrat der Hypotenuse gleich sei der Summe des Quadrats beider Katheten.",
+    "Er meint, es könne auch anders sein, fürchtet sich vorzüglich vor dem Verstande und bleibt in der Anschauung.",
+    "Die Vernunft ohne Verstand ist nichts, der Verstand doch etwas ohne Vernunft.",
+    "Der Verstand kann nicht geschenkt werden."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "n43j3e5kjf",
+   "sents": [
+    "Die Worte ewig, heilig, absolut, unendlich ziehen den Menschen, der etwas dabei fühlt, in die Höhe, erwärmen, erhitzen ihn.",
+    "Es sind Mächte, die ihn regieren, hin- und herziehen, und das Zeichen ihrer Herrschaft über ihn ist, daß er bei ihnen sich fühlt.",
+    "Es sind die angeschauten Götter der Griechen, welche den Nordländern nur als Abstraktionen, als Worte, hiermit selbst in ideeller Form sind.",
+    "Nur das Begreifen tötet sie als Macht.",
+    "Es trennt sich von ihnen.",
+    "Statt in ihrem Element zu liegen, ist es das Zurücktreten von ihnen und Durchschauen derselben, eine gefühllose Klarheit.",
+    "Jene Worte erheben den Menschen, - wieviel mehr ihr Erkennen!",
+    "Aber ihr Erkennen gibt dem Menschen, dem Ich, seine Freiheit, und die Erhebung ist die getilgte Hitze oder das (getilgte) Gefühl des Individuums."
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "1tudf0v1e5",
+   "sents": [
+    "Gott, zur Natur geworden, hat sich ausgebreitet in die Pracht und den stummen Kreislauf der Gestaltungen, wird sich der Expansion, der verlorenen Punktualität bewußt und ergrimmt darüber.",
+    "Der Grimm ist diese Bildung, dies Zusammennehmen in den leeren Punkt.",
+    "Er findet sich als solchen und sein Wesen ausgeschüttet in die ruh'- und rastlose Unendlichkeit, wo keine Gegenwart, sondern ein wüstes Hinausfahren über die Grenze ist, die immer wird, wie sie aufgehoben ist.",
+    "Dieser Grimm, indem er dies Hinausfahren ist, ist die Zerstörung der Natur.",
+    "Das über die Gestaltungen Hinausgehen ist ebenso ein absolutes Gehen in sich selbst, ein Werden zum Mittelpunkt.",
+    "In diesem frißt der Grimm seine Gestaltungen in sich hinein.",
+    "Ihr ganzes ausgedehntes Reich muß durch diesen Mittelpunkt hindurch; ihre Gebeine werden davon zermalmt und ihr Fleisch in eben diese Flüssigkeit zerquetscht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p58.json"
+}

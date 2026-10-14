@@ -1,0 +1,118 @@
+{
+ "A": {
+  "files": 6,
+  "blocks": 30,
+  "sentences": 156,
+  "issues": [
+   {
+    "sev": "minor",
+    "where": "w1/12#14",
+    "msg": "sentence 3: \"Recht\" ≠ “权利”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 4: \"Geist\" ≠ “精神”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 18: \"Erscheinung\" ≠ “现象”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 19: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#7",
+    "msg": "sentence 1: \"Aufhebung\" ≠ “扬弃”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#11",
+    "msg": "sentence 5: \"Verstand\" ≠ “知性”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#13",
+    "msg": "sentence 3: \"Leben\" ≠ “生命”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#4",
+    "msg": "sentence 0: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#4",
+    "msg": "sentence 4: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#5",
+    "msg": "sentence 3: \"Moment\" ≠ “环节”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#7",
+    "msg": "sentence 1: \"Moment\" ≠ “环节”"
+   }
+  ],
+  "sev": {
+   "critical": 0,
+   "major": 0,
+   "minor": 11
+  },
+  "restamped": 18
+ },
+ "B": {
+  "files": 6,
+  "blocks": 30,
+  "sentences": 156,
+  "issues": [
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 0: \"Wirklichkeit\" ≠ “现实性”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 16: \"Mannigfaltigkeit\" ≠ “杂多”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 19: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/12#5",
+    "msg": "sentence 20: \"Wirklichkeit\" ≠ “现实性”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#4",
+    "msg": "sentence 0: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#4",
+    "msg": "sentence 4: \"Gesetz\" ≠ “法律”"
+   },
+   {
+    "sev": "minor",
+    "where": "w1/13#7",
+    "msg": "sentence 1: \"Moment\" ≠ “环节”"
+   }
+  ],
+  "sev": {
+   "critical": 0,
+   "major": 0,
+   "minor": 7
+  },
+  "restamped": 13
+ }
+}

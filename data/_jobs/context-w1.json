@@ -1,0 +1,1264 @@
+{
+ "volume": "w1",
+ "styleGuide": [
+  "权威顺序（不可颠倒）：① 用户的词族／术语政策最高，任何其他依据都不得用来推翻它；② 本卷术语包在政策框架内细化，与政策冲突时以政策为准；③ 共享词表；④ 通行译名、学术惯例、其他中译本与读者评论——仅供参考，只能用来改进，绝不能作为改动政策译名的理由。特别提醒：通行译名（如“唯心主义”“理念”）与政策冲突时，一律以政策为准。",
+  "把 Hegel 的长句保留为一整句：用逗号、破折号、分号按原文层级展开，不要拆成一串流水短句，也不要重排他的语序。",
+  "用白话，不用论文腔：能说“X 就是 Y”就不写“所谓 X 者，乃 Y 也”；不用“兹、盖、故尔、换言之、不可谓不”这类旧腔和翻译体。",
+  "术语照本包的 entries 来：扬弃、自在自为、定在、环节、表象、知性、理性、实证性、市民国家、民间宗教等一律统一；本包没有的术语，取上下文里最普通的说法，不要临时造词。",
+  "一个德文词只给一个中文词：同一术语在整卷里译法不变；真要区分时（如 Gefühl 与 Empfindung）按对应词条 note 里写的例外办。",
+  "希腊语、拉丁语、文献出处和缩写一律保留原文：meditatio mortis、unio mystica、Nohl S. 385、Schüler Nr. 93 照抄，必要时在括注里给中文。",
+  "人名、地名、书名用通行中译，首次出现可附原文：耶稣、康德、伯尔尼、《基督教的精神及其命运》（Der Geist des Christentums und sein Schicksal）。",
+  "保留原文的语气与修辞：Hegel 的讽刺、排比、反问（“谁不会……呢？”）照译，不要抹平，也不要替他补上原文没有的逻辑连接词。",
+  "句数严格对齐：德文一句对中文一句，不合并、不拆分、不漏句；标题与分级编号（a)、α)、1.）原样保留，便于三栏逐句联动。",
+  "词根一致：同一德文词根的不同形式必须共用一个中文词根——Idee/ideal/Idealität/Idealismus/das Ideelle 一律用“观念”（观念、观念性、观念论、观念物），严禁“观念论”；Realität/real/Realismus/das Reelle 一律用“实在”（实在性、实在论、实在物）；Begriff/begreifen 用“概念”（概念、以概念把握）；Vorstellung 用“表象”，不得占用“观念”。",
+  "对偶成对：观念性／实在性、观念论／实在论、观念物／实在物必须成对出现，不许一边用“观念”、另一边用“唯物”。",
+  "同源可见：若德文一句里同时出现同族词（如 Idee 与 Idealität），中文也要让读者看出其同源关系。",
+  "日常义例外：同一词在非体系语境中的日常义可保留通用说法（ideal＝理想的、Ideal＝理想、realisieren＝实现），但体系义必须回到词族词根。",
+  "不拆句、不动标点层级：原文用逗号、分号、冒号层层展开的长句，中文保留为一整句；不得把分号改成句号切成一串短句——那会让段内论证层次散掉，读者无法看出论证走向。",
+  "不增不删：不漏否定词、不漏被动、不漏半句；不把一句拆成两句；不作解释性增补，不夹带译者自己的见解（译者注只写版本、术语与必要说明）。",
+  "一句只译一次：定语从句、插入语都只出现一次，不得重复翻译同一从句。",
+  "反身代词与格：德语第三格 sich 多数是“对自己／为自己”，不是“自己”；es ist / es gibt 常等于“有”，不要一律译成“它是”。",
+  "主宾与格关系逐句核对：德语长句里分句的主语常发生切换，必须显式处理，不得让前后分句的主语颠倒或含糊。",
+  "不造生词：术语先照词族政策（本包 family 条目），政策未覆盖之处才用通行译名；确需新造必须加译注说明理由。不得为了“通俗”而改用与政策冲突的通行译名。",
+  "术语一一对应：一个德文术语只用一个中文译名，一个中文译名也只用于一个德文术语；不得用两三个中文词去译同一个概念，也不得把两个不同术语合译成一个词。",
+  "代词指代要落实：不让读者做“二次解读”；指代不清时重复名词。",
+  "书名与学派名中的 Idealismus 同样作“观念论”，不因通行书名而例外（《先验观念论体系》System des transzendentalen Idealismus、《德国观念论最古老的体系纲领》Das älteste Systemprogramm des deutschen Idealismus）；首次出现附德文原名，便于读者对照通行译名。"
+ ],
+ "entries": [
+  {
+   "source": "objektive Religion",
+   "en": "objective religion",
+   "zh": "客观宗教",
+   "type": "term",
+   "note": "与“主观宗教”对举；指教义体系与我们义务、愿望的关联"
+  },
+  {
+   "source": "subjektive Religion",
+   "en": "subjective religion",
+   "zh": "主观宗教",
+   "type": "term",
+   "note": "指教义被人理解、义务被人敬重而活在人心中的一面"
+  },
+  {
+   "source": "Volksreligion",
+   "en": "folk religion",
+   "zh": "民间宗教",
+   "type": "term",
+   "note": "全卷统一；不作“人民宗教”“国民宗教”"
+  },
+  {
+   "source": "Privatreligion",
+   "en": "private religion",
+   "zh": "私人宗教",
+   "type": "term",
+   "note": "与民间宗教对举；教会由私人团体变成国家"
+  },
+  {
+   "source": "positive Religion",
+   "en": "positive religion",
+   "zh": "实证宗教",
+   "type": "term",
+   "note": "positiv 指由权威给定、并非出自理性；不作“积极的宗教”"
+  },
+  {
+   "source": "Positivität",
+   "en": "positivity",
+   "zh": "实证性",
+   "type": "term",
+   "note": "《基督教的实证性》标题用词"
+  },
+  {
+   "source": "Vernunftreligion",
+   "en": "rational religion",
+   "zh": "理性宗教",
+   "type": "term",
+   "note": "与实证宗教、拜物信仰对立"
+  },
+  {
+   "source": "statutarisch",
+   "en": "statutory",
+   "zh": "律法条文式的",
+   "type": "term",
+   "note": "指靠条文规定、并非出自理性的诫命"
+  },
+  {
+   "source": "Kirchenglaube",
+   "en": "church faith",
+   "zh": "教会信仰",
+   "type": "term",
+   "note": "与教派信仰、理性信仰并列"
+  },
+  {
+   "source": "Fetischdienst",
+   "en": "fetish service",
+   "zh": "拜物崇拜",
+   "type": "term",
+   "note": "仪式沦为对物的侍奉"
+  },
+  {
+   "source": "Wunder",
+   "en": "miracle",
+   "zh": "奇迹",
+   "type": "term",
+   "note": "全卷统一“奇迹”；不取“神迹”"
+  },
+  {
+   "source": "Vorsehung",
+   "en": "providence",
+   "zh": "护佑",
+   "type": "term",
+   "note": "全卷统一“护佑”；不取“天意”"
+  },
+  {
+   "source": "Gnadenmittel",
+   "en": "means of grace",
+   "zh": "恩典手段",
+   "type": "term",
+   "note": "教会提供的得恩手段"
+  },
+  {
+   "source": "Zeremonie",
+   "en": "ceremony",
+   "zh": "仪式",
+   "type": "term",
+   "note": "与“本质性的习俗”（Gebräuche）分开"
+  },
+  {
+   "source": "Opfer",
+   "en": "sacrifice",
+   "zh": "献祭",
+   "type": "term",
+   "note": "宗教语境作“献祭”；日常义作“牺牲”"
+  },
+  {
+   "source": "Sünde",
+   "en": "sin",
+   "zh": "罪",
+   "type": "term",
+   "note": "与 Verbrechen（罪行）分开"
+  },
+  {
+   "source": "Gnade",
+   "en": "grace",
+   "zh": "恩典",
+   "type": "term",
+   "note": "与 Barmherzigkeit（慈悲）分开"
+  },
+  {
+   "source": "Seligkeit",
+   "en": "bliss",
+   "zh": "至福",
+   "type": "term",
+   "note": "与 Glückseligkeit（幸福）分开"
+  },
+  {
+   "source": "Auferstehung",
+   "en": "resurrection",
+   "zh": "复活",
+   "type": "term",
+   "note": "基督复活"
+  },
+  {
+   "source": "Messias",
+   "en": "Messiah",
+   "zh": "弥赛亚",
+   "type": "term",
+   "note": "通行译名"
+  },
+  {
+   "source": "Reich Gottes",
+   "en": "the kingdom of God",
+   "zh": "上帝之国",
+   "type": "term",
+   "note": "统一；不取“天国”，以存与“犹太国家”的对照"
+  },
+  {
+   "source": "Gemeinde",
+   "en": "congregation",
+   "zh": "教团",
+   "type": "term",
+   "note": "指堂区、会众；ganze Gemeine 作“整个共同体”"
+  },
+  {
+   "source": "Kirche",
+   "en": "church",
+   "zh": "教会",
+   "type": "term",
+   "note": "机构义作“教会”；只有指建筑物时才作“教堂”"
+  },
+  {
+   "source": "Kirchenrecht",
+   "en": "church right",
+   "zh": "教会权利",
+   "type": "term",
+   "note": "与 Staatsrecht（国家的法）并列"
+  },
+  {
+   "source": "symbolische Bücher",
+   "en": "symbolic books",
+   "zh": "信条书",
+   "type": "term",
+   "note": "路德宗等宗派的信纲汇编"
+  },
+  {
+   "source": "Toleranz",
+   "en": "tolerance",
+   "zh": "宽容",
+   "type": "term",
+   "note": "国家方面用“宽容”"
+  },
+  {
+   "source": "Duldung",
+   "en": "toleration",
+   "zh": "容忍",
+   "type": "term",
+   "note": "教会口吻下的“容忍”"
+  },
+  {
+   "source": "Sekte",
+   "en": "sect",
+   "zh": "教派",
+   "type": "term",
+   "note": "与 Kirche（教会）分开"
+  },
+  {
+   "source": "Moralität",
+   "en": "morality",
+   "zh": "道德",
+   "type": "term",
+   "note": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "Sittlichkeit",
+   "en": "ethical life",
+   "zh": "伦理",
+   "type": "term",
+   "note": "与 Moralität（道德）严格分开"
+  },
+  {
+   "source": "Legalität",
+   "en": "legality",
+   "zh": "合法性",
+   "type": "term",
+   "note": "与 Moralität 对照"
+  },
+  {
+   "source": "Pflicht",
+   "en": "duty",
+   "zh": "义务",
+   "type": "term",
+   "note": "全卷基本术语"
+  },
+  {
+   "source": "Tugend",
+   "en": "virtue",
+   "zh": "美德",
+   "type": "term",
+   "note": "与 Klugheit（精明）对照"
+  },
+  {
+   "source": "Gesinnung",
+   "en": "disposition",
+   "zh": "意向",
+   "type": "term",
+   "note": "指心志、意向；不作“信念”"
+  },
+  {
+   "source": "Maxime",
+   "en": "maxim",
+   "zh": "准则",
+   "type": "term",
+   "note": "与 Grundsatz（原则）分开"
+  },
+  {
+   "source": "Sittengesetz",
+   "en": "moral law",
+   "zh": "道德法则",
+   "type": "term",
+   "note": "moralisches Gesetz 同条"
+  },
+  {
+   "source": "Bestimmungsgrund",
+   "en": "determining ground",
+   "zh": "规定根据",
+   "type": "term",
+   "note": "指意志的规定根据"
+  },
+  {
+   "source": "Triebfeder",
+   "en": "motive",
+   "zh": "动力",
+   "type": "term",
+   "note": "字面“发条”；与 Trieb（冲动）分开"
+  },
+  {
+   "source": "Neigung",
+   "en": "inclination",
+   "zh": "偏好",
+   "type": "term",
+   "note": "与 Pflicht 对举"
+  },
+  {
+   "source": "Endzweck",
+   "en": "final end",
+   "zh": "终极目的",
+   "type": "term",
+   "note": "康德用语"
+  },
+  {
+   "source": "Willkür",
+   "en": "arbitrariness",
+   "zh": "任意",
+   "type": "term",
+   "note": "与 Wille（意志）分开"
+  },
+  {
+   "source": "Recht",
+   "en": "right",
+   "zh": "权利",
+   "type": "term",
+   "note": "本卷多指权利；“法律”留给 Gesetz"
+  },
+  {
+   "source": "Gesetz",
+   "en": "law",
+   "zh": "法律",
+   "type": "term",
+   "note": "道德语境作“法则”（如 Sittengesetz）；政治语境作“法律”"
+  },
+  {
+   "source": "Entgegensetzung",
+   "en": "opposition",
+   "zh": "对立",
+   "type": "term",
+   "note": "全卷统一“对立”；不另造“对置”"
+  },
+  {
+   "source": "Vereinigung",
+   "en": "union",
+   "zh": "结合",
+   "type": "term",
+   "note": "与 Trennung 对举；不作“统一”"
+  },
+  {
+   "source": "Trennung",
+   "en": "separation",
+   "zh": "分离",
+   "type": "term",
+   "note": "与 Vereinigung 对举"
+  },
+  {
+   "source": "Versöhnung",
+   "en": "reconciliation",
+   "zh": "和解",
+   "type": "term",
+   "note": "命运与爱的语境"
+  },
+  {
+   "source": "Mannigfaltigkeit",
+   "en": "manifoldness",
+   "zh": "杂多",
+   "type": "term",
+   "note": "与 Einheit（统一）对举"
+  },
+  {
+   "source": "Einheit",
+   "en": "unity",
+   "zh": "统一",
+   "type": "term",
+   "note": "与 Mannigfaltigkeit 对举"
+  },
+  {
+   "source": "Individualität",
+   "en": "individuality",
+   "zh": "个体性",
+   "type": "term",
+   "note": "与 Allgemeinheit（普遍性）对举"
+  },
+  {
+   "source": "Reflexion",
+   "en": "reflection",
+   "zh": "反思",
+   "type": "term",
+   "note": "指分离、固定化的反思活动"
+  },
+  {
+   "source": "Aufhebung",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "术语义；“取消一桩不公正”等日常义除外"
+  },
+  {
+   "source": "Moment",
+   "en": "moment",
+   "zh": "环节",
+   "type": "term",
+   "note": "指整体的环节、要素；不作“时刻”"
+  },
+  {
+   "source": "an sich",
+   "en": "in itself",
+   "zh": "自在",
+   "type": "term",
+   "note": "与 für sich 成对"
+  },
+  {
+   "source": "für sich",
+   "en": "for itself",
+   "zh": "自为",
+   "type": "term",
+   "note": "与 an sich 成对；an und für sich 作“自在自为”"
+  },
+  {
+   "source": "Vermittlung",
+   "en": "mediation",
+   "zh": "中介",
+   "type": "term",
+   "note": "与 Unmittelbarkeit（直接性）对举"
+  },
+  {
+   "source": "Unmittelbarkeit",
+   "en": "immediacy",
+   "zh": "直接性",
+   "type": "term",
+   "note": "与 Vermittlung 对举"
+  },
+  {
+   "source": "Dasein",
+   "en": "determinate being",
+   "zh": "定在",
+   "type": "term",
+   "note": "与 Existenz（存在）分开"
+  },
+  {
+   "source": "Existenz",
+   "en": "existence",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 Dasein（定在）分开"
+  },
+  {
+   "source": "Erscheinung",
+   "en": "appearance",
+   "zh": "现象",
+   "type": "term",
+   "note": "与 Schein（假象）分开"
+  },
+  {
+   "source": "Schein",
+   "en": "illusion",
+   "zh": "假象",
+   "type": "term",
+   "note": "与 Erscheinung（现象）分开"
+  },
+  {
+   "source": "Wirklichkeit",
+   "en": "actuality",
+   "zh": "现实性",
+   "type": "term",
+   "note": "不作“实在”；wirklich 含“起作用、已实现”义"
+  },
+  {
+   "source": "Geist",
+   "en": "spirit",
+   "zh": "精神",
+   "type": "term",
+   "note": "全卷统一“精神”；不作“心灵”"
+  },
+  {
+   "source": "Schicksal",
+   "en": "fate",
+   "zh": "命运",
+   "type": "term",
+   "note": "早期神学著作的核心概念"
+  },
+  {
+   "source": "Leben",
+   "en": "life",
+   "zh": "生命",
+   "type": "term",
+   "note": "《体系残篇》中为术语（无限的生命）；日常义照常译"
+  },
+  {
+   "source": "Liebe",
+   "en": "love",
+   "zh": "爱",
+   "type": "term",
+   "note": "法兰克福草稿中为术语（结合）"
+  },
+  {
+   "source": "Begriff",
+   "en": "concept",
+   "zh": "概念",
+   "type": "term",
+   "note": "与 Vorstellung（表象）分开"
+  },
+  {
+   "source": "Vorstellung",
+   "en": "representation",
+   "zh": "表象",
+   "type": "term",
+   "note": "与 Begriff（概念）分开；日常义作“想法”"
+  },
+  {
+   "source": "Verstand",
+   "en": "understanding",
+   "zh": "知性",
+   "type": "term",
+   "note": "与 Vernunft（理性）分开"
+  },
+  {
+   "source": "Vernunft",
+   "en": "reason",
+   "zh": "理性",
+   "type": "term",
+   "note": "与 Verstand（知性）分开"
+  },
+  {
+   "source": "Empfindung",
+   "en": "feeling",
+   "zh": "感受",
+   "type": "term",
+   "note": "与 Gefühl 同作“感受”；两词并出时本词作“情感”"
+  },
+  {
+   "source": "Gefühl",
+   "en": "feeling",
+   "zh": "感受",
+   "type": "term",
+   "note": "与 Empfindung 同作“感受”"
+  },
+  {
+   "source": "Phantasie",
+   "en": "imagination",
+   "zh": "想象力",
+   "type": "term",
+   "note": "与 Einbildungskraft 同域；本卷统一“想象力”"
+  },
+  {
+   "source": "Volksgeist",
+   "en": "spirit of a people",
+   "zh": "民族精神",
+   "type": "term",
+   "note": "通行译名；正文多作 Geist des Volks"
+  },
+  {
+   "source": "Staat",
+   "en": "state",
+   "zh": "国家",
+   "type": "term",
+   "note": "全卷基本术语"
+  },
+  {
+   "source": "bürgerlicher Staat",
+   "en": "civil state",
+   "zh": "市民国家",
+   "type": "term",
+   "note": "bürgerlich 统一作“市民的”"
+  },
+  {
+   "source": "kirchlicher Staat",
+   "en": "church state",
+   "zh": "教会国家",
+   "type": "term",
+   "note": "与市民国家对照；教会自成一体行使国家职能"
+  },
+  {
+   "source": "Staatsgewalt",
+   "en": "state power",
+   "zh": "国家权力",
+   "type": "term",
+   "note": "《德意志宪法》中的核心术语"
+  },
+  {
+   "source": "Verfassung",
+   "en": "constitution",
+   "zh": "宪法",
+   "type": "term",
+   "note": "bürgerliche Verfassung 作“市民宪制”；Reichsverfassung 作“帝国宪法”"
+  },
+  {
+   "source": "Stände",
+   "en": "estates",
+   "zh": "等级",
+   "type": "term",
+   "note": "指等级与等级会议；不作“阶级”"
+  },
+  {
+   "source": "Landstände",
+   "en": "provincial estates",
+   "zh": "地方等级",
+   "type": "term",
+   "note": "与 Reichsstände（帝国等级）分开"
+  },
+  {
+   "source": "Reichstag",
+   "en": "imperial diet",
+   "zh": "帝国议会",
+   "type": "term",
+   "note": "旧帝国的等级会议"
+  },
+  {
+   "source": "Lehensverfassung",
+   "en": "feudal constitution",
+   "zh": "封建采邑制",
+   "type": "term",
+   "note": "Lehen 指封地、采邑"
+  },
+  {
+   "source": "Vasall",
+   "en": "vassal",
+   "zh": "封臣",
+   "type": "term",
+   "note": "与 Lehensverfassung 同域"
+  },
+  {
+   "source": "Zunft",
+   "en": "guild",
+   "zh": "行会",
+   "type": "term",
+   "note": "旧制度中的同业团体；不作“工会”"
+  },
+  {
+   "source": "Repräsentation",
+   "en": "representation",
+   "zh": "代表（制）",
+   "type": "term",
+   "note": "政治语境指代表制；不作“表现”"
+  },
+  {
+   "source": "Jesus",
+   "en": "Jesus",
+   "zh": "耶稣",
+   "type": "person",
+   "note": "全卷中心人物"
+  },
+  {
+   "source": "Christus",
+   "en": "Christ",
+   "zh": "基督",
+   "type": "person",
+   "note": "与 Jesus 并出时分别作“基督”“耶稣”"
+  },
+  {
+   "source": "Moses",
+   "en": "Moses",
+   "zh": "摩西",
+   "type": "person",
+   "note": "犹太立法者"
+  },
+  {
+   "source": "Abraham",
+   "en": "Abraham",
+   "zh": "亚伯拉罕",
+   "type": "person",
+   "note": "犹太民族的先祖"
+  },
+  {
+   "source": "Kant",
+   "en": "Kant",
+   "zh": "康德",
+   "type": "person",
+   "note": "道德哲学与自律概念的来源"
+  },
+  {
+   "source": "Rousseau",
+   "en": "Rousseau",
+   "zh": "卢梭",
+   "type": "person",
+   "note": "与 Spinoza、Shaftesbury 并列出现"
+  },
+  {
+   "source": "Sokrates",
+   "en": "Socrates",
+   "zh": "苏格拉底",
+   "type": "person",
+   "note": "作为美德教师的典范"
+  },
+  {
+   "source": "Platon",
+   "en": "Plato",
+   "zh": "柏拉图",
+   "type": "person",
+   "note": "《会饮》等对话的作者"
+  },
+  {
+   "source": "Lessing",
+   "en": "Lessing",
+   "zh": "莱辛",
+   "type": "person",
+   "note": "Lessings Nathan 作莱辛《智者纳坦》"
+  },
+  {
+   "source": "Schiller",
+   "en": "Schiller",
+   "zh": "席勒",
+   "type": "person",
+   "note": "《华伦斯坦》的作者"
+  },
+  {
+   "source": "Hölderlin",
+   "en": "Hölderlin",
+   "zh": "荷尔德林",
+   "type": "person",
+   "note": "《厄琉西斯》题献给他"
+  },
+  {
+   "source": "Machiavell",
+   "en": "Machiavelli",
+   "zh": "马基雅维利",
+   "type": "person",
+   "note": "原文拼作 Machiavell（今作 Machiavelli）"
+  },
+  {
+   "source": "Montesquieu",
+   "en": "Montesquieu",
+   "zh": "孟德斯鸠",
+   "type": "person",
+   "note": "国家形态学说的引用来源"
+  },
+  {
+   "source": "Richelieu",
+   "en": "Richelieu",
+   "zh": "黎塞留",
+   "type": "person",
+   "note": "法国宰相；《德意志宪法》中论其政策"
+  },
+  {
+   "source": "Wallenstein",
+   "en": "Wallenstein",
+   "zh": "华伦斯坦",
+   "type": "person",
+   "note": "w1 附录有《论华伦斯坦》"
+  },
+  {
+   "source": "Nemesis",
+   "en": "Nemesis",
+   "zh": "复仇女神",
+   "type": "person",
+   "note": "希腊神话中的报应女神"
+  },
+  {
+   "source": "Rosenkranz",
+   "en": "Rosenkranz",
+   "zh": "罗森克朗茨",
+   "type": "person",
+   "note": "正文引其《黑格尔传》；脚注出处中的姓名保留原文"
+  },
+  {
+   "source": "Bern",
+   "en": "Bern",
+   "zh": "伯尔尼",
+   "type": "place",
+   "note": "黑格尔任家庭教师之地"
+  },
+  {
+   "source": "Frankfurt",
+   "en": "Frankfurt",
+   "zh": "法兰克福",
+   "type": "place",
+   "note": "1797-1800 年的居留地"
+  },
+  {
+   "source": "Deutschland",
+   "en": "Germany",
+   "zh": "德意志",
+   "type": "place",
+   "note": "政治语境指当时的德意志帝国；今义“德国”只用于日常处"
+  },
+  {
+   "source": "Preußen",
+   "en": "Prussia",
+   "zh": "普鲁士",
+   "type": "place",
+   "note": "与 Österreich 并称两大邦"
+  },
+  {
+   "source": "Österreich",
+   "en": "Austria",
+   "zh": "奥地利",
+   "type": "place",
+   "note": "与 Preußen 并列"
+  },
+  {
+   "source": "Frankreich",
+   "en": "France",
+   "zh": "法国",
+   "type": "place",
+   "note": "《德意志宪法》中的对照国"
+  },
+  {
+   "source": "Italien",
+   "en": "Italy",
+   "zh": "意大利",
+   "type": "place",
+   "note": "历史政治研究中的例证"
+  },
+  {
+   "source": "Griechenland",
+   "en": "Greece",
+   "zh": "希腊",
+   "type": "place",
+   "note": "理想化的对照文明"
+  },
+  {
+   "source": "Wadtland",
+   "en": "Pays de Vaud",
+   "zh": "沃州",
+   "type": "place",
+   "note": "原文附拉丁/法语名 Pays de Vaud"
+  },
+  {
+   "source": "Die Verfassung Deutschlands",
+   "en": "The Constitution of Germany",
+   "zh": "《德意志宪法》",
+   "type": "work",
+   "note": "通行亦作《德国宪法》；w1 末编主要长文"
+  },
+  {
+   "source": "Der Geist des Christentums und sein Schicksal",
+   "en": "The Spirit of Christianity and Its Fate",
+   "zh": "《基督教的精神及其命运》",
+   "type": "work",
+   "note": "通行译名；与正文“基督教的精神”同词"
+  },
+  {
+   "source": "Das älteste Systemprogramm des deutschen Idealismus",
+   "en": "The Oldest System-Programme of German Idealism",
+   "zh": "《德国观念论最古老的体系纲领》",
+   "type": "work",
+   "note": "通行译名"
+  },
+  {
+   "source": "Vertrauliche Briefe über das vormalige staatsrechtliche Verhältnis des Wadtlandes (Pays de Vaud) zur Stadt Bern",
+   "en": "Confidential Letters on the Former Constitutional Relation of the Pays de Vaud to the City of Bern",
+   "zh": "《关于沃州与伯尔尼城旧日国家法关系的密信》",
+   "type": "work",
+   "note": "标题过长；正文内可简称“沃州密信”"
+  },
+  {
+   "source": "Nathan der Weise",
+   "en": "Nathan the Wise",
+   "zh": "《智者纳坦》",
+   "type": "work",
+   "note": "莱辛的剧作；原文引作 Lessings Nathan"
+  },
+  {
+   "source": "Symposion",
+   "en": "Symposium",
+   "zh": "《会饮》",
+   "type": "work",
+   "note": "柏拉图对话；正文引注作 Sympos[ion] S. 168"
+  },
+  {
+   "source": "Westfälischer Friede",
+   "en": "Peace of Westphalia",
+   "zh": "《威斯特伐利亚和约》",
+   "type": "work",
+   "note": "1648 年；文中亦作 Westfälische Friede / Westfälischen Frieden"
+  },
+  {
+   "source": "Idee",
+   "en": "",
+   "zh": "观念",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "ideell",
+   "en": "",
+   "zh": "观念的",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "das Ideelle",
+   "en": "",
+   "zh": "观念物",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Idealität",
+   "en": "",
+   "zh": "观念性",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "idealisieren",
+   "en": "",
+   "zh": "观念化",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Idealismus",
+   "en": "",
+   "zh": "观念论",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "idealistisch",
+   "en": "",
+   "zh": "观念论的",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Idealrealismus",
+   "en": "",
+   "zh": "观念实在论",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Realität",
+   "en": "",
+   "zh": "实在性",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "real",
+   "en": "",
+   "zh": "实在的",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "das Reelle",
+   "en": "",
+   "zh": "实在物",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "Realismus",
+   "en": "",
+   "zh": "实在论",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "begreifen",
+   "en": "",
+   "zh": "以概念把握",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begrifflich",
+   "en": "",
+   "zh": "概念性的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begrifflos",
+   "en": "",
+   "zh": "无概念的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "vorgestellt",
+   "en": "",
+   "zh": "被表象的",
+   "type": "term",
+   "note": "词族 Vorstellung（词根：表象）"
+  },
+  {
+   "source": "geistig",
+   "en": "",
+   "zh": "精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "geistlos",
+   "en": "",
+   "zh": "无精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "Wissen",
+   "en": "",
+   "zh": "知识",
+   "type": "term",
+   "note": "词族 Wissen（词根：知）"
+  },
+  {
+   "source": "absolutes Wissen",
+   "en": "",
+   "zh": "绝对知识",
+   "type": "term",
+   "note": "词族 Wissen（词根：知）"
+  },
+  {
+   "source": "Wahrheit",
+   "en": "",
+   "zh": "真理",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahr",
+   "en": "",
+   "zh": "真的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahrhaft",
+   "en": "",
+   "zh": "真正的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wirklich",
+   "en": "",
+   "zh": "现实的",
+   "type": "term",
+   "note": "词族 Wirklichkeit（词根：现实）"
+  }
+ ],
+ "forbidden": [
+  {
+   "source": "Sittlichkeit",
+   "forbidden": "道德",
+   "prefer": "伦理",
+   "why": "与 Moralität 必须分开"
+  },
+  {
+   "source": "Moralität",
+   "forbidden": "伦理",
+   "prefer": "道德",
+   "why": "与 Sittlichkeit 必须分开"
+  },
+  {
+   "source": "Dasein",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "与 Existenz 分开"
+  },
+  {
+   "source": "Existenz",
+   "forbidden": "定在",
+   "prefer": "存在",
+   "why": "与 Dasein 分开"
+  },
+  {
+   "source": "Moment",
+   "forbidden": "时刻",
+   "prefer": "环节",
+   "why": "Hegel 的 Moment 指整体的环节、要素"
+  },
+  {
+   "source": "Schein",
+   "forbidden": "现象",
+   "prefer": "假象",
+   "why": "与 Erscheinung 分开"
+  },
+  {
+   "source": "Erscheinung",
+   "forbidden": "假象",
+   "prefer": "现象",
+   "why": "与 Schein 分开"
+  },
+  {
+   "source": "Begriff",
+   "forbidden": "观念",
+   "prefer": "概念",
+   "why": "“观念”留给 Idee 的语域"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "概念",
+   "prefer": "表象",
+   "why": "与 Begriff 分开"
+  },
+  {
+   "source": "Verstand",
+   "forbidden": "理性",
+   "prefer": "知性",
+   "why": "与 Vernunft 分开"
+  },
+  {
+   "source": "Vernunft",
+   "forbidden": "知性",
+   "prefer": "理性",
+   "why": "与 Verstand 分开"
+  },
+  {
+   "source": "positive Religion",
+   "forbidden": "积极的宗教",
+   "prefer": "实证宗教",
+   "why": "positiv 指由权威给定、并非出自理性"
+  },
+  {
+   "source": "Positivität",
+   "forbidden": "积极性",
+   "prefer": "实证性",
+   "why": "与 positive Religion 同族"
+  },
+  {
+   "source": "Volksreligion",
+   "forbidden": "人民宗教",
+   "prefer": "民间宗教",
+   "why": "全卷统一"
+  },
+  {
+   "source": "Privatreligion",
+   "forbidden": "个人宗教",
+   "prefer": "私人宗教",
+   "why": "与民间宗教对举"
+  },
+  {
+   "source": "bürgerlicher Staat",
+   "forbidden": "公民国家",
+   "prefer": "市民国家",
+   "why": "bürgerlich 统一作“市民的”"
+  },
+  {
+   "source": "kirchlicher Staat",
+   "forbidden": "教会国",
+   "prefer": "教会国家",
+   "why": "与市民国家并列成对"
+  },
+  {
+   "source": "Aufhebung",
+   "forbidden": "取消",
+   "prefer": "扬弃",
+   "why": "术语义；“取消一桩不公正”等日常义除外"
+  },
+  {
+   "source": "Stände",
+   "forbidden": "阶级",
+   "prefer": "等级",
+   "why": "指等级与等级会议"
+  },
+  {
+   "source": "Zunft",
+   "forbidden": "工会",
+   "prefer": "行会",
+   "why": "旧制度中的同业团体"
+  },
+  {
+   "source": "Repräsentation",
+   "forbidden": "表现",
+   "prefer": "代表（制）",
+   "why": "政治语境指代表制"
+  },
+  {
+   "source": "Willkür",
+   "forbidden": "随意",
+   "prefer": "任意",
+   "why": "与 Wille（意志）分开"
+  },
+  {
+   "source": "Gesinnung",
+   "forbidden": "信念",
+   "prefer": "意向",
+   "why": "Gesinnung 偏心志、意向"
+  },
+  {
+   "source": "Maxime",
+   "forbidden": "格言",
+   "prefer": "准则",
+   "why": "与 Grundsatz（原则）分开"
+  },
+  {
+   "source": "Wirklichkeit",
+   "forbidden": "实在",
+   "prefer": "现实性",
+   "why": "wirklich 含“起作用、已实现”义"
+  },
+  {
+   "source": "Vorsehung",
+   "forbidden": "天意",
+   "prefer": "护佑",
+   "why": "全卷统一"
+  },
+  {
+   "source": "Reich Gottes",
+   "forbidden": "天国",
+   "prefer": "上帝之国",
+   "why": "统一以存与“犹太国家”的对照"
+  },
+  {
+   "source": "Kirche",
+   "forbidden": "教堂",
+   "prefer": "教会",
+   "why": "机构义作“教会”；“教堂”只指建筑物"
+  },
+  {
+   "source": "Recht",
+   "forbidden": "法律",
+   "prefer": "权利",
+   "why": "本卷 Recht 多指权利；“法律”留给 Gesetz"
+  },
+  {
+   "source": "Sünde",
+   "forbidden": "罪恶",
+   "prefer": "罪",
+   "why": "与 Verbrechen（罪行）分开"
+  },
+  {
+   "source": "Gnade",
+   "forbidden": "慈悲",
+   "prefer": "恩典",
+   "why": "“慈悲”留给 Barmherzigkeit"
+  },
+  {
+   "source": "Wunder",
+   "forbidden": "神迹",
+   "prefer": "奇迹",
+   "why": "全卷统一"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "观念论",
+   "prefer": "观念论",
+   "why": "政策：Idealismus 一律作“观念论”"
+  },
+  {
+   "source": "idealistisch",
+   "forbidden": "观念论的",
+   "prefer": "观念论的",
+   "why": "同上"
+  },
+  {
+   "source": "Idealität",
+   "forbidden": "观念性",
+   "prefer": "观念性",
+   "why": "同上"
+  }
+ ],
+ "doNotTranslate": [
+  "Nohl",
+  "Lasson",
+  "Schüler Nr.",
+  "S.",
+  "Nr.",
+  "Bd.",
+  "vgl.",
+  "meditatio mortis",
+  "unio mystica",
+  "status in statu",
+  "in partibus",
+  "stricto jure",
+  "ex consensu gentium",
+  "fides quae creditur",
+  "complementum",
+  "studia humanitatis",
+  "μοῖρα",
+  "ἀνάγκαια τύχη",
+  "τῆς σωφροσύνης",
+  "Pays de Vaud"
+ ]
+}

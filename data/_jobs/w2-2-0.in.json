@@ -1,0 +1,90 @@
+{
+ "id": "w2-2-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "heading": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "d0s5yq1g2s",
+   "text": "Vergleichung des Schellingschen Prinzips der Philosophie mit dem Fichteschen"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1887j4l1wj",
+   "sents": [
+    "Als Grundcharakter des Fichteschen Prinzips ist aufgezeigt worden, daß Subjekt = Objekt aus dieser Identität heraustritt und sich zu derselben nicht mehr wiederherzustellen vermag, weil das Differente ins Kausalitätsverhältnis versetzt wurde.",
+    "Das Prinzip der Identität wird nicht Prinzip des Systems; sowie das System sich zu bilden anfängt, wird die Identität aufgegeben.",
+    "Das System selbst ist eine konsequente verständige Menge von Endlichkeiten, welche die ursprüngliche Identität nicht in den Fokus der Totalität, zur absoluten Selbstanschauung zusammenzugreifen vermag.",
+    "Das Subjekt = Objekt macht sich daher zu einem subjektiven, und es gelingt ihm nicht, diese Subjektivität aufzuheben und sich objektiv zu setzen."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "u5dqkc1efz",
+   "sents": [
+    "Das Prinzip der Identität ist absolutes Prinzip des ganzen Schellingschen Systems; Philosophie und System fallen zusammen; die Identität verliert sich nicht in den Teilen, noch weniger im Resultate."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "d47ui5w0z3",
+   "sents": [
+    "Daß absolute Identität das Prinzip eines ganzen Systems sei, dazu ist notwendig, daß das Subjekt und Objekt beide als Subjekt-Objekt gesetzt werden.",
+    "Die Identität hat sich im Fichteschen System nur zu einem subjektiven Subjekt-Objekt konstituiert.",
+    "Dies bedarf zu seiner Ergänzung eines objektiven Subjekt-Objekts, so daß das Absolute sich in jedem der beiden darstellt, vollständig sich nur in beiden zusammen findet, als höchste Synthese in der Vernichtung beider, insofern sie entgegengesetzt sind, als ihr absoluter Indifferenzpunkt beide in sich schließt, beide gebiert und sich aus beiden gebiert."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1uzm4e21jk",
+   "sents": [
+    "Wenn die Aufhebung der Entzweiung als formale Aufgabe der Philosophie gesetzt wird, so kann die Vernunft die Lösung der Aufgabe auf die Art versuchen, daß sie eins der Entgegengesetzten vernichtet und das andere zu einem Unendlichen steigert.",
+    "Dies ist der Sache nach im Fichteschen System geschehen; allein die Entgegensetzung bleibt auf diese Art, denn dasjenige, was als Absolutes gesetzt wird, ist durchs andere bedingt, und so wie es besteht, besteht auch das andere.",
+    "Um die Entzweiung aufzuheben, müssen beide Entgegengesetzte, Subjekt und Objekt aufgehoben werden; sie werden als Subjekt und Objekt aufgehoben, indem sie identisch gesetzt sind.",
+    "In der absoluten Identität ist Subjekt und Objekt aufeinander bezogen und damit vernichtet, insofern ist für die Reflexion und das Wissen nichts vorhanden.",
+    "So weit geht das Philosophieren überhaupt, das nicht zu einem System gelangen kann; es ist mit der negativen Seite befriedigt, die alles Endliche im Unendlichen versenkt; es könnte wohl auch wieder zum Wissen herauskommen, und es ist eine subjektive Zufälligkeit, ob das Bedürfnis eines Systems damit verbunden ist oder nicht.",
+    "Ist aber diese negative Seite selbst Prinzip, so soll nicht zum Wissen herausgegangen werden, weil jedes Wissen von einer Seite zugleich in die Sphäre der Endlichkeit tritt.",
+    "An diesem Anschauen des farblosen Lichts hält die Schwärmerei fest; eine Mannigfaltigkeit ist in ihr nur dadurch, daß sie das Mannigfaltige bekämpft.",
+    "Der Schwärmerei fehlt das Bewußtsein über sich selbst, daß ihre Kontraktion bedingt ist durch eine Expansion; sie ist einseitig, weil sie selbst an einem Entgegengesetzten festhält und die absolute Identität zu einem Entgegengesetzten macht.",
+    "In der absoluten Identität ist Subjekt und Objekt aufgehoben; aber weil sie in der absoluten Identität sind, bestehen sie zugleich, und dies Bestehen derselben ist es, was ein Wissen möglich macht, denn im Wissen ist zum Teil die Trennung beider gesetzt.",
+    "Die trennende Tätigkeit ist das Reflektieren; sie hebt die Identität und das Absolute auf, insofern sie für sich betrachtet wird, und jede Erkenntnis würde schlechthin ein Irrtum sein, weil in ihr ein Trennen ist.",
+    "Diese Seite, von welcher das Erkennen ein Trennen und ihr Produkt ein Endliches ist, macht jedes Wissen zu einem Beschränkten und damit zu einer Falschheit; aber insofern jedes Wissen zugleich eine Identität ist, insofern gibt es keinen absoluten Irrtum. - So gut die Identität geltend gemacht wird, so gut muß die Trennung geltend gemacht werden.",
+    "Insofern die Identität und die Trennung einander entgegengesetzt werden, sind beide absolut; und wenn die Identität dadurch festgehalten werden soll, daß die Entzweiung vernichtet wird, bleiben sie einander entgegengesetzt.",
+    "Die Philosophie muß dem Trennen in Subjekt und Objekt sein Recht widerfahren lassen; aber indem sie es gleich absolut setzt mit der der Trennung entgegengesetzten Identität, hat sie es nur bedingt gesetzt, so wie eine solche Identität - die durch Vernichten der Entgegengesetzten bedingt ist - auch nur relativ ist.",
+    "Das Absolute selbst aber ist darum die Identität der Identität und der Nichtidentität; Entgegensetzen und Einssein ist zugleich in ihm."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1h1rbg013l",
+   "sents": [
+    "Indem die Philosophie trennt, kann sie die Getrennten nicht setzen, ohne sie im Absoluten zu setzen; denn sonst sind es rein Entgegengesetzte, die keinen anderen Charakter haben, als daß das eine nicht ist, insofern das andere ist.",
+    "Diese Beziehung auf das Absolute ist nicht wieder ein Aufheben beider, denn somit wäre nicht getrennt, sondern sie sollen als Getrennte bleiben und diesen Charakter nicht verlieren, insofern sie im Absoluten oder das Absolute in ihnen gesetzt ist.",
+    "Und zwar müssen beide im Absoluten gesetzt werden welches Recht käme dem einen vor dem anderen zu?",
+    "Nicht nur das gleiche Recht, sondern die gleiche Notwendigkeit findet bei beiden statt; denn würde nur eines aufs Absolute bezogen, das andere nicht, so wäre ihr Wesen ungleich gesetzt und die Vereinigung beider, also die Aufgabe der Philosophie, die Entzweiung aufzuheben, unmöglich.",
+    "Fichte hat nur eins der Entgegengesetzten ins Absolute oder es als das Absolute gesetzt; das Recht und die Notwendigkeit liegt ihm im Selbstbewußtsein, denn nur dies ist ein Sich-selbst-Setzen, ein Subjekt = Objekt, und dies Selbstbewußtsein wird nicht erst auf das Absolute als ein Höheres bezogen, sondern es ist selbst das Absolute, die absolute Identität.",
+    "Sein höheres Recht, als das Absolute gesetzt zu werden, besteht eben darin, daß es sich selbst setzt, das Objekt hingegen nicht, welches allein durchs Bewußtsein gesetzt ist.",
+    "Daß aber diese Stellung des Objekts nur eine zufällige ist, erhellt aus der Zufälligkeit des Subjekt-Objekts, insofern es als Selbstbewußtsein gesetzt ist; denn dies Subjekt-Objekt ist selbst ein Bedingtes.",
+    "Sein Standpunkt ist darum nicht der höchste, es ist die Vernunft in einer beschränkten Form gesetzt, und nur vom Standpunkt dieser beschränkten Form aus erscheint das Objekt als ein nicht Sich-selbst-Bestimmendes, als ein absolut Bestimmtes.",
+    "Es müssen daher beide in das Absolute oder das Absolute in beiden Formen gesetzt werden und zugleich beide als Getrennte bestehen; das Subjekt ist hiermit subjektives Subjekt-Objekt, - das Objekt objektives Subjekt-Objekt.",
+    "Und weil nunmehr, da eine Zweiheit gesetzt ist, jedes der Entgegengesetzten ein sich selbst Entgegengesetztes ist und die Teilung ins Unendliche geht, so ist jeder Teil des Subjekts und jeder Teil des Objekts selbst im Absoluten, eine Identität des Subjekts und Objekts, - jedes Erkennen eine Wahrheit, so wie jeder Staub eine Organisation."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/2.p0.json"
+}

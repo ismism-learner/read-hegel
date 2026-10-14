@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-5-05",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "5",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 2,
+   "de": "– Das wahre Sein des Menschen ist vielmehr seine Tat; in ihr ist die Individualität wirklich, und sie ist es, welche das Gemeinte in seinen beiden Seiten aufhebt.",
+   "en": "– The true being of the human being is rather his deed; in it individuality is actual, and it is this that sublates what is meant in both its sides.",
+   "zh": "——人的真正存在反倒是他的行为；在行为中个体性是现实的，而正是行为扬弃了被意谓的东西的两个方面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 3,
+   "de": "Einmal das Gemeinte als ein leibliches ruhendes Sein; die Individualität stellt sich vielmehr in der Handlung als das negative Wesen dar, welches nur ist, insofern es Sein aufhebt.",
+   "en": "First, what is meant as a bodily resting being; individuality presents itself in the action rather as the negative essence, which is only insofar as it sublates being.",
+   "zh": "一方面，被意谓的东西作为身体性的、静止的存在；个体性在行动中反倒表现为否定的本质，它只在扬弃存在时才存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 4,
+   "de": "Alsdann hebt die Tat die Unaussprechlichkeit der Meinung ebenso in Ansehung der selbstbewußten Individualität auf, welche in der Meinung eine unendlich bestimmte und bestimmbare ist.",
+   "en": "Then the deed sublates the inexpressibility of the meaning just as much with regard to the self-conscious individuality, which in the meaning is an infinitely determinate and determinable one.",
+   "zh": "其次，行为同样在对自我意识的个体性方面扬弃了意谓的不可言说性，这种个体性在意谓中是一种无限地规定了的、可无限规定的个体性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 5,
+   "de": "In der vollbrachten Tat ist diese schlechte Unendlichkeit vernichtet.",
+   "en": "In the accomplished deed this bad infinity is destroyed.",
+   "zh": "在完成了的行为中，这种坏的无限被消灭了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 6,
+   "de": "Die Tat ist ein Einfach-Bestimmtes, Allgemeines, in einer Abstraktion zu Befassendes; sie ist Mord, Diebstahl oder Wohltat, tapfere Tat usf., und es kann von ihr gesagt werden, was sie ist.",
+   "en": "The deed is a simply determinate [content], universal, to be grasped in an abstraction; it is murder, theft, or benefaction, a brave deed, and so on, and it can be said of it what it is.",
+   "zh": "行为是一种单纯被规定的东西、普遍的东西，要在一种抽象中把握；它是谋杀、偷窃或者善行、勇敢的行为等等，关于它可以说出它是什么。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 7,
+   "de": "Sie ist dies, und ihr Sein ist nicht nur ein Zeichen, sondern die Sache selbst.",
+   "en": "It is this, and its being is not only a sign but the matter itself.",
+   "zh": "它就是这，而它的存在不只是一个符号，而是事情本身。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 8,
+   "de": "Sie ist dies, und der individuelle Mensch ist, was sie ist; in der Einfachheit dieses Seins ist er für andere seiendes, allgemeines Wesen und hört auf, nur Gemeintes zu sein.",
+   "en": "It is this, and the individual human being is what it is; in the simplicity of this being he is a being-for-others, universal essence and ceases to be only something meant.",
+   "zh": "它就是这，而个体的人就是这行为所是的东西；在这种存在的单纯性中，他是为他的、普遍的本质，并且不再是单纯被意谓的东西。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 9,
+   "de": "Er ist zwar darin nicht als Geist gesetzt; aber indem von seinem Sein als Sein die Rede und einerseits das gedoppelte Sein, der Gestalt und der Tat, sich gegenübersteht und jene wie diese seine Wirklichkeit sein soll, so ist vielmehr nur die Tat als sein echtes Sein zu behaupten, – nicht seine Figur, welche das ausdrücken sollte, was er zu seinen Taten meint, oder was man meinte, daß er tun nur könnte.",
+   "en": "To be sure, he is not posited therein as spirit; but since there is talk of his being as being, and on the one hand the doubled being, that of the shape and that of the deed, stand opposed to each other, and the former as well as the latter is supposed to be his actuality, then rather only the deed is to be asserted as his genuine being – not his figure, which was supposed to express what he means by his deeds, or what one meant that he could only do.",
+   "zh": "诚然，他在其中并不是被设定为精神；但既然谈的是他的存在之为存在，而且一方面是形态和行为这二重化的存在互相对立，并且前者和后者都应当是他的现实性，那么相反，只有行为才应当被断定为他的真正的存在，——不是他的体形，体形应当表达出他对于自己的行为所意谓的东西，或者人们意谓他可能做出的事情。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 10,
+   "de": "Ebenso indem andererseits sein Werk und seine innere Möglichkeit, Fähigkeit oder Absicht, entgegengesetzt werden, ist Jenes allein für seine wahre Wirklichkeit anzusehen, wenn auch er selbst sich darüber täuscht und, aus seiner Handlung in sich gekehrt, in diesem Innern ein Anderes zu sein meint als in der Tat.",
+   "en": "Likewise, since on the other hand his work and his inner possibility, capacity or intention are opposed, the former alone is to be regarded as his true actuality, even if he himself is deceived about it and, turned back into himself out of his action, means to be something other in this inner [realm] than in the deed.",
+   "zh": "同样，既然另一方面他的作品和他的内在可能性、能力或意图被对立起来，那么只有前者才应被看作他真正的现实性，即便他自己在这一点上欺骗自己，并且从自己的行为中返回到自身之内，在内心里意谓自己是另一个样子，不同于在行为中的样子。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 11,
+   "de": "Die Individualität, die sich dem gegenständlichen Elemente anvertraut, indem sie zum Werke wird, gibt sich damit wohl dem preis, verändert und verkehrt zu werden.",
+   "en": "Individuality that entrusts itself to the objective element by becoming a work thereby indeed gives itself over to being changed and perverted.",
+   "zh": "把自己托付给对象性要素、从而成为作品的个体性，由此当然就交付出去，任自己被改变、被颠倒。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 12,
+   "de": "Aber den Charakter der Tat macht eben dies aus, ob sie ein wirkliches Sein ist, das sich hält, oder ob nur ein gemeintes Werk, das in sich nichtig vergeht.",
+   "en": "But precisely this constitutes the character of the deed: whether it is a real being that sustains itself, or only a meant work that passes away as null in itself.",
+   "zh": "但恰恰是这一点构成了行为的性格：它是一个自身持存的现实的存在，还是只是一个自身内无谓地消逝的被意谓的作品。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 13,
+   "de": "Die Gegenständlichkeit verändert nicht die Tat selbst, sondern zeigt nur, was sie ist, d.h. ob sie ist oder ob sie nichts ist.",
+   "en": "Objectivity does not change the deed itself but only shows what it is, i.e. whether it is or whether it is nothing.",
+   "zh": "对象性并不改变行为本身，而只是显示出它是什么，也就是说，它存在还是不存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 26,
+   "si": 14,
+   "de": "– Die Zergliederung dieses Seins in Absichten und dergleichen Feinheiten, wodurch der wirkliche Mensch, d.h. seine Tat, wieder in ein gemeintes Sein zurückerklärt werden soll, wie er wohl selbst auch sich besondere Absichten über seine Wirklichkeit erschaffen mag, müssen dem Müßiggange der Meinung überlassen bleiben, der, wenn er seine tatenlose Weisheit ins Werk richten, den Charakter der Vernunft am Handelnden ableugnen und ihn auf diese Weise mißhandeln will, daß er statt der Tat vielmehr die Figur und die Züge für das Sein desselben erklären will, die obige Erwiderung zu befahren hat, die ihm erweist, daß Figur nicht das Ansich ist, sondern vielmehr ein Gegenstand der Behandlung sein kann.",
+   "en": "– The dissection of this being into intentions and similar refinements, by which the actual human being, i.e. his deed, is again to be explained back into a meant being, just as he himself may well also create for himself particular intentions about his actuality, must be left to the idleness of meaning, which, when it wants to set its deedless wisdom to work, wants to deny the character of reason in the one who acts and to maltreat him in such a way that, instead of the deed, it wants to declare the figure and the features to be the being of the same, [and thus] has to fear the above reply, which shows it that the figure is not the in-itself but can rather be an object of treatment.",
+   "zh": "——把这种存在分解成意图以及诸如此类的精细东西，借此把现实的人，也就是他的行为，又重新解释回一种被意谓的存在，正如他自己也尽可以就自己的现实性给自己造出种种特殊意图，这种事必须留给意谓的闲散去管；这种闲散在它要把自己那没有行为的智慧付诸实行时，就想否认行动者身上的理性性格，并且用这样一种方式来虐待他：它要取代行为而把体形和相貌特征说成是他的存在，因此它就不得不担心上面那个回答，那个回答向它表明：体形并不是自在，反倒可以成为一个处理的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 0,
+   "de": "Sehen wir nun auf den Umfang der Verhältnisse überhaupt, in welchen die selbstbewußte Individualität zu ihrem Äußeren stehend beobachtet werden kann, so wird eines zurück sein, welches die Beobachtung sich noch zu ihrem Gegenstande machen muß.",
+   "en": "If we now look at the compass of the relations in general in which self-conscious individuality can be observed as standing in relation to its outer, then one relation will remain over which observation must still make its object.",
+   "zh": "如果我们现在来看各种关系本身的范围，即自我意识的个体性在其中能够被观察为与自己的外在东西相对而立的那种范围，那么还会剩下一种关系，观察必须把它也当作自己的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 1,
+   "de": "In der Psychologie ist es die äußere Wirklichkeit der Dinge, welche an dem Geiste ihr sich bewußtes Gegenbild haben und ihn begreiflich machen soll.",
+   "en": "In psychology it is the outer actuality of things that is supposed to have on spirit its self-conscious counterpart and to make spirit intelligible.",
+   "zh": "在心理学里，正是物的外在现实性应当在精神身上拥有自己意识到自身的对应图像，并使精神变得可以理解。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 2,
+   "de": "In der Physiognomik dagegen soll er in seinem eigenen Äußeren als in einem Sein, welches die Sprache – die sichtbare Unsichtbarkeit – seines Wesens sei, erkannt werden.",
+   "en": "In physiognomy, by contrast, spirit is to be cognized in its own outer as in a being that is the language — the visible invisibility — of its essence.",
+   "zh": "与此相反，在面相学里，精神则应当在它自己的外在东西中被认识，即被认识为一种存在，而这种存在是它的本质的语言——即可见的不可见性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 3,
+   "de": "Noch ist die Bestimmung der Seite der Wirklichkeit übrig, daß die Individualität an ihrer unmittelbaren, festen, rein daseienden Wirklichkeit ihr Wesen ausspreche.",
+   "en": "There still remains the determination of the side of actuality, namely that individuality expresses its essence on its immediate, firm, purely existent actuality.",
+   "zh": "还剩下的是现实性这一方面的规定，即个体性在它直接的、固定的、纯粹定在着的现实性上说出自己的本质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 4,
+   "de": "– Diese letzte Beziehung unterscheidet sich also von der physiognomischen dadurch, daß diese die sprechende Gegenwart des Individuums ist, das in seiner handelnden Äußerung zugleich die sich in sich reflektierende und betrachtende darstellt, eine Äußerung, welche selbst Bewegung ist, ruhende Züge, welche selbst wesentlich ein vermitteltes Sein sind.",
+   "en": "– This last relation thus differs from the physiognomic one in that the latter is the speaking presence of the individual, which in its acting expression at the same time presents the presence that reflects into itself and contemplates itself, an expression that is itself movement, resting traits that are themselves essentially a mediated being.",
+   "zh": "——所以，这最后一种关系与面相学关系的区别在于：后者是个体的言说着的当前在场，个体在自己行动着的表现中同时把那种在自身中反思着、观看着自己的当前在场展示出来，而这种表现本身就是运动，是静止的特征，这些特征本身本质上是一种被中介的存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 27,
+   "si": 5,
+   "de": "In der noch zu betrachtenden Bestimmung aber ist endlich das Äußere eine ganz ruhende Wirklichkeit, welche nicht an ihr selbst redendes Zeichen [ist], sondern getrennt von der selbstbewußten Bewegung sich für sich darstellt und als bloßes Ding ist.",
+   "en": "In the determination still to be considered, however, the outer is finally a wholly resting actuality, which is not in itself a speaking sign, but, separated from self-conscious movement, presents itself for itself and is as a mere thing.",
+   "zh": "但在还有待考察的那种规定里，外在东西最终是一种完全静止的现实性，它并非在自身那里就是言说着的符号，而是与自我意识的运动分离开来、自为地呈现出来，并且作为单纯的物而存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 28,
+   "si": 0,
+   "de": "Zunächst erhellt über die Beziehung des Inneren auf dies sein Äußeres, daß sie als Verhältnis des Kausalzusammenhangs begriffen werden zu müssen scheint, indem die Beziehung eines Ansichseienden auf ein anderes Ansichseiendes, als eine notwendige, dies Verhältnis ist.",
+   "en": "First, with regard to the relation of the inner to this its outer, it is evident that this relation seems to have to be comprehended as a relation of causal connection, since the relation of an in-itself-existing [thing] to another in-itself-existing [thing], as a necessary one, is this relation.",
+   "zh": "首先，就内在东西对它的这个外在东西的关系来说，有一点是明白的：这种关系看来必须作为因果联系的关系被以概念把握，因为一个自在存在者对一个自在存在者的关系，作为必然的关系，就是这种关系。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 0,
+   "de": "Daß nun die geistige Individualität auf den Leib Wirkung habe, muß sie als Ursache selbst leiblich sein.",
+   "en": "For spiritual individuality to have an effect on the body, it must itself be bodily as cause.",
+   "zh": "既然精神的个体性要对身体产生作用，它作为原因本身就必须是身体性的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 1,
+   "de": "Das Leibliche aber, worin sie als Ursache ist, ist das Organ, aber nicht des Tuns gegen die äußere Wirklichkeit, sondern des Tuns des selbstbewußten Wesens in sich selbst, nach außen nur gegen seinen Körper; es ist nicht sogleich abzusehen, welches diese Organe sein können.",
+   "en": "But the bodily [element] in which it is as cause is the organ — yet not of the doing against outer actuality, but of the doing of the self-conscious essence in itself, outwardly only against its body; it is not immediately to be seen which these organs can be.",
+   "zh": "但它在其中作为原因而存在的那种身体性的东西，就是器官，不过并不是针对外在现实性而行动的器官，而是自我意识到的本质在自身之中行动的器官，对外则只是针对自己的身体；至于这些器官可能是哪些器官，并不能马上看出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 2,
+   "de": "Würde nur an die Organe überhaupt gedacht, so würde das Organ der Arbeit überhaupt leicht bei der Hand sein, ebenso das Organ des Geschlechtstriebes usf.",
+   "en": "If one thought only of organs in general, then the organ of work in general would easily be at hand, likewise the organ of the sexual drive, and so forth.",
+   "zh": "如果只想到一般的器官，那么一般劳动的器官就很容易找到，性欲的器官等等也一样。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 3,
+   "de": "Allein solche Organe sind als Werkzeuge oder als Teile zu betrachten, welche der Geist als ein Extrem zur Mitte gegen das andere Extrem, das äußerer Gegenstand ist, hat.",
+   "en": "But such organs are to be considered as tools or as parts that spirit has as one extreme toward the middle, over against the other extreme, which is an outer object.",
+   "zh": "但这类器官必须被看作工具或部分，精神把它们当作一个极端，用来朝向中项、与另一个极端相对，而另一个极端就是外在的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 4,
+   "de": "Hier aber ist ein Organ verstanden, worin das selbstbewußte Individuum als Extrem gegen seine eigene, ihm entgegengesetzte Wirklichkeit sich für sich erhält, nicht zugleich nach außen gekehrtes, sondern in seiner Handlung reflektiertes, und woran die Seite des Seins nicht ein Sein für Anderes ist.",
+   "en": "Here, however, an organ is understood in which the self-conscious individual, as extreme over against its own actuality opposed to it, maintains itself for itself — not one turned outward at the same time, but one reflected in its action, and on which the side of being is not a being for another.",
+   "zh": "但这里所理解的是一种器官，自我意识的个体在其中作为极端、相对于它自己的、与它相对立的现实性而自为地保持自己，这种器官并非同时朝向外面的，而是在它的行动中反思着的，并且在这种器官身上，存在这一方面并不是为他存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 5,
+   "de": "In der physiognomischen Beziehung wird das Organ zwar auch als in sich reflektiertes und das Tun besprechendes Dasein betrachtet; aber dies Sein ist ein gegenständliches, und das Resultat der physiognomischen Beobachtung ist dieses, daß das Selbstbewußtsein gegen eben diese seine Wirklichkeit als gegen etwas Gleichgültiges gegenübertritt.",
+   "en": "In the physiognomic relation the organ is indeed also considered as determinate being reflected into itself and speaking of the doing; but this being is an objective one, and the result of physiognomic observation is this, that self-consciousness steps over against precisely this its actuality as against something indifferent.",
+   "zh": "在面相学的关系里，器官虽然也被看作在自身中反思着的、并且言说着行动的定在；但这种存在是一种对象性的存在，而面相学观察的结果就是：自我意识恰恰面对它自己的这种现实性，把它当作某种漠不相关的东西而与之相对而立。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 29,
+   "si": 6,
+   "de": "Diese Gleichgültigkeit verschwindet darin, daß dies Insichreflektiertsein selbst wirkend ist; dadurch erhält jenes Dasein eine notwendige Beziehung auf es; daß es aber auf das Dasein wirkend sei, muß es selbst ein aber nicht eigentlich gegenständliches Sein haben, und als dies Organ soll es aufgezeigt werden.",
+   "en": "This indifference disappears in that this being-reflected-into-itself is itself effecting; thereby that determinate being receives a necessary relation to it; but for it to be effecting on the determinate being, it must itself have a being, though not properly an objective one, and it is as this organ that it is to be pointed out.",
+   "zh": "这种漠不相关消失在这一点上：这种自身内反思存在本身是起作用的；由此，那种定在就获得了一种对它的必然关系；但它要对定在起作用，它自己就必须有一种存在，不过并不是真正对象性的存在，而它应当被指出为这种器官。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 30,
+   "si": 0,
+   "de": "Im gemeinen Leben nun wird der Zorn z.B., als ein solches inneres Tun, in die Leber verlegt; Platon gibt ihr sogar noch etwas Höheres, das nach einigen sogar das Höchste ist, zu, nämlich die Prophezeiung oder die Gabe, das Heilige und Ewige unvernünftigerweise auszusprechen.1 Allein die Bewegung, welche das Individuum in der Leber, dem Herzen usf. hat, kann nicht als die ganz in sich reflektierte Bewegung desselben angesehen werden, sondern sie ist darin vielmehr so, daß sie ihm schon in den Leib geschlagen ist und ein animalisches, heraus gegen die Äußerlichkeit sich wendendes Dasein hat.",
+   "en": "In common life, for example, anger, as such an inner doing, is placed in the liver; Plato even grants it something higher, which according to some is even the highest, namely prophecy or the gift of uttering the holy and eternal unreasonably.1 But the movement that the individual has in the liver, the heart, and so forth, cannot be regarded as its wholly self-reflected movement; rather it is in it in such a way that it is already struck into the body and has an animal determinate being turning out against externality.",
+   "zh": "在日常生活中，例如愤怒，作为这样一种内在的行动，被安放在肝脏里；柏拉图甚至给它添了某种更高的东西，按某些人的说法甚至是至高者，即预言或不合道理地说出神圣和永恒的东西的禀赋。1 但个体在肝脏、心脏等等里所具有的运动，不能被看作它完全在自身中反思的运动，相反，它在其中毋宁是这样：这种运动已经被打进它的身体，并且具有一种动物性的、向外朝外在性转过去的定在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 31,
+   "si": 0,
+   "de": "Das Nervensystem hingegen ist die unmittelbare Ruhe des Organischen in seiner Bewegung.",
+   "en": "The nervous system, by contrast, is the immediate rest of the organic in its movement.",
+   "zh": "与此相反，神经系统则是有机体在其运动中的直接静止。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "5",
+   "bi": 31,
+   "si": 1,
+   "de": "Die Nerven selbst sind zwar wieder die Organe des schon in seine Richtung nach außen versenkten Bewußtseins; Gehirn und Rückenmark aber dürfen als die in sich bleibende – die nicht gegenständliche, die auch nicht hinausgehende – unmittelbare Gegenwart des Selbstbewußtseins betrachtet werden.",
+   "en": "The nerves themselves are indeed again the organs of consciousness already sunk into its direction toward the outside; but brain and spinal cord may be regarded as the immediate presence of self-consciousness that remains in itself — the non-objective presence, the one that also does not go out.",
+   "zh": "神经本身虽然又是那种已经沉浸于自己朝向外面的方向的意识的器官；但脑和脊髓却可以被看作自我意识的那种留在自身之中的——非对象性的、也不向外走的——直接的当前在场。"
+  }
+ ]
+}

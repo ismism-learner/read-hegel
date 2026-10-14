@@ -1,0 +1,21 @@
+import fs from 'node:fs';
+import { sentencesFromMarked, splitSentences, plainOf } from './lib/sentences.mjs';
+
+const [vol, chunk, biS] = [process.argv[2] || 'w2', process.argv[3] || '10', process.argv[4] || '45'];
+const bi = Number(biS);
+const c = JSON.parse(fs.readFileSync(`web/data/vol/${vol}/${chunk}.json`, 'utf8'));
+const b = c.blocks[bi];
+console.log(`block ${vol}/${chunk}#${bi}  kind=${b.k}  ns=${b.ns}`);
+const sents = sentencesFromMarked(b.x);
+console.log('sentence spans in markup:', sents.length);
+sents.forEach((s, i) => console.log(`  [${i}] ${s.slice(0, 74)}`));
+console.log('splitSentences(plain):', splitSentences(plainOf(b.x)).length);
+const sids = [...b.x.matchAll(/data-sid="([^"]+)"/g)].map((m) => m[1]);
+console.log('sids:', sids.join(' '));
+const openSpan = (b.x.match(/<span\b/g) || []).length;
+const closeSpan = (b.x.match(/<\/span>/g) || []).length;
+const openEm = (b.x.match(/<em\b/g) || []).length;
+const closeEm = (b.x.match(/<\/em>/g) || []).length;
+const openI = (b.x.match(/<i>/g) || []).length;
+const closeI = (b.x.match(/<\/i>/g) || []).length;
+console.log(`tag balance: span ${openSpan}/${closeSpan}  em ${openEm}/${closeEm}  i ${openI}/${closeI}`);

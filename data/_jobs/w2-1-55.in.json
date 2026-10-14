@@ -1,0 +1,103 @@
+{
+ "id": "w2-1-55",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "heading": "Prinzip einer Philosophie in der Form eines absoluten Grundsatzes",
+ "blocks": [
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "6fyygw1bmj",
+   "sents": [
+    "Das Festhalten an der Subjektivität der transzendentalen Anschauung, durch welches Ich ein subjektives Subjekt-Objekt bleibt, erscheint in dem Verhältnis des Ich zur Natur am auffallendsten, teils in der Deduktion derselben, teils in den darauf sich gründenden Wissenschaften."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "8tsu7l7bjs",
+   "sents": [
+    "Weil Ich subjektives Subjekt-Objekt ist, so bleibt ihm eine Seite, von welcher ihm ein Objekt absolut entgegengesetzt ist, von welcher es durch dasselbe bedingt ist; das dogmatische Setzen eines absoluten Objekts verwandelt sich in diesem Idealismus, wie wir gesehen haben, in ein - der freien Tätigkeit absolut entgegengesetztes - Sich-selbst-Beschränken.",
+    "Dies Gesetztsein der Natur durch Ich ist ihre Deduktion und der transzendentale Gesichtspunkt; es wird sich zeigen, wie weit er reicht und was seine Bedeutung ist."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "13tfi9uuqe",
+   "sents": [
+    "Als Bedingung der Intelligenz wird eine ursprüngliche Bestimmtheit postuliert, was oben als Notwendigkeit erschien (weil das reine Bewußtsein kein vollständiges Bewußtsein ist), zum empirischen Bewußtsein fortzugehen.",
+    "Ich soll sich selbst absolut begrenzen, entgegensetzen; es ist Subjekt, und die Schranke ist im Ich und durch Ich.",
+    "Diese Selbstbegrenzung wird sowohl eine Begrenzung der subjektiven Tätigkeit, der Intelligenz, als der objektiven Tätigkeit; die begrenzte objektive Tätigkeit ist der Trieb20) ; die begrenzte subjektive ist der Zweckbegriff.",
+    "Die Synthese dieser gedoppelten Bestimmtheit ist Gefühl; in ihm ist Erkenntnis und Trieb vereinigt.",
+    "Zugleich aber ist Fühlen ein lediglich Subjektives21) , und im Gegensatz gegen Ich = Ich, gegen das Unbestimmte erscheint es allerdings als ein Bestimmtes überhaupt, und zwar als ein Subjektives im Gegensatz gegen Ich als Objektives; es erscheint als ein Endliches überhaupt sowohl gegen die unendliche reelle Tätigkeit als gegen die ideelle Unendlichkeit, im Verhältnis zur letzteren als ein Objektives.",
+    "Aber für sich ist Fühlen als Synthesis des Subjektiven und Objektiven, der Erkenntnis und des Triebes charakterisiert worden, und weil es Synthesis ist, fällt sein Gegensatz gegen ein Unbestimmtes weg, dies Unbestimmte sei nun eine unendliche objektive oder subjektive Tätigkeit.",
+    "Es ist überhaupt nur endlich für die Reflexion, die jene Entgegensetzung der Unendlichkeit produziert; an sich ist es gleich der Materie Subjektives und Objektives zugleich, Identität, insofern diese sich nicht zur Totalität rekonstruiert hat."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1yn7t64h07",
+   "sents": [
+    "Gefühl sowohl als Trieb erscheinen als Begrenzte, und die Äußerung des Begrenzten und der Begrenzung in uns ist Trieb und Gefühl; das ursprüngliche bestimmte System von Trieben und Gefühlen ist die Natur.",
+    "Da das Bewußtsein derselben sich uns aufdrängt und zugleich die Substanz, in welcher dieses System von Begrenzungen sich findet, diejenige sein soll, welche frei denkt und will und die wir als uns selbst setzen, ist es unsere Natur22) ; und Ich und meine Natur machen das subjektive Subjekt-Objekt aus, meine Natur ist selbst im Ich."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "eeamxm1rg1",
+   "sents": [
+    "Es müssen aber zwei Arten der Vermittlung der Entgegensetzung der Natur und Freiheit, des ursprünglich Beschränkten und des ursprünglich Unbeschränkten unterschieden werden, und es ist wesentlich zu erweisen, daß die Vermittlung auf verschiedene Art geschieht; dies wird uns die Verschiedenheit des transzendentalen Standpunkts und des Standpunkts der Reflexion, deren letzterer den ersteren verdrängt, - die Differenz des Anfangspunkts und des Resultats dieses Systems in einer neuen Form zeigen."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "11d3ygfljk",
+   "sents": [
+    "Einmal ist Ich = Ich, Freiheit und Trieb sind eines und ebendasselbe, - dies ist der transzendentale Gesichtspunkt.",
+    "\"Obgleich ein Teil dessen, das mir zukommt, nur durch Freiheit möglich sein soll und ein anderer Teil desselben von der Freiheit unabhängig und sie von ihm unabhängig sein soll, so ist dennoch die Substanz, welcher beides zukommt, nur eine und ebendieselbe und wird als eine und ebendieselbe gesetzt.",
+    "Ich, der ich fühle, und ich, der ich denke, ich, der ich getrieben bin, und ich, der ich mit freiem Willen mich entschließe, bin derselbe.\"23) \"Mein Trieb als Naturwesen, meine Tendenz als reiner Geist, sind [...] vom transzendentalen Gesichtspunkte aus ein und ebenderselbe Urtrieb, der mein Wesen konstituiert, nur wird er angesehen von zwei verschiedenen Seiten\"24) ; ihre Verschiedenheit ist nur in der Erscheinung."
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "1udt41b1qh",
+   "sents": [
+    "Das andere Mal sind beide verschieden, eins die Bedingung des anderen, eins herrschend über das andere.",
+    "Die Natur als Trieb muß zwar gedacht werden als sich selbst durch sich selbst bestimmend, aber sie ist charakterisiert durch den Gegensatz der Freiheit.",
+    "Die Natur bestimmt sich selbst, heißt darum: sie ist bestimmt, sich zu bestimmen, durch ihr Wesen, formaliter, sie kann nie unbestimmt sein, wie ein freies Wesen gar wohl sein kann; auch ist sie gerade so materialiter bestimmt und hat nicht, wie das freie Wesen, die Wahl zwischen einer gewissen Bestimmung und ihrer entgegengesetzten.25) Die Synthesis der Natur und der Freiheit gibt nun folgende Rekonstruktion der Identität aus der Entzweiung zur Totalität.",
+    "Ich, als Intelligenz, der Unbestimmte, - und Ich, der ich getrieben bin, die Natur, der Bestimmte, werde dadurch derselbe, daß der Trieb zum Bewußtsein kommt; insofern nun steht er in meiner Gewalt, er wirkt in dieser Region gar nicht, sondern ich wirke oder wirke nicht zufolge desselben.26) - Das Reflektierende ist höher als das Reflektierte; der Trieb des Reflektierenden, des Subjekts des Bewußtseins, heißt der höhere Trieb27) ; der niedrigere, die Natur, muß in die Botmäßigkeit des höheren, der Reflexion, gesetzt werden.",
+    "Dies Verhältnis der Botmäßigkeit einer Erscheinung des Ich gegen die andere soll die höchste Synthese sein."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "siz8mo7qs7",
+   "sents": [
+    "Aber diese letztere Identität und die Identität des transzendentalen Gesichtspunkts sind sich ganz entgegengesetzt.",
+    "Im transzendentalen ist Ich = Ich, Ich ins Substantialitätsverhältnis oder wenigstens noch ins Wechselverhältnis gesetzt; in dieser Rekonstruktion der Identität hingegen ist das eine das Herrschende, das andere das Beherrschte, das Subjektive nicht gleich dem Objektiven, sondern sie stehen im Kausalitätsverhältnis, - eins kommt in die Botmäßigkeit; von den zwei Sphären der Freiheit und Notwendigkeit ist diese jener untergeordnet.",
+    "So wird das Ende des Systems seinem Anfang, das Resultat seinem Prinzip ungetreu.",
+    "Das Prinzip war Ich = Ich; das Resultat ist Ich nicht = Ich.",
+    "Die erstere Identität ist eine ideell-reelle, Form und Materie ist eins; die letztere eine bloß ideelle, Form und Materie ist getrennt; sie ist eine bloß formale Synthese.",
+    "Diese Synthese des Beherrschens ergibt sich auf folgende Art. Dem reinen Triebe, der auf absolutes Selbstbestimmen, zur Tätigkeit um der Tätigkeit willen geht, ist entgegen ein objektiver Trieb, ein System von Beschränkungen.",
+    "Indem sich Freiheit und Natur vereinigen, gibt jene von ihrer Reinheit, diese von ihrer Unreinheit auf; die synthetische Tätigkeit, damit sie doch rein und unendlich sei, muß gedacht werden als eine objektive Tätigkeit, deren Endzweck absolute Freiheit, absolute Unabhängigkeit von aller Natur ist, - ein nie zu erreichender Endzweck28) , eine unendliche Reihe, durch deren Fortsetzung das Ich absolut = Ich würde, d. h. Ich hebt sich als Objekt selbst auf, und damit auch als Subjekt.",
+    "Aber es soll sich nicht aufheben; so gibt es für Ich nur eine mit Beschränkungen, Quantitäten erfüllte, unbestimmbar verlängerte Zeit, und der bekannte Progreß soll aushelfen; wo die höchste Synthese erwartet wird, bleibt immer dieselbe Antithese der beschränkten Gegenwart und einer außer ihr liegenden Unendlichkeit.",
+    "Ich = Ich ist das Absolute, die Totalität, außer Ich nichts; aber so weit bringt es Ich im System nicht und, wenn die Zeit eingemischt werden soll, nie; es ist absolut mit einem Nicht-Ich affiziert und vermag sich immer nur als ein Quantum von Ich zu setzen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/1.p55.json"
+}

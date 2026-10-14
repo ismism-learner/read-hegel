@@ -1,0 +1,61 @@
+{
+ "id": "w1-19-55",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 19,
+ "chunkTitle": "[10. Staatsbürgerliche und ständische Freiheit]",
+ "heading": "3.",
+ "blocks": [
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1x437gn1tr",
+   "sents": [
+    "Es ist jedoch nicht zu leugnen, daß nicht das Bedürfnis, Finanzen für Deutschland zu erschaffen, von Zeit zu Zeit gefühlt worden ist und Vorschläge getan worden sind, die Geldquellen des Reichs zu vermehren.",
+    "Weil zugleich die Stände nicht gesonnen waren, diese Geldmacht durch Gesetze zu Beiträgen zu bewerkstelligen, so mußte beides vereinigt werden, einen bleibenden Fonds für den Staat zu finden und die Stände nicht zu beschweren.",
+    "Weil der letztere Umstand in der Gesinnung hauptsächlich hervorsticht, so ist nicht zu zweifeln, daß einen, der den Wunsch täte, ein Goldberg möchte in Deutschland aufwachsen, von dem jeder Dukaten, der nicht fürs Reich verwendet würde, sogleich als Wasser verlaufen sollte, daß ein solcher Wünschender für den größten deutschen Patrioten, der je existiert, von einer Menge ehrlicher Reichsbürger angesehen würde, weil sie im ersten Moment nur das Gefühl, daß sie hiermit nichts zu bezahlen hätten, vor der Besinnung haben würden, daß durch einen solchen Wunsch kein Pfennig in die Reichskasse kommt.",
+    "Hiervon abgesehen, so haben dagegen ältere Reichstage in Beziehung auf das Bedürfnis eines solchen Fonds keine idealen Quellen, sondern, ohne daß ein einzelner Stand von seinem Interesse etwas aufzuopfern hätte, wahre Realitäten, wirkliche Länder zur Bestreitung der reichsangelegenheitlichen Unkosten, wie jene Jäger einen reellen Bären zur Bezahlung ihrer Zeche, bestimmt.",
+    "Vor mehreren hundert Jahren wurde nämlich ein Gesetz gemacht, daß zur Errichtung eines Reichsfonds alle diejenigen Länder bestimmt werden sollen, welche in fremder Nationen [Hände] geraten sind, wenn sie das Deutsche Reich wieder an sich bringt.",
+    "Somit kann der Verlust des linken Rheinufers von einer tröstlicheren Seite angesehen werden, nämlich als eine Möglichkeit zur Gründung eines solchen Fonds."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "d6xezr1fwl",
+   "sents": [
+    "Wenn solche zu ihrer Zeit gründlichere Gedanken auch nicht vergessen wären und der deutsche Charakter sanguinisch genug sein sollte, um bei dem jetzigen politischen Zustande Europas und Deutschlands auf solche Hoffnungen eine Hoffnung zu setzen, so könnten sie doch bei der Erwägung, ob Deutschland die Art der Macht, die jetzt zum Wesen eines Staats gehört, eine Geldmacht besitze, nicht in Betracht kommen."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "1gl16graot",
+   "sents": [
+    "180) Ehedem kam auch öfters ein Fall vor, in welchem einzelne Stände für [das] Allgemeine Unkosten und Mühe hatten, nämlich bei Exekutionen von Achterklärungen oder anderen reichsgerichtlichen Bescheiden; wenn sie wirklich in Gang gebracht wurden, so fielen die Kosten der im Recht unterliegenden Partei zur Last; natürlich mußte die Partei nicht bloß im Recht, sondern auch im Krieg unterlegen sein, denn das Reichsexekutionsheer des Siebenjährigen Kriegs erhielt für seine Mühe von dem Stande, gegen welchen es gerichtet war, keinen Schadenersatz. - In älteren Zeiten gab es einen mächtigen Sporn, eine Achtserklärung wirklich zu exequieren, der exequierende Teil behielt, ohne weiteres Recht daran, zur Entschädigung für seinen Aufwand die Länder oder einen großen Teil der Länder des exequierten Standes.",
+    "Auf diese Art kamen die Schweizer in den Besitz des größten Teils der ursprünglichen Länder des Habsburgischen Hauses, Bayern in den Besitz von Donauwörth usw."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1njoxzp1rx",
+   "sents": [
+    "Um dieses Mangels willen sowohl an Kriegs- als an Geldmacht kann Deutschland nicht als Staat angesehen werden, es ist unvermögend sich zu verteidigen, ..."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "h",
+   "hash": "101x4w41rz",
+   "text": "3."
+  }
+ ],
+ "outFile": "web/data/trans/w1/19.p55.json"
+}

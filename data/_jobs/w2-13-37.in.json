@@ -1,0 +1,109 @@
+{
+ "id": "w2-13-37",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1wwlzj4dde",
+   "sents": [
+    "Die Wahrheit der Wissenschaft ist ein ruhiges, alles erleuchtendes und erfreuendes Licht sowie eine Wärme, in der alles zugleich gedeihlich hervorsprießt und die inneren Schätze in der Breite des Lebens auseinanderlegt.",
+    "Der Gedankenblitz ist der Kapaneus, der dies himmlische Feuer auf eine schlechte verschwindende Weise formal vernichtend nachahmt und zu keinem bestehenden Leben zu kommen vermag."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "cgr85q1nik",
+   "sents": [
+    "Wenn einer den Pythagoreischen Lehrsatz kennt und sagt: damit sei nicht gegessen noch getrunken; - ein anderer: was soll mir das? es ist um Anwendung fürs Leben zu tun; ich muß meine Totalität darin ausgesprochen finden; - ein dritter: es geht daraus keine Nutzanwendung, keine Weisheitsmaxime fürs moralische Leben heraus; - so ist dies alles eins, aber wir ehren den Ausdruck so, daß wir das erste bäurische Tölpischkeit, das zweite gesunden Menschenverstand, das dritte Eifer für das moralische Interesse der Menschheit nennen."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "3297lkfmil",
+   "sents": [
+    "\"Que de choses dans un menuet! s'écriait Marcel, le plus fameux maître de danse de Paris, il y a quatorze ans, dans l'enthousiasme de son art. Les danseurs d'aujourd'hui disent autrement: il faut savoir le moral de la danse, et ils disent cela très serieusement.\"",
+    "In Deutschland heißt dies: Poesie."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "db42cqbm6n",
+   "sents": [
+    "\"L'empire germanique est un être moral sans action par lui même, et il est un corps, mort par sa constitution.\"",
+    "Deutschland ist keine Monarchie usf., kein Staat, sondern ein Reich.",
+    "Reich soll ein Begriff sein oder vielmehr, wenn es Staat sein soll, eine Anschauung, die leer ist."
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "1myl2hq91q",
+   "sents": [
+    "Die Allgemeine Zeitung berichtet von Frau v. Staël in Berlin, wie die Königin sie angeredet: \"J'espère, Madame, que Vous nous croyez de trop bon gout, pour n'être pas flatté de Vôtre arrivée à Berlin.",
+    "Il y a longtemps, que je Vous ai admirée, et j'aiété impatiente, de faire Vôtre connaissance.\"",
+    "Es kam ja auch hier Geist zu Geist, und gleich und gleich, wie das Sprichwort sagt, gesellt sich gern."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "fwtou11hiv",
+   "sents": [
+    "In den deutschen Bearbeitungen der Wissenschaften ist der Inhalt der meisten Werke nur dieser: auch ich weiß es, was da oder dort erfunden worden ist.",
+    "So haben sechshundert die Kuhpocken bearbeitet und alle dasselbe wiederholt.",
+    "Sie sind dann in Streit wegen Plagiats miteinander geraten, aber die Sache war, daß sie alle dasselbe abgeschrieben hatten, wie die Evangelisten nicht einander ausgeschrieben, sondern ein Evangelium vor sich gehabt haben sollen.",
+    "In freien Wissenschaften, wie die Philosophie, schreibt jeder die allgemeine Trivialität der Bildung ab."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "oxv6pjz1gy",
+   "sents": [
+    "Die Antwort, die Robespierre auf alles gab - hier hatte einer dies gedacht, jenes getan, dies gewollt oder jenes gesagt -, war: la mort!",
+    "Ihre Einförmigkeit ist höchst langweilig, aber sie paßt auf alles.",
+    "Ihr wollt den Rock: hier habt ihr ihn; auch die Weste: hier; ihr gebt einen Backenstreich: hier ist auch der andere Backen; ihr wollt den kleinen Finger: haut ihn ab.",
+    "Ich kann alles töten, von allem abstrahieren.",
+    "So ist der Eigensinn unüberwindlich und kann an ihm selbst alles überwinden.",
+    "Aber das Höchste, was zu überwinden wäre, wäre gerade diese Freiheit, dieser Tod selbst."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "4mqq3zfg1c",
+   "sents": [
+    "Das Zeitungslesen des Morgens früh ist eine Art von realistischem Morgensegen.",
+    "Man orientiert seine Haltung gegen die Welt an Gott oder an dem, was die Welt ist.",
+    "Jenes gibt dieselbe Sicherheit wie hier, daß man wisse, wie man daran sei."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1xr2a7muna",
+   "sents": [
+    "Ora et labora!",
+    "Bete und fluche!",
+    "Fluchen ist sonst, wenn einer Sakrement sagt, aber in der Religion fallen alle diese Dinge, die sonst außereinander, zusammen.",
+    "Die Erde sei verflucht und im Schweiß deines Angesichts sollst du dein Brot essen!",
+    "Arbeiten heißt die Welt vernichten oder fluchen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p37.json"
+}

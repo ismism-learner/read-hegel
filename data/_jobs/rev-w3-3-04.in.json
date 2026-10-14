@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-3-04",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "3",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 3,
+   "de": "Als Bewußtsein aber kommt es wohl außer sich, jedoch ist es in seinem Außersichsein zugleich in sich zurückgehalten, für sich, und sein Außersich ist für es.",
+   "en": "As consciousness, however, it does indeed come outside itself, yet in its being-outside-itself it is at the same time held back within itself, for itself, and its being-outside-itself is for it.",
+   "zh": "但作为意识，它确实来到自身之外，然而它在自己在自身之外的存在中同时又保持在自身之内，是自为的，而它的在自身之外是为它而存在的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 4,
+   "de": "Es ist für es, daß es unmittelbar anderes Bewußtsein ist und nicht ist; und ebenso, daß dies Andere nur für sich ist, indem es sich als Fürsichseiendes aufhebt und nur im Fürsichsein des Anderen für sich ist.",
+   "en": "It is for it that it immediately is and is not another consciousness; and likewise that this other is only for itself insofar as it sublates itself as being-for-itself and is for itself only in the being-for-itself of the other.",
+   "zh": "对它来说，事情是这样：它直接地是另一个意识，又不是另一个意识；同样，这个他者只有通过把自己作为自为存在者加以扬弃，才是自为的，并且只有在另一方的自为存在中才是自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 5,
+   "de": "Jedes ist dem Anderen die Mitte, durch welche jedes sich mit sich selbst vermittelt und zusammenschließt, und jedes sich und dem Anderen unmittelbares für sich seiendes Wesen, welches zugleich nur durch diese Vermittlung so für sich ist.",
+   "en": "Each is the middle for the other, through which each mediates and closes itself with itself, and each is for itself and for the other an immediate, being-for-itself essence, which at the same time is so for itself only through this mediation.",
+   "zh": "每一方对另一方来说都是中项，通过这个中项，每一方都与自身中介并结合起来，而每一方对自己和对另一方来说都是直接的、自为存在着的本质，这个本质同时只有通过这种中介才是如此自为的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 21,
+   "si": 6,
+   "de": "Sie anerkennen sich als gegenseitig sich anerkennend.",
+   "en": "They recognize themselves as mutually recognizing one another.",
+   "zh": "它们承认自己为相互承认着对方的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 22,
+   "si": 0,
+   "de": "Dieser reine Begriff des Anerkennens, der Verdopplung des Selbstbewußtseins in seiner Einheit, ist nun zu betrachten, wie sein Prozeß für das Selbstbewußtsein erscheint.",
+   "en": "This pure concept of recognition, the doubling of self-consciousness within its unity, is now to be considered as its process appears for self-consciousness.",
+   "zh": "这个纯粹的承认概念，即自我意识在其统一中的双重化，现在要来看它的过程如何为自我意识而显现。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 22,
+   "si": 1,
+   "de": "Er wird zuerst die Seite der Ungleichheit beider darstellen oder das Heraustreten der Mitte in die Extreme, welche als Extreme sich entgegengesetzt [sind] und [von welchen] das eine nur Anerkanntes, das andere nur Anerkennendes ist.",
+   "en": "It will first present the side of the inequality of the two, or the stepping-forth of the middle into the extremes, which as extremes are opposed to one another and of which the one is only what is recognized, the other only what recognizes.",
+   "zh": "它首先会展示出两者不平等的那一面，或者说中项走入两个端项，这两个端项作为端项互相对立，其中一个只是被承认者，另一个只是承认者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 0,
+   "de": "Das Selbstbewußtsein ist zunächst einfaches Fürsichsein, sichselbstgleich durch das Ausschließen alles anderen aus sich, sein Wesen und absoluter Gegenstand ist ihm Ich; und es ist in dieser Unmittelbarkeit oder in diesem Sein seines Fürsichseins Einzelnes.",
+   "en": "Self-consciousness is at first simple being-for-itself, self-identical through excluding everything other from itself; its essence and absolute object is for it the I; and in this immediacy, or in this being of its being-for-itself, it is a singular individual.",
+   "zh": "自我意识首先就是简单的自为存在，它通过把一切他者从自身排除出去而自身等同，它的本质和绝对对象对它来说就是“我”；而它在这种直接性中，或者说在它的自为存在的这种存在中，是单一者。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 1,
+   "de": "Was Anderes für es ist, ist als unwesentlicher, mit dem Charakter des Negativen bezeichneter Gegenstand.",
+   "en": "What is other for it is an unessential object, marked with the character of the negative.",
+   "zh": "对它来说是他者的东西，则是非本质的、被标以否定这一特征的对象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 2,
+   "de": "Aber das Andere ist auch ein Selbstbewußtsein; es tritt ein Individuum einem Individuum gegenüber auf.",
+   "en": "But the other is also a self-consciousness; one individual steps forth over against another individual.",
+   "zh": "但另一个也是自我意识；一个个体出现在另一个个体的对面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 3,
+   "de": "So unmittelbar auftretend, sind sie füreinander in der Weise gemeiner Gegenstände; selbständige Gestalten, in das Sein des Lebens – denn als Leben hat sich hier der seiende Gegenstand bestimmt – versenkte Bewußtsein[e], welche füreinander die Bewegung der absoluten Abstraktion, alles unmittelbare Sein zu vertilgen und nur das rein negative Sein des sichselbstgleichen Bewußtseins zu sein, noch nicht vollbracht oder sich einander noch nicht als reines Fürsichsein, d.h. als Selbstbewußtsein[e] dargestellt haben.",
+   "en": "Appearing thus immediately, they are for one another in the manner of common objects; independent shapes, consciousnesses sunk into the being of life — for here the existent object has determined itself as life — which have not yet accomplished for one another the movement of absolute abstraction, of annihilating all immediate being and being only the purely negative being of self-identical consciousness, or have not yet presented themselves to one another as pure being-for-itself, i.e. as self-consciousnesses.",
+   "zh": "这样直接出现时，它们彼此之间就是普通对象的样子；它们是独立的形态，是沉入生命之存在的意识——因为在这里，存在着的对象已经把自己规定为生命——这些意识还没有为彼此完成绝对抽象的运动，即消灭一切直接存在、只成为自身等同的意识的纯粹否定的存在，或者说，它们还没有向彼此表明自己是纯粹的自为存在，即自我意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 4,
+   "de": "Jedes ist wohl seiner selbst gewiß, aber nicht des anderen, und darum hat seine eigene Gewißheit von sich noch keine Wahrheit; denn seine Wahrheit wäre nur, daß sein eigenes Fürsichsein sich ihm als selbständiger Gegenstand oder, was dasselbe ist, der Gegenstand sich als diese reine Gewißheit seiner selbst dargestellt hätte.",
+   "en": "Each is indeed certain of itself, but not of the other, and therefore its own certainty of itself still has no truth; for its truth would only be that its own being-for-itself had presented itself to it as an independent object, or, what is the same, that the object had presented itself as this pure certainty of itself.",
+   "zh": "每一个虽然确信自己，但不确信另一个，因此它自己对自己的确定性还没有真理；因为它的真理只会是：它自己的自为存在已经向它表明自己是独立的对象，或者，同样可以说，对象已经表明自己是对自己的这种纯粹确定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 23,
+   "si": 5,
+   "de": "Dies aber ist nach dem Begriffe des Anerkennens nicht möglich, als daß wie der andere für ihn, so er für den anderen, jeder an sich selbst durch sein eigenes Tun und wieder durch das Tun des anderen diese reine Abstraktion des Fürsichseins vollbringt.",
+   "en": "But according to the concept of recognition this is not possible unless, just as the other is for it, it is for the other, and each in its own self accomplishes this pure abstraction of being-for-itself through its own doing and again through the doing of the other.",
+   "zh": "但按照承认的概念，这只有在下述情况下才可能：就像另一个对它来说那样，它也对另一个来说如此，每一个都在自身身上、通过自己的行动、并又通过另一个的行动，完成自为存在的这种纯粹抽象。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 0,
+   "de": "Die Darstellung seiner aber als der reinen Abstraktion des Selbstbewußtseins besteht darin, sich als reine Negation seiner gegenständlichen Weise zu zeigen, oder es zu zeigen, an kein bestimmtes Dasein geknüpft, an die allgemeine Einzelheit des Daseins überhaupt nicht, nicht an das Leben geknüpft zu sein.",
+   "en": "But its presentation as the pure abstraction of self-consciousness consists in showing itself as the pure negation of its objective mode, or in showing that it is tied to no determinate being, not tied to the universal singleness of determinate being at all, not tied to life.",
+   "zh": "但它把自己表明为自我意识的纯粹抽象，则在于它显示出自己是它对象性方式的纯粹否定，或者说在于显示出它不系于任何特定的定在，根本不系于定在的普遍单一性，不系于生命。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 1,
+   "de": "Diese Darstellung ist das gedoppelte Tun: Tun des Anderen und Tun durch sich selbst.",
+   "en": "This presentation is the doubled doing: the doing of the other and the doing through itself.",
+   "zh": "这种表明是双重的行动：他者的行动，以及通过自身的行动。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 2,
+   "de": "Insofern es Tun des Anderen ist, geht also jeder auf den Tod des Anderen.",
+   "en": "Insofar as it is the doing of the other, each thus goes for the death of the other.",
+   "zh": "就它是他者的行动而言，每一方便都冲着另一个的死亡而去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 3,
+   "de": "Darin aber ist auch das zweite, das Tun durch sich selbst, vorhanden; denn jenes schließt das Daransetzen des eigenen Lebens in sich.",
+   "en": "But in this the second, the doing through itself, is also present; for the former includes the staking of one's own life within itself.",
+   "zh": "但在这里也有第二个行动，即通过自身的行动；因为前一个行动本身包含着拿自己的生命去冒险。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 4,
+   "de": "Das Verhältnis beider Selbstbewußtsein[e] ist also so bestimmt, daß sie sich selbst und einander durch den Kampf auf Leben und Tod bewähren.",
+   "en": "The relation of the two self-consciousnesses is thus so determined that they prove themselves and one another through the struggle of life and death.",
+   "zh": "两个自我意识的关系因此是这样规定的：它们通过生死斗争来证实自己和彼此。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 5,
+   "de": "– Sie müssen in diesen Kampf gehen, denn sie müssen die Gewißheit ihrer selbst, für sich zu sein, zur Wahrheit an dem Anderen und an ihnen selbst erheben.",
+   "en": "— They must enter into this struggle, for they must raise the certainty of themselves, of being for themselves, to truth in the other and in themselves.",
+   "zh": "——它们必须进入这场斗争，因为它们必须把自身确信自己是自为存在这一确定性，在另一个身上和在自己身上提升为真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 6,
+   "de": "Und es ist allein das Daransetzen des Lebens, wodurch die Freiheit, wodurch es bewährt wird, daß dem Selbstbewußtsein nicht das Sein, nicht die unmittelbare Weise, wie es auftritt, nicht sein Versenktsein in die Ausbreitung des Lebens das Wesen, – sondern daß an ihm nichts vorhanden, was für es nicht verschwindendes Moment wäre, daß es nur reines Fürsichsein ist.",
+   "en": "And it is solely the staking of life through which freedom, through which it is proved that for self-consciousness not being, not the immediate manner in which it appears, not its being-sunk in the expanse of life is the essence — but that in it there is nothing that would not be for it a vanishing moment, that it is only pure being-for-itself.",
+   "zh": "而且唯有拿生命去冒险，自由才由此、并且唯有由此才得到证实：对自我意识来说，本质不是存在，不是它出现的那种直接方式，不是它沉入生命之展开，——而是在它身上没有任何东西对它来说不是正在消失的环节，它只是纯粹的自为存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 7,
+   "de": "Das Individuum, welches das Leben nicht gewagt hat, kann wohl als Person anerkannt werden; aber es hat die Wahrheit dieses Anerkanntseins als eines selbständigen Selbstbewußtseins nicht erreicht.",
+   "en": "The individual that has not risked life can indeed be recognized as a person; but it has not attained the truth of this recognition as that of an independent self-consciousness.",
+   "zh": "没有拿生命去冒险的个体，当然可以被承认为人格；但它还没有达到这种承认的真理，即作为独立自我意识而得到承认的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 24,
+   "si": 8,
+   "de": "Ebenso muß jedes auf den Tod des Anderen gehen, wie es sein Leben daransetzt; denn das Andere gilt ihm nicht mehr als es selbst; sein Wesen stellt sich ihm als ein Anderes dar, es ist außer sich, es muß sein Außersichsein aufheben; das Andere ist mannigfaltig befangenes und seiendes Bewußtsein; es muß sein Anderssein als reines Fürsichsein oder als absolute Negation anschauen.",
+   "en": "Just as each must go for the death of the other, so too does each stake its life; for the other no longer counts for it as itself; its essence presents itself to it as an other, it is outside itself, it must sublate its being-outside-itself; the other is a manifoldly entangled and existent consciousness; it must intuit its otherness as pure being-for-itself or as absolute negation.",
+   "zh": "同样，每一个都必须像它拿自己的生命去冒险那样，冲着另一个的死亡而去；因为另一个在它看来不再等于它自己；它的本质向它呈现为一个他者，它在自身之外，它必须扬弃自己的在自身之外；另一个是多种多样地被纠缠着的、存在着的意识；它必须把它的他在当作纯粹的自为存在或绝对的否定来直观。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 25,
+   "si": 0,
+   "de": "Diese Bewährung aber durch den Tod hebt ebenso die Wahrheit, welche daraus hervorgehen sollte, als damit auch die Gewißheit seiner selbst überhaupt auf; denn wie das Leben die natürliche Position des Bewußtseins, die Selbständigkeit ohne die absolute Negativität ist, so ist er die natürliche Negation desselben, die Negation ohne die Selbständigkeit, welche also ohne die geforderte Bedeutung des Anerkennens bleibt.",
+   "en": "But this proving through death sublates the truth that should have emerged from it, and therewith also the certainty of itself in general; for as life is the natural position of consciousness, independence without absolute negativity, so death is the natural negation of it, negation without independence, which therefore remains without the required meaning of recognition.",
+   "zh": "但这种通过死亡的证实，同样扬弃了本应从中产生出来的真理，并因此也扬弃了它对自己的确定性本身；因为正如生命是意识的自然立场，是没有绝对否定性的独立性，死亡就是意识的自然否定，是没有独立性的否定，因而这种否定仍然没有承认所要求的意义。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 25,
+   "si": 1,
+   "de": "Durch den Tod ist zwar die Gewißheit geworden, daß beide ihr Leben wagten und es an ihnen und an dem Anderen verachteten; aber nicht für die, welche diesen Kampf bestanden.",
+   "en": "Through death the certainty has indeed come about that both risked their lives and despised it in themselves and in the other; but not for those who withstood this struggle.",
+   "zh": "通过死亡固然产生了这样的确定性：两者都拿自己的生命去冒险，并在自己身上和在另一个身上轻视它；但这确定性不是为那些经受了这场斗争的人而有的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 25,
+   "si": 2,
+   "de": "Sie heben ihr in dieser fremden Wesenheit, welches das natürliche Dasein ist, gesetztes Bewußtsein oder sie heben sich [auf] und werden als die für sich sein wollenden Extreme aufgehoben.",
+   "en": "They sublate the consciousness posited in this alien essentiality, which is natural determinate being, or they sublate themselves, and are sublated as the extremes that want to be for themselves.",
+   "zh": "它们扬弃了自己在这种陌生的本质性中——这种本质性就是自然的定在——被设定的意识，或者说，它们扬弃了自己，并作为那些想成为自为存在的端项而被扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 25,
+   "si": 3,
+   "de": "Es verschwindet aber damit aus dem Spiele des Wechsels das wesentliche Moment, sich in Extreme entgegengesetzter Bestimmtheiten zu zersetzen; und die Mitte fällt in eine tote Einheit zusammen, welche in tote, bloß seiende, nicht entgegengesetzte Extreme zersetzt ist; und die beiden geben und empfangen sich nicht gegenseitig voneinander durch das Bewußtsein zurück, sondern lassen einander nur gleichgültig, als Dinge, frei.",
+   "en": "But with this there vanishes from the play of alternation the essential moment of decomposing itself into extremes of opposed determinacies; and the middle collapses into a dead unity, which is decomposed into dead, merely existent, not opposed extremes; and the two do not give and receive themselves back from one another through consciousness, but only let one another go free indifferently, as things.",
+   "zh": "但这样一来，从交替的游戏中就消失了那个本质的环节，即把自己分解为各种对立规定性的端项；而中项则塌缩为一个死的统一体，这个统一体被分解为死的、仅仅存在着的、并不对立的端项；两者也不再通过意识而互相给出和收回自身，而是仅仅无所谓地像物一样让彼此自由。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 25,
+   "si": 4,
+   "de": "Ihre Tat ist die abstrakte Negation, nicht die Negation des Bewußtseins, welches so aufhebt, daß es das Aufgehobene aufbewahrt und erhält und hiermit sein Aufgehobenwerden überlebt.",
+   "en": "Their deed is abstract negation, not the negation of consciousness, which sublates in such a way that it preserves and retains what is sublated, and thereby survives its own being-sublated.",
+   "zh": "它们的行动是抽象的否定，而不是意识的否定，意识的否定这样扬弃，以致它把被扬弃的东西保存并保留下来，并因此活过了自己的被扬弃。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 26,
+   "si": 0,
+   "de": "In dieser Erfahrung wird es dem Selbstbewußtsein, daß ihm das Leben so wesentlich als das reine Selbstbewußtsein ist.",
+   "en": "In this experience it becomes evident to self-consciousness that life is as essential to it as pure self-consciousness.",
+   "zh": "在这种经验中，自我意识明白了：生命对它来说与纯粹自我意识同样是本质的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 26,
+   "si": 1,
+   "de": "Im unmittelbaren Selbstbewußtsein ist das einfache Ich der absolute Gegenstand, welcher aber für uns oder an sich die absolute Vermittlung ist und die bestehende Selbständigkeit zum wesentlichen Momente hat.",
+   "en": "In immediate self-consciousness the simple I is the absolute object, which, however, for us or in itself is the absolute mediation and has subsisting independence as an essential moment.",
+   "zh": "在直接的自我意识中，简单的“我”是绝对对象，但这个对象对我们来说或自在说来是绝对的中介，并且把持存着的独立性当作本质的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 26,
+   "si": 2,
+   "de": "Die Auflösung jener einfachen Einheit ist das Resultat der ersten Erfahrung; es ist durch sie ein reines Selbstbewußtsein und ein Bewußtsein gesetzt, welches nicht rein für sich, sondern für ein anderes, d.h. als seiendes Bewußtsein oder Bewußtsein in der Gestalt der Dingheit ist.",
+   "en": "The dissolution of that simple unity is the result of the first experience; through it a pure self-consciousness and a consciousness are posited, which is not purely for itself but for another, i.e. is as existent consciousness or consciousness in the shape of thinghood.",
+   "zh": "那个简单统一体的解体是第一个经验的结果；通过它，一个纯粹的自我意识和一个意识被设定起来，后者不是纯粹自为的，而是为他的，也就是说，是作为存在着的意识或具有物性形态的意识。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "3",
+   "bi": 26,
+   "si": 3,
+   "de": "Beide Momente sind wesentlich; – da sie zunächst ungleich und entgegengesetzt sind und ihre Reflexion in die Einheit sich noch nicht ergeben hat, so sind sie als zwei entgegengesetzte Gestalten des Bewußtseins; die eine das selbständige, welchem das Fürsichsein, die andere das unselbständige, dem das Leben oder das Sein für ein Anderes das Wesen ist; jenes ist der Herr, dies der Knecht.",
+   "en": "Both moments are essential; — since they are at first unequal and opposed, and their reflection into unity has not yet come about, they are as two opposed shapes of consciousness; the one the independent one, for which being-for-itself is the essence, the other the dependent one, for which life or being for another is the essence; the former is the master, the latter the slave.",
+   "zh": "两个环节都是本质的；——由于它们最初是不平等的、对立的，而它们向统一中的反思还没有产生出来，所以它们是两个对立的意识形态；一个是独立的意识形态，自为存在是它的本质，另一个是不独立的意识形态，生命或为他存在是它的本质；前者是主人，后者是奴隶。"
+  }
+ ]
+}

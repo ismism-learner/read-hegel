@@ -1,0 +1,79 @@
+{
+ "id": "w1-14-0",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "14.",
+ "heading": "14.",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "yq7f1e1yt6",
+   "text": "14."
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "10w1fcj1ty",
+   "sents": [
+    "In Italien, wo die politische Freiheit in reineren Formen und schöneren Zügen sich dargestellt hatte, aber etwas früher verlorenging als in Deutschland, erhob sich in Bologna die Rechtsgelehrsamkeit früher als die Poesie, und die Edelsten des Volks strömten von allen Seiten dahin und begnügten sich, in ihrem Vaterland gelehrte und genaue Richter zu werden, denn auf dem Richterstuhl allein waren sie noch Diener einer Idee, Diener der Gesetze, da sie sonst nur Diener eines Mannes waren. - In der mittleren Geschichte von Mittel- und Oberitalien treffen wir die Verbindung der Menschen zu Staaten äußerst unvollständig und die Bande äußerst locker an.",
+    "Die Geschichte Italiens ist in diesem Zeitraum nicht eigentlich die Geschichte eines Volks oder mehrerer Völker, als vielmehr die einer Menge von Individuen, und weil in diesem Gemälde keine großen Massen oder nur in kurzen Zeiträumen auftreten und sogleich wieder zerstäuben, so ist es äußerst schwer, allgemeine Gesichtspunkte dafür aufzufinden.",
+    "Desto interessanter ist die Geschichte einzelner Menschen, da ihre Individualität nicht in den allgemeinen Formen von Staat und Verfassung untergegangen ist.",
+    "Es ist gewöhnlich nur ein Interesse des Augenblicks, das die Menschen vereinigt.",
+    "Selten sehen wir eine Vereinigung, die ein bleibendes Interesse zum Grunde gehabt hätte.",
+    "Alle Streitigkeiten betrafen die Rechte einzelner Familien und Menschen, die nie dazu gebracht werden konnten, zum Besten gesellschaftlicher Vereinigung von ihren Rechten aufzugeben.",
+    "Das Zusammenwohnen in Städten war mehr ein Beieinandersein im gleichen Raum, innerhalb der gleichen Mauern, als Unterwerfung unter gleiche Gesetze.",
+    "Die Macht der Obrigkeit war schwach.",
+    "Es herrschten schlechterdings noch keine Ideen.",
+    "Das platte Land nicht nur war mit einer unzähligen Menge von Schlössern bedeckt, die jeder zu seiner Sicherheit erbaut hatte; auch jeder Palast der Familien in der Stadt war mit Türmen und auf andere Art befestigt, wo sie einander belagerten.",
+    "Ausübung der Gerechtigkeit war nur der Sieg einer Faktion über die andere."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "h",
+   "hash": "1px7min10p",
+   "text": "15."
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "emrrxq5lg5",
+   "sents": [
+    "Öffentliche Todesstrafe.",
+    "Montesquieu macht bei Gelegenheit der Japaneser die Bemerkung, daß die vielen öffentlichen und dabei grausamen Hinrichtungen den Charakter des Volkes wild und gegen diese Strafen selbst wie gegen die Verbrechen gleichgültig gemacht haben.",
+    "Woher diese Erscheinung, die von dem Zweck, den bei öffentlichen Strafen Gesetzgeber und Richter vor Augen gehabt hatten, nämlich Schrecken und Furcht vor den Verbrechen, gerade das Gegenteil hervorbringt?",
+    "Ist es bloß die Gewohnheit, die dem Tode durch den Henker, den fürchterlichen Anstalten dazu der Todesangst und der allgemeinen Verachtung oder, was manchem noch drückender ist, dem allgemeinen Mitleiden sein Ekelhaftes, Grauliches und Schauderhaftes benimmt?",
+    "Gewohnheit würde nur Gleichgültigkeit wirken, wie beim Krieger, zu dessen Rechter tausend und zu dessen Linker zehntausend fallen.",
+    "Was ist es eigentlich, das bei einer Hinrichtung zunächst in die Augen fällt, und welche Empfindung, die durch jene Erscheinung veranlaßt wird? - Ein wehrloser Mensch ist es, der uns in die Augen fällt, der gebunden, von einer zahlreichen Wache umgeben, von ehrlosen Henkersknechten gehalten, hinausgeführt und da ganz wehrlos [ist] unter dem Zuruf und Gebet der Geistlichen, die der Missetäter nachschreit, um das Bewußtsein des gegenwärtigen Augenblicks zu übertäuben.",
+    "So stirbt er.",
+    "Der Soldat, der neben dem anderen zusammengehauen wird oder, von einem unsichtbaren Blei getroffen, niederstürzt, erweckt nicht die Empfindung in uns, die die Hinrichtung des Missetäters wirkt.",
+    "Ich denke, bei diesem letzten Augenblick empfinden wir es, daß einem Menschen sein Recht, sich für sein Leben zu wehren, entzogen ist.",
+    "Der Mensch, der im Kampf mit einem anderen stirbt, kann von uns bedauert werden, aber es hat nicht das Kränkende für uns, das der Tod von jenem hat: denn jener hat noch sein natürliches Recht, sich für sein Leben zu wehren, ausgeübt.",
+    "Auch fiel er nur, indem der andere das gleiche Recht behauptete.",
+    "Die empörende Empfindung, einen Wehrlosen von einer noch dazu überlegenen Anzahl Bewaffneter hinrichten zu sehen, wird bei den Zuschauern nur dadurch nicht in Wut verwandelt, daß ihnen der Ausspruch des Gesetzes heilig ist.",
+    "Aber diese Vorstellung vermag jene Empfindung, die durch den unmittelbaren Anblick erzeugt wird, nicht ganz zu verdrängen.",
+    "Wenn die Henker schon Diener der Gerechtigkeit sind, so hat doch diese bloße Vorstellung die allgemeine Empfindung nicht zu unterdrücken vermocht, welche das Handwerk oder den Stand dieser Menschen, die hier im Angesicht des ganzen Volks mit kaltem Blut einen Wehrlosen töten können, die hier ganz als blinde Werkzeuge, so wie die wilden Tiere, denen man ehemals die Verbrecher vorwarf, ihren Dienst verrichten, mit dem Brandmal der Ehrlosigkeit stempelte.",
+    "Der aufgeklärte Verstand mag diese Stimme des Volks und das dunkle Gefühl, worauf sie gegründet ist, noch so sehr als Vorurteil verschreien, ihr noch so dringend wiederholen, daß er in der Analyse jenes Gefühls keinen vernünftigen Grund antrifft, und dagegen die Henker als Diener des Staats und der Gerechtigkeit, die ihre Pflicht tun, mit anderen Staatsbeamten in Parallele setzen: er wird, wie es ihm mit noch so manchen anderen Empfindungen geht, auch diese nicht verdrängen können.",
+    "Der billig Denkende wird aber von dem Handwerk, das seine Empfindung empört, immer den Menschen selbst zu unterscheiden wissen und ihm Gerechtigkeit widerfahren lassen, wenn er ihm auch ein ander Handwerk wünschte, so wie er auch sonst, von der Schändlichkeit der Sitte oder Gewohnheit eines Volks überzeugt, ein Individuum, mit dem er zu tun hätte, deswegen doch nicht für einen Schurken hielte. - Eine auffallende Bemerkung will man über die Menschen dieses Standes gemacht haben, daß sie im ganzen stille, rechtschaffne und mehrenteils fromme Leute seien.",
+    "Sollte ihre Beschäftigung, die ihnen die Strafe der Verbrechen am unmittelbarsten zeigt, diese Wirkung haben, oder nicht vielmehr ein Selbstgefühl, gegen die Verachtung, die man ihrem Stande zeigt, ihr Individuum zu retten; das Gefühl, daß Würdigkeit der Person von der Achtung oder Nichtachtung des Standes unabhängig ist? - Unter den Griechen weiß ich nicht, daß öffentliche Hinrichtungen gewesen wären.",
+    "Sokrates wenigstens trank im Gefängnis den Giftbecher, und Orest bei Euripides wollte die selbstgewählte Todesart auch selbst an sich vollziehen.",
+    "Würde heutigentags jemand den Vorschlag tun, das Öffentliche der Todesstrafen abzuschaffen, so würde ihm mit tausend Zungen entgegengeschrien werden, daß ein Hauptendzweck der Strafen, das Beispiel für andere, dabei verlorenginge.",
+    "Es scheint, die Griechen haben sich nicht diesen Endzweck der Strafen vorgestellt und ihre Gesetzgeber es nicht für nötig gehalten, durch ein grauenvolles Schauspiel die Empfindung und die Einbildungskraft zu erschüttern und dadurch das zu ersetzen, was innere Moralität und Achtung für die Gesetze nicht bewirken konnten.",
+    "Die behauptete Notwendigkeit grausamer öffentlicher Strafen beweist im ganzen weiter nichts als das wenige Zutrauen, das Gesetzgeber und Richter in das sittliche Gefühl ihres Volks setzen könnten. - Ebenso laut würde man gegen einen solchen Vorschlag sagen, daß, wenn Todesurteile nicht öffentlich vollzogen würden, für gewissenlose Richter ein Zaum des Unrechts weniger sein würde.",
+    "Der Despotismus würde im Dunkeln ungescheuter morden, als er es öffentlich wagen darf.",
+    "(Werden in Venedig die Hinrichtungen alle oder nur die der Staatsverbrecher privatim vollzogen?)",
+    "Gegen Bürger eines Staates, die dieses zu befürchten hätten und diesen Einwurf vorbrächten, ist nichts zu antworten, und überhaupt in einem jeden Staate, in welchem ein nicht vom Volke aus seiner Mitte erwähltes Gericht bei verschlossenen Türen über das Leben eines Mitbürgers abspricht, ist den Untertanen nichts so sehr zu wünschen, als daß dieser Schatten einer Wichtigkeit der Stimme des Publikums erhalten werde: denn vor der öffentlichen Hinrichtung rechtfertigt sich das Gericht gleichsam wegen seines getanen Urteilsspruches, der mit Gründen abgelesen wird, in den Augen des Volks.",
+    "Aber in Staaten, in welchen der Bürger das Recht hat, von seinen Pairs gerichtet zu werden, wo jeder in den Gerichtssaal freien Zutritt hat, würde diese Unbequemlichkeit wegfallen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/14.p0.json"
+}

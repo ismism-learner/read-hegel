@@ -1,0 +1,78 @@
+{
+ "id": "w3-0-7",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 0,
+ "chunkTitle": "Vorrede",
+ "heading": "Vorrede",
+ "blocks": [
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1jai3211v3",
+   "sents": [
+    "Indem die wahre Gestalt der Wahrheit in diese Wissenschaftlichkeit gesetzt wird – oder, was dasselbe ist, indem die Wahrheit behauptet wird, an dem Begriffe allein das Element ihrer Existenz zu haben –, so weiß ich, daß dies im Widerspruch mit einer Vorstellung und deren Folgen zu stehen scheint, welche eine so große Anmaßung als Ausbreitung in der Überzeugung des Zeitalters hat.",
+    "Eine Erklärung über diesen Widerspruch scheint darum nicht überflüssig; wenn sie auch hier weiter nichts als gleichfalls eine Versicherung wie das, gegen was sie geht, sein kann.",
+    "Wenn nämlich das Wahre nur in demjenigen oder vielmehr nur als dasjenige existiert, was bald Anschauung, bald unmittelbares Wissen des Absoluten, Religion, das Sein – nicht im Zentrum der göttlichen Liebe, sondern das Sein desselben selbst – genannt wird, so wird von da aus zugleich für die Darstellung der Philosophie vielmehr das Gegenteil der Form des Begriffs gefordert.",
+    "Das Absolute soll nicht begriffen, sondern gefühlt und angeschaut [werden], nicht sein Begriff, sondern sein Gefühl und Anschauung sollen das Wort führen und ausgesprochen werden."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1kepzdh2j3",
+   "sents": [
+    "Wird die Erscheinung einer solchen Forderung nach ihrem allgemeineren Zusammenhange aufgefaßt und auf die Stufe gesehen, worauf der selbstbewußte Geist gegenwärtig steht, so ist er über das substantielle Leben, das er sonst im Elemente des Gedankens führte, hinaus, – über diese Unmittelbarkeit seines Glaubens, über die Befriedigung und Sicherheit der Gewißheit, welche das Bewußtsein von seiner Versöhnung mit dem Wesen und dessen allgemeiner, der inneren und äußeren, Gegenwart besaß.",
+    "Er ist nicht nur darüber hinausgegangen in das andere Extrem der substanzlosen Reflexion seiner in sich selbst, sondern auch über diese.",
+    "Sein wesentliches Leben ist ihm nicht nur verloren; er ist sich auch dieses Verlustes und der Endlichkeit, die sein Inhalt ist, bewußt.",
+    "Von den Trebern sich wegwendend, daß er im argen liegt bekennend und darauf schmähend, verlangt er nun von der Philosophie nicht sowohl das Wissen dessen, was er ist, als zur Herstellung jener Substantialität und der Gediegenheit des Seins erst wieder durch sie zu gelangen.",
+    "Diesem Bedürfnisse soll sie also nicht so sehr die Verschlossenheit der Substanz aufschließen und diese zum Selbstbewußtsein erheben, nicht so sehr das chaotische Bewußtsein zur gedachten Ordnung und zur Einfachheit des Begriffs zurückbringen, als vielmehr die Sonderungen des Gedankens zusammenschütten, den unterscheidenden Begriff unterdrücken und das Gefühl des Wesens herstellen, nicht sowohl Einsicht als Erbauung gewähren.",
+    "Das Schöne, Heilige, Ewige, die Religion und Liebe sind der Köder, der gefordert wird, um die Lust zum Anbeißen zu erwecken; nicht der Begriff, sondern die Ekstase, nicht die kalt fortschreitende Notwendigkeit der Sache, sondern die gärende Begeisterung soll die Haltung und fortleitende Ausbreitung des Reichtums der Substanz sein."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "13jrdyq1mt",
+   "sents": [
+    "Dieser Forderung entspricht die angestrengte und fast eifernd und gereizt sich zeigende Bemühung, die Menschen aus der Versunkenheit ins Sinnliche, Gemeine und Einzelne herauszureißen und ihren Blick zu den Sternen aufzurichten; als ob sie, des Göttlichen ganz vergessend, mit Staub und Wasser, wie der Wurm, auf dem Punkte sich zu befriedigen stünden.",
+    "Sonst hatten sie einen Himmel mit weitläufigem Reichtume von Gedanken und Bildern ausgestattet.",
+    "Von allem, was ist, lag die Bedeutung in dem Lichtfaden, durch den es an den Himmel geknüpft war; an ihm, statt in dieser Gegenwart zu verweilen, glitt der Blick über sie hinaus, zum göttlichen Wesen, zu einer, wenn man so sagen kann, jenseitigen Gegenwart hinauf.",
+    "Das Auge des Geistes mußte mit Zwang auf das Irdische gerichtet und bei ihm festgehalten werden; und es hat einer langen Zeit bedurft, jene Klarheit, die nur das Überirdische hatte, in die Dumpfheit und Verworrenheit, worin der Sinn des Diesseitigen lag, hineinzuarbeiten und die Aufmerksamkeit auf das Gegenwärtige als solches, welche Erfahrung genannt wurde, interessant und geltend zu machen.",
+    "– Jetzt scheint die Not des Gegenteils vorhanden, der Sinn so sehr in dem Irdischen festgewurzelt, daß es gleicher Gewalt bedarf, ihn darüber zu erheben.",
+    "Der Geist zeigt sich so arm, daß er sich, wie in der Sandwüste der Wanderer nach einem einfachen Trunk Wassers, nur nach dem dürftigen Gefühle des Göttlichen überhaupt für seine Erquickung zu sehnen scheint.",
+    "An diesem, woran dem Geiste genügt, ist die Größe seines Verlustes zu ermessen."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1jpglde1ot",
+   "sents": [
+    "Diese Genügsamkeit des Empfangens oder Sparsamkeit des Gebens ziemt der Wissenschaft nicht.",
+    "Wer nur Erbauung sucht, wer die irdische Mannigfaltigkeit seines Daseins und des Gedankens in Nebel einzuhüllen und nach dem unbestimmten Genüsse dieser unbestimmten Göttlichkeit verlangt, mag zusehen, wo er dies findet; er wird leicht selbst sich etwas vorzuschwärmen und damit sich aufzuspreizen die Mittel finden.",
+    "Die Philosophie aber muß sich hüten, erbaulich sein zu wollen."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "kwbzzogcku",
+   "sents": [
+    "Noch weniger muß diese Genügsamkeit, die auf die Wissenschaft Verzicht tut, darauf Anspruch machen, daß solche Begeisterung und Trübheit etwas Höheres sei als die Wissenschaft.",
+    "Dieses prophetische Reden meint recht im Mittelpunkte und der Tiefe zu bleiben, blickt verächtlich auf die Bestimmtheit (den Horos) und hält sich absichtlich von dem Begriffe und der Notwendigkeit entfernt als von der Reflexion, die nur in der Endlichkeit hause.",
+    "Wie es aber eine leere Breite gibt, so auch eine leere Tiefe, wie eine Extension der Substanz, die sich in endliche Mannigfaltigkeit ergießt, ohne Kraft, sie zusammenzuhalten, so eine gehaltlose Intensität, welche, als lautere Kraft ohne Ausbreitung sich haltend, dasselbe ist, was die Oberflächlichkeit.",
+    "Die Kraft des Geistes ist nur so groß als ihre Äußerung, seine Tiefe nur so tief, als er in seiner Auslegung sich auszubreiten und sich zu verlieren getraut.",
+    "Zugleich wenn dies begrifflose substantielle Wissen die Eigenheit des Selbsts in dem Wesen versenkt zu haben und wahr und heilig zu philosophieren vorgibt, so verbirgt es sich dies, daß es, statt dem Gotte ergeben zu sein, durch die Verschmähung des Maßes und der Bestimmung vielmehr nur bald in sich selbst die Zufälligkeit des Inhalts, bald in ihm die eigene Willkür gewähren läßt.",
+    "– Indem sie sich dem ungebändigten Gären der Substanz überlassen, meinen sie, durch die Einhüllung des Selbstbewußtseins und Aufgeben des Verstandes die Seinen zu sein, denen Gott die Weisheit im Schlafe gibt; was sie so in der Tat im Schlafe empfangen und gebären, sind darum auch Träume."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/0.p7.json"
+}

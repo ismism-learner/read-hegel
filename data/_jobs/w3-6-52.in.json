@@ -1,0 +1,62 @@
+{
+ "id": "w3-6-52",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Die Verwirklichung des vernünftigen Selbstbewußtseins durch sich selbst",
+ "heading": "B. Die Verwirklichung des vernünftigen Selbstbewußtseins durch sich selbst",
+ "blocks": [
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "1a89a2wzz2",
+   "sents": [
+    "Der Weltlauf siegt also über das, was die Tugend im Gegensatze gegen ihn ausmacht; er siegt über sie, der die wesenlose Abstraktion das Wesen ist.",
+    "Er siegt aber nicht über etwas Reales, sondern über das Erschaffen von Unterschieden, welche keine sind, über diese pomphaften Reden vom Besten der Menschheit und der Unterdrückung derselben, von der Aufopferung fürs Gute und dem Mißbrauche der Gaben; solcherlei ideale Wesen und Zwecke sinken als leere Worte zusammen, welche das Herz erheben und die Vernunft leer lassen, erbauen, aber nichts aufbauen; Deklamationen, welche nur diesen Inhalt bestimmt aussprechen, daß das Individuum, welches für solche edle Zwecke zu handeln vorgibt und solche vortreffliche Redensarten führt, sich für ein vortreffliches Wesen gilt, – eine Aufschwellung, welche sich und anderen den Kopf groß macht, aber groß von einer leeren Aufgeblasenheit.",
+    "– Die antike Tugend hatte ihre bestimmte sichere Bedeutung, denn sie hatte an der Substanz des Volks ihre inhaltsvolle Grundlage und ein wirkliches, schon existierendes Gutes zu ihrem Zwecke; sie war daher auch nicht gegen die Wirklichkeit als eine allgemeine Verkehrtheit und gegen einen Weltlauf gerichtet.",
+    "Die betrachtete aber ist aus der Substanz heraus, eine wesenlose Tugend, eine Tugend nur der Vorstellung und der Worte, die jenes Inhalts entbehren.",
+    "– Diese Leerheit der mit dem Weltlaufe kämpfenden Rednerei würde sich sogleich aufdecken, wenn gesagt werden sollte, was ihre Redensarten bedeuten; – sie werden daher als bekannt vorausgesetzt.",
+    "Die Forderung, dies Bekannte zu sagen, würde entweder durch einen neuen Schwall von Redensarten erfüllt oder ihr die Berufung auf das Herz entgegengesetzt, welches innerhalb sage, was sie bedeuten; d.h. die Unvermögenheit, es in der Tat zu sagen, würde eingestanden.",
+    "– Die Nichtigkeit jener Rednerei scheint auch auf eine bewußtlose Art für die Bildung unseres Zeitalters Gewißheit erlangt zu haben, indem aus der ganzen Masse jener Redensarten und der Weise, sich damit aufzuspreizen, alles Interesse verschwunden ist; ein Verlust, der sich darin ausdrückt, daß sie nur Langeweile machen."
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "19fpmew1df",
+   "sents": [
+    "Das Resultat also, welches aus diesem Gegensatze hervorgeht, besteht darin, daß das Bewußtsein die Vorstellung von einem an sich Guten, das noch keine Wirklichkeit hätte, als einen leeren Mantel fahren läßt.",
+    "Es hat in seinem Kampfe die Erfahrung gemacht, daß der Weltlauf so übel nicht ist, als er aussah; denn seine Wirklichkeit ist die Wirklichkeit des Allgemeinen.",
+    "Es fällt mit dieser Erfahrung das Mittel, durch Aufopferung der Individualität das Gute hervorzubringen, hinweg, denn die Individualität ist gerade die Verwirklichung des Ansichseienden; und die Verkehrung hört auf, als eine Verkehrung des Guten angesehen zu werden, denn sie ist vielmehr eben die Verkehrung desselben, als eines bloßen Zwecks, in die Wirklichkeit: die Bewegung der Individualität ist die Realität des Allgemeinen."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "ujvv0u16a3",
+   "sents": [
+    "In der Tat ist hiermit aber ebenso dasjenige besiegt worden und verschwunden, was als Weltlauf dem Bewußtsein des Ansichseienden gegenüberstand.",
+    "Das Fürsichsein der Individualität war daran dem Wesen oder Allgemeinen entgegengesetzt und erschien als eine von dem Ansichsein getrennte Wirklichkeit.",
+    "Indem aber sich gezeigt hat, daß die Wirklichkeit in ungetrennter Einheit mit dem Allgemeinen ist, so erweist sich das Fürsichsein des Weltlaufs, ebenso wie das Ansich der Tugend nur eine Ansicht ist, auch nicht mehr zu sein.",
+    "Die Individualität des Weltlaufs mag wohl nur für sich oder eigennützig zu handeln meinen; sie ist besser als sie meint, ihr Tun ist zugleich ansichseiendes, allgemeines Tun.",
+    "Wenn sie eigennützig handelt, so weiß sie nur nicht, was sie tut; und wenn sie versichert, alle Menschen handeln eigennützig, so behauptet sie nur, alle Menschen haben kein Bewußtsein darüber, was das Tun ist.",
+    "– Wenn sie für sich handelt, so ist dies eben die Hervorbringung des nur erst Ansichseienden zur Wirklichkeit; der Zweck des Fürsichseins also, der dem Ansich sich entgegengesetzt meint, – seine leere Pfiffigkeit sowie seine feinen Erklärungen, die den Eigennutz überall aufzuzeigen wissen, sind ebenso verschwunden als der Zweck des Ansich und seine Rednerei."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1sj683z6gz",
+   "sents": [
+    "Es ist also das Tun und Treiben der Individualität Zweck an sich selbst, der Gebrauch der Kräfte, das Spiel ihrer Äußerungen ist es, was ihnen, die sonst das tote Ansich wären, Leben gibt, das Ansich nicht ein unausgeführtes, existenzloses und abstraktes Allgemeines, sondern es selbst ist unmittelbar diese Gegenwart und Wirklichkeit des Prozesses der Individualität."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/6.p52.json"
+}

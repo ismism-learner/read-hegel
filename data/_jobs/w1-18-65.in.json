@@ -1,0 +1,65 @@
+{
+ "id": "w1-18-65",
+ "volume": {
+  "id": "w1",
+  "bands": [
+   1
+  ],
+  "de": "Frühe Schriften",
+  "zh": "早期著作"
+ },
+ "chunk": 18,
+ "chunkTitle": "[8. Die Bildung von Nationalstaaten]",
+ "heading": "[8. Die Bildung von Nationalstaaten]",
+ "blocks": [
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "g064nfse04",
+   "sents": [
+    "Ein anderes Interesse war die Rettung desjenigen, was man sonst deutsche Freiheit nannte, gegen das, was man Universalmonarchie oder nachher auch orientalisches System nannte."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "vxjfccngar",
+   "sents": [
+    "Da seit zehn Jahren ganz Europa seine Aufmerksamkeit auf das fürchterliche Ringen eines Volks nach Freiheit heftete und ganz Europa in allgemeiner Bewegung deswegen war, so kann es nicht anders sein, [als] daß die Begriffe über Freiheit eine Veränderung erlitten und [sich] aus ihrer vorherigen Leerheit und Unbestimmtheit geläutert haben.",
+    "Deutsche Freiheit hieß sonst nichts anderes als die Unabhängigkeit der Stände vom Kaiser, [das hieß:] entweder Sklaverei und Despotismus - oder Aufhebung des Staatsverbands; die älteren Zeiten kannten nichts Drittes."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "lbcxds1u1c",
+   "sents": [
+    "Seit Karl V. ist die spanische und österreichische Monarchie nicht mehr vereinigt, und seit einem Jahrhundert werden beide von ganz verschiedenen Familien besessen.",
+    "Österreich hat große Provinzen verloren, Frankreich, England haben sich zu gleicher Größe der Macht erhoben, Preußen und Rußland haben sich gebildet; Österreich ist längst nicht mehr die Monarchie, die ihresgleichen in Europa nicht hätte.",
+    "Es hat sich ein System des europäischen Gleichgewichts gebildet, d. h. ein System, vermöge dessen gewöhnlich alle Mächte Europas an einem Krieg ein Interesse nehmen und jede Macht die Früchte auch des glücklichsten Kriegs entweder allein oder auch [nur im] Verhältnis mit ihren errungenen Vorteilen zu ernten gehindert wird.",
+    "Die Kriege haben schon an sich ihre Natur so sehr verändert, daß die Eroberung von ein paar Inseln oder einer Provinz vieljährige Anstrengungen, ungeheure Summen usw. kostet."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "17ix6uw1qp",
+   "sents": [
+    "Die Idee einer Universalmonarchie ist immer ein leeres Wort gewesen.",
+    "Daß sie, wenn der Plan gefaßt war, nicht ausgeführt worden ist, zeigt die Unmöglichkeit ihrer Ausführung und also die Leerheit dieses Gedankens, aber in neueren Zeiten kann auch die Rede nicht mehr davon sein."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "7ef63l1gqb",
+   "sents": [
+    "Dessenungeachtet bleibt Österreich übermächtig in Deutschland, d. h. mächtiger, als irgendein deutscher Stand ist, mächtiger als ihrer viele zusammen.",
+    "Zugleich aber ist Preußen in eben dieses Verhältnis gekommen.",
+    "Österreich und Preußen stehen in Rücksicht auf eine Gefahr für die deutschen Stände auf gleichem Range.",
+    "Das, was man sonst deutsche Freiheit nannte, hätte sich gegen beide vorzusehen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w1/18.p65.json"
+}

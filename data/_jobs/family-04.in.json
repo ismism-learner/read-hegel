@@ -1,0 +1,139 @@
+{
+ "id": "family-04",
+ "kind": "family-repair",
+ "instruction": "Fix ONLY the word-family rendering in the Chinese. Keep everything else identical; do not retranslate the sentence, do not polish it. Return the corrected Chinese sentence.",
+ "items": [
+  {
+   "vol": "w1",
+   "chunk": "7",
+   "bi": 35,
+   "si": 10,
+   "de": "Die verständigen Menschen glauben Wahrheit zu sprechen, wenn sie verständig zum Gefühl, zur Einbildungskraft, zu religiösen Bedürfnissen sprechen, und können nicht begreifen, wie ihrer Wahrheit widerstanden wird, warum sie tauben Ohren predigen; der Fehler ist, sie bieten Steine dem Kinde dar, das Brot fordert; wenn ein Haus gebaut werden soll, dann hat ihre Ware Brauchbarkeit.",
+   "en": "Understanding people believe they are speaking truth when they speak understandingly to feeling, to the power of imagination, to religious needs, and cannot comprehend how their truth is resisted, why they preach to deaf ears; the fault is that they offer stones to the child that demands bread; if a house is to be built, then their wares have usefulness.",
+   "zh": "合知性的人以为自己在讲真理，当他们合知性地对着感受、对着想象力、对着宗教需要说话的时候，并且无法理解，他们的真理怎么会遭到抵抗，他们为什么是对聋耳朵布道；毛病在于，孩子要的是面包，他们却递上石头；如果要盖房子，那么他们的货色倒是有用处的。",
+   "family": "Begriff",
+   "root": "概念",
+   "member": "begreifen"
+  },
+  {
+   "vol": "w1",
+   "chunk": "7",
+   "bi": 38,
+   "si": 0,
+   "de": "Indem es als Zweck dieser Abhandlung angegeben wird, daß er nicht der sei, zu untersuchen, ob das Christentum Lehren in sich habe, welche positiv sind, sondern ob es überhaupt eine positive Religion ist, so können diese zwei Ansichten insofern in eine fallen, als selbst die Behauptung, die christliche Religion sei positiv oder nicht, mit allen daraus fließenden Folgen in die Religionslehre selbst hineinkommen könnte und also wirklich die Positivität einer einzelnen Lehre untersucht würde.",
+   "en": "Insofar as it is stated as the purpose of this treatise that it is not to investigate whether Christianity contains doctrines in itself that are positive, but whether it is a positive religion altogether, these two views can to that extent coincide, in that even the assertion that the Christian religion is positive or not could enter into the doctrine of religion itself along with all the consequences flowing from it, and thus the positivity of a single doctrine would really be investigated.",
+   "zh": "既然这篇论文声明自己的目的不是去考察基督教内部有没有实证的学说，而是考察它到底是不是一种实证宗教，那么这两种看法在某种程度上可以合到一起，因为就连“基督教是实证的”或“不是实证的”这一断言，也可能连同由它流出的一切后果一起进入宗教学说本身，于是被考察的就真的成了某一条学说的实证性。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w1",
+   "chunk": "8",
+   "bi": 39,
+   "si": 0,
+   "de": "Einen Bach betrachten, wie er nach Gesetzen der Schwere in die tieferen Gegenden fallen muß und von dem Boden und den Ufern eingeschränkt und gedrückt wird, heißt ihn begreifen, ihm eine Seele geben, als an seinesgleichen Anteil an ihm nehmen, - heißt ihn zum Gotte machen.",
+   "en": "To consider a stream as it must fall by the laws of gravity into the lower regions and is confined and pressed by the ground and the banks, means to comprehend it, to give it a soul, to take part in it as in one's equal, — means to make it a god.",
+   "zh": "看着一条溪流按重力的法则必须落向低处，被地面和两岸限制、挤压，这就算是理解它，给它一个灵魂，把它当作同类而与它休戚相关，——这就算是把它变成神。",
+   "family": "Begriff",
+   "root": "概念",
+   "member": "begreifen"
+  },
+  {
+   "vol": "w1",
+   "chunk": "8",
+   "bi": 90,
+   "si": 3,
+   "de": "Dadurch allein ist die bekannte Geschichte begreiflich, daß ein Mädchen als Kindsmörderin zum Tode verurteilt wurde und, da sie auf den Richtplatz geführt werden sollte, nun gegen den Geistlichen äußerte, es sei ihr nur um das Kind leid, das sie unter dem Herzen trüge; bei näherer Untersuchung wurde sie denn auch wirklich noch schwanger mit dem Kinde befunden, wegen dessen Ermordung sie in einigen Stunden sterben sollte; auf Befragen, warum sie dies nicht früher gesagt habe, gab sie zur Antwort, sie habe nicht das Herz gehabt, den gnädigen Herren, die sie verhörten, zu widersprechen.",
+   "en": "By this alone the well-known story becomes intelligible, that a girl was condemned to death as a child-murderer and, when she was to be led to the place of execution, then said to the clergyman that she was sorry only for the child that she carried under her heart; on closer investigation she was then in fact found to be still pregnant with the child for whose murder she was to die in a few hours; when asked why she had not said this earlier, she answered that she had not had the heart to contradict the gracious gentlemen who were interrogating her.",
+   "zh": "单凭这一点就能明白那桩众所周知的事：一个姑娘作为杀婴犯被判处死刑，在她就要被带往刑场时，却对教士说，她只是心疼自己怀里怀着的那孩子；经进一步查验，人们果然发现她还怀着那孩子，而再过几个钟头，她就要因为杀死这孩子而被处死；问她为什么不早说，她回答说，她没有胆子去反驳那些审讯她的仁慈的老爷们。",
+   "family": "Wirklichkeit",
+   "root": "现实",
+   "member": "wirklich"
+  },
+  {
+   "vol": "w1",
+   "chunk": "9",
+   "bi": 34,
+   "si": 3,
+   "de": "Damit der Mensch gegen die Ausbrüche der nun feindlichen Natur bestehen könnte, so mußte sie beherrscht werden; und da das entzweite Ganze nur in Idee und Wirklichkeit entzweit sein kann, so ist die höchste Einheit der Beherrschung entweder in einem Gedachten oder in einem Wirklichen.",
+   "en": "In order that man might hold out against the outbursts of the now hostile nature, it had to be mastered; and since the divided whole can be divided only in idea and actuality, the highest unity of mastery is either in a thought thing or in an actual thing.",
+   "zh": "为了让人能顶住如今已变得敌对的自然的爆发，自然就必须被统治；而既然那分裂开的整体只可能在思想里和现实性里是分裂的，那么统治的最高统一就或者在一种被思考的东西里，或者在一种现实的东西里。",
+   "family": "Idee",
+   "root": "观念",
+   "member": "Idee"
+  },
+  {
+   "vol": "w1",
+   "chunk": "9",
+   "bi": 65,
+   "si": 2,
+   "de": "Menschlichere Gefühle stiegen in ihren Gemütern auf, und damit gingen freundlichere Verhältnisse hervor; sie ahnten schönere Geister und dienten fremden Göttern.",
+   "en": "More human feelings rose up in their minds, and with that friendlier relations came forth; they had a presentiment of fairer spirits and served foreign gods.",
+   "zh": "更人性的感受从他们心里升起来，随之也生出更友好的关系；他们隐约感到更美的神灵，就去侍奉外族的神。",
+   "family": "Geist",
+   "root": "精神",
+   "member": "Geist"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 2,
+   "si": 3,
+   "de": "In der allgemeinen Vorstellung hingegen, was z.B. Anatomie sei, etwa die Kenntnis der Teile des Körpers nach ihrem unlebendigen Dasein betrachtet, ist man überzeugt, die Sache selbst, den Inhalt dieser Wissenschaft, noch nicht zu besitzen, sondern außerdem um das Besondere sich bemühen zu müssen.",
+   "en": "In ordinary thinking, by contrast — say of what anatomy is, namely the knowledge of the parts of the body considered in their lifeless existence — one is convinced that one does not yet possess the matter itself, the content of this science, and that one must besides take pains with the particular.",
+   "zh": "反过来看一般人的想法：比如解剖学是什么？就是把身体的各个部分当作没有生命的东西来认识。谁都知道，光凭这个还没有真正掌握事情本身、没有掌握这门学问的内容，此外还得去下功夫琢磨那些具体的东西。",
+   "family": "Vorstellung",
+   "root": "表象",
+   "member": "Vorstellung"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 3,
+   "si": 6,
+   "de": "Aber der Widerspruch gegen ein philosophisches System pflegt teils sich selbst nicht auf diese Weise zu begreifen, teils auch weiß das auffassende Bewußtsein gemeinhin nicht, ihn von seiner Einseitigkeit zu befreien oder frei zu erhalten und in der Gestalt des streitend und sich zuwider Scheinenden gegenseitig notwendige Momente zu erkennen.",
+   "en": "But contradiction directed at a philosophical system tends partly not to understand itself in this way, and partly the comprehending consciousness generally does not know how to free it from its one-sidedness, or to keep it free, and to recognize in the shape of what appears to fight and oppose itself mutually necessary moments.",
+   "zh": "可是针对某个哲学体系的反对意见，一来往往并不这样理解自己，二来具有理解力的意识通常也不知道怎样把这种反对从片面性里解放出来、或者让它保持不片面，不知道要在那副互相争斗、彼此对立的样子里认出双方其实是彼此必需的环节。",
+   "family": "Begriff",
+   "root": "概念",
+   "member": "begreifen"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 4,
+   "si": 6,
+   "de": "Denn statt mit der Sache sich zu befassen, ist solches Tun immer über sie hinaus; statt in ihr zu verweilen und sich in ihr zu vergessen, greift solches Wissen immer nach einem Anderen und bleibt vielmehr bei sich selbst, als daß es bei der Sache ist und sich ihr hingibt.",
+   "en": "For instead of occupying itself with the matter, such activity is always beyond it; instead of lingering in it and forgetting itself in it, such knowing always reaches for something else and stays rather with itself than with the matter, giving itself over to it.",
+   "zh": "因为这种做法不是在跟事情打交道，而总是跑到事情外面去；它不是留在事情里、把自己忘在事情里，而总是伸手去抓别的东西，始终待在自己那儿，而不是待在事情那儿、把自己交给事情。",
+   "family": "Wissen",
+   "root": "知",
+   "member": "Wissen"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 7,
+   "si": 0,
+   "de": "Indem die wahre Gestalt der Wahrheit in diese Wissenschaftlichkeit gesetzt wird – oder, was dasselbe ist, indem die Wahrheit behauptet wird, an dem Begriffe allein das Element ihrer Existenz zu haben –, so weiß ich, daß dies im Widerspruch mit einer Vorstellung und deren Folgen zu stehen scheint, welche eine so große Anmaßung als Ausbreitung in der Überzeugung des Zeitalters hat.",
+   "en": "In setting the true shape of truth in this scientific character — or, what comes to the same, in claiming that truth has the element of its existence in the concept alone — I know that this seems to stand in contradiction with a way of thinking, and with its consequences, which is as widespread in the convictions of the age as it is presumptuous.",
+   "zh": "把真理的真正形态放在这种科学性里——或者说，同样一件事：主张真理只有在概念里才有它存在的元素——我知道，这看起来跟一种想法及其后果是矛盾的，而这种想法在同时代的信念里流传得有多广，它就有多自负。",
+   "family": "Vorstellung",
+   "root": "表象",
+   "member": "Vorstellung"
+  },
+  {
+   "vol": "w3",
+   "chunk": "0",
+   "bi": 8,
+   "si": 3,
+   "de": "Von den Trebern sich wegwendend, daß er im argen liegt bekennend und darauf schmähend, verlangt er nun von der Philosophie nicht sowohl das Wissen dessen, was er ist, als zur Herstellung jener Substantialität und der Gediegenheit des Seins erst wieder durch sie zu gelangen.",
+   "en": "Turning away from the husks, confessing that it lies in evil and railing at it, it now demands of philosophy not so much knowledge of what it is, as rather that through philosophy it may first arrive again at the restoration of that substantiality and of the solidity of being.",
+   "zh": "它转身离开那些糠壳，承认自己陷在恶里，并为此痛骂；现在它向哲学要求的，与其说是认识自己是什么，不如说是要借哲学重新达到那种实体性和存在的坚实。",
+   "family": "Wissen",
+   "root": "知",
+   "member": "Wissen"
+  }
+ ]
+}

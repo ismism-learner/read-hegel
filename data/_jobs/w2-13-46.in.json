@@ -1,0 +1,108 @@
+{
+ "id": "w2-13-46",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck 251)",
+ "heading": "Rosenkranz' Bericht über das Fragment vom göttlichen Dreieck251)",
+ "blocks": [
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1wtznsb1a3",
+   "sents": [
+    "Notwendigkeit, ein System der Philosophie ganz zu studieren.",
+    "Das Prinzip enthält alles eingehüllt, aber auch nur eingehüllt, latent, den leeren formalen Begriff, nicht die Sache selbst.",
+    "Wie ein Geiziger im Beutel alle Genüsse als Möglichkeit behält und sich die Wirklichkeit, die Beschwerlichkeit des Genusses selbst erspart."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1jzkjgkvm2",
+   "sents": [
+    "Die Fragen, welche die Philosophie nicht beantwortet, sind so beantwortet, daß sie nicht so gemacht werden sollen."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "ipey2k1v6t",
+   "sents": [
+    "Gellert, Hagedorn, Utz haben die Tugend plattgereimt: Wer nur die Tugend liebt usf.",
+    "Zwar ich's fand, zwischen Tugend und Verstand usf.",
+    "Freund, die Tugend ist kein leerer Name usf.",
+    "Bewahre Gott! - Nicolai, ein Buchhändler in Berlin, hat hierauf die Rechtschaffenheit erfunden oder vorzüglich urgiert."
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "1dqzbmpn1v",
+   "sents": [
+    "Es ist ein schöner Zug, welche Verachtung man in Deutschland gegen das Geld hat und zeigt.",
+    "Die Deutschen dichten ihm einen Ursprung an, der nicht verächtlicher und niedriger sein kann.",
+    "Man stellt ihn fürs Auge in Figuren dar, die Geldsch-r genannt werden.",
+    "Es soll eine mythologische Beziehung zugrunde liegen.",
+    "Eine Bratwurst oder was es sei mag man nicht mit einer so niedrigen Entstehungsart zusammendenken."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "13teki15xn",
+   "sents": [
+    "Das gemeine Denken konstruiert nicht: hier ein Lindenbaum neben Weiden, Stecklingen usw. und unten läuft eine Kuh vorbei.",
+    "Es beweist nicht, sondern es nimmt seine Anstrengung zum Beweise für etwas, die Langeweile für Tiefe und seine Ermattung für das Resultat."
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "1mu9asjxkk",
+   "sents": [
+    "Was eine tiefe Bedeutung hat, taugt eben darum nichts."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "1rws8b81pk",
+   "sents": [
+    "Unsere Nachwelt ist die nächste Messe.",
+    "Wie in der Vernunft sich alles zusammenrückt, so rückt auch in der Gebirgsansicht der Strom näher.",
+    "Pedes eorum, qui efferent te, sunt ante ianuam."
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "11daxjw1wq",
+   "sents": [
+    "Wissenschaft.",
+    "Ob der Einzelne sie besitze, kann er sich selbst und anderen versichern.",
+    "Ob es wahr ist, entscheidet die nächste Umgebung, die Mitwelt und dann die Nachwelt, wenn jene schon ihren Beifall gegeben haben.",
+    "Doch ist das Bewußtsein so in der Bildung gestiegen, die barbarische Zähigkeit des Begreifens flüssiger und rascher geworden, daß wenige Jahre schon die Nachwelt herbeiführen.",
+    "Über Kantische Philosophie ist längst der Stab gebrochen, während Wolffische fünfzig und mehr Jahre sich gehalten.",
+    "Rascher ist für Fichtes Philosophie das Bestimmen ihres Standpunktes herangeeilt.",
+    "Was Schellingsche Philosophie in ihrem Wesen ist, wird kurze Zeit offenbaren.",
+    "Das Gericht über sie steht gleichsam vor der Tür, denn viele verstehen sie schon.",
+    "Doch erlagen diese Philosophien weniger dem Beweise als der empirischen Erfahrung, wie weit mit ihnen zu kommen ist.",
+    "Blind bilden sie die Anhänger aus, aber das Gewebe wird immer dünner, und endlich finden sie sich von der Spinnewebendurchsichtigkeit überrascht.",
+    "Es ist ihnen wie Eis geschmolzen und wie Quecksilber durch die Finger gelaufen, ohne daß sie wüßten, wie ihnen geschah.",
+    "Sie habens eben nicht mehr, und wer ihnen in die Hand sieht, mit der sie ihre Weisheit ausboten, sieht nichts als die leere Hand und geht mit Gespött weiter.",
+    "Während jene, die Kälte fühlend, sie noch für etwas ausrufen, vermeinen diese die Sache ergründet zu haben, da sie doch nur das Nichts derselben, nicht, was sie war, erblicken.",
+    "Der eine Teil ist getäuscht wie der andere.",
+    "Das Wahre ist indes, daß dies Verschwundene selbst sie hierher gebracht hat.",
+    "Es wird das Wort der Schrift erfüllt: wenn wir schweigen, schreien die Steine."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/13.p46.json"
+}

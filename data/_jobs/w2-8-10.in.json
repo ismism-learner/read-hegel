@@ -1,0 +1,109 @@
+{
+ "id": "w2-8-10",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "B. Jacobische Philosophie",
+ "heading": "B. Jacobische Philosophie",
+ "blocks": [
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "rg4zwl1cos",
+   "sents": [
+    "\"Die unmittelbare Folge der Undurchdringlichkeit bei der Berührung nennen wir den Widerstand. - Wo also Berührung ist, da ist Undurchdringlichkeit von beiden Seiten, folglich auch Widerstand, Wirkung und Gegenwirkung.\"",
+    "Beides ist die Quelle des Sukzessiven und der Zeit, der Vorstellung desselben."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "2c2rvg1km6",
+   "sents": [
+    "Aus der Voraussetzung also, daß einzelne, sich selbst offenbare Wesen, die in Gemeinschaft miteinander stehen, vorhanden sind, hat sich diese Deduktion der Begriffe von Ausdehnung, von Ursache und Wirkung und von Sukzession oder die Deduktion des Absolutseins der Endlichkeit ergeben, und zugleich ist damit herausgebracht, daß diese Begriffe allen endlichen, sich selbst offenbaren Wesen gemein sein müssen und auch in den Dingen an sich ihren vom Begriffe unabhängigen Gegenstand, folglich eine wahre objektive Bedeutung haben."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "hn7rwqtlxw",
+   "sents": [
+    "\"Dergleichen Begriffe nämlich, die in jeder Erfahrung vollständig und dergestalt als das Erste gegeben sein müssen, daß ohne ihr Objektives kein Gegenstand eines Begriffs und ohne ihren Begriff überhaupt keine Erkenntnis möglich wäre, heißen schlechterdings allgemeine oder notwendige Begriffe, und die aus ihnen entspringenden Urteile und Schlüsse Erkenntnisse a priori.\""
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "vs5l55dbyv",
+   "sents": [
+    "Wir sehen, daß diese Deduktion das Kausalverhältnis in seinem ganzen Umfang betreffen und hier etwas Bündigeres geliefert werden sollte als die Kantische Deduktion.",
+    "Diese Jacobische Deduktion aber verdient so wenig den Namen einer Deduktion, daß sie nicht einmal eine gemeine Analyse des Vorausgesetzten, nämlich des Begriffs der Gemeinschaft einzelner Dinge genannt werden kann.",
+    "Es ist schon etwas, wovor alle Spekulation erschrickt, nämlich das Absolutsein eines menschlichen Bewußtseins und eines empfindenden Dings und eines empfundenen Dings und ihrer Gemeinschaft geradezu aus dem gemeinsten Empirismus heraus vorausgesetzt; durch überflüssige Mittelbegriffe werden sie endlich zur Wirkung und Gegenwirkung zusammen analysiert, und dies ist - hier geht auch das Analysieren aus - die Quelle des Sukzessiven.",
+    "Man sieht gar nicht, wozu solch hohes Kunststück nützlich sein soll; denn schon mit der unanalysierten absoluten Annahme eines empfindenden Dings und eines Dings, das empfunden wird, ist alle Philosophie aus dem Feld geschlagen.",
+    "Merkwürdig ist der Unterschied der Voraussetzung und des Resultats von dem Resultat der Kantischen Deduktion der Kategorie: nach Kant sind alle diese Begriffe von Ursache und Wirkung, Sukzession usw. schlechthin auf die Erscheinung eingeschränkt; die Dinge, in welchen diese Formen objektiv sind, sowohl als eine Erkenntnis dieser Objekte ist schlechthin nichts an sich; das Ansich und die Vernunft werden schlechthin über diese Formen der Endlichkeit erhoben und von ihnen rein erhalten, - ein Resultat, womit Kant den Anfang einer Philosophie überhaupt gemacht zu haben das unsterbliche Verdienst bleibt.",
+    "Aber in diesem Nichts der Endlichkeit ist es gerade, worin Jacobi ein absolutes Ansich sieht und mit dem Traum dieser Waffe das Wachen des Spinoza bekämpft."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1gddx4cceo",
+   "sents": [
+    "Wenn wir oben die Unvollkommenheit der Kantischen Annihilation des Verstandes darein setzten, daß er ihn mit seinen Formen zwar zu etwas Subjektivem, aber in dieser Gestalt doch zu etwas Positivem und Absolutem macht, so findet dagegen Jacobi, nachdem er Wirkung und Gegenwirkung, Sukzession, Zeit usw. so glücklich aus der Gemeinschaft endlicher Dinge herausgebracht hatte, daß man, 'damit diese Grundbegriffe und Urteile von der Erfahrung unabhängig werden, sie nicht zu Vorurteilen des Verstandes zu machen brauche, von denen wir geheilt werden müssen, indem wir erkennen lernen, daß sie sich auf nichts an sich beziehen, folglich keine wahre objektive Bedeutung haben; denn die Grundbegriffe und Urteile verlieren weder von ihrer Allgemeinheit noch von ihrer Notwendigkeit, wenn sie aus dem, was allen Erfahrungen gemein sein und ihnen zum Grunde liegen muß, genommen sind.",
+    "Sie gewinnen vielmehr einen weit höheren Grad von unbedingter' (hat das Unbedingte Grade?) 'Allgemeinheit, wenn sie nicht bloß für den Menschen und seine eigentümliche Sinnlichkeit gelten, sondern aus dem Wesen und der Gemeinschaft einzelner Dinge überhaupt können hergeleitet werden.",
+    "Wenn aber unsere Sinne uns gar nichts von den Beschaffenheiten der Dinge lehren, nichts von ihren gegenseitigen Verhältnissen und Beziehungen, ja nicht einmal, daß sie im transzendentalen Verstande wirklich vorhanden sind, und wenn unser Verstand sich bloß auf eine solche gar nichts von den Dingen selbst darstellende, objektiv platterdings leere Sinnlichkeit bezieht, um durchaus subjektiven Anschauungen nach durchaus subjektiven Regeln durchaus subjektive Formen zu verschaffen, so bin ich alles und außer mir im eigentlichen Verstande nichts.",
+    "Und Ich, mein Alles, bin denn am Ende doch auch nur ein leeres Blendwerk von etwas, die Form einer Form, ein Gespenst.",
+    "Ein solches System rottet alle Ansprüche an Erkenntnis der Wahrheit bis auf den Grund aus und läßt für die wichtigsten Gegenstände nur einen solchen blinden, ganz erkenntnisleeren Glauben übrig, wie man den Menschen bisher noch keinen zugemutet hat.'159)"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "15g8ljzndf",
+   "sents": [
+    "Es ist hier wohl zu unterscheiden, daß nur darin, daß Kant das Vernünftige als solches verkennt, sein erkenntnisleerer Glaube liegt, nicht aber in seiner großen Theorie, daß der Verstand nichts an sich erkennt.",
+    "Dasjenige, womit hingegen Jacobi die menschliche Erkenntnis bereichert, sind solche Dinge wie das Absolutsein der endlichen Dinge und ihrer Gemeinschaft, der Zeit und der Sukzession und des Kausalzusammenhangs, die auch (David Hume S. 119) in den Dingen an sich ihren vom Begriffe unabhängigen Gegenstand haben.",
+    "Aber daß solche Absoluta der objektiven Endlichkeit negiert und als nichts an sich erkannt [würden] und konsequenterweise ebenso die subjektive Endlichkeit, das sinnliche und reflektiertdenkende Ich, mein Alles, auch nur ein leeres Blendwerk von etwas an sich wäre, daß mein endliches Alles ebensogut vor der Vernunft zugrunde geht als das Alles des objektiven Endlichen, - das ist für Jacobi das Entsetzliche und Schauderhafte; die Verabscheuung der Vernichtung des Endlichen ist ebenso fixiert als das Korrespondierende, die absolute Gewißheit des Endlichen, und wird sich als der Grundcharakter der Jacobischen Philosophie durchaus erweisen.",
+    "Man könnte es zunächst für eine Verbesserung der Kantischen Deduktion halten, daß Jacobi Sukzession und Kausalzusammenhang als Verhältnis überhaupt, nämlich als eine bloß relative, auf endliche Dinge eingeschränkte Beziehung begreift und in der Deduktion derselben, wenn das oben Angeführte anders eine Deduktion wäre, nicht bloß wie Kant von einem bewußten, sondern von einem bewußtlosen Verstande zugleich ausgeht; allein, nicht zu erwähnen, daß das Verhältnis subjektiv betrachtet oder der bewußte Verstand und ebendasselbe objektiv betrachtet oder als Verstand, Verhältnis der Dinge völlig unabhängig und dualistisch nebeneinanderstehen und Kant das Verhältnis wenigstens schlechthin nur als eines, ohne einen Unterschied eines subjektiven Verstandes und eines besonderen objektiven und - wenn wir den Verstand bei Kant auch als ein Subjektives begreifen müssen - doch kein äußeres fremdes Verhältnis von Dingen und also nur einen Verstand, worin doch wenigstens das Formale der Philosophie ausgedrückt ist, hat, - so ist das wichtigste Resultat Kants immer das, daß diese Verhältnisse des Endlichen (es seien nun Verhältnisse des Subjektiven allein oder Verhältnisse zugleich der Dinge) nichts an sich, das Erkennen nach ihnen nur ein Erkennen von Erscheinungen ist (obgleich über dieses nicht hinausgegangen werden soll und es daher absolut wird).",
+    "Das Apriorische der Jacobischen Verhältnisse besteht hingegen darin, daß sie auch den Dingen an sich zukommen, d. h. daß die endlichen Dinge, das empfindende Ding und außer diesem das wirkliche Ding, welches empfunden wird, Dinge an sich und die Verhältnisse solcher Dinge, die Sukzession, Kausalzusammenhang, Widerstand usw. wahrhafte Vernunftverhältnisse oder Ideen sind, so daß also die scheinbare Verbesserung, nach welcher die Verhältnisse nicht ein bloß Subjektives des bewußten Verstandes, sondern auch ein Objektives, Bewußtloses wären, in Wahrheit einen absoluten Dogmatismus und Erhebung des Endlichen zu einem Ansich konstituiert."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1v53lqw62z",
+   "sents": [
+    "Die Anwendung nun, welche Jacobi von dem Begründen des Absolutseins des Endlichen, welches durch die wichtige Unterscheidung des Satzes des Grundes und der Kausalität sich ergab, auf das System Spinozas macht, hat zweierlei Formen: einmal, daß der Begriff der Sukzession in ihm fehle, das andere Mal, daß er im Grunde doch vorhanden sei, aber in der Ungereimtheit einer ewigen Zeit."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "108p7g97cs",
+   "sents": [
+    "Was das Fehlen der Zeit betrifft, so faßt Jacobi die Philosophie Spinozas auf, daß Spinoza eine natürliche Erklärung des Daseins endlicher und sukzessiver Dinge habe zustande bringen wollen.",
+    "Aber indem er die Dinge dem Vernunftbegriffe nach als zugleich vorhanden - denn im Vernunftbegriffe ist kein Vorher und Nachher, sondern alles notwendig und zugleich - und das Universum auf ewige Weise erkannte, so habe er den Fehler begangen, den Satz des Grundes ganz allein logisch zu nehmen, und dadurch keine objektive und wirkliche, sondern nur eine subjektive und idealische Sukzession statuiert, die auch nicht einmal idealisch vorhanden sein könnte, wenn ihr nicht eine wirkliche Sukzession in dem Subjekt, welches sie in dem Gedanken erzeugt, zum Grunde läge; in dem logischen Satze des Grundes sei die Sukzession selbst das Unbegreifliche.160)"
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "vbnex9lre5",
+   "sents": [
+    "Es ist nichts zu sagen über eine solche psychologische Erinnerung, daß eine subjektive und idealische Sukzession eine wirkliche Sukzession in dem Subjekt voraussetze.",
+    "Es ist damit teils gar nichts gesagt, teils etwas Falsches, da nämlich die idealische Sukzession sich auf die mathematischen Gleichnisse des Spinoza bezieht, wovon nachher die Rede sein wird, und ihrer Wahrheit nach nur darum etwas Reelles sein kann, daß sie das absolute Zugleich der Totalität und gar keine Sukzession ist.",
+    "Dies absolute Zugleich aber der Totalität und die Erkenntnis der Dinge, wie sie auf eine nicht zeitliche, sondern ewige Weise sind, schreibt Jacobi dem Satze des Grundes und der Vernachlässigung des Kausalitätsgesetzes, und zwar dasselbe so verstanden, daß Zeit in ihm gesetzt ist, zu.",
+    "Und daß diese Kausalität und die Zeit nicht vernachlässigt werden dürfe, davon ist der absolute Grund darin, daß nach Jacobi die Zeit an sich und absolut ist; und der Satz des Grundes oder die Totalität heißt bei Jacobi darum logisch, weil in ihm Ursache und Wirkung zugleich und keine Zeit gesetzt ist.",
+    "Vergesse man aber den Satz der Kausalität und seine Verschiedenheit vom Satze des Grundes nicht, so sitze man in der Zeit unbeweglich fest161) ; und dies ist bei Jacobi absolute Forderung.",
+    "Wenn Jacobi so angelegentlich seine Unterschiede nicht zu vergessen ermahnt, weil durch den Vernunftbegriff, in dem kein Vorher und Nachher, sondern alles notwendig und zugleich ist, das Unglück entstehe, daß in der höchsten Idee, in der Idee des Ewigen die Endlichkeit und Zeit und Sukzession verlorengehe, so gleicht wahrhaftig ein solches Abmahnen dem bekannten Winken der ehrlichen Reichsstadtwache, die dem anrückenden und Feuer gebenden Feinde zurief, nicht zu schießen, weil es Unglück geben könnte, - als ob ein solches Unglück es nicht gerade wäre, worauf man ausginge."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/8.p10.json"
+}

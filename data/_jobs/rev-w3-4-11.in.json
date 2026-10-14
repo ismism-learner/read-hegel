@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-4-11",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "4",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 6,
+   "de": "– Fürs erste ist nun zu bemerken, daß dieser Begriff hier nicht wie vorhin bei der Betrachtung des eigentlichen Innern in seiner Form des Prozesses oder der Entwicklung seiner Momente aufzufassen ist, sondern in seiner Form als einfaches Inneres, welches die rein allgemeine Seite gegen das wirkliche lebendige Wesen ausmacht, oder als das Element des Bestehens der seienden Glieder der Gestalt; denn diese betrachten wir hier, und an ihr ist das Wesen des Lebens als die Einfachheit des Bestehens.",
+   "en": "— First, then, it is to be remarked that this concept is here not to be apprehended, as before in the consideration of the proper inner, in its form of process or of the development of its moments, but in its form as simple inner, which constitutes the purely universal side over against the actual living essence, or as the element of the subsistence of the existent members of the shape; for it is the shape that we consider here, and on it the essence of life is as the simplicity of subsistence.",
+   "zh": "——首先要注意的是，这个概念在这里不能像先前考察真正的内在东西时那样、被理解为它的过程形式或它的诸环节的发展形式，而要被理解为它作为单纯内在东西的形式——这个单纯内在东西构成与现实的、活生生的本质相对的纯粹普遍的那一面——，或者被理解为形态那些存在着的肢体的持存元素；因为我们在这里考察的正是形态，而在它身上，生命之本质就是作为持存的单纯性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 7,
+   "de": "Alsdann ist das Sein für Anderes oder die Bestimmtheit der wirklichen Gestaltung in diese einfache Allgemeinheit aufgenommen, die ihr Wesen ist, eine ebenso einfache allgemeine unsinnliche Bestimmtheit, und kann nur die sein, welche als Zahl ausgedrückt ist.",
+   "en": "Then, being-for-another, or the determinacy of the actual formation, taken up into this simple universality, which is their essence, is a likewise simple, universal, unsensuous determinacy, and can only be that which is expressed as number.",
+   "zh": "其次，为他存在、或现实形态塑造的规定性，被纳入这种作为它们本质的单纯普遍性之中，就是同样单纯的、普遍的、非感性的规定性，并且只能是那个被表达为数的规定性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 8,
+   "de": "– Sie ist die Mitte der Gestalt, welche das unbestimmte Leben mit dem wirklichen verknüpft, einfach wie jenes und bestimmt wie dieses.",
+   "en": "— It is the middle of the shape, which links indeterminate life with the actual one, simple like the former and determinate like the latter.",
+   "zh": "——它是形态的中项，把无规定的生命与现实的生命联结起来，像前者一样单纯，像后者一样有规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 56,
+   "si": 9,
+   "de": "Was an jenem, dem Innern, als Zahl wäre, müßte das Äußere nach seiner Weise als die vielförmige Wirklichkeit, Lebensart, Farbe usf. ausdrücken, überhaupt als die ganze Menge der Unterschiede, welche in der Erscheinung sich entwickeln.",
+   "en": "What on that, the inner, would be as number, the outer would have to express after its manner as the multiform actuality, way of life, colour and so on, in general as the whole multitude of the differences that develop in appearance.",
+   "zh": "在那个内在东西身上如果是作为数而存在的东西，外在东西就必须按它自己的方式表达为多样形态的现实性、生活方式、颜色等等，总之表达为在现象中展开出来的全部差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 57,
+   "si": 0,
+   "de": "Die beiden Seiten des organischen Ganzen – die eine das Innere, die andere aber das Äußere, so daß jede wieder an ihr selbst ein Inneres und Äußeres hat – nach ihrem beiderseitigen Innern verglichen, so war das Innere der ersten der Begriff, als die Unruhe der Abstraktion; die zweite aber hat zu dem ihrigen die ruhende Allgemeinheit und darin auch die ruhende Bestimmtheit, die Zahl.",
+   "en": "The two sides of the organic whole — the one the inner, the other the outer, so that each in turn has in itself an inner and an outer — compared according to their inner on both sides: the inner of the first was the concept, as the unrest of abstraction; the second, however, has for its own the resting universality and therein also the resting determinacy, number.",
+   "zh": "有机整体的两个方面——一个是内，另一个是外，以致每一个又在自身那里有一个内和一个外——就它们各自的内来比较，那么第一个的内就是概念，作为抽象的不安；而第二个则以静止的普遍性为自己的内，并在其中也拥有静止的规定性，即数。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 57,
+   "si": 1,
+   "de": "Wenn daher jene, weil in ihr der Begriff seine Momente entwickelt, durch den Schein von Notwendigkeit der Beziehung täuschend Gesetze verhieß, so tut diese sogleich Verzicht darauf, indem sich die Zahl als die Bestimmung der einen Seite ihrer Gesetze zeigt.",
+   "en": "If therefore the former, because in it the concept develops its moments, deceptively promised laws through the semblance of necessity of the relation, the latter immediately renounces this, since number shows itself as the determination of one side of its laws.",
+   "zh": "所以，如果前者因为在它里面概念展开自己的诸环节，就通过关系之必然性的假象骗人地许下种种规律，那么后者马上就放弃了这一点，因为数显示出自己是它的规律其中一方的规定。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 57,
+   "si": 2,
+   "de": "Denn die Zahl ist eben die gänzlich ruhende, tote und gleichgültige Bestimmtheit, an welcher alle Bewegung und Beziehung erloschen ist und welche die Brücke zu dem Lebendigen der Triebe, der Lebensart und dem sonstigen sinnlichen Dasein abgebrochen hat.",
+   "en": "For number is precisely the wholly resting, dead and indifferent determinacy, on which all movement and relation has been extinguished and which has broken off the bridge to the living element of the drives, of the mode of life, and of the rest of sensuous determinate being.",
+   "zh": "因为数恰恰是完全静止的、死的、漠不相关的规定性，在它那里一切运动和关系都已熄灭，而它也拆断了通往诸冲动、生活方式以及其他感性定在的活生生东西的桥梁。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 58,
+   "si": 0,
+   "de": "Diese Betrachtung der Gestalt des Organischen als solcher und des Innern als eines Innern bloß der Gestalt ist aber in der Tat nicht mehr eine Betrachtung des Organischen.",
+   "en": "But this consideration of the shape of the organic as such, and of the inner as an inner merely of the shape, is in fact no longer a consideration of the organic.",
+   "zh": "但是，这种把有机体的形态本身、把内仅仅当作形态的内来进行的考察，实际上已经不再是对有机体的考察了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 58,
+   "si": 1,
+   "de": "Denn die beiden Seiten, die bezogen werden sollten, sind nur gleichgültig gegeneinander gesetzt, und dadurch [ist] die Reflexion-in-sich, welche das Wesen des Organischen ausmacht, aufgehoben.",
+   "en": "For the two sides that were to be related are only posited as indifferent to each other, and thereby the reflection-into-self, which constitutes the essence of the organic, is sublated.",
+   "zh": "因为那两个本应被关联起来的方面，只是被设定为彼此漠不相关，而由此，构成有机体本质的自身反思就被扬弃了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 58,
+   "si": 2,
+   "de": "Sondern es wird hier vielmehr auf die unorganische Natur die versuchte Vergleichung des Inneren und Äußeren übergetragen; der unendliche Begriff ist hier nur das Wesen, das inwendig verborgen [ist] oder außen in das Selbstbewußtsein fällt und nicht mehr wie am Organischen seine gegenständliche Gegenwart hat.",
+   "en": "Rather, the attempted comparison of inner and outer is here transferred to inorganic nature; the infinite concept is here only the essence that is inwardly hidden, or falls outside into self-consciousness, and no longer has its objective presence as it does with the organic.",
+   "zh": "不如说，这里是把所尝试的内与外的比较移用到无机的自然上去；无限的概念在这里只是那个内在地隐藏着的本质，或者落在外面的自我意识之中，并且不再像在有机体那里那样拥有自己的对象性当下存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 58,
+   "si": 3,
+   "de": "Diese Beziehung des Inneren und Äußeren ist also noch in ihrer eigentlichen Sphäre zu betrachten.",
+   "en": "This relation of inner and outer is therefore still to be considered in its proper sphere.",
+   "zh": "所以，内与外的这种关系还有待在它本己的领域中来考察。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 59,
+   "si": 0,
+   "de": "Zuerst ist jenes Innere der Gestalt, als die einfache Einzelheit eines unorganischen Dinges, die spezifische Schwere.",
+   "en": "First, that inner of the shape, as the simple singleness of an inorganic thing, is specific gravity.",
+   "zh": "首先，形态的那个内，作为无机物的单纯单一性，就是比重。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 59,
+   "si": 1,
+   "de": "Sie kann als einfaches Sein ebensowohl wie die Bestimmtheit der Zahl, deren sie allein fähig ist, beobachtet oder eigentlich durch Vergleichung von Beobachtungen gefunden werden und scheint auf diese Weise die eine Seite des Gesetzes zu geben.",
+   "en": "It can be observed as simple being as well as the determinacy of number, of which alone it is capable, or properly found through the comparison of observations, and in this way seems to give the one side of the law.",
+   "zh": "它既可以作为单纯的存在被观察，也可以作为它唯独能够具有的那种规定性即数被观察，或者确切地说，通过观察的比较而被找到，并且以这种方式似乎给出了规律的其中一方。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 59,
+   "si": 2,
+   "de": "Gestalt, Farbe, Härte, Zähigkeit und eine unzählige Menge anderer Eigenschaften würden zusammen die äußere Seite ausmachen und die Bestimmtheit des Innern, die Zahl, auszudrücken haben, so daß das eine am ändern sein Gegenbild hätte.",
+   "en": "Shape, colour, hardness, toughness and an innumerable multitude of other properties would together make up the outer side and would have to express the determinacy of the inner, number, so that the one would have its counterpart in the other.",
+   "zh": "形态、颜色、硬度、韧性以及数不清的其他属性会共同构成外在的一方，并且将必须表达内的一方即数的规定性，以致一方在另一方那里拥有自己的对应图像。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 0,
+   "de": "Weil nun die Negativität hier nicht als Bewegung des Prozesses, sondern als beruhigte Einheit oder einfaches Fürsichsein aufgefaßt ist, so erscheint sie vielmehr als dasjenige, wodurch das Ding sich dem Prozesse widersetzt und sich in sich und als gleichgültig gegen ihn erhält.",
+   "en": "Since, now, negativity is here grasped not as the movement of the process but as a calmed unity or simple being-for-itself, it appears rather as that whereby the thing resists the process and maintains itself in itself and as indifferent toward it.",
+   "zh": "现在，既然否定性在这里不是被理解为过程的运动，而是被理解为平静下来的统一体或单纯的自为存在，那么它倒显得是那种东西：物通过它抵抗过程，并在自身中、作为对过程漠不相关者而保持自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 1,
+   "de": "Dadurch aber, daß dies einfache Fürsichsein eine ruhige Gleichgültigkeit gegen Anderes ist, tritt die spezifische Schwere als eine Eigenschaft neben andere; und damit hört alle notwendige Beziehung ihrer auf diese Vielheit oder alle Gesetzmäßigkeit auf.",
+   "en": "But through the fact that this simple being-for-itself is a calm indifference toward an other, specific gravity steps alongside other properties as a property; and with that, all its necessary relation to this multiplicity, or all lawfulness, ceases.",
+   "zh": "但是，由于这种单纯的自为存在是一种对其他东西的平静的漠不相关，比重就作为一个属性出现在其他属性旁边；而这样一来，它对这些杂多的全部必然关系、或者说全部规律性，就终止了。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 2,
+   "de": "– Die spezifische Schwere als dies einfädle Innere hat nicht den Unterschied an ihr selbst, oder sie hat nur den unwesentlichen; denn eben ihre reine Einfachheit hebt alle wesentliche Unterscheidung auf.",
+   "en": "– Specific gravity as this simple inner does not have difference in itself, or it has only the unessential difference; for precisely its pure simplicity sublates all essential distinction.",
+   "zh": "——比重作为这种单纯的内，在自身那里并没有差别，或者说它只有非本质的差别；因为正是它纯粹的单纯性扬弃了一切本质性的区分。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 3,
+   "de": "Dieser unwesentliche Unterschied, die Größe, müßte also an der anderen Seite, welche die Vielheit der Eigenschaften ist, sein Gegenbild oder das Andere haben, indem er dadurch überhaupt erst Unterschied ist.",
+   "en": "This unessential difference, magnitude, would thus have to have its counterpart or its other on the other side, which is the multiplicity of properties, since only thereby is it difference at all.",
+   "zh": "所以，这种非本质的差别，即大小，就必须在另一方即属性的杂多那里拥有自己的对应图像或自己的另一面，因为只有这样它才根本上是差别。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 4,
+   "de": "Wenn diese Vielheit selbst in die Einfachheit des Gegensatzes zusammengefaßt und etwa als Kohäsion bestimmt wird, so daß diese das Fürsichsein im Anderssein wie die spezifische Schwere das reine Fürsichsein ist, so ist diese Kohäsion zuerst diese reine im Begriffe gesetzte Bestimmtheit gegen jene Bestimmtheit, und die Manier des Gesetzgebens wäre die, welche oben bei der Beziehung der Sensibilität auf die Irritabilität betrachtet worden.",
+   "en": "If this multiplicity is itself gathered together into the simplicity of opposition and determined, say, as cohesion, so that this cohesion is being-for-itself in otherness as specific gravity is pure being-for-itself, then this cohesion is at first that pure determinacy posited in the concept as against that other determinacy, and the manner of law-giving would be the one that was considered above in the relation of sensibility to irritability.",
+   "zh": "如果这种杂多本身被统摄到对立的单纯性之中，并且例如被规定为凝聚，以致这种凝聚就是在他在中的自为存在，正如比重是纯粹的自为存在，那么这种凝聚首先就是与那种规定性相对立的、在概念中设定起来的纯粹规定性，而立法的方式就会是上面在感受性对激动性的关系中考察过的那种方式。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 5,
+   "de": "– Alsdann ist sie ferner als Begriff des Fürsichseins im Anderssein nur die Abstraktion der Seite, die der spezifischen Schwere gegenübersteht, und hat als solche keine Existenz.",
+   "en": "– Then, further, as the concept of being-for-itself in otherness, it is only the abstraction of the side that stands opposed to specific gravity, and as such has no existence.",
+   "zh": "——其次，作为在他在中的自为存在的概念，它又只是那个与比重相对立的方面的抽象，并且作为这样的东西并没有存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 6,
+   "de": "Denn das Fürsichsein im Anderssein ist der Prozeß, worin das Unorganische sein Fürsichsein als eine Selbsterhaltung auszudrücken hätte, welche es dagegen bewahrte, aus dem Prozesse als Moment eines Produkts herauszutreten.",
+   "en": "For being-for-itself in otherness is the process in which the inorganic would have to express its being-for-itself as a self-maintenance that would preserve it from stepping out of the process as a moment of a product.",
+   "zh": "因为他在中的自为存在就是那个过程：无机物在其中将必须把它的自为存在表达为一种自我保持，而这种自我保持会保护它，使它不至于作为某个产物的环节而从过程中走出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 7,
+   "de": "Allein dies eben ist gegen seine Natur, welche nicht den Zweck oder Allgemeinheit an ihr selbst hat.",
+   "en": "But precisely this is contrary to its nature, which does not have the end or universality in itself.",
+   "zh": "可是，这恰恰违背它的自然，因为这种自然在自身那里并没有目的或普遍性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 8,
+   "de": "Sein Prozeß ist vielmehr nur das bestimmte Verhalten, wie sein Fürsichsein, seine spezifische Schwere sich aufhebt.",
+   "en": "Its process is rather only the determinate behaviour in which its being-for-itself, its specific gravity, sublates itself.",
+   "zh": "它的过程倒只是那种特定的行为方式：它的自为存在、它的比重在其中扬弃自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 9,
+   "de": "Dies bestimmte Verhalten, worin seine Kohäsion in ihrem wahren Begriffe bestehen würde, aber selbst und die bestimmte Große seiner spezifischen Schwere sind ganz gleichgültige Begriffe gegeneinander.",
+   "en": "This determinate behaviour, in which its cohesion would subsist in its true concept, is itself, however, together with the determinate magnitude of its specific gravity, wholly indifferent concepts as against each other.",
+   "zh": "这种特定的行为方式——它的凝聚本来会在其中按照其真实的概念存续下来——本身以及它的比重的特定大小，却是彼此完全漠不相关的概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 10,
+   "de": "Wenn die Art des Verhaltens ganz außer acht gelassen und auf die Vorstellung der Größe eingeschränkt würde, so könnte etwa diese Bestimmung gedacht werden, daß das größere spezifische Gewicht, als ein höheres Insichsein, dem Eingehen in den Prozeß mehr widerstände als das geringere.",
+   "en": "If the kind of behaviour were left entirely out of account and one restricted oneself to the representation of magnitude, then this determination might perhaps be thought: that the greater specific weight, as a higher being-within-self, would resist entering into the process more than the lesser.",
+   "zh": "如果完全不顾行为的方式，而只限于对大小的表象，那么也许可以这样来设想这一规定：较大的比重，作为较高的在自身内存在，会比更小的比重更多地抵抗进入过程。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 11,
+   "de": "Allein umgekehrt bewährt die Freiheit des Fürsichseins sich nur in der Leichtigkeit, mit allem sich einzulassen und sich in dieser Mannigfaltigkeit zu erhalten.",
+   "en": "But on the contrary, the freedom of being-for-itself proves itself only in the ease of engaging with everything and maintaining itself in this manifoldness.",
+   "zh": "然而反过来，自为存在的自由只在这一点上得到证实：轻而易举地与一切打交道，并且在这种杂多中保持自己。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 12,
+   "de": "Jene Intensität ohne Extension der Beziehungen ist eine gehaltlose Abstraktion, denn die Extension macht das Dasein der Intensität aus.",
+   "en": "That intensity without extension of the relations is a content-less abstraction, for extension constitutes the determinate being of intensity.",
+   "zh": "那种没有关系之广延的强度是一种没有内容的抽象，因为广延构成了强度的定在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 60,
+   "si": 13,
+   "de": "Die Selbsterhaltung aber des Unorganischen in seiner Beziehung fällt, wie erinnert, außer der Natur derselben, da es das Prinzip der Bewegung nicht an ihm selbst hat oder da sein Sein nicht die absolute Negativität und Begriff ist.",
+   "en": "But the self-maintenance of the inorganic in its relation falls, as was recalled, outside its nature, since it does not have the principle of movement in itself, or since its being is not absolute negativity and concept.",
+   "zh": "但是，无机物在其关系中的自我保持，正如已经提醒过的，落在它自己的自然之外，因为它并没有在自身那里拥有运动的原则，或者说它的存在并不是绝对的否定性和概念。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 0,
+   "de": "Diese andere Seite des Unorganischen dagegen nicht als Prozeß, sondern als ruhendes Sein betrachtet, so ist sie die gemeine Kohäsion, eine einfache sinnliche Eigenschaft auf die Seite getreten gegen das freigelassene Moment des Andersseins, welches in vielen gleichgültigen Eigenschaften auseinanderliegt und unter diese selbst, wie die spezifische Schwere, tritt; die Menge der Eigenschaften zusammen macht dann die andere Seite zu dieser aus.",
+   "en": "If, by contrast, this other side of the inorganic is considered not as process but as resting being, then it is ordinary cohesion, a simple sensuous property that has stepped to the side against the released moment of otherness, which lies dispersed in many indifferent properties and itself steps among these like specific gravity; the multitude of properties together then makes up the other side to this one.",
+   "zh": "与此相反，如果无机物的这另一方不是被当作过程，而是被当作静止的存在来考察，那么它就是通常的凝聚，是一种单纯的感性属性，它已经退到一边，与那个被释放出来的他在环节相对立；而这个他在环节分散在许多漠不相关的属性之中，本身也像比重那样出现在这些属性中间；属性的多者合在一起，就构成了与这一方相对的另一方。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "4",
+   "bi": 61,
+   "si": 1,
+   "de": "An ihr aber, wie an den anderen, ist die Zahl die einzige Bestimmtheit, welche eine Beziehung und Obergang dieser Eigenschaften zueinander nicht nur nicht ausdrückt, sondern eben wesentlich dies ist, keine notwendige Beziehung zu haben, sondern die Vertilgung aller Gesetzmäßigkeit darzustellen, denn sie ist der Ausdruck der Bestimmtheit als einer unwesentlichen.",
+   "en": "But in it, as in the others, number is the only determinacy which not only does not express a relation and transition of these properties to one another, but is essentially this: to have no necessary relation, but to present the annihilation of all lawfulness, for it is the expression of determinacy as an unessential one.",
+   "zh": "但是在它那里，正如在其他属性那里一样，数是唯一的规定性，它不仅不表达这些属性彼此之间的一种关系和过渡，而且本质上就是这样一回事：没有任何必然的关系，而是呈现出一切规律性的消灭，因为它是把规定性表达为非本质的规定性。"
+  }
+ ]
+}

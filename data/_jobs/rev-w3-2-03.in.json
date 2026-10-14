@@ -1,0 +1,279 @@
+{
+ "id": "rev-w3-2-03",
+ "kind": "conservative-review",
+ "vol": "w3",
+ "chunk": "2",
+ "instruction": "Fix ONLY clear defects (mistranslation, omission, addition, untranslated German, terminology/forbidden violations, unreadable machine style). Return the corrected Chinese; return the current one unchanged when there is no clear defect. Never retranslate for style.",
+ "items": [
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 2,
+   "de": "Dies Ding ist also in der Tat nur weiß, an unser Auge gebracht, scharf auch, an unsere Zunge, auch kubisch, an unser Gefühl usf.",
+   "en": "This thing is therefore in fact only white when brought to our eye, also sharp to our tongue, also cubical to our touch, etc.",
+   "zh": "所以这个物事实上只是在被拿到我们眼睛跟前时才是白的，在被拿到我们舌头上时才是辛辣的，在被拿到我们的触觉上时才是立方的，等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 3,
+   "de": "Die gänzliche Verschiedenheit dieser Seiten nehmen wir nicht aus dem Dinge, sondern aus uns; sie fallen uns an unserem von der Zunge ganz unterschiedenen Auge usf. so auseinander.",
+   "en": "The complete diversity of these sides we take not from the thing but from ourselves; they thus fall apart for us at our eye, which is quite distinct from the tongue, etc.",
+   "zh": "这些方面的完全差异，我们不是从物那里、而是从我们这里取得的；它们在我们身上，在我们那只与舌头完全不同的眼睛等等上面，就这样彼此分开。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 4,
+   "de": "Wir sind somit das allgemeine Medium, worin solche Momente sich absondern und für sich sind.",
+   "en": "We are thus the universal medium in which such moments separate themselves and are for themselves.",
+   "zh": "我们因此就是那种普遍的媒介，这些环节在其中彼此分离并自为地存在着。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 10,
+   "si": 5,
+   "de": "Hierdurch also, daß wir die Bestimmtheit, allgemeines Medium zu sein, als unsere Reflexion betrachten, erhalten wir die Sichselbstgleichheit und Wahrheit des Dinges, Eins zu sein.",
+   "en": "Through this, then, that we regard the determinacy of being a universal medium as our reflection, we obtain the self-equality and truth of the thing, that it is One.",
+   "zh": "这样，正是由于我们把“是普遍媒介”这个规定性看作我们的反思，我们就得到了物的自身等同性和真理，即它是一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 0,
+   "de": "Diese verschiedenen Seiten, welche das Bewußtsein auf sich nimmt, sind aber, jede so für sich, als in dem allgemeinen Medium sich befindend betrachtet, bestimmt; das Weiße ist nur in Entgegensetzung gegen das Schwarze usf., und das Ding Eins gerade dadurch, daß es anderen sich entgegensetzt.",
+   "en": "These various sides, however, which consciousness takes upon itself, are, each taken thus for itself as being in the universal medium, determinate; the white is only in opposition to the black, etc., and the thing is One precisely by opposing itself to others.",
+   "zh": "但是，意识揽到自己身上的这些不同方面，每一个这样自为地、被看作处在普遍媒介之中时，就是有规定的；白只有在与黑等等的对立中才是白，而物恰恰由于与别的物相对立才是一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 1,
+   "de": "Es schließt aber andere nicht, insofern es Eins ist, von sich aus – denn Eins zu sein ist das allgemeine Aufsichselbstbeziehen, und dadurch, daß es Eins ist, ist es vielmehr allen gleich –, sondern durch die Bestimmtheit.",
+   "en": "But it does not exclude others from itself insofar as it is One - for being One is the universal relating of itself to itself, and by the fact that it is One it is rather equal to all - but through determinacy.",
+   "zh": "但物并不是就它是“一”而言才把别的物从自身排除出去——因为是一就是普遍的自身关联，而且正由于它是一，它反倒与一切物等同——，而是通过规定性才把别的物排除出去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 2,
+   "de": "Die Dinge selbst also sind an und für sich bestimmte; sie haben Eigenschaften, wodurch sie sich von anderen unterscheiden.",
+   "en": "The things themselves are therefore in and for themselves determinate; they have properties through which they distinguish themselves from others.",
+   "zh": "所以物本身就是自在自为地有规定的；它们有特性，凭这些特性它们把自己与别的物区别开来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 3,
+   "de": "Indem die Eigenschaft die eigene Eigenschaft des Dinges oder eine Bestimmtheit an ihm selbst ist, hat es mehrere Eigenschaften.",
+   "en": "Insofar as the property is the thing's own property or a determinacy on the thing itself, the thing has several properties.",
+   "zh": "既然特性是物自己的特性，或者是物自身上的一个规定性，那么物就有多个特性。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 4,
+   "de": "Denn fürs erste ist das Ding das wahre, es ist an sich selbst; und was an ihm ist, ist an ihm als sein eigenes Wesen, nicht um anderer willen; also sind zweitens die bestimmten Eigenschaften nicht nur um anderer Dinge willen und für andere Dinge, sondern an ihm selbst; sie sind aber bestimmte Eigenschaften an ihm nur, indem sie mehrere sich voneinander unterscheidende sind; und drittens, indem sie so in der Dingheit sind, sind sie an und für sich und gleichgültig gegeneinander.",
+   "en": "For first, the thing is the true, it is in itself; and what is on it, is on it as its own essence, not for the sake of others; thus secondly, the determinate properties are not only for the sake of other things and for other things, but on it itself; but they are determinate properties on it only in that they are several that distinguish themselves from one another; and thirdly, in that they are thus in thinghood, they are in and for themselves and indifferent to one another.",
+   "zh": "因为第一，物是真的东西，它是自在的；它身上有的东西，是作为它自己的本质在它身上，而不是为着别的物的缘故；所以第二，那些有规定的特性就不只是为着别的物的缘故、为着别的物，而是它自身上就有的；但它们只有在是多个彼此区别开来的特性时，才是它身上的有规定的特性；第三，由于它们这样处在物性中，它们就是自在自为的，并且彼此漠不相关。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 11,
+   "si": 5,
+   "de": "Es ist also in Wahrheit das Ding selbst, welches weiß und auch kubisch, auch scharf usf. ist, oder das Ding ist das Auch oder das allgemeine Medium, worin die vielen Eigenschaften außereinander bestehen, ohne sich zu berühren und aufzuheben; und so genommen wird es als das Wahre genommen.",
+   "en": "It is thus in truth the thing itself that is white and also cubical, also sharp, etc., or the thing is the also or the universal medium in which the many properties subsist outside one another without touching and sublating one another; and taken thus it is taken as the true.",
+   "zh": "所以实际上正是物本身才是白的，也是立方的，也是辛辣的，等等；或者说，物就是那个“也”，就是那种普遍的媒介，许多特性在其中彼此并列地存在着，既不互相接触，也不互相扬弃；而这样来看，物就被当作真的东西来看。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 0,
+   "de": "Bei diesem Wahrnehmen nun ist das Bewußtsein zugleich sich bewußt, daß es sich auch in sich selbst reflektiert und in dem Wahrnehmen das dem Auch entgegengesetzte Moment vorkommt.",
+   "en": "In this perceiving, however, consciousness is at the same time conscious that it also reflects itself into itself and that in perceiving the moment opposed to the also occurs.",
+   "zh": "在这种知觉中，意识同时意识到自己也在自身中反思，并且意识到在知觉中出现了一个与“也”相对立的环节。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 1,
+   "de": "Dies Moment aber ist Einheit des Dings mit sich selbst, welche den Unterschied aus sich ausschließt.",
+   "en": "But this moment is the unity of the thing with itself, which excludes difference from itself.",
+   "zh": "但这个环节就是物与自身的统一，这种统一把差别从自身中排除出去。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 2,
+   "de": "Sie ist es demnach, welche das Bewußtsein auf sich zu nehmen hat; denn das Ding selbst ist das Bestehen der vielen verschiedenen und unabhängigen Eigenschaften.",
+   "en": "It is therefore this unity that consciousness has to take upon itself; for the thing itself is the subsistence of the many different and independent properties.",
+   "zh": "所以意识要揽到自己身上的正是这种统一；因为物本身就是那许多不同而独立的特性的持续存在。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 3,
+   "de": "Es wird also von dem Dinge gesagt: es ist weiß, auch kubisch und auch scharf usf.",
+   "en": "Thus it is said of the thing: it is white, also cubical and also sharp, etc.",
+   "zh": "于是人们就说：物是白的，也是立方的，也是辛辣的，等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 4,
+   "de": "Aber insofern es weiß ist, ist es nicht kubisch, und insofern es kubisch und auch weiß ist, ist es nicht scharf usf.",
+   "en": "But insofar as it is white, it is not cubical, and insofar as it is cubical and also white, it is not sharp, etc.",
+   "zh": "但就它是白的而言，它不是立方的；而就它是立方的、也是白的而言，它不是辛辣的，等等。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 5,
+   "de": "Das Ineinssetzen dieser Eigenschaften kommt nur dem Bewußtsein zu, welches sie daher an dem Ding nicht in Eins fallen zu lassen hat.",
+   "en": "The setting-into-one of these properties belongs only to consciousness, which therefore must not let them coincide into one in the thing.",
+   "zh": "把这些特性合而为一，只属于意识，因此意识不能让它们在物身上合而为一。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 6,
+   "de": "Zu dem Ende bringt es das Insofern herbei, wodurch es sie auseinander und das Ding als das Auch erhält.",
+   "en": "To that end it brings in the 'insofar', whereby it keeps them apart and keeps the thing as the also.",
+   "zh": "为此它把那个“就……而言”搬进来，靠它把这些特性分开，并把物保持为“也”。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 7,
+   "de": "Recht eigentlich wird das Einssein von dem Bewußtsein erst so auf sich genommen, daß dasjenige, was Eigenschaft genannt wurde, als freie Materie vorgestellt wird.",
+   "en": "Properly speaking, the being-one is first taken upon itself by consciousness in such a way that what was called property is represented as free matter.",
+   "zh": "严格说来，意识只有这样才能把“是一”揽到自己身上，即：那被称为特性的东西被表象为自由的物质。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 12,
+   "si": 8,
+   "de": "Das Ding ist auf diese Weise zum wahrhaften Auch erhoben, indem es eine Sammlung von Materien und, statt Eins zu sein, zu einer bloß umschließenden Oberfläche wird.",
+   "en": "In this way the thing is raised to the true also, in that it becomes a collection of matters and, instead of being One, becomes a merely enclosing surface.",
+   "zh": "这样，物就被提高为真正的“也”，因为它成了诸物质的一个集合，并且不再是“一”，而变成一个仅仅把物质包裹起来的表面。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 13,
+   "si": 0,
+   "de": "Sehen wir zurück auf dasjenige, was das Bewußtsein vorhin auf sich genommen und jetzt auf sich nimmt, was es vorhin dem Dinge zuschrieb und jetzt ihm zuschreibt, so ergibt sich, daß es abwechslungsweise ebensowohl sich selbst als auch das Ding zu beidem macht, zum reinen, vielheitslosen Eins wie zu einem in selbständige Materien aufgelösten Auch.",
+   "en": "If we look back at what consciousness previously took upon itself and now takes upon itself, what it previously ascribed to the thing and now ascribes to it, it turns out that it alternately makes both itself and the thing into both, into the pure, multiplicity-less One as well as into an also dissolved into independent matters.",
+   "zh": "如果我们回头看意识先前揽到自己身上、现在又揽到自己身上的东西，看它先前归给物、现在又归给物的东西，那么结果就是：它轮流地既把自己、也把物，都弄成这两者，既弄成纯粹的不含多的“一”，也弄成分解为独立物质的一个“也”。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 13,
+   "si": 1,
+   "de": "Das Bewußtsein findet also durch diese Vergleichung, daß nicht nur sein Nehmen des Wahren die Verschiedenheit des Auffassens und des in sich Zurückgehens an ihm hat, sondern daß vielmehr das Wahre selbst, das Ding, sich auf diese gedoppelte Weise zeigt.",
+   "en": "Through this comparison consciousness thus finds that not only does its taking of the true have in it the difference of apprehending and of going-back-into-itself, but that rather the true itself, the thing, shows itself in this doubled way.",
+   "zh": "所以意识通过这种比较发现：不只是它对真的东西的采取在自己身上带有领会与返回自身之间的差异，而是真的东西本身、即物，反而以这种双重的方式显现出来。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 13,
+   "si": 2,
+   "de": "Es ist hiermit die Erfahrung vorhanden, daß das Ding sich für das auffassende Bewußtsein auf eine bestimmte Weise darstellt, aber zugleich aus der Weise, in der es sich darbietet, heraus und in sich reflektiert ist oder an ihm selbst eine entgegengesetzte Wahrheit hat.",
+   "en": "Hereby the experience is present that the thing presents itself to the apprehending consciousness in a determinate way, but at the same time is out of the way in which it offers itself and reflected into itself, or has on it itself an opposed truth.",
+   "zh": "这样就有了这样的经验：物对进行领会的意识以一种特定的方式呈现出来，但同时它又从那呈现自己的方式中走出来、返回到自身之中，或者说它自身上有一种相反的真理。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 0,
+   "de": "Das Bewußtsein ist also auch aus dieser zweiten Art, sich im Wahrnehmen zu verhalten, nämlich das Ding als das wahre Sichselbstgleiche, sich aber für das Ungleiche, für das aus der Gleichheit heraus in sich Zurückgehende zu nehmen, selbst heraus, und der Gegenstand ist ihm jetzt diese ganze Bewegung, welche vorher an den Gegenstand und an das Bewußtsein verteilt war.",
+   "en": "Consciousness has thus also come out of this second way of comporting itself in perceiving, namely of taking the thing as the true self-equal and itself as the unequal, as that which goes back into itself out of the equality; and the object is now for it this whole movement, which previously was distributed between the object and consciousness.",
+   "zh": "所以意识也从这第二种在知觉中行事的方式里走出来了，即不再把物当作真的自身等同的东西、而把自己当作不等同的东西、当作从等同中退出来返回到自身的东西；现在对象对它来说就是这整个运动，而这个运动先前是分给对象和意识两边的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 1,
+   "de": "Das Ding ist Eins, in sich reflektiert; es ist für sich, aber es ist auch für ein Anderes, und zwar ist es ein anderes für sich, als es für [ein] Anderes ist.",
+   "en": "The thing is One, reflected into itself; it is for itself, but it is also for an other, and indeed it is another for itself than it is for an other.",
+   "zh": "物是一，是返回自身之中的；它是自为的，但它也是为一个他者的，而且它自为地是另一个东西，与它为一个他者所是的东西不同。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 2,
+   "de": "Das Ding ist hiernach für sich und auch für ein Anderes, ein gedoppeltes verschiedenes Sein, aber es ist auch Eins, das Einssein aber widerspricht dieser seiner Verschiedenheit; das Bewußtsein hätte hiernach dies Ineinssetzen wieder auf sich zu nehmen und von dem Dinge abzuhalten.",
+   "en": "Accordingly the thing is for itself and also for an other, a doubled, different being, but it is also One; the being-one, however, contradicts this its diversity; accordingly consciousness would again have to take this setting-into-one upon itself and to keep it away from the thing.",
+   "zh": "这样一来，物既是自为的，又是为一个他者的，是一种双重的、不同的存在，但它又是一；然而“是一”与它这种差异相矛盾；这样一来，意识又得把这个合而为一揽到自己身上，并把它从物那里挡开。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 3,
+   "de": "Es müßte also sagen, daß das Ding, insofern es für sich ist, nicht für Anderes ist.",
+   "en": "It would therefore have to say that the thing, insofar as it is for itself, is not for others.",
+   "zh": "所以它就得说：物就它是自为的而言，不是为他者的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 4,
+   "de": "Allein dem Dinge selbst kommt auch das Einssein zu, wie das Bewußtsein erfahren hat; das Ding ist wesentlich in sich reflektiert.",
+   "en": "But the being-one also belongs to the thing itself, as consciousness has experienced; the thing is essentially reflected into itself.",
+   "zh": "可是照意识所经验到的，物自己也具有“是一”；物本质上就是返回自身之中的。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 5,
+   "de": "Das Auch oder der gleichgültige Unterschied fällt also wohl ebenso in das Ding als das Einssein, aber, da beides verschieden, nicht in dasselbe, sondern in verschiedene Dinge; der Widerspruch, der an dem gegenständlichen Wesen überhaupt ist, verteilt sich an zwei Gegenstände.",
+   "en": "The also, or the indifferent difference, thus indeed falls into the thing as does the being-one, but, since both are different, not into the same thing, but into different things; the contradiction that is on the objective essence in general distributes itself over two objects.",
+   "zh": "所以“也”或漠不相关的差别，固然和“是一”一样落在物里面，但既然两者不同，它就不落在同一个物里面，而是落在不同的物里面；一般说来，对象性本质上有的那个矛盾，就分配到两个对象上。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 14,
+   "si": 6,
+   "de": "Das Ding ist also wohl an und für sich, sich selbst gleich, aber diese Einheit mit sich selbst wird durch andere Dinge gestört; so ist die Einheit des Dings erhalten und zugleich das Anderssein außer ihm sowie außer dem Bewußtsein.",
+   "en": "The thing is thus indeed in and for itself equal to itself, but this unity with itself is disturbed by other things; thus the unity of the thing is preserved and at the same time the otherness outside it as well as outside consciousness.",
+   "zh": "所以物固然是自在自为地自身等同的，但这种与自身的统一被别的物搅乱了；这样，物的统一就保住了，同时他在也既在物之外、又在意识之外。"
+  },
+  {
+   "vol": "w3",
+   "chunk": "2",
+   "bi": 15,
+   "si": 0,
+   "de": "Ob nun zwar so der Widerspruch des gegenständlichen Wesens an verschiedene Dinge verteilt ist, so wird darum doch an das abgesonderte einzelne Ding selbst der Unterschied kommen.",
+   "en": "Now although the contradiction of the objective essence is thus distributed among different things, the difference will nevertheless come upon the separate single thing itself.",
+   "zh": "虽然对象性的本质的矛盾就这样被分配到不同的物上面，但差别因此还是会落到那孤立的、个别的物本身之上。"
+  }
+ ]
+}

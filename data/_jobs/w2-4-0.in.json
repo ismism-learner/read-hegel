@@ -1,0 +1,142 @@
+{
+ "id": "w2-4-0",
+ "volume": {
+  "id": "w2",
+  "bands": [
+   2
+  ],
+  "de": "Jenaer Schriften 1801–1807",
+  "zh": "耶拿时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Krugs Entwurf eines neuen Organons der Philosophie] 95)",
+ "heading": "[Krugs Entwurf eines neuen Organons der Philosophie]95)",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1uc41c81ur",
+   "text": "[Krugs Entwurf eines neuen Organons der Philosophie]95)"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1y6n17113c",
+   "sents": [
+    "Entwurf eines neuen Organons der Philosophie, oder Versuch über die Prinzipien der philosophischen Erkenntnis. von Wilh.",
+    "Traug.",
+    "Krug, Adj. der philos.",
+    "Fakultät zu Wittenberg. Τὶ πϱω ͂τον ἐστὶν του ͂ ϕιλοσοϕου ͂ντος; - ἀποβάλειν οἴησιν.",
+    "Arrian. - Meißen, b. K. F. W. Erbstein 1801.",
+    "(14 Gr.)"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1pxg0m017l",
+   "sents": [
+    "Rezensent war eben im Begriff, an eine Kritik dieses Organons zu gehen, als ihm teils die Beurteilung der philosophischen Bestrebungen des Herrn Krug überhaupt in dem Kritischen Journal der Philosophie [I,1] von Schelling und Hegel, die ihn dieser Mühe überheben kann, teils auch die Protestationen des Herrn Krug96) , diesen Entwurf nicht ohne Rücksicht auf eine Beilage zu demselben, die auf Ostern unter dem Titel \"Über die wichtigsten Methoden des Philosophierens\" herauskommen werde, zu beurteilen, indem die eigentlichste Tendenz dieses Organons von den bisherigen Beurteilern mißverstanden worden sei, in die Hände fielen.",
+    "Rezensent nimmt diese Protestation um so eher an, da es ihm so wenig als anderen Beurteilern dieses Organons gelingen wollte, eine philosophische Tendenz in demselben zu entdecken; er ist aber aufs innigste überzeugt, daß die Schuld hiervon nicht an ihm, sondern an der Schrift liegt, in welcher nichts als ein unorganischer Synkretismus, aus den Worten der Reinholdschen Philosophie, auch des Fichteschen Idealismus u. dgl. zusammengebraut, und ein absoluter Mangel der Spekulation, der Erhebung über die Tatsachen des Bewußtseins, und ein formales Räsonieren über sie sowie über die Prinzipien von vorhandenen philosophischen Systemen zu finden ist.",
+    "Rezensent würde daher Krug den Rat geben, sich die Mühe, in diesem Organon eine philosophische Tendenz nachzuweisen, zu ersparen, da es offenbar eine vergebliche Mühe ist, und lieber etwas zu schreiben, worin schon an und für sich philosophische Tendenz zu finden und zu erkennen wäre."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "h",
+   "hash": "d561h21euv",
+   "text": "Aufsätze aus dem Kritischen Journal der Philosophie"
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "12017mvxkd",
+   "sents": [
+    "(1802/03)"
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "h",
+   "hash": "q7e1bw69qm",
+   "text": "[Ankündigung des kritischen Journals]97)"
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "vmq46cp0c8",
+   "sents": [
+    "Kritisches Journal der Philosophie herausgegeben von F. W. J. Schelling und G. W. F. Hegel"
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1ofb13r1mw",
+   "sents": [
+    "Indes allmählich der große Haufen, den die Philosophie gegen ihren Willen in der letzten Zeit zur Teilnahme sowohl als zum Zuschauen herbeigezogen hatte, sich zu verlaufen anfängt, gewinnt die wahre Wissenschaft Zeit, sich in sich selbst zurückzuziehen und, einen lebendigen Mittelpunkt der Kontraktion bildend, sich auf immer von der Unphilosophie zu scheiden.",
+    "Das allgemeine Interesse, das die Philosophie wirklich gefunden hat, ihre große, weltbürgerliche Beziehung, ihr Einfluß auf die Bildung des allgemeinen und einzelnen Lebens der Menschen und Herstellung der alten Größe und des fast erloschenen spekulativen Charakters aller Wissenschaften haben die echten Wirkungen noch lange nicht hervorgebracht.",
+    "Weit entfernt, daß alle besonderen Interessen und überhaupt jede mit der Zeit allmählich eingetretene Absonderung der einzelnen Teile des lebendigen Ganzen durch die Philosophie zur Totalität zurückgeführt und dadurch als Besonderheiten vernichtet worden wären, hat die letztere vielmehr sich brauchen lassen müssen, ihnen einen neuen Zuschuß scheinbaren Lebens zu schaffen, und, anstatt jene in der Tiefe ihres eigenen Mittelpunkts zu versenken, vielmehr sich selbst zu ihnen ausgedehnt und verseichtet. - Vor allem Darstellung des kategorischen Wesens der Philosophie im Gegensatz des negativen Charakters der Unphilosophie; dann Berücksichtigung soviel möglich aller Berührungspunkte der Philosophie mit der gesamten Kultur, Aufnahme jedes Teils der allgemeinen Bildung ins Absolute und Eröffnung der Aussicht auf die wahre Palingenesie aller Wissenschaften durch Philosophie ist das, wodurch das angezeigte periodische Werk der Philosophie sich die Achtung der sich für sie interessierenden Welt versichern und sich die Zuneigung der Zeitgenossen zu erwerben suchen wird.",
+    "Während einiges von dem, was sich jetzt für Philosophie ausgibt, sich selbst durch sich selbst von ihr abgeschlossen und völlig getrennt hat und von anderen Beschränktheiten, die sich geltend machen wollten, eine nach der anderen von selbst abfällt, werden die wenigen, welche noch durch einen schwachen Zufluß von der Philosophie aus, den sie durch falsche Kanäle sich zu machen gesucht hatten, ihr Leben fristen, unfehlbar verdorren und absterben, sobald diese letzte Hilfe ihnen abgeschnitten ist.",
+    "Damit wird endlich reine Bahn gemacht sein und unter der Hand der Kritik der Grund und Boden der wahren Philosophie sich von selbst bilden können und ruhig emporsteigen."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "h",
+   "hash": "cg2nfa1how",
+   "text": "Einleitung. Über das Wesen der philosophischen Kritik überhaupt und ihr Verhältnis zum gegenwärtigen Zustand der Philosophie insbesondere98)"
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "lypevz16fc",
+   "sents": [
+    "Die Kritik, in welchem Teil der Kunst oder Wissenschaft sie ausgeübt werde, fordert einen Maßstab, der von dem Beurteilenden ebenso unabhängig als von dem Beurteilten, nicht von der einzelnen Erscheinung noch der Besonderheit des Subjekts, sondern von dem ewigen und unwandelbaren Urbild der Sache selbst hergenommen sei.",
+    "Wie die Idee schöner Kunst durch die Kunstkritik nicht erst geschaffen oder erfunden, sondern schlechthin vorausgesetzt wird, ebenso ist in der philosophischen Kritik die Idee der Philosophie selbst die Bedingung und Voraussetzung, ohne welche jene in alle Ewigkeit nur Subjektivitäten gegen Subjektivitäten, niemals das Absolute gegen das Bedingte zu setzen hätte."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "o0p9o21o00",
+   "sents": [
+    "Da die philosophische Kritik sich von der Kunstkritik nicht durch Beurteilung des Vermögens zur Objektivität, das in einem Werke sich ausdrückt, sondern nur durch den Gegenstand oder die Idee selbst unterscheidet, welche diesem zugrunde liegt und welche keine andere als die der Philosophie selbst sein kann, so müßte (da, was das erste betrifft, die philosophische Kritik mit der Kunstkritik gleiche Ansprüche auf allgemeine Gültigkeit hat), wer derselben gleichwohl Objektivität des Urteils absprechen wollte, nicht die Möglichkeit bloß verschiedener Formen der einen und selben Idee, sondern die Möglichkeit wesentlich verschiedener und doch gleich wahrer Philosophien behaupten, - eine Vorstellung, auf welche, so großen Trost sie enthalten mag, eigentlich keine Rücksicht zu nehmen ist.",
+    "Daß die Philosophie nur eine ist und nur eine sein kann, beruht darauf, daß die Vernunft nur eine ist; und sowenig es verschiedene Vernunften geben kann, ebensowenig kann sich zwischen die Vernunft und ihr Selbsterkennen eine Wand stellen, durch welche dieses eine wesentliche Verschiedenheit der Erscheinung werden könnte; denn die Vernunft absolut betrachtet und insofern sie Objekt ihrer selbst im Selbsterkennen, also Philosophie wird, ist wieder nur eins und dasselbe und daher durchaus das Gleiche."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "bok4nw1v77",
+   "sents": [
+    "Da der Grund einer Verschiedenheit in der Philosophie selbst nicht im Wesen derselben liegen kann, welches schlechthin eines ist, auch nicht in der Ungleichheit des Vermögens, die Idee derselben objektiv zu gestalten, weil nämlich, philosophisch betrachtet, die Idee selbst alles ist, das Vermögen aber, sie darzustellen, das zu ihrem Besitz hinzukommt, der Philosophie nur noch eine andere, ihr nicht eigentümliche Seite gibt, so könnte also eine Möglichkeit unendlich vieler und verschiedener Reflexe, deren jeder, seinem Wesen nach verschieden vom anderen gesetzt, gleiches Recht hätte, sich gegen die anderen zu behaupten, nur dadurch herausgebracht werden, daß, indem die Philosophie als ein Erkennen des Absoluten bestimmt wird, dieses, es sei als Gott oder in irgendeiner anderen Rücksicht als Natur, in unbeweglicher und absoluter Entgegensetzung gegen das Erkennen als subjektives gedacht würde."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "9be1fwds97",
+   "sents": [
+    "Allein auch bei dieser Ansicht würde die Verschiedenheit sich selbst aufheben und verbessern müssen.",
+    "Denn indem das Erkennen als etwas Formelles vorgestellt wird, wird es in seinem Verhältnisse zum Gegenstand als durchaus passiv gedacht und an das Subjekt, das dieses Empfangens der Gottheit oder des reinen objektiven Anschauens der Natur fähig sein soll, gefordert werden, daß es überhaupt sich gegen jedes andere Verhältnis zu irgendeiner Beschränkung verschließe und aller eigenen Tätigkeit sich enthalte, indem dadurch die Reinheit des Empfangens getrübt würde.",
+    "Durch diese Passivität des Aufnehmens und die Gleichheit des Objekts würde dasjenige, was als Resultat vorgestellt wird, das Erkennen des Absoluten, und eine daraus hervorgehende Philosophie durchaus wieder nur eine und allenthalben dieselbe sein müssen."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "19v7vmv1ty",
+   "sents": [
+    "Dadurch, daß die Wahrheit der Vernunft sowie die Schönheit nur eine ist, ist Kritik als objektive Beurteilung überhaupt möglich, und es folgt von selbst, daß sie nur für diejenigen einen Sinn habe, in welchen die Idee der einen und selben Philosophie vorhanden ist, ebenso nur solche Werke betreffen kann, in welchen diese Idee als mehr oder weniger deutlich ausgesprochen zu erkennen ist.",
+    "Das Geschäft der Kritik ist für diejenigen und an denjenigen Werken durchaus verloren, welche jener Idee entbehren sollten.",
+    "Mit diesem Mangel der Idee kommt die Kritik am meisten in Verlegenheit, denn wenn alle Kritik Subsumtion unter die Idee ist, so hört da, wo diese fehlt, notwendig alle Kritik auf, und diese kann sich kein anderes unmittelbares Verhältnis geben als das der Verwerfung.",
+    "In der Verwerfung aber bricht sie alle Beziehung desjenigen, worin die Idee der Philosophie mangelt, mit demjenigen, in dessen Dienst sie ist, gänzlich ab.",
+    "Weil das gegenseitige Anerkennen hiermit aufgehoben wird, erscheinen nur zwei Subjektivitäten gegeneinander; was nichts miteinander gemein hat, tritt eben damit in gleichem Recht auf, und die Kritik hat sich, indem sie das zu Beurteilende für alles andere, nur nicht für Philosophie und, weil es doch nichts sein will als Philosophie, dadurch für gar nichts erklärt, in die Stellung eines Subjektiven versetzt, und ihr Ausspruch erscheint als ein einseitiger Machtspruch, - eine Stellung, welche, da ihr Tun objektiv sein soll, unmittelbar ihrem Wesen widerspricht; ihr Urteil ist eine Appellation an die Idee der Philosophie, die aber, weil sie nicht von dem Gegenpart anerkannt wird, für diesen ein fremder Gerichtshof ist.",
+    "Gegen dies Verhältnis der Kritik, welche die Unphilosophie von der Philosophie abscheidet, auf einer Seite zu stehen und die Unphilosophie auf der entgegengesetzten zu haben, ist unmittelbar keine Rettung.",
+    "Weil die Unphilosophie sich negativ gegen die Philosophie verhält und also von Philosophie nicht die Rede sein kann, so bleibt nichts übrig, als zu erzählen, wie sich diese negative Seite ausspricht und ihr Nichtssein, welches, insofern es eine Erscheinung hat, Plattheit heißt, bekennt; und da es nicht fehlen kann, daß, was im Anfang nichts ist, im Fortgang nur immer mehr und mehr als Nichts erscheine, so daß es so ziemlich allgemein als solches erkannt werden kann, so versöhnt die Kritik durch diese von der ersten Nullität aus fortgesetzte Konstruktion wieder auch die Unfähigkeit, welche in dem ersten Ausspruch nichts als Eigenmächtigkeit und Willkür sehen konnte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w2/4.p0.json"
+}
