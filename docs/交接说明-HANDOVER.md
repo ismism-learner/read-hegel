@@ -60,6 +60,7 @@ scripts/
   check.mjs sweep.mjs     CDP 验收（单页 / 全卷）
   verify-hover-sweep.mjs verify-paragraph-align.mjs verify-coverage.mjs audit-sentences.mjs
   agents/PROMPTS.md       各阶段提示词模板
+  workflows/WORKFLOW-SCRIPTS.md  ★ workflow 工具的脚本模板（翻译/建包/审校/词族修复）
 glossary/hegel_glossar.csv    共享词表（de,en,zh,status,note）
 glossary/hegel_families.csv   ★ 词族表（政策机器可读版）
 data/_jobs/                   任务载荷 + 卷级上下文包 context-<vol>.json（术语权威）
