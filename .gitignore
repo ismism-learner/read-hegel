@@ -1,6 +1,8 @@
-# 冗余备份（重建前的快照，不进版本库）
+# 冗余备份（重建前的整库快照，35 MB，仅为回滚保险；当前状态已完整，无需随仓库迁移）
 data/_backup/
-data/_archive/
+
+# 注意：data/_archive/ 保留在仓库里——它存的是第一代架构的旧译文（如 w3-0-v1.json），
+# 属于项目历史，便于对照“修订前 → 修订后”。
 
 # 已应用的审校/修复补丁（内容已并入译文）
 data/_jobs/_applied/
@@ -9,9 +11,13 @@ data/_jobs/_applied/
 *.log
 *.tmp
 _tmp_*.txt
+.tmp-*
 .venv/
 node_modules/
 __pycache__/
+
+# 翻译/审校代理工作时留下的草稿（下划线开头），不属于项目内容
+data/_jobs/_*
 
 # 编辑器与系统
 .vscode/
